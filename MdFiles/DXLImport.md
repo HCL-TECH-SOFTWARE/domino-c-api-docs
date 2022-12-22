@@ -1,0 +1,439 @@
+
+
+
+
+
+<!--
+ /\* Font Definitions \*/
+ @font-face
+ {font-family:Courier;
+ panose-1:2 7 4 9 2 2 5 2 4 4;}
+@font-face
+ {font-family:Helv;
+ panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+ {font-family:"Cambria Math";
+ panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /\* Style Definitions \*/
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+ {margin-top:0cm;
+ margin-right:0cm;
+ margin-bottom:8.0pt;
+ margin-left:0cm;
+ line-height:107%;
+ font-size:11.0pt;
+ font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+ {font-size:11.0pt;}
+.MsoPapDefault
+ {margin-bottom:8.0pt;
+ line-height:107%;}
+ /\* Page Definitions \*/
+ @page WordSection1
+ {size:612.0pt 792.0pt;
+ margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+ {page:WordSection1;}
+-->
+
+
+
+
+**Initial Release 6**
+
+
+
+**Function : XML**
+
+
+
+**DXLImport** **- DXL
+import**
+
+
+**----------------------------------------------------------------------------------------------------------**
+
+
+
+**#include <xml.h>**
+
+
+
+STATUS
+LNPUBLIC **DXLImport(**  
+
+      DXLIMPORTHANDLE  hDXLImport,  
+
+      XML\_READ\_FUNCTION  pDXLReaderFunc,  
+
+      DBHANDLE  hDB,  
+
+      void far \*pImAction**);**
+
+
+
+**Description :**
+
+
+
+This
+function imports XML data into Domino Data based on the DXL\_IMPORT\_PROPERTY
+options set.
+
+
+ 
+
+
+**Parameters :**
+
+
+
+Input :  
+
+hDXLImport  -  allocated DXL import handle, allocated calling the function
+DXLCreateImporter(..)  
+
+  
+
+pDXLReaderFunc  -  The routine which is called once for each block of data to
+be imported.  This routine is user defined.  
+
+  
+
+hDB  -  allocated handle to the Domino database that is to be imported  
+
+  
+
+pImAction  -  user defined parameter passed to the XML\_READ\_FUNCTION.  This
+data can be a means for keeping track of information during the import
+process.  For example a structure can be defined that can keep track of the
+amount of data imported and information on the import file if the imported data
+is to be read from a file.  
+
+  
+
+  
+
+
+
+
+Output :  
+
+(routine)  -  Return status from this call:   
+
+  
+
+NOERROR - Successfully imported XML data into Domino data based on the options
+set in DXL\_IMPORT\_PROPERTY.  
+
+  
+
+ERR\_xxx - Other errors returned by this function and includes errors returned
+by lower level functions. Call OSLoadString to obtain a string to display to
+the user.  
+
+  
+
+  
+
+
+
+
+ **Sample Usage :**
+
+
+    
+
+
+        DXLIMPORTHANDLE               hDXLImport;            /\*
+Declare a DXL Import Handle \*/
+
+
+        DXL\_IMPORT\_PROPERTY    propValue;             /\*
+Property Value to Set and Get \*/
+
+
+        DXLIMPORTOPTION               setGetValue;
+
+
+        struct
+ImportContext   impCtx;
+
+
+        BOOL                          setGetValueBool;
+
+
+ 
+
+
+/\* Open the
+database. \*/
+
+
+        
+
+
+    if
+(error = NSFDbOpen (path\_name, &db\_handle))
+
+
+        return
+(ERR(error));
+
+
+ 
+
+
+        if(error
+= DXLCreateImporter (&hDXLImport))
+
+
+        {
+
+
+               NSFDbClose(db\_handle);
+
+
+               return
+(ERR(error));
+
+
+        }
+
+
+        propValue
+= eDesignImportOption;
+
+
+        setGetValue
+= DXLIMPORTOPTION\_IGNORE;
+
+
+        if(error
+= DXLSetImporterProperty(hDXLImport, propValue, &setGetValue))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+        
+
+
+        propValue
+= eACLImportOption;
+
+
+        setGetValue
+= DXLIMPORTOPTION\_IGNORE;
+
+
+        if(error
+= DXLSetImporterProperty(hDXLImport, propValue, &setGetValue))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+        
+
+
+        propValue
+= eDocumentsImportOption;
+
+
+        setGetValue
+= DXLIMPORTOPTION\_UPDATE;
+
+
+        if(error
+= DXLSetImporterProperty(hDXLImport, propValue, &setGetValue))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+        
+
+
+        propValue
+= eCreateFullTextIndex;
+
+
+        setGetValueBool
+= FALSE;
+
+
+ 
+
+
+        
+
+
+        if(error
+= DXLSetImporterProperty(hDXLImport, propValue, &setGetValueBool))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+ 
+
+
+        propValue
+= eReplaceDbProperties;
+
+
+        setGetValueBool
+= FALSE;
+
+
+        if(error
+= DXLSetImporterProperty(hDXLImport, propValue, &setGetValueBool))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+ 
+
+
+ 
+
+
+        /\*
+Initialize our Import Context, this will be keeping track of information needed
+
+
+         \*
+in the Reader Function.
+
+
+         \*/
+
+
+        memset(&impCtx,
+0, sizeof(impCtx));
+
+
+        if(error
+= DXLImport( hDXLImport, DXLReaderFunc, db\_handle, (void far \*)&impCtx ))
+
+
+        {
+
+
+               DXLDeleteImporter(hDXLImport);
+
+
+               NSFDbClose(db\_handle);
+
+
+               return(ERR(error));
+
+
+        }
+
+
+ 
+
+
+    /\*
+Close the database. \*/
+
+
+ 
+
+
+    if
+(error = NSFDbClose (db\_handle))
+
+
+       
+return (ERR(error));
+
+
+        DXLDeleteImporter(hDXLImport);
+
+
+ **See Also :**
+
+
+**[DBHANDLE](DBHANDLE.md)**
+
+
+**[DXLIMPORTHANDLE](DXLIMPORTHANDLE.md)**
+
+
+**[XML\_READ\_FUNCTION](XML_READ_FUNCTION.md)**
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+ 
+
+
+
+
+

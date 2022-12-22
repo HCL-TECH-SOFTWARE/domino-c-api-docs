@@ -1,0 +1,477 @@
+
+
+
+
+
+<!--
+ /\* Font Definitions \*/
+ @font-face
+ {font-family:Courier;
+ panose-1:2 7 4 9 2 2 5 2 4 4;}
+@font-face
+ {font-family:Helv;
+ panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+ {font-family:"Cambria Math";
+ panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /\* Style Definitions \*/
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+ {margin-top:0cm;
+ margin-right:0cm;
+ margin-bottom:8.0pt;
+ margin-left:0cm;
+ line-height:107%;
+ font-size:11.0pt;
+ font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+ {font-size:11.0pt;}
+.MsoPapDefault
+ {margin-bottom:8.0pt;
+ line-height:107%;}
+ /\* Page Definitions \*/
+ @page WordSection1
+ {size:612.0pt 792.0pt;
+ margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+ {page:WordSection1;}
+-->
+
+
+
+
+**Initial Release 7.0.2**
+
+
+
+**Function : HTML**
+
+
+
+**HTMLConvertImage** **- convert
+image for access**
+
+
+**----------------------------------------------------------------------------------------------------------**
+
+
+
+**#include <htmlapi.h>**
+
+
+
+STATUS
+LNPUBLIC **HTMLConvertImage(**  
+
+      HTMLHANDLE  hHTML,  
+
+      char \*pszImageName**);**
+
+
+
+**Description :**
+
+
+
+  
+
+Used to access named image (.gif) from the domino web server's icons directory.
+Note that pszImageName is simple name of the image file -- no path names or
+file type suffix.
+
+
+ 
+
+
+**Parameters :**
+
+
+
+Input :  
+
+hHTML  -   handle to the converter  
+
+  
+
+pszImageName  -  pointer to the image name  
+
+  
+
+
+
+
+Output :  
+
+(routine)  -    
+
+NOERROR - Successful.  
+
+ ERR\_xxx - Errors returned by lower level functions.  Call to OSLoadString to
+interpret the error status as a string that you may display/log for the user.  
+
+  
+
+  
+
+
+
+
+ **Sample Usage :**
+
+
+
+#include
+<string.h>
+
+
+#include
+<stdio.h>
+
+
+#include
+<malloc.h>
+
+
+ 
+
+
+#include
+"global.h"
+
+
+#include
+"addin.h"
+
+
+#include
+"htmlapi.h"
+
+
+#include
+"osmisc.h"
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+STATUS rslt
+= NOERROR;
+
+
+DWORD
+wTextLength = 0;
+
+
+HTMLHANDLE
+cvtr = NULL;
+
+
+char
+\*ImageName = "abook";
+
+
+ 
+
+
+BOOL
+bBinary = FALSE;
+
+
+ 
+
+
+void
+PrintAPIError(STATUS err);
+
+
+ 
+
+
+STATUS
+LNPUBLIC AddInMain(HMODULE hModule, int argc, char\* argv[])
+
+
+{
+
+
+        
+
+
+        char
+\*\*argp = argv;
+
+
+        char
+\*pszBinaryText = malloc(wTextLength);
+
+
+        rslt
+= HTMLProcessInitialize();
+
+
+        FILE
+\*PictureFie = 0;
+
+
+        printf("%s\n",
+"Hi from HAPI");
+
+
+        if
+( NOERROR != rslt ) 
+
+
+        {
+
+
+               printf("%s\n",
+"\*\* Error on per-process init: ");
+
+
+               PrintAPIError(rslt);
+
+
+               return
+rslt;
+
+
+        }
+
+
+        
+
+
+        if(rslt
+= HTMLCreateConverter(&cvtr))
+
+
+        {
+
+
+               printf("%s\n",
+"Error in Creating HTMLConverter");
+
+
+               PrintAPIError(rslt);
+
+
+               return
+rslt;
+
+
+        }
+
+
+        
+
+
+        printf("%s\n",
+"converting pitcure");
+
+
+ 
+
+
+        if
+(rslt = HTMLConvertImage(cvtr, ImageName)) 
+
+
+        {
+
+
+               printf("%s%s\n",
+"E: Error converting Image: ", ImageName);
+
+
+               PrintAPIError(rslt);
+
+
+               return
+FALSE;
+
+
+        }
+
+
+        
+
+
+        if(rslt
+= HTMLGetProperty(cvtr, HTMLAPI\_PROP\_BINARYDATA, &bBinary))
+
+
+        {
+
+
+               printf("%s%s\n",
+"E: Error getting Property: ","HTMLAPI\_PROP\_BINARYDATA" );
+
+
+               PrintAPIError(rslt);
+
+
+               return
+rslt;
+
+
+        }
+
+
+ 
+
+
+        if(rslt
+= HTMLGetProperty(cvtr, HTMLAPI\_PROP\_TEXTLENGTH, &wTextLength))
+
+
+        {
+
+
+               printf("%s%s\n",
+"E: Error getting Property: ","HTMLAPI\_PROP\_TEXTLENGTH" );
+
+
+               PrintAPIError(rslt);
+
+
+        }
+
+
+ 
+
+
+        
+
+
+        if(rslt
+= HTMLGetText(cvtr, 0, &wTextLength, pszBinaryText))
+
+
+        {
+
+
+               printf("%s\n",
+"E: Error getting BinaryText: ");
+
+
+               PrintAPIError(rslt);
+
+
+        }
+
+
+        
+
+
+        if(rslt
+= HTMLDestroyConverter(cvtr))
+
+
+        {
+
+
+               printf("%s\n","E:
+Error in destroying HTML Converter: ");           
+
+
+               PrintAPIError(rslt);
+
+
+        }
+
+
+        
+
+
+        PictureFie
+= fopen("Trans.gif", "wb");
+
+
+        fwrite(pszBinaryText,
+1, wTextLength, PictureFie);
+
+
+        HTMLSetReferenceText(cvtr,
+refi, "C:\\yuenan.jpg");
+
+
+        fclose(PictureFie);
+
+
+        free(pszBinaryText);
+
+
+        return
+0;
+
+
+}
+
+
+ 
+
+
+void
+PrintAPIError(STATUS err)
+
+
+{
+
+
+        char
+szErrorString[100] = "\0";
+
+
+        OSLoadString(NULL,
+ERR(err), szErrorString, 100-1);
+
+
+        printf("%s\n"
+,szErrorString);
+
+
+}
+
+
+ **See Also :**
+
+
+**[HTMLAPIReference](HTMLAPIReference.md)**
+
+
+**[HTMLConvertElement](HTMLConvertElement.md)**
+
+
+**[HTMLConvertItem](HTMLConvertItem.md)**
+
+
+**[HTMLConvertNote](HTMLConvertNote.md)**
+
+
+**[HTMLCreateConverter](HTMLCreateConverter.md)**
+
+
+**[HTMLGetProperty](HTMLGetProperty.md)**
+
+
+**[HTMLGetReference](HTMLGetReference.md)**
+
+
+**[HTMLGetText](HTMLGetText.md)**
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+ 
+
+
+
+
+

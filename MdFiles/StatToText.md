@@ -1,0 +1,192 @@
+
+
+
+
+
+<!--
+ /\* Font Definitions \*/
+ @font-face
+ {font-family:Courier;
+ panose-1:2 7 4 9 2 2 5 2 4 4;}
+@font-face
+ {font-family:"Tms Rmn";
+ panose-1:2 2 6 3 4 5 5 2 3 4;}
+@font-face
+ {font-family:Helv;
+ panose-1:2 11 6 4 2 2 2 3 2 4;}
+@font-face
+ {font-family:"Cambria Math";
+ panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /\* Style Definitions \*/
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+ {margin-top:0cm;
+ margin-right:0cm;
+ margin-bottom:8.0pt;
+ margin-left:0cm;
+ line-height:107%;
+ font-size:11.0pt;
+ font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+ {font-size:11.0pt;}
+.MsoPapDefault
+ {margin-bottom:8.0pt;
+ line-height:107%;}
+ /\* Page Definitions \*/
+ @page WordSection1
+ {size:612.0pt 792.0pt;
+ margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+ {page:WordSection1;}
+-->
+
+
+
+
+ 
+
+
+**Function : Statistics Reporting**
+
+
+
+**StatToText** **- Converts
+a statistic value to text.**
+
+
+**----------------------------------------------------------------------------------------------------------**
+
+
+
+**#include <stats.h>**
+
+
+
+void
+LNPUBLIC **StatToText(**  
+
+      char far \*Facility,  
+
+      char far \*StatName,  
+
+      WORD  ValueType,  
+
+      void far \*Value,  
+
+      char far \*NameBuffer,  
+
+      WORD  NameBufferLen,  
+
+      char far \*ValueBuffer,  
+
+      WORD  ValueBufferLen**);**
+
+
+
+**Description :**
+
+
+
+This
+function converts a statistic value to text.
+
+
+ 
+
+
+**Parameters :**
+
+
+
+Input :  
+
+Facility  -  Name of facility.  See Symbolic Value, STATPKG\_xxx for a list of
+existing Domino facilities.  
+
+  
+
+StatName  -  Name of statistic.  
+
+  
+
+ValueType  -  Value type of the statistic:  See VT\_xxx.  
+
+  
+
+Value  -  Value of the statistic.  
+
+  
+
+NameBufferLen  -  Length of the NameBuffer.  
+
+  
+
+ValueBufferLen  -  Length of the ValueBuffer.  
+
+  
+
+
+
+
+Output :  
+
+(routine)  -  None  
+
+  
+
+  
+
+NameBuffer  -  Pointer to a buffer that will receive a composite of the
+facility and statistic name as a NULL terminated string.  
+
+  
+
+ValueBuffer  -  Pointer to a buffer that will receive the value of the
+statistic as a NULL terminated string.  
+
+  
+
+
+
+
+ **Sample Usage :**
+
+
+  
+
+   StatToText(Facility, StatName, ValueType, Value,  
+
+            NameBuffer, sizeof(NameBuffer)-1,  
+
+            ValueBuffer, sizeof(ValueBuffer)-1);  
+
+  
+
+   sprintf(OutBuffer, "  %s = %s\n", NameBuffer, ValueBuffer);  
+
+  
+
+
+
+
+ **See Also :**
+
+
+**[STATPKG\_xxx](notes:///8525872100478C66/61FD4E9848264AD28525620B006BA8BD/0032008100D8000685256678006EADD9)**
+
+
+**[StatTraverse](StatTraverse.md)**
+
+
+**[VT\_xxx](notes:///8525872100478C66/61FD4E9848264AD28525620B006BA8BD/000700730094000D85255EB400689D1C)**
+
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+ 
+
+
+
+
+
