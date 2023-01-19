@@ -1,0 +1,82 @@
+site_name: Domino C API
+
+# Theme Configuration
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - search.highlight
+    - search.share
+    - search.suggest
+  #custom_dir: theme_overrides/
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: favicon.ico
+
+  # Static files
+  static_templates:
+    - 404.html
+
+# Markdown Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# Copyright
+copyright: >-
+  Copyright &copy; 2023, HCL Technologies Limited -
+  <a href="#__consent">Change cookie settings</a>
+
+extra:
+  productversion: 1.0.0
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HCL-TECH-SOFTWARE
+  version:
+    provider: mike
+  analytics:
+    provider: google
+    property: UA-169645537-2
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+
+# Repository
+repo_url: https://github.com/HCL-TECH-SOFTWARE/domino-c-api-docs
+repo_name: Domino C API
+edit_uri: edit/main/docs
+
+# Customization
+#extra_css:
+#  - assets/css/extra_style.css
+
+plugins:
+  - awesome-pages
+  - search
+  - tags
+  # disabled unti we get rid of reletove URL - markdownextradata
+  #- mike:
+  #    canonical_version: latest
+  #- git-revision-date-localized:
+  #    type: date
