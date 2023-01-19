@@ -1,0 +1,8 @@
+#OS Level files
+.DS_Store
+Thumbs.*
+ehthumbs.*
+[Dd]desktop.ini
+*.lnk
+$RECYCLE.BIN/
+._*
