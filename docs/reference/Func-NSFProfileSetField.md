@@ -1,0 +1,89 @@
+##### Function : Profile Document
+##### NSFProfileSetField - Set the value of a field in a profile document.
+---
+##### #include <nsfnote.h>
+STATUS LNPUBLIC **NSFProfileSetField(**
+
+	DBHANDLE  hDB,
+	const char *ProfileName,
+	WORD  ProfileNameLength,
+	const char *UserName,
+	WORD  UserNameLength,
+	const char *FieldName,
+	WORD  FieldNameLength,
+	WORD  Datatype,
+	void *Value,
+	DWORD  ValueLength);
+**Description :**
+Set the value of a field in a profile document.  The document is opened/created 
+automatically if it is not already open or already defined in the database.  If 
+a field by that name doesn't exist in the document, it is created.  If the 
+field already exists, the value is replaced by the specified value.  If the 
+Value parameter is NULL, the field is deleted from the document.  The document 
+is updated in the database each time this routine is called.
+**Parameters :**
+Input :
+hDB  -  Handle to the database where the profile document exists.
+
+ProfileName  -  Name of the profile.
+
+ProfileNameLength  -  Length of the profile name.
+
+UserName  -  Name of the user of this profile.  Optional - may be NULL.
+ Note:  For each profile document created, the UserName is contained in a TYPE_TEXT field named $Name.  This $Name field is represented as "prefix_nnnprofilename_username" where:
+     prefix = the type of document
+     nnn = 3 digit character representation of the length of the profile name
+     profilename = the name of the profile document
+     username = the UserName of the profile
+An example of this field from a "Calendar Profile" document created from the Notes client would be, $profile_015calendarprofile_.  Here the UserName is blank since this profile was created with the Notes client.  Therefore to retrieve this profile, use NULL for UserName.  Another example of a profile document where UserName may be blank is the "Delegation Profile".  This profile is also created using the Notes client.
+
+UserNameLength  -  Length of the user name.
+
+FieldName  -  Name of the field of which to set the value.
+
+FieldNameLength  -  Length of the field name.
+
+Datatype  -  Datatype of the field.
+
+Value  -  Pointer to the new value of the field, not including the datatype word.
+                 If NULL is specified, then the field is deleted from the document.
+
+ValueLength  -  Length of the value of the field, not including the datatype word.
+
+Output :
+(routine)  -  NOERROR - Successfully set the field value within the profile document.
+ERR_xxx - Use OSLoadString to display the error returned.
+
+
+**Sample Usage :**
+```
+char UserName[]="John Doe";
+char FieldName[]="Owner";
+
+   /* Open the database. */
+    
+   if (error = NSFDbOpen (path_name, &db_handle))
+   {
+ print_api_error (error);
+     NotesTerm();
+ exit (EXIT_FAILURE);
+   }
+
+   /* Set the "Owner" item to "John Doe's" "CalendarProfile" document */
+
+   if( error = NSFProfileSetField( db_handle, MAIL_CALENDAR_PROFILE_FORM,
+          (WORD) strlen(MAIL_CALENDAR_PROFILE_FORM),
+          UserName, (WORD) strlen(UserName),
+          FieldName, (WORD) strlen(FieldName),
+          TYPE_TEXT, UserName, (DWORD) strlen(UserName)))
+   {
+ print_api_error (error);
+	NSFDbClose( db_handle );
+ NotesTerm();
+ exit (EXIT_FAILURE); 
+   }
+
+```
+**See Also :**
+[NSFProfileGetField](D:/md_files/NSFProfileGetField.md)
+---

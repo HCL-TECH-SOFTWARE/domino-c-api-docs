@@ -1,0 +1,32 @@
+##### Data Type : User Registration
+##### REG_ROAMING_INFO - Structure that defines roaming registration information.
+---
+##### #include <reg.h>
+**Description :**
+This structure defines roaming registration information for the REGNewPerson 
+function.  The entire structure must be initialized to zero.
+
+The fields in the structure are (all fields that are not used must be NULL/O):
+
+Size  Size of this structure - must be initialized with sizeof 
+(REG_ROAMING_INFO).
+ServerName Destination server name for the roaming files.
+SubDirectory Path (relative) to data dir on which roaming files will be created.
+CleanupSetting The cleanup setting used by the roaming client (see 
+REG_ROAMING_CLEANUP_XXX).
+CleanupPeriod Number of days between cleanup (1 - 365) for 
+REG_ROAMING_CLEANUP_EVERY_NDAYS.
+hReplicaServers (Optional.) Handle to a text list of server names where replica 
+stubs of the roaming files should be created.  The list should be constructed 
+with ListAllocate and ListAddEntry.  
+    OnDuplicate      one of REG_FILE_DUP_XXX.
+    Reserved  Reserved - must be 0.
+pReserved  Reserved - must be NULL.
+
+**See Also :**
+[ListAddEntry](D:/md_files/ListAddEntry.md)
+[ListAllocate](D:/md_files/ListAllocate.md)
+[REGNewPerson](D:/md_files/REGNewPerson.md)
+[REG_FILE_DUP_xxx](D:/md_files/REG_FILE_DUP_xxx.md)
+[REG_ROAMING_CLEANUP_xxx](D:/md_files/REG_ROAMING_CLEANUP_xxx.md)
+---

@@ -1,0 +1,40 @@
+##### Function : Text List Manipulation
+##### ListGetNumEntries - Returns the number of entries in a text list.
+---
+##### #include <textlist.h>
+WORD LNPUBLIC **ListGetNumEntries(**
+
+	void far *vList,
+	BOOL  NoteItem);
+**Description :**
+This function takes the list pointer and a data type prefix flag.  It returns 
+the number of entries in the text list.  The number returned can be used as the 
+entry number argument to the ListAddEntry function to insure the appropriate 
+entry number is provided to that function call.
+**Parameters :**
+Input :
+vList  -  A pointer to an existing text list.
+
+NoteItem  -  BOOL indicating presence of a Domino data type prefix.   Use FALSE if the first argument is a list that is later going to used in conjunction with NSFItemAppend. Use TRUE if you obtained the list's item and value BLOCKIDs with NSFItemInfo and wish to find out how many entries there are in the list.
+
+Output :
+(routine)  -  Returns number of entries in the text list.
+
+
+**Sample Usage :**
+```
+
+   if(error_status = ListAddEntry(list_handle, prefix_flag,&list_size,
+                               ListGetNumEntries(list_ptr,prefix_flag),
+                               STRING2, strlen(STRING2)))
+        goto Exit;
+
+```
+**See Also :**
+[ListAddEntry](D:/md_files/ListAddEntry.md)
+[ListAddText](D:/md_files/ListAddText.md)
+[ListAllocate](D:/md_files/ListAllocate.md)
+[ListGetSize](D:/md_files/ListGetSize.md)
+[ListGetText](D:/md_files/ListGetText.md)
+[ListRemoveEntry](D:/md_files/ListRemoveEntry.md)
+---

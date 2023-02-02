@@ -1,0 +1,10 @@
+##### Data Type : Handles
+##### HCOLLECTION - A handle for a collection.
+---
+##### #include <nif.h>
+**Description :**
+This data type is a handle for an open collection of notes.
+**See Also :**
+[NIFOpenCollection](D:/md_files/NIFOpenCollection.md)
+[NIFReadEntries](D:/md_files/NIFReadEntries.md)
+---

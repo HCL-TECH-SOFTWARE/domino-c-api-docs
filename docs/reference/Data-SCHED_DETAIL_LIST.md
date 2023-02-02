@@ -1,0 +1,104 @@
+##### Data Type : Calendaring and Scheduling
+##### SCHED_DETAIL_LIST - Schedule detail list header.
+---
+##### #include <nsfdata.h>
+**Description :**
+Schedule detail list header.
+**Sample Usage :**
+```
+The following code snippet illustrates a way to retrieve information from 
+SCHED_DETAIL_LIST:
+
+
+        SCHED_DETAIL_LIST * pList = (SCHED_DETAIL_LIST *) pData;
+	    
+        /* Points pItemList to the beginning of TEXT_LIST (which follows the 
+SCHED_DETAIL_LIST structure) */
+        LIST *  pItemList = (LIST *) ( (char *) pList + pList->wOffsetItems );  
+                
+        WORD    wItemCount = ListGetNumEntries( pItemList, FALSE );
+        printf("List of item names matching the SCHED_DETAIL_DATA entries: 
+%d\n",wItemCount);
+
+        /* points pSchedDetailEntry to the beginning of SCHED_DETAIL_ENTRY 
+(which follows the TEXT_LIST) */
+        SCHED_DETAIL_ENTRY *    pSchedDetailEntry = (SCHED_DETAIL_ENTRY *) ( 
+(char *) pList + pList->wOffsetDetails ); 
+        SCHED_DETAIL_DATA  *    pSchedDetailData
+
+        /* Loops through all the SCHED_DETAIL_ENTRY,lists the actual 
+SCHED_DETAIL_ENTRYs and their 
+           associated SCHED_DETAIL_DATA */
+
+	 for (DWORD iEntry = 0; iEntry < pList->wNumEntries; iEntry++)
+	 {
+               printf("SCHED_DETAIL_ENTRY %d\n",iEntry);
+               if ( sizeof(SCHED_DETAIL_ENTRY) != 
+pSchedDetailEntry->wOffsetDetails ){
+                  printf("Warning: entry header size is %d bytes but we expect 
+only %d\n",
+                     
+pSchedDetailEntry->wOffsetDetails,sizeof(SCHED_DETAIL_ENTRY));
+               }
+               /* .
+                  .
+                  - - - you can print SCHED_DETAIL_ENTRY header information 
+here - - -
+               */
+
+               if ( pSchedDetailEntry->wEntryLen == 
+pSchedDetailEntry->wPrefixLen ) {
+                  printf("*** This SCHED_DETAIL_ENTRY contains NO 
+SCHED_DETAIL_DATA ***\n");
+               }
+               else
+               {
+                  /* points pSchedDetailData to the beginning of 
+SCHED_DETAIL_DATA */
+                  pSchedDetailData =  
+                     (SCHED_DETAIL_DATA *) ( (char *)pSchedDetailEntry+ 
+pSchedDetailEntry->wOffsetDetails );                                
+                  /* loops through all the SCHED_DETAIL_DATA for this 
+SCHED_DETAIL_ENTRY */
+                  for (DWORD iData = 0; iData < wItemCount; iData++ )
+                  {
+                     printf("   * SCHED_DETAIL_DATA %d\n",iData); 
+                     /* .
+                        .
+                        - - -  you can print SCHED_DETAIL_DATA header 
+information here - - -
+                     */
+
+                     if ( pSchedDetailData->wDataLen ) {
+                              /* .
+                                 .
+                                 now you can print SCHED_DETAIL_DATA : 
+                                    the starting point would be 
+pSchedDetailData + sizeof(SCHED_DETAIL_DATA)
+                                    the length would be 
+pSchedDetailData->wDataLen
+	                 */
+                     }
+                     /* points to the next SCHED_DETAIL_DATA */
+                pSchedDetailData = (SCHED_DETAIL_DATA *) ( (char *) 
+pSchedDetailData + 
+                                        pSchedDetailData->wDataLen + 
+                                        sizeof(BYTE) +
+                                        sizeof(WORD) +
+                                        sizeof(WORD) );
+                   }
+               }
+
+               /* moves pointer to point to the next SCHED_DETAIL_ENTRY */
+               pSchedDetailEntry = (SCHED_DETAIL_ENTRY *) ( (char *) 
+pSchedDetailEntry + pSchedDetailEntry->wEntryLen);
+
+	 }  /* for (DWORD iEntry = 0; iEntry < pList->wNumEntries; iEntry++) */
+
+```
+**See Also :**
+[LIST](D:/md_files/LIST.md)
+[SCHED_DETAIL_DATA](D:/md_files/SCHED_DETAIL_DATA.md)
+[SCHED_DETAIL_ENTRY](D:/md_files/SCHED_DETAIL_ENTRY.md)
+[SCHED_DETAIL_LIST_ATTR_xxx](D:/md_files/SCHED_DETAIL_LIST_ATTR_xxx.md)
+---

@@ -1,0 +1,20 @@
+##### Symbolic Value : LDAP
+##### LDAP_DEBUG_API - LDAP debug option.
+---
+##### #include <ldap.h>
+**Description :**
+This is the value  for LDAP_OPT_DEBUG_LEVEL which can be set using the 
+ldap_set_option function.  Setting this option will cause the ldap api debug 
+information to be written out to the screen, and to a log file by specifying 
+"DEBUG_OUTFILE=" and "LDAPDEBUG=1" parameters in the notes.ini.
+**Sample Usage :**
+```
+WORD  ldap_debug_level = 0;
+
+ldap_debug_level = LDAP_DEBUG_API;
+ldap_set_option (NULL, LDAP_OPT_DEBUG_LEVEL, &ldap_debug_level);
+```
+**See Also :**
+[LDAP_OPT_xxx](D:/md_files/LDAP_OPT_xxx.md)
+[ldap_set_option](D:/md_files/ldap_set_option.md)
+---
