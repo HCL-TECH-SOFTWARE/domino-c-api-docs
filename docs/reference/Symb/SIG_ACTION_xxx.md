@@ -1,0 +1,25 @@
+##### Symbolic Value : Agents
+##### SIG_ACTION_xxx - Signatures for CDACTIONxxx records in items of type TYPE_ACTION.
+---
+```
+#include <ods.h>
+```
+**Description :**
+
+Signatures for CDACTIONxxx records in items of type TYPE_ACTION.
+
+**See Also :**
+[CDACTIONHEADER](/reference/Data/CDACTIONHEADER)
+[CDACTIONMODIFYFIELD](/reference/Data/CDACTIONMODIFYFIELD)
+[CDACTIONREPLY](/reference/Data/CDACTIONREPLY)
+[CDACTIONFORMULA](/reference/Data/CDACTIONFORMULA)
+[CDACTIONLOTUSSCRIPT](/reference/Data/CDACTIONLOTUSSCRIPT)
+[CDACTIONSENDMAIL](/reference/Data/CDACTIONSENDMAIL)
+[CDACTIONDBCOPY](/reference/Data/CDACTIONDBCOPY)
+[CDACTIONDELETE](/reference/Data/CDACTIONDELETE)
+[CDACTIONBYFORM](/reference/Data/CDACTIONBYFORM)
+[CDACTIONREADMARKS](/reference/Data/CDACTIONREADMARKS)
+[CDACTIONFOLDER](/reference/Data/CDACTIONFOLDER)
+[CDACTIONNEWSLETTER](/reference/Data/CDACTIONNEWSLETTER)
+[CDACTIONRUNAGENT](/reference/Data/CDACTIONRUNAGENT)
+---

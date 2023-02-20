@@ -1,1 +1,1 @@
-# Explaining the Domino C API
+# Refer to the HowTo documents.
