@@ -1,6 +1,6 @@
 nav:
   - "index.md"
-  - "tutorials"
-  - "howto"
+  - "Getting Started": "tutorials"
+  - "User Guide": "howto"
   - "explanation"
-  - "reference"
+  - "API reference": "reference"
