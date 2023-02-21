@@ -73,8 +73,8 @@ retPathName  -  The address of a text buffer into which the expanded pathname fo
     }
 ```
 **See Also :**
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[OSGetDataDirectory](/reference/Func/OSGetDataDirectory)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[OSGetDataDirectory](/domino-c-api-docs/reference/Func/OSGetDataDirectory)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

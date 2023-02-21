@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[FRAMESETLENGTH](/reference/Data/FRAMESETLENGTH)
+[FRAMESETLENGTH](/domino-c-api-docs/reference/Data/FRAMESETLENGTH)
 ---

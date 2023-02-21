@@ -40,5 +40,5 @@ phKFC  -  ID file handle to be passed back upon successful opening of the id fil
 
 
 **See Also :**
-[SECKFM_xxx](/reference/Symb/SECKFM_xxx)
+[SECKFM_xxx](/domino-c-api-docs/reference/Symb/SECKFM_xxx)
 ---

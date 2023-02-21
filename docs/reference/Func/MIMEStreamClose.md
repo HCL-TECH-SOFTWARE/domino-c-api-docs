@@ -23,8 +23,8 @@ Output :
 
 
 **See Also :**
-[MIMEHANDLE](/reference/Data/MIMEHANDLE)
-[MIMEStreamOpen](/reference/Func/MIMEStreamOpen)
-[MIMEStreamRead](/reference/Func/MIMEStreamRead)
-[MIMEStreamWrite](/reference/Func/MIMEStreamWrite)
+[MIMEHANDLE](/domino-c-api-docs/reference/Data/MIMEHANDLE)
+[MIMEStreamOpen](/domino-c-api-docs/reference/Func/MIMEStreamOpen)
+[MIMEStreamRead](/domino-c-api-docs/reference/Func/MIMEStreamRead)
+[MIMEStreamWrite](/domino-c-api-docs/reference/Func/MIMEStreamWrite)
 ---

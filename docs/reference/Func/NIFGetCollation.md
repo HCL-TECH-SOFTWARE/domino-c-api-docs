@@ -32,6 +32,6 @@ retCollationNum  -  Word containing the Collation Number.
 
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFSetCollation](/reference/Func/NIFSetCollation)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFSetCollation](/domino-c-api-docs/reference/Func/NIFSetCollation)
 ---

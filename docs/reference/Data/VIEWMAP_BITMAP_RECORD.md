@@ -22,5 +22,5 @@ packed format (no terminating NUL), then by the bitmap data.
 
 
 **See Also :**
-[VMODSdrobj](/reference/Data/VMODSdrobj)
+[VMODSdrobj](/domino-c-api-docs/reference/Data/VMODSdrobj)
 ---

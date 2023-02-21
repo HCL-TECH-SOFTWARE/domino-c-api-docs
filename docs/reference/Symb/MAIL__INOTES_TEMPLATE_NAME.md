@@ -9,5 +9,5 @@
 Filename for the mail template.
 
 **See Also :**
-[MAILBOX_TEMPLATE_NAME](/reference/Symb/MAILBOX_TEMPLATE_NAME)
+[MAILBOX_TEMPLATE_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_TEMPLATE_NAME)
 ---

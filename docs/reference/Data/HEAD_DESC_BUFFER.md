@@ -14,6 +14,6 @@ followed by an array of type "char" for the header or footer string.
         String            Text for the header or footer
 
 **See Also :**
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[HEAD_DESC](/reference/Data/HEAD_DESC)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[HEAD_DESC](/domino-c-api-docs/reference/Data/HEAD_DESC)
 ---

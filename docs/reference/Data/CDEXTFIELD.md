@@ -33,9 +33,9 @@ name of the helper view (if any).  These names are stored in LMBCS with no NULL
 delimter.  The total size of the CDEXTFIELD record includes these strings.
 
 **See Also :**
-[CDEXTFIELD_xxxHELPER](/reference/Symb/CDEXTFIELD_xxxHELPER)
-[CDFIELD](/reference/Data/CDFIELD)
-[FIELD_HELPER_xxx](/reference/Symb/FIELD_HELPER_xxx)
-[FEXT_xxx (Flags1)](/reference/Symb/FEXT_xxx (Flags1))
-[FEXT_xxx (Flags2)](/reference/Symb/FEXT_xxx (Flags2))
+[CDEXTFIELD_xxxHELPER](/domino-c-api-docs/reference/Symb/CDEXTFIELD_xxxHELPER)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
+[FIELD_HELPER_xxx](/domino-c-api-docs/reference/Symb/FIELD_HELPER_xxx)
+[FEXT_xxx (Flags1)](/domino-c-api-docs/reference/Symb/FEXT_xxx (Flags1))
+[FEXT_xxx (Flags2)](/domino-c-api-docs/reference/Symb/FEXT_xxx (Flags2))
 ---

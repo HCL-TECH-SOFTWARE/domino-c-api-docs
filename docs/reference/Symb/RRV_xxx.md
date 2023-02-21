@@ -10,6 +10,6 @@ The size of a Note ID to be used in a call to IDTableCreate().  The mask that
 is OR'd with all Note IDs (NOTEIDs) returned by NSFDbGetModifiedNoteTable().
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[NSFDbGetModifiedNoteTable](/reference/Func/NSFDbGetModifiedNoteTable)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[NSFDbGetModifiedNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetModifiedNoteTable)
 ---

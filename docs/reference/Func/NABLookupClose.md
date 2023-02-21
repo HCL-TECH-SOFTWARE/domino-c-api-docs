@@ -63,6 +63,6 @@ struct */
 	}
 ```
 **See Also :**
-[NABLookupAuthenticatedUser](/reference/Func/NABLookupAuthenticatedUser)
-[NABLookupOpen](/reference/Func/NABLookupOpen)
+[NABLookupAuthenticatedUser](/domino-c-api-docs/reference/Func/NABLookupAuthenticatedUser)
+[NABLookupOpen](/domino-c-api-docs/reference/Func/NABLookupOpen)
 ---

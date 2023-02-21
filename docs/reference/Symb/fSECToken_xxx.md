@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[SECTokenGenerate](/reference/Func/SECTokenGenerate)
-[SECTokenValidate](/reference/Func/SECTokenValidate)
+[SECTokenGenerate](/domino-c-api-docs/reference/Func/SECTokenGenerate)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
 ---

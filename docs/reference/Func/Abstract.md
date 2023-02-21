@@ -70,5 +70,5 @@ return (Abstract (commandString, pInput, bufSize, pOutput,
 }
 ```
 **See Also :**
-[ABS_xxx](/reference/Symb/ABS_xxx)
+[ABS_xxx](/domino-c-api-docs/reference/Symb/ABS_xxx)
 ---

@@ -75,8 +75,8 @@ FilledSize  -  Pointer to a DWORD to get the amount of change information data p
 
 ```
 **See Also :**
-[NSFBackupApplyNextChangeInfo](/reference/Func/NSFBackupApplyNextChangeInfo)
-[NSFBackupGetChangeInfoSize](/reference/Func/NSFBackupGetChangeInfoSize)
-[NSFBackupStart](/reference/Func/NSFBackupStart)
-[NSFBackupStop](/reference/Func/NSFBackupStop)
+[NSFBackupApplyNextChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupApplyNextChangeInfo)
+[NSFBackupGetChangeInfoSize](/domino-c-api-docs/reference/Func/NSFBackupGetChangeInfoSize)
+[NSFBackupStart](/domino-c-api-docs/reference/Func/NSFBackupStart)
+[NSFBackupStop](/domino-c-api-docs/reference/Func/NSFBackupStop)
 ---

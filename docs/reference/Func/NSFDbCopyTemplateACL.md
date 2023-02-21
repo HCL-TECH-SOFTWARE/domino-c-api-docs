@@ -72,6 +72,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 ```
 **See Also :**
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[NSFDbCopyACL](/reference/Func/NSFDbCopyACL)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[NSFDbCopyACL](/domino-c-api-docs/reference/Func/NSFDbCopyACL)
 ---

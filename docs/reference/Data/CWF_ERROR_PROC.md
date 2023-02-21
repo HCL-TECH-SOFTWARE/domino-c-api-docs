@@ -30,7 +30,7 @@ NSFNoteComputeWithForm(), error processing for fields will be skipped - the
 callback function will not be invoked.
 
 **See Also :**
-[CWF_xxx (Return Codes)](/reference/Symb/CWF_xxx (Return Codes))
-[CWF_xxx (Validation Phases)](/reference/Symb/CWF_xxx (Validation Phases))
-[NSFNoteComputeWithForm](/reference/Func/NSFNoteComputeWithForm)
+[CWF_xxx (Return Codes)](/domino-c-api-docs/reference/Symb/CWF_xxx (Return Codes))
+[CWF_xxx (Validation Phases)](/domino-c-api-docs/reference/Symb/CWF_xxx (Validation Phases))
+[NSFNoteComputeWithForm](/domino-c-api-docs/reference/Func/NSFNoteComputeWithForm)
 ---

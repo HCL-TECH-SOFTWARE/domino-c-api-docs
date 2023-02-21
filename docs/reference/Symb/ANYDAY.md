@@ -17,6 +17,6 @@ follows:
 TIMEDATEs are equal.
 
 **See Also :**
-[ALLDAY](/reference/Symb/ALLDAY)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[ALLDAY](/domino-c-api-docs/reference/Symb/ALLDAY)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

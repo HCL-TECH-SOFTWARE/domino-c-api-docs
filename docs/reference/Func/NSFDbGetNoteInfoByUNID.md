@@ -44,5 +44,5 @@ retClass  -  (Optional)  Pointer to the returned NOTE_CLASS_xxx (type of note); 
 
 
 **See Also :**
-[NSFDbGetNoteInfo](/reference/Func/NSFDbGetNoteInfo)
+[NSFDbGetNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfo)
 ---

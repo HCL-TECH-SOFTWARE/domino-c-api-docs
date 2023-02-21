@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDPOSITIONING](/reference/Data/CDPOSITIONING)
+[CDPOSITIONING](/domino-c-api-docs/reference/Data/CDPOSITIONING)
 ---

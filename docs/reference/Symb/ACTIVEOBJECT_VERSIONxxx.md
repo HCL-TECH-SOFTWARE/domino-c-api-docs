@@ -10,5 +10,5 @@ These constants are used to identify different versions of the ACTIVEOBJECT
 records.
 
 **See Also :**
-[ACTIVEOBJECT](/reference/Data/ACTIVEOBJECT)
+[ACTIVEOBJECT](/domino-c-api-docs/reference/Data/ACTIVEOBJECT)
 ---

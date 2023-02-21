@@ -22,7 +22,7 @@ follow each other, in the order in which the bits are listed here.  This
 portion repeats for as many notes as are found.
 
 **See Also :**
-[ITEM_TABLE](/reference/Data/ITEM_TABLE)
-[ITEM_VALUE_TABLE](/reference/Data/ITEM_VALUE_TABLE)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE)
+[ITEM_VALUE_TABLE](/domino-c-api-docs/reference/Data/ITEM_VALUE_TABLE)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

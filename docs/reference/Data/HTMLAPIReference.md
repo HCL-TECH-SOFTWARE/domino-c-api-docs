@@ -45,6 +45,6 @@ with below bitmap:
 
 
 **See Also :**
-[HTMLAPI_REF_TYPE](/reference/Data/HTMLAPI_REF_TYPE)
-[HTMLAPI_URLComponent](/reference/Data/HTMLAPI_URLComponent)
+[HTMLAPI_REF_TYPE](/domino-c-api-docs/reference/Data/HTMLAPI_REF_TYPE)
+[HTMLAPI_URLComponent](/domino-c-api-docs/reference/Data/HTMLAPI_URLComponent)
 ---

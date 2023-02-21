@@ -26,6 +26,6 @@ who defined this named style.
 
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[STYLE_FLAG_xxx](/reference/Symb/STYLE_FLAG_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[STYLE_FLAG_xxx](/domino-c-api-docs/reference/Symb/STYLE_FLAG_xxx)
 ---

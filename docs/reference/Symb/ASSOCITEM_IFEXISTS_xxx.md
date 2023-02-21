@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NSFNoteOLEAssociateFileToObject](/reference/Func/NSFNoteOLEAssociateFileToObject)
+[NSFNoteOLEAssociateFileToObject](/domino-c-api-docs/reference/Func/NSFNoteOLEAssociateFileToObject)
 ---

@@ -63,11 +63,11 @@ Output :
 
 ```
 **See Also :**
-[NSFDbGenerateOID](/reference/Func/NSFDbGenerateOID)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteCopy](/reference/Func/NSFNoteCopy)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFDbGenerateOID](/domino-c-api-docs/reference/Func/NSFDbGenerateOID)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteCopy](/domino-c-api-docs/reference/Func/NSFNoteCopy)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

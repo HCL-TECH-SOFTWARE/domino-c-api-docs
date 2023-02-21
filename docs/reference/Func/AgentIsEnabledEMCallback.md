@@ -30,5 +30,5 @@ return_value  -  TRUE - agent is enabled.  FALSE - agent isn't enabled.
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
 ---

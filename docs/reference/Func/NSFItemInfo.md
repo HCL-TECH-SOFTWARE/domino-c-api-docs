@@ -71,11 +71,11 @@ value_len  -  The address of a DWORD in which the length of the item's value is 
 
 ```
 **See Also :**
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemScan](/reference/Func/NSFItemScan)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[OSLockBlock](/reference/Func/OSLockBlock)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

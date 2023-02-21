@@ -40,12 +40,12 @@ ERR_xxx - Error returned by lower level functions. Call OSLoadString to interpre
 
 
 **See Also :**
-[FolderCopy](/reference/Func/FolderCopy)
-[FolderCreate](/reference/Func/FolderCreate)
-[FolderDelete](/reference/Func/FolderDelete)
-[FolderDocAdd](/reference/Func/FolderDocAdd)
-[FolderDocCount](/reference/Func/FolderDocCount)
-[FolderDocRemove](/reference/Func/FolderDocRemove)
-[FolderDocRemoveAll](/reference/Func/FolderDocRemoveAll)
-[FolderMove](/reference/Func/FolderMove)
+[FolderCopy](/domino-c-api-docs/reference/Func/FolderCopy)
+[FolderCreate](/domino-c-api-docs/reference/Func/FolderCreate)
+[FolderDelete](/domino-c-api-docs/reference/Func/FolderDelete)
+[FolderDocAdd](/domino-c-api-docs/reference/Func/FolderDocAdd)
+[FolderDocCount](/domino-c-api-docs/reference/Func/FolderDocCount)
+[FolderDocRemove](/domino-c-api-docs/reference/Func/FolderDocRemove)
+[FolderDocRemoveAll](/domino-c-api-docs/reference/Func/FolderDocRemoveAll)
+[FolderMove](/domino-c-api-docs/reference/Func/FolderMove)
 ---

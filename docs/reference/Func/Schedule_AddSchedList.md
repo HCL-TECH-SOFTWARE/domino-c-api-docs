@@ -36,5 +36,5 @@ rethSchedList  -  Returns the HCNTNROBJ of the new sched list.
 
 
 **See Also :**
-[SCHED_LIST](/reference/Data/SCHED_LIST)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
 ---

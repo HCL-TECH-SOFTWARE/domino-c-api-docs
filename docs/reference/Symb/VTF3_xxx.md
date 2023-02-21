@@ -12,5 +12,5 @@ specific attribute.  The Mask flags specify the bit mask (which bits are used)
 for a specific attribute.
 
 **See Also :**
-[VIEW_TABLE_FORMAT3](/reference/Data/VIEW_TABLE_FORMAT3)
+[VIEW_TABLE_FORMAT3](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT3)
 ---

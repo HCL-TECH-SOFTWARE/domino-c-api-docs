@@ -34,6 +34,6 @@ ERR_DBCLASS
 
 
 **See Also :**
-[NSFDbGetObjectStoreID](/reference/Func/NSFDbGetObjectStoreID)
-[NSFDbSetObjectStoreID](/reference/Func/NSFDbSetObjectStoreID)
+[NSFDbGetObjectStoreID](/domino-c-api-docs/reference/Func/NSFDbGetObjectStoreID)
+[NSFDbSetObjectStoreID](/domino-c-api-docs/reference/Func/NSFDbSetObjectStoreID)
 ---

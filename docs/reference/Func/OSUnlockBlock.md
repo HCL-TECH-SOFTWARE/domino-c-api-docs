@@ -42,9 +42,9 @@ Output :
 
 ```
 **See Also :**
-[OSLock](/reference/Func/OSLock)
-[OSLockBlock](/reference/Func/OSLockBlock)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSUnlock](/reference/Func/OSUnlock)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[OSLock](/domino-c-api-docs/reference/Func/OSLock)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSUnlock](/domino-c-api-docs/reference/Func/OSUnlock)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

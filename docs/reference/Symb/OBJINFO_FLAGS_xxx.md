@@ -9,5 +9,5 @@
 These flags are stored in the Flags field of the CDOLEOBJ_INFO record.
 
 **See Also :**
-[CDOLEOBJ_INFO](/reference/Data/CDOLEOBJ_INFO)
+[CDOLEOBJ_INFO](/domino-c-api-docs/reference/Data/CDOLEOBJ_INFO)
 ---

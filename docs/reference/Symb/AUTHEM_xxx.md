@@ -10,7 +10,7 @@ The Authentication Extension Manager EM_SECAUTHENTICATION wEvent calling
 parameters.
 
 **See Also :**
-[AuthenticationEMCallback](/reference/Func/AuthenticationEMCallback)
-[EM_xxx](/reference/Symb/EM_xxx)
-[fAuth_xxx](/reference/Symb/fAuth_xxx)
+[AuthenticationEMCallback](/domino-c-api-docs/reference/Func/AuthenticationEMCallback)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[fAuth_xxx](/domino-c-api-docs/reference/Symb/fAuth_xxx)
 ---

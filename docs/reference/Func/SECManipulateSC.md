@@ -36,7 +36,7 @@ pContext  -  The address of a pointer to an opaque context blob.
 
 
 **See Also :**
-[NULLSCMCTX](/reference/Symb/NULLSCMCTX)
-[SCMCTX](/reference/Data/SCMCTX)
-[SC_manip_xxx](/reference/Symb/SC_manip_xxx)
+[NULLSCMCTX](/domino-c-api-docs/reference/Symb/NULLSCMCTX)
+[SCMCTX](/domino-c-api-docs/reference/Data/SCMCTX)
+[SC_manip_xxx](/domino-c-api-docs/reference/Symb/SC_manip_xxx)
 ---

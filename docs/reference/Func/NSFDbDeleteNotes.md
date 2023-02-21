@@ -101,9 +101,9 @@ retUNIDArray  -  The address of an array of UNID structures in which the UNIDs o
 
 ```
 **See Also :**
-[IDDeleteAll](/reference/Func/IDDeleteAll)
-[IDEnumerate](/reference/Func/IDEnumerate)
-[IDScan](/reference/Func/IDScan)
-[NSFDbGetModifiedNoteTable](/reference/Func/NSFDbGetModifiedNoteTable)
-[NSFDbStampNotes](/reference/Func/NSFDbStampNotes)
+[IDDeleteAll](/domino-c-api-docs/reference/Func/IDDeleteAll)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[IDScan](/domino-c-api-docs/reference/Func/IDScan)
+[NSFDbGetModifiedNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetModifiedNoteTable)
+[NSFDbStampNotes](/domino-c-api-docs/reference/Func/NSFDbStampNotes)
 ---

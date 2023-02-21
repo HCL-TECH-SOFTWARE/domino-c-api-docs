@@ -10,5 +10,5 @@ These values are the default for the Height and Width  members of a CDHRULE
 structure.
 
 **See Also :**
-[CDHRULE](/reference/Data/CDHRULE)
+[CDHRULE](/domino-c-api-docs/reference/Data/CDHRULE)
 ---

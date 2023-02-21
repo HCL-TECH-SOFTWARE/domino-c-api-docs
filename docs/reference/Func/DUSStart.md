@@ -42,7 +42,7 @@ pRethContext  -  pointer to a context handle the DUS can optionally allocate/ret
 
 
 **See Also :**
-[DUSLOGEVENTPROC](/reference/Data/DUSLOGEVENTPROC)
-[DUSPROGRESSBARPROC](/reference/Data/DUSPROGRESSBARPROC)
-[fDUSxxx](/reference/Symb/fDUSxxx)
+[DUSLOGEVENTPROC](/domino-c-api-docs/reference/Data/DUSLOGEVENTPROC)
+[DUSPROGRESSBARPROC](/domino-c-api-docs/reference/Data/DUSPROGRESSBARPROC)
+[fDUSxxx](/domino-c-api-docs/reference/Symb/fDUSxxx)
 ---

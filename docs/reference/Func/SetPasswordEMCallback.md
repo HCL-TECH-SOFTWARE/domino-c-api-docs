@@ -55,5 +55,5 @@ retNewData  -  Optional.  Return the new ID information here.    Domino and Note
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
 ---

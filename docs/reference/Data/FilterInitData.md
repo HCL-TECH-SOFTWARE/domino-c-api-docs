@@ -27,5 +27,5 @@ filterDesc - Output parameter: a short description of the filter.
 
 
 **See Also :**
-[EventFlags](/reference/Data/EventFlags)
+[EventFlags](/domino-c-api-docs/reference/Data/EventFlags)
 ---

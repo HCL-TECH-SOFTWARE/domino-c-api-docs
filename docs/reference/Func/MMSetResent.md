@@ -31,6 +31,6 @@ MMSetResent(hCC, FALSE); /* if TRUE support Resent-XXX headers when importing
 (default is FALSE) */
 ```
 **See Also :**
-[MMGetResent](/reference/Func/MMGetResent)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetResent](/domino-c-api-docs/reference/Func/MMGetResent)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

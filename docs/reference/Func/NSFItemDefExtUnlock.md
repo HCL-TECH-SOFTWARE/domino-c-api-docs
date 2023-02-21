@@ -32,11 +32,11 @@ NOERROR - Operation succeeded.
 
 
 **See Also :**
-[ITEM_DEFINITION_EXT](/reference/Data/ITEM_DEFINITION_EXT)
-[ITEM_DEFINITION_TABLE_EXT](/reference/Data/ITEM_DEFINITION_TABLE_EXT)
-[NSFDbItemDefTableExt](/reference/Func/NSFDbItemDefTableExt)
-[NSFItemDefExtEntries](/reference/Func/NSFItemDefExtEntries)
-[NSFItemDefExtFree](/reference/Func/NSFItemDefExtFree)
-[NSFItemDefExtGetEntry](/reference/Func/NSFItemDefExtGetEntry)
-[NSFItemDefExtLock](/reference/Func/NSFItemDefExtLock)
+[ITEM_DEFINITION_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_EXT)
+[ITEM_DEFINITION_TABLE_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE_EXT)
+[NSFDbItemDefTableExt](/domino-c-api-docs/reference/Func/NSFDbItemDefTableExt)
+[NSFItemDefExtEntries](/domino-c-api-docs/reference/Func/NSFItemDefExtEntries)
+[NSFItemDefExtFree](/domino-c-api-docs/reference/Func/NSFItemDefExtFree)
+[NSFItemDefExtGetEntry](/domino-c-api-docs/reference/Func/NSFItemDefExtGetEntry)
+[NSFItemDefExtLock](/domino-c-api-docs/reference/Func/NSFItemDefExtLock)
 ---

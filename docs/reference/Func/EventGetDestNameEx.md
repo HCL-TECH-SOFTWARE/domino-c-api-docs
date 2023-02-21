@@ -44,9 +44,9 @@ DestName  -  A string containing the name of a person or database to be associat
 
 
 **See Also :**
-[EventGetDestName](/reference/Func/EventGetDestName)
-[EventQueueGet](/reference/Func/EventQueueGet)
-[EVENT_DATA](/reference/Data/EVENT_DATA)
-[EVT_xxx](/reference/Symb/EVT_xxx)
-[SEV_xxx](/reference/Symb/SEV_xxx)
+[EventGetDestName](/domino-c-api-docs/reference/Func/EventGetDestName)
+[EventQueueGet](/domino-c-api-docs/reference/Func/EventQueueGet)
+[EVENT_DATA](/domino-c-api-docs/reference/Data/EVENT_DATA)
+[EVT_xxx](/domino-c-api-docs/reference/Symb/EVT_xxx)
+[SEV_xxx](/domino-c-api-docs/reference/Symb/SEV_xxx)
 ---

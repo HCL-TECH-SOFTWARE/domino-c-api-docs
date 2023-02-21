@@ -11,5 +11,5 @@ that ber_slen_t is not used directly in the LDAP C API but is provided for the
 convenience of application developers and for use by extensions to the API.
 
 **See Also :**
-[ber_len_t](/reference/Data/ber_len_t)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
 ---

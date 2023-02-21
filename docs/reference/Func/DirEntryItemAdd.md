@@ -42,8 +42,8 @@ An ERR status on failure indicating the problem.
 
 
 **See Also :**
-[DirEntryDelete](/reference/Func/DirEntryDelete)
-[DirEntryFree](/reference/Func/DirEntryFree)
-[DirEntryItemDelete](/reference/Func/DirEntryItemDelete)
-[DirEntryUpdate](/reference/Func/DirEntryUpdate)
+[DirEntryDelete](/domino-c-api-docs/reference/Func/DirEntryDelete)
+[DirEntryFree](/domino-c-api-docs/reference/Func/DirEntryFree)
+[DirEntryItemDelete](/domino-c-api-docs/reference/Func/DirEntryItemDelete)
+[DirEntryUpdate](/domino-c-api-docs/reference/Func/DirEntryUpdate)
 ---

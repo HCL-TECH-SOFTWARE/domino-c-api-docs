@@ -31,5 +31,5 @@ containing the coordinates for the polygon.  The number of pairs of values in
 this array is specified by the nPts field.
 
 **See Also :**
-[VMODSbigobj](/reference/Data/VMODSbigobj)
+[VMODSbigobj](/domino-c-api-docs/reference/Data/VMODSbigobj)
 ---

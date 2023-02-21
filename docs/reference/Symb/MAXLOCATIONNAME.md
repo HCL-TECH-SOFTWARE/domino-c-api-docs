@@ -11,8 +11,8 @@ REGNewServer, REGNewServerExtended, REGNewWorkstation and
 REGNewWorkstationExt.  This size includes the terminating null.
 
 **See Also :**
-[REGNewServer](/reference/Func/REGNewServer)
-[REGNewServerExtended](/reference/Func/REGNewServerExtended)
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[REGNewWorkstationExtended](/reference/Func/REGNewWorkstationExtended)
+[REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)
+[REGNewServerExtended](/domino-c-api-docs/reference/Func/REGNewServerExtended)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[REGNewWorkstationExtended](/domino-c-api-docs/reference/Func/REGNewWorkstationExtended)
 ---

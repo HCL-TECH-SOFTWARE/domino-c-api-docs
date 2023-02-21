@@ -44,6 +44,6 @@ status = NSFDbSetOptions(db_handle, DBOPTION_FT_INDEX,
 ...
 ```
 **See Also :**
-[NSFDbGetOptions](/reference/Func/NSFDbGetOptions)
-[DBOPTION_xxx](/reference/Symb/DBOPTION_xxx)
+[NSFDbGetOptions](/domino-c-api-docs/reference/Func/NSFDbGetOptions)
+[DBOPTION_xxx](/domino-c-api-docs/reference/Symb/DBOPTION_xxx)
 ---

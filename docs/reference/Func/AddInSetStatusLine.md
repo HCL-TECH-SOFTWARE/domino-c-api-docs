@@ -76,6 +76,6 @@ else
 
 ```
 **See Also :**
-[AddInCreateStatusLine](/reference/Func/AddInCreateStatusLine)
-[AddInDeleteStatusLine](/reference/Func/AddInDeleteStatusLine)
+[AddInCreateStatusLine](/domino-c-api-docs/reference/Func/AddInCreateStatusLine)
+[AddInDeleteStatusLine](/domino-c-api-docs/reference/Func/AddInDeleteStatusLine)
 ---

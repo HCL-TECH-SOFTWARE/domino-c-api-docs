@@ -11,8 +11,8 @@ of this structure only should be interpreted using the C API time/date calls --
 they cannot easily be parsed directly.
 
 **See Also :**
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[TYPE_xxx [TIME_RANGE]](/reference/Symb/TYPE_xxx [TIME_RANGE])
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[TYPE_xxx [TIME_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TIME_RANGE])
 ---

@@ -34,7 +34,7 @@ rethDstTable  -  Pointer to the handle of the resulting ID Table.  This table co
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDAreTablesEqual](/reference/Func/IDAreTablesEqual)
-[IDDestroyTable](/reference/Func/IDDestroyTable)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDAreTablesEqual](/domino-c-api-docs/reference/Func/IDAreTablesEqual)
+[IDDestroyTable](/domino-c-api-docs/reference/Func/IDDestroyTable)
 ---

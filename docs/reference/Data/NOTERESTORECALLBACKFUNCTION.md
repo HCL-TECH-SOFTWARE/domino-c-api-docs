@@ -26,7 +26,7 @@ STATUS - Status of the call: NOERROR. Any other status indicates an error
 condition.
 
 **See Also :**
-[MediaCallbackFlags](/reference/Data/MediaCallbackFlags)
-[NOTE_RESTORE_CALLBACK_INFO](/reference/Data/NOTE_RESTORE_CALLBACK_INFO)
-[NSFRecoverDatabasesWithCallback](/reference/Func/NSFRecoverDatabasesWithCallback)
+[MediaCallbackFlags](/domino-c-api-docs/reference/Data/MediaCallbackFlags)
+[NOTE_RESTORE_CALLBACK_INFO](/domino-c-api-docs/reference/Data/NOTE_RESTORE_CALLBACK_INFO)
+[NSFRecoverDatabasesWithCallback](/domino-c-api-docs/reference/Func/NSFRecoverDatabasesWithCallback)
 ---

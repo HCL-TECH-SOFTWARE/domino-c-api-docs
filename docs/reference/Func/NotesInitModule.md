@@ -24,5 +24,5 @@ rethPrevInstance  -  May be NULL.  If non-NULL, the handle for the previous inst
 
 
 **See Also :**
-[NotesInitExtended](/reference/Func/NotesInitExtended)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
 ---

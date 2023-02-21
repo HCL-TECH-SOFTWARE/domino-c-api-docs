@@ -16,5 +16,5 @@ Note: This data structure should be treated as READ-ONLY -- modifying the data
 structure could have undesired consequences.
 
 **See Also :**
-[NLS_PINFO](/reference/Data/NLS_PINFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
 ---

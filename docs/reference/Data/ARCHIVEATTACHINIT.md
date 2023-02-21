@@ -20,6 +20,6 @@ attachment is encrypted, look for ARCHIVE_ATTACH_xxx..
 otherwise. 
 
 **See Also :**
-[ArchiveExportDatabase](/reference/Func/ArchiveExportDatabase)
-[ARCHIVE_ATTACH_xxx](/reference/Symb/ARCHIVE_ATTACH_xxx)
+[ArchiveExportDatabase](/domino-c-api-docs/reference/Func/ArchiveExportDatabase)
+[ARCHIVE_ATTACH_xxx](/domino-c-api-docs/reference/Symb/ARCHIVE_ATTACH_xxx)
 ---

@@ -65,7 +65,7 @@ retTIMEDATE  -  The address of a TIMEDATE_PAIR structure in which the binary equ
 
 ```
 **See Also :**
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
 ---

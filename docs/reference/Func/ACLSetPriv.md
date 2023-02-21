@@ -26,8 +26,8 @@ Priv  -  The resulting privilege bit mask with the desired bit set.
 
 
 **See Also :**
-[ACLClearPriv](/reference/Func/ACLClearPriv)
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACLInvertPriv](/reference/Func/ACLInvertPriv)
-[ACLIsPrivSet](/reference/Func/ACLIsPrivSet)
+[ACLClearPriv](/domino-c-api-docs/reference/Func/ACLClearPriv)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACLInvertPriv](/domino-c-api-docs/reference/Func/ACLInvertPriv)
+[ACLIsPrivSet](/domino-c-api-docs/reference/Func/ACLIsPrivSet)
 ---

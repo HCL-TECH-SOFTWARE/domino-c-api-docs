@@ -39,9 +39,9 @@ Output :
 
 
 **See Also :**
-[NotesInit](/reference/Func/NotesInit)
-[NotesInitExtended](/reference/Func/NotesInitExtended)
-[NotesTerm](/reference/Func/NotesTerm)
-[NotesInitThread](/reference/Func/NotesInitThread)
-[NotesTermThread](/reference/Func/NotesTermThread)
+[NotesInit](/domino-c-api-docs/reference/Func/NotesInit)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
+[NotesTerm](/domino-c-api-docs/reference/Func/NotesTerm)
+[NotesInitThread](/domino-c-api-docs/reference/Func/NotesInitThread)
+[NotesTermThread](/domino-c-api-docs/reference/Func/NotesTermThread)
 ---

@@ -61,6 +61,6 @@ putchar ('\n');
 
 ```
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[PSTRING](/reference/Data/PSTRING)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[PSTRING](/domino-c-api-docs/reference/Data/PSTRING)
 ---

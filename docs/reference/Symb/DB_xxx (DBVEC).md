@@ -9,5 +9,5 @@
 The actual arguments may differ for any given function.
 
 **See Also :**
-[DBVEC](/reference/Data/DBVEC)
+[DBVEC](/domino-c-api-docs/reference/Data/DBVEC)
 ---

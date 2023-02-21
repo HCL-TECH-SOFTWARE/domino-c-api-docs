@@ -25,6 +25,6 @@ ERR_xxx - Error returned by lower level functions. Call OSLoadString to interpre
 
 
 **See Also :**
-[FTOpenSearch](/reference/Func/FTOpenSearch)
-[FTSearch](/reference/Func/FTSearch)
+[FTOpenSearch](/domino-c-api-docs/reference/Func/FTOpenSearch)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
 ---

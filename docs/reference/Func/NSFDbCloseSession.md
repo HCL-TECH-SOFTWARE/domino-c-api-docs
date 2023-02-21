@@ -50,7 +50,7 @@ if (error = NSFDbCloseSession (hDB))
 }
 ```
 **See Also :**
-[DBHANDLE](/reference/Data/DBHANDLE)
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
+[DBHANDLE](/domino-c-api-docs/reference/Data/DBHANDLE)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
 ---

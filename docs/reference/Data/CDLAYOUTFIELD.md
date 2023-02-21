@@ -19,12 +19,12 @@ bFieldType Type of user interface for this element (see LAYOUT_FIELD_TYPE_xxx).
 
 
 **See Also :**
-[CDLAYOUT](/reference/Data/CDLAYOUT)
-[CDLAYOUTBUTTON](/reference/Data/CDLAYOUTBUTTON)
-[CDLAYOUTEND](/reference/Data/CDLAYOUTEND)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
-[ELEMENTHEADER](/reference/Data/ELEMENTHEADER)
-[LAYOUT_FIELD_FLAG_xxx](/reference/Symb/LAYOUT_FIELD_FLAG_xxx)
-[LAYOUT_FIELD_TYPE_xxx](/reference/Symb/LAYOUT_FIELD_TYPE_xxx)
+[CDLAYOUT](/domino-c-api-docs/reference/Data/CDLAYOUT)
+[CDLAYOUTBUTTON](/domino-c-api-docs/reference/Data/CDLAYOUTBUTTON)
+[CDLAYOUTEND](/domino-c-api-docs/reference/Data/CDLAYOUTEND)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
+[ELEMENTHEADER](/domino-c-api-docs/reference/Data/ELEMENTHEADER)
+[LAYOUT_FIELD_FLAG_xxx](/domino-c-api-docs/reference/Symb/LAYOUT_FIELD_FLAG_xxx)
+[LAYOUT_FIELD_TYPE_xxx](/domino-c-api-docs/reference/Symb/LAYOUT_FIELD_TYPE_xxx)
 ---

@@ -13,5 +13,5 @@ to take a particular action. Menu add-in functions may send these messages to
 the Notes main window when processing the NAMM_COMMAND message.
 
 **See Also :**
-[NAMM_xxx](/reference/Symb/NAMM_xxx)
+[NAMM_xxx](/domino-c-api-docs/reference/Symb/NAMM_xxx)
 ---

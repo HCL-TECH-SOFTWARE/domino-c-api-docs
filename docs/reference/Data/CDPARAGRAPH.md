@@ -52,8 +52,8 @@ text
     
 ```
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDPABREFERENCE](/reference/Data/CDPABREFERENCE)
-[CDTEXT](/reference/Data/CDTEXT)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

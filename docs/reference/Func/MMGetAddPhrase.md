@@ -32,6 +32,6 @@ wAddPhrase = MMGetAddPhrase(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetAddPhrase](/reference/Func/MMSetAddPhrase)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetAddPhrase](/domino-c-api-docs/reference/Func/MMSetAddPhrase)
 ---

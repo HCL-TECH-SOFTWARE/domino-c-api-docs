@@ -42,5 +42,5 @@ if (hClusterMateList != NULLHANDLE)
    OSMemFree(hClusterMateList);
 ```
 **See Also :**
-[NSGetServerClusterMates](/reference/Func/NSGetServerClusterMates)
+[NSGetServerClusterMates](/domino-c-api-docs/reference/Func/NSGetServerClusterMates)
 ---

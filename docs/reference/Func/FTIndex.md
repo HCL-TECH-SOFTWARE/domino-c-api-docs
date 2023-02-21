@@ -36,6 +36,6 @@ retStats  -  Pointer to returned indexing statistics.  Pass in NULL if no statis
 
 
 **See Also :**
-[FT_INDEX_STATS](/reference/Data/FT_INDEX_STATS)
-[FT_INDEX_xxx](/reference/Symb/FT_INDEX_xxx)
+[FT_INDEX_STATS](/domino-c-api-docs/reference/Data/FT_INDEX_STATS)
+[FT_INDEX_xxx](/domino-c-api-docs/reference/Symb/FT_INDEX_xxx)
 ---

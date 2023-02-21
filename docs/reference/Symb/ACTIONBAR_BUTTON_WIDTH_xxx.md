@@ -10,5 +10,5 @@ These values for the BtnWidthStyle member of CDACTIONBAREXT describe action
 button width styles. 
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

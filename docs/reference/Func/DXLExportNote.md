@@ -115,7 +115,7 @@ sizeof(NoteInfo->commonInfo.exportContext));
 	 return (ERR(error));
 ```
 **See Also :**
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[XML_WRITE_FUNCTION](/reference/Data/XML_WRITE_FUNCTION)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[XML_WRITE_FUNCTION](/domino-c-api-docs/reference/Data/XML_WRITE_FUNCTION)
 ---

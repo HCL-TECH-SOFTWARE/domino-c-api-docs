@@ -38,6 +38,6 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 
 **See Also :**
-[StoredFormAppendSubformToken](/reference/Func/StoredFormAppendSubformToken)
-[StoredFormRemoveItems](/reference/Func/StoredFormRemoveItems)
+[StoredFormAppendSubformToken](/domino-c-api-docs/reference/Func/StoredFormAppendSubformToken)
+[StoredFormRemoveItems](/domino-c-api-docs/reference/Func/StoredFormRemoveItems)
 ---

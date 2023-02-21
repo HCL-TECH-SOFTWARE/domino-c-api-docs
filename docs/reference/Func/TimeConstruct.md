@@ -28,6 +28,6 @@ result  -  Pointer to the returned TIMEDATE value.
 
 
 **See Also :**
-[TimeExtractJulianDate](/reference/Func/TimeExtractJulianDate)
-[TimeExtractDate](/reference/Func/TimeExtractDate)
+[TimeExtractJulianDate](/domino-c-api-docs/reference/Func/TimeExtractJulianDate)
+[TimeExtractDate](/domino-c-api-docs/reference/Func/TimeExtractDate)
 ---

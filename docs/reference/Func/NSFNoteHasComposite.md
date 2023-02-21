@@ -30,8 +30,8 @@ bHasComposite = NSFNoteHasComposite(hNote);
 
 ```
 **See Also :**
-[NSFNoteHasMIME](/reference/Func/NSFNoteHasMIME)
-[NSFNoteHasMIMEPart](/reference/Func/NSFNoteHasMIMEPart)
-[NSFNoteHasObjects](/reference/Func/NSFNoteHasObjects)
-[NSFNoteHasRFC822Text](/reference/Func/NSFNoteHasRFC822Text)
+[NSFNoteHasMIME](/domino-c-api-docs/reference/Func/NSFNoteHasMIME)
+[NSFNoteHasMIMEPart](/domino-c-api-docs/reference/Func/NSFNoteHasMIMEPart)
+[NSFNoteHasObjects](/domino-c-api-docs/reference/Func/NSFNoteHasObjects)
+[NSFNoteHasRFC822Text](/domino-c-api-docs/reference/Func/NSFNoteHasRFC822Text)
 ---

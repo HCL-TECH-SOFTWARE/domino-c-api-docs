@@ -10,6 +10,6 @@ This is the datatype of the Callback function passed to functions DXLImport and
 XSLTTransform.
 
 **See Also :**
-[DXLImport](/reference/Func/DXLImport)
-[XSLTTransform](/reference/Func/XSLTTransform)
+[DXLImport](/domino-c-api-docs/reference/Func/DXLImport)
+[XSLTTransform](/domino-c-api-docs/reference/Func/XSLTTransform)
 ---

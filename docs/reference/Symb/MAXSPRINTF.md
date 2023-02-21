@@ -9,5 +9,5 @@
 Maximum string size supported for OSLoadString.
 
 **See Also :**
-[OSLoadString](/reference/Func/OSLoadString)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
 ---

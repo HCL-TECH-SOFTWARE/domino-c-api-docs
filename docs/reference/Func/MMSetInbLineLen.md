@@ -34,6 +34,6 @@ MMSetInbLineLen(hCC, 75); /* if set, when converting MIME rich text parts
 
 ```
 **See Also :**
-[MMGetInbLineLen](/reference/Func/MMGetInbLineLen)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetInbLineLen](/domino-c-api-docs/reference/Func/MMGetInbLineLen)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

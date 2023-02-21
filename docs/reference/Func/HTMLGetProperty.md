@@ -131,7 +131,7 @@ pProperty  -  A pointer to the value.
 
 ```
 **See Also :**
-[HTMLAPI_PROP_TYPE](/reference/Data/HTMLAPI_PROP_TYPE)
-[HTMLSetHTMLOptions](/reference/Func/HTMLSetHTMLOptions)
-[HTMLSetProperty](/reference/Func/HTMLSetProperty)
+[HTMLAPI_PROP_TYPE](/domino-c-api-docs/reference/Data/HTMLAPI_PROP_TYPE)
+[HTMLSetHTMLOptions](/domino-c-api-docs/reference/Func/HTMLSetHTMLOptions)
+[HTMLSetProperty](/domino-c-api-docs/reference/Func/HTMLSetProperty)
 ---

@@ -53,7 +53,7 @@ ViewColumnFormat.ConstantValueSize = 0; /* RESERVED _ SHOULD BE 0 */
 ODSWriteMemory( &pVFBuf, _VIEW_COLUMN_FORMAT, &ViewColumnFormat, 1 );
 ```
 **See Also :**
-[VIEW_COLUMN_FORMAT2](/reference/Data/VIEW_COLUMN_FORMAT2)
-[VIEW_TABLE_FORMAT](/reference/Data/VIEW_TABLE_FORMAT)
-[VIEW_TABLE_FORMAT2](/reference/Data/VIEW_TABLE_FORMAT2)
+[VIEW_COLUMN_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT2)
+[VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
+[VIEW_TABLE_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT2)
 ---

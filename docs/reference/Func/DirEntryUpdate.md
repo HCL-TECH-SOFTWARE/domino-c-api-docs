@@ -28,6 +28,6 @@ Output :
 
 
 **See Also :**
-[DirEntryItemAdd](/reference/Func/DirEntryItemAdd)
-[DirEntryItemDelete](/reference/Func/DirEntryItemDelete)
+[DirEntryItemAdd](/domino-c-api-docs/reference/Func/DirEntryItemAdd)
+[DirEntryItemDelete](/domino-c-api-docs/reference/Func/DirEntryItemDelete)
 ---

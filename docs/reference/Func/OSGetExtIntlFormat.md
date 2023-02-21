@@ -31,13 +31,13 @@ buff  -  Output buffer.
 
 
 **See Also :**
-[ABBRERANAME](/reference/Symb/ABBRERANAME)
-[ABBR_MONTH_NAMES](/reference/Symb/ABBR_MONTH_NAMES)
-[ABBR_WEEKDAY_NAMES](/reference/Symb/ABBR_WEEKDAY_NAMES)
-[CALENDARTYPE](/reference/Symb/CALENDARTYPE)
-[CALENDAR_xxx](/reference/Symb/CALENDAR_xxx)
-[ERANAME](/reference/Symb/ERANAME)
-[EXT_xxx](/reference/Symb/EXT_xxx)
-[MONTH_NAMES](/reference/Symb/MONTH_NAMES)
-[WEEKDAY_NAMES](/reference/Symb/WEEKDAY_NAMES)
+[ABBRERANAME](/domino-c-api-docs/reference/Symb/ABBRERANAME)
+[ABBR_MONTH_NAMES](/domino-c-api-docs/reference/Symb/ABBR_MONTH_NAMES)
+[ABBR_WEEKDAY_NAMES](/domino-c-api-docs/reference/Symb/ABBR_WEEKDAY_NAMES)
+[CALENDARTYPE](/domino-c-api-docs/reference/Symb/CALENDARTYPE)
+[CALENDAR_xxx](/domino-c-api-docs/reference/Symb/CALENDAR_xxx)
+[ERANAME](/domino-c-api-docs/reference/Symb/ERANAME)
+[EXT_xxx](/domino-c-api-docs/reference/Symb/EXT_xxx)
+[MONTH_NAMES](/domino-c-api-docs/reference/Symb/MONTH_NAMES)
+[WEEKDAY_NAMES](/domino-c-api-docs/reference/Symb/WEEKDAY_NAMES)
 ---

@@ -29,6 +29,6 @@ retClass  -  The address of the database creation class specified when the datab
 
 
 **See Also :**
-[NSFDbCreate](/reference/Func/NSFDbCreate)
-[DBCLASS_xxx](/reference/Symb/DBCLASS_xxx)
+[NSFDbCreate](/domino-c-api-docs/reference/Func/NSFDbCreate)
+[DBCLASS_xxx](/domino-c-api-docs/reference/Symb/DBCLASS_xxx)
 ---

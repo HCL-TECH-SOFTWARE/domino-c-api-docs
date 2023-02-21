@@ -21,5 +21,5 @@ An ERR status on failure indicating the problem.
 
 
 **See Also :**
-[OOOInit](/reference/Func/OOOInit)
+[OOOInit](/domino-c-api-docs/reference/Func/OOOInit)
 ---

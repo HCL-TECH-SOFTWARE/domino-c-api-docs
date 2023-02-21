@@ -86,10 +86,10 @@ STATUS LNCALLOBACK field_action
 
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
-[NSFITEMSCANPROC](/reference/Data/NSFITEMSCANPROC)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
+[NSFITEMSCANPROC](/domino-c-api-docs/reference/Data/NSFITEMSCANPROC)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

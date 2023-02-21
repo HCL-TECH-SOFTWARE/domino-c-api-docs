@@ -29,9 +29,9 @@ This record is followed by CDACTIONBAREXT, then CDACTION records defining the
 available actions.
 
 **See Also :**
-[ACTION_BAR_FLAG_xxx](/reference/Symb/ACTION_BAR_FLAG_xxx)
-[ACTION_BORDER_xxx](/reference/Symb/ACTION_BORDER_xxx)
-[ACTION_LINE_xxx](/reference/Symb/ACTION_LINE_xxx)
-[CDACTION](/reference/Data/CDACTION)
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[ACTION_BAR_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTION_BAR_FLAG_xxx)
+[ACTION_BORDER_xxx](/domino-c-api-docs/reference/Symb/ACTION_BORDER_xxx)
+[ACTION_LINE_xxx](/domino-c-api-docs/reference/Symb/ACTION_LINE_xxx)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

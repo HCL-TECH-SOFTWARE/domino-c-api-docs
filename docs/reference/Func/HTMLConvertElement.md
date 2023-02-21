@@ -229,12 +229,12 @@ pszItemName,
 }
 ```
 **See Also :**
-[HTMLConvertImage](/reference/Func/HTMLConvertImage)
-[HTMLConvertItem](/reference/Func/HTMLConvertItem)
-[HTMLConvertNote](/reference/Func/HTMLConvertNote)
-[HTMLCreateConverter](/reference/Func/HTMLCreateConverter)
-[HTMLDestroyConverter](/reference/Func/HTMLDestroyConverter)
-[HTMLGetProperty](/reference/Func/HTMLGetProperty)
-[HTMLGetReference](/reference/Func/HTMLGetReference)
-[HTMLGetText](/reference/Func/HTMLGetText)
+[HTMLConvertImage](/domino-c-api-docs/reference/Func/HTMLConvertImage)
+[HTMLConvertItem](/domino-c-api-docs/reference/Func/HTMLConvertItem)
+[HTMLConvertNote](/domino-c-api-docs/reference/Func/HTMLConvertNote)
+[HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
+[HTMLDestroyConverter](/domino-c-api-docs/reference/Func/HTMLDestroyConverter)
+[HTMLGetProperty](/domino-c-api-docs/reference/Func/HTMLGetProperty)
+[HTMLGetReference](/domino-c-api-docs/reference/Func/HTMLGetReference)
+[HTMLGetText](/domino-c-api-docs/reference/Func/HTMLGetText)
 ---

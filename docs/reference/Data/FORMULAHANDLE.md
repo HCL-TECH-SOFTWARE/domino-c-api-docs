@@ -10,7 +10,7 @@ A FORMULAHANDLE is the method by which an API program refers to a compiled
 formula. 
 
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[NSFFormulaSummaryItem](/reference/Func/NSFFormulaSummaryItem)
-[NSFSearch](/reference/Func/NSFSearch)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[NSFFormulaSummaryItem](/domino-c-api-docs/reference/Func/NSFFormulaSummaryItem)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
 ---

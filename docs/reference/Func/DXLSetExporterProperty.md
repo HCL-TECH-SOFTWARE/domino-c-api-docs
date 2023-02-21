@@ -32,7 +32,7 @@ ERR_xxx - Other errors returned by this function and includes errors returned by
 
 
 **See Also :**
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
-[DXLGetExporterProperty](/reference/Func/DXLGetExporterProperty)
-[DXL_EXPORT_PROPERTY](/reference/Data/DXL_EXPORT_PROPERTY)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
+[DXLGetExporterProperty](/domino-c-api-docs/reference/Func/DXLGetExporterProperty)
+[DXL_EXPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_EXPORT_PROPERTY)
 ---

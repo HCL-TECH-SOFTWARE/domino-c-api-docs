@@ -245,11 +245,11 @@ CloseSearch:
    error = FTCloseSearch(hSearch);
 ```
 **See Also :**
-[FTCloseSearch](/reference/Func/FTCloseSearch)
-[FTOpenSearch](/reference/Func/FTOpenSearch)
-[FTSearch](/reference/Func/FTSearch)
-[FT_SEARCH_RESULTS](/reference/Data/FT_SEARCH_RESULTS)
-[FT_SEARCH_RESULT_ENTRY](/reference/Data/FT_SEARCH_RESULT_ENTRY)
-[FT_SEARCH_URL_RESULTS](/reference/Data/FT_SEARCH_URL_RESULTS)
-[FT_SEARCH_URL_RESULT_ENTRY](/reference/Data/FT_SEARCH_URL_RESULT_ENTRY)
+[FTCloseSearch](/domino-c-api-docs/reference/Func/FTCloseSearch)
+[FTOpenSearch](/domino-c-api-docs/reference/Func/FTOpenSearch)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FT_SEARCH_RESULTS](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULTS)
+[FT_SEARCH_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULT_ENTRY)
+[FT_SEARCH_URL_RESULTS](/domino-c-api-docs/reference/Data/FT_SEARCH_URL_RESULTS)
+[FT_SEARCH_URL_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_URL_RESULT_ENTRY)
 ---

@@ -69,5 +69,5 @@ pOOOOContext  -  Address of a pointer to the OOO context.  This pointer is used 
 
 
 **See Also :**
-[OOOEndOperation](/reference/Func/OOOEndOperation)
+[OOOEndOperation](/domino-c-api-docs/reference/Func/OOOEndOperation)
 ---

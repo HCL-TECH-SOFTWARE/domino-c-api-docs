@@ -14,6 +14,6 @@ registration for a user.  You are responsible for allocating memory for each
 DUS_ENTRY with OSMemAlloc() and freeing the memory with OSMemFree().
 
 **See Also :**
-[DUSRetrieveGroups](/reference/Func/DUSRetrieveGroups)
-[DUSRetrieveUsers](/reference/Func/DUSRetrieveUsers)
+[DUSRetrieveGroups](/domino-c-api-docs/reference/Func/DUSRetrieveGroups)
+[DUSRetrieveUsers](/domino-c-api-docs/reference/Func/DUSRetrieveUsers)
 ---

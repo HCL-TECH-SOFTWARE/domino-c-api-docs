@@ -30,11 +30,11 @@ phOutList  -  Handle to the duplicate copy of the source text list.
 
 
 **See Also :**
-[ListAddText](/reference/Func/ListAddText)
-[ListAllocate](/reference/Func/ListAllocate)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListRemoveAllEntries](/reference/Func/ListRemoveAllEntries)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
-[ListAddEntry](/reference/Func/ListAddEntry)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListRemoveAllEntries](/domino-c-api-docs/reference/Func/ListRemoveAllEntries)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
 ---

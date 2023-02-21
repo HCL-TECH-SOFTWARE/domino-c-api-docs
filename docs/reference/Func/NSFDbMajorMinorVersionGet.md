@@ -65,8 +65,8 @@ if (rc = NSFDbMajorMinorVersionGet(db_handle, &major_ver, &minor_ver))
 printf("\nMajor ver: %d, minor ver: %d\n", major_ver, minor_ver);
 ```
 **See Also :**
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbGetBuildVersion](/reference/Func/NSFDbGetBuildVersion)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbGetBuildVersion](/domino-c-api-docs/reference/Func/NSFDbGetBuildVersion)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

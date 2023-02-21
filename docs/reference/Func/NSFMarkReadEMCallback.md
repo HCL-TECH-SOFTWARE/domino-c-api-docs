@@ -42,6 +42,6 @@ Output :
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
-[NSFAddToFolderEMCallback](/reference/Func/NSFAddToFolderEMCallback)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[NSFAddToFolderEMCallback](/domino-c-api-docs/reference/Func/NSFAddToFolderEMCallback)
 ---

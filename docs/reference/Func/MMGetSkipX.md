@@ -29,6 +29,6 @@ bSkipX = MMGetSkipX(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetSkipX](/reference/Func/MMSetSkipX)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetSkipX](/domino-c-api-docs/reference/Func/MMSetSkipX)
 ---

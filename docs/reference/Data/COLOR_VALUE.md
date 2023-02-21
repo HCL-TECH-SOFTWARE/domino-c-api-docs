@@ -39,5 +39,5 @@ DK. YELLOW Component1 = 128 Component2 = 128 Component3 = 0
 DK. CYAN  Component1 = 0 Component2 =128 Component3 = 128
 
 **See Also :**
-[COLOR_VALUE_FLAGS_xxx](/reference/Symb/COLOR_VALUE_FLAGS_xxx)
+[COLOR_VALUE_FLAGS_xxx](/domino-c-api-docs/reference/Symb/COLOR_VALUE_FLAGS_xxx)
 ---

@@ -9,5 +9,5 @@
 Value for ECFlags member of CDEXT2FIELD.
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
 ---

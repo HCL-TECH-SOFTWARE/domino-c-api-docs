@@ -57,9 +57,9 @@ if (AddInDayHasElapsed())
 }
 ```
 **See Also :**
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[AddInMain](/reference/Func/AddInMain)
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
 ---

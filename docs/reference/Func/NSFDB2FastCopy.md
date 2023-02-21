@@ -177,7 +177,7 @@ ERR_DB2NSF_NOT_ENABLED_FOR_DB2 - The Domino server is not enabled for DB2.
 
 
 **See Also :**
-[DB2BACKUP_xxx](/reference/Symb/DB2BACKUP_xxx)
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
-[NSFDB2GetServerInfo](/reference/Func/NSFDB2GetServerInfo)
+[DB2BACKUP_xxx](/domino-c-api-docs/reference/Symb/DB2BACKUP_xxx)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
+[NSFDB2GetServerInfo](/domino-c-api-docs/reference/Func/NSFDB2GetServerInfo)
 ---

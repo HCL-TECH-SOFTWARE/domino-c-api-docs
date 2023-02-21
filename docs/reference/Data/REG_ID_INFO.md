@@ -31,7 +31,7 @@ pReserved   Reserved - must be NULL
 
 
 **See Also :**
-[REGNewCertifierExtended](/reference/Func/REGNewCertifierExtended)
-[REGNewPerson](/reference/Func/REGNewPerson)
-[REGNewServerExtended2](/reference/Func/REGNewServerExtended2)
+[REGNewCertifierExtended](/domino-c-api-docs/reference/Func/REGNewCertifierExtended)
+[REGNewPerson](/domino-c-api-docs/reference/Func/REGNewPerson)
+[REGNewServerExtended2](/domino-c-api-docs/reference/Func/REGNewServerExtended2)
 ---

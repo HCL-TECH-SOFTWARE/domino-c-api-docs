@@ -52,8 +52,8 @@ pdwId  -  Pointer to the location which contains the Id of the associated $FILE.
 
 
 **See Also :**
-[ASSOCITEM_IFEXISTS_xxx](/reference/Symb/ASSOCITEM_IFEXISTS_xxx)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteOLEDisassociateFileFromObject](/reference/Func/NSFNoteOLEDisassociateFileFromObject)
-[NSFNoteOLEGetAssociateFileOnObject](/reference/Func/NSFNoteOLEGetAssociateFileOnObject)
+[ASSOCITEM_IFEXISTS_xxx](/domino-c-api-docs/reference/Symb/ASSOCITEM_IFEXISTS_xxx)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteOLEDisassociateFileFromObject](/domino-c-api-docs/reference/Func/NSFNoteOLEDisassociateFileFromObject)
+[NSFNoteOLEGetAssociateFileOnObject](/domino-c-api-docs/reference/Func/NSFNoteOLEGetAssociateFileOnObject)
 ---

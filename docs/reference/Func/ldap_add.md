@@ -47,7 +47,7 @@ LDAPMod *attrs[] = {
 msgid = ldap_add( ld, dn, attrs );
 ```
 **See Also :**
-[ldap_modify](/reference/Func/ldap_modify)
-[LDAP_MOD_xxx](/reference/Symb/LDAP_MOD_xxx)
-[mod_xxx](/reference/Symb/mod_xxx)
+[ldap_modify](/domino-c-api-docs/reference/Func/ldap_modify)
+[LDAP_MOD_xxx](/domino-c-api-docs/reference/Symb/LDAP_MOD_xxx)
+[mod_xxx](/domino-c-api-docs/reference/Symb/mod_xxx)
 ---

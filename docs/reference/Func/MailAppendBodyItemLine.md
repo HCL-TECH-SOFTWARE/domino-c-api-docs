@@ -78,7 +78,7 @@ Close:
     /* close message file */
 ```
 **See Also :**
-[MailAddBodyItemExt](/reference/Func/MailAddBodyItemExt)
-[MailAddMessageBodyTextExt](/reference/Func/MailAddMessageBodyTextExt)
-[MailCreateBodyItem](/reference/Func/MailCreateBodyItem)
+[MailAddBodyItemExt](/domino-c-api-docs/reference/Func/MailAddBodyItemExt)
+[MailAddMessageBodyTextExt](/domino-c-api-docs/reference/Func/MailAddMessageBodyTextExt)
+[MailCreateBodyItem](/domino-c-api-docs/reference/Func/MailCreateBodyItem)
 ---

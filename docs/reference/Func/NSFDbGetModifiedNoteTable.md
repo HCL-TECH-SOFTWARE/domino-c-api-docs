@@ -83,9 +83,9 @@ rethTable  -  The address of a HANDLE into which the handle of the newly allocat
 
 ```
 **See Also :**
-[IDEnumerate](/reference/Func/IDEnumerate)
-[NSFApplyModifiedNoteTable](/reference/Func/NSFApplyModifiedNoteTable)
-[NSFDbDeleteNotes](/reference/Func/NSFDbDeleteNotes)
-[NSFDbStampNotes](/reference/Func/NSFDbStampNotes)
-[IDDestroyTable](/reference/Func/IDDestroyTable)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[NSFApplyModifiedNoteTable](/domino-c-api-docs/reference/Func/NSFApplyModifiedNoteTable)
+[NSFDbDeleteNotes](/domino-c-api-docs/reference/Func/NSFDbDeleteNotes)
+[NSFDbStampNotes](/domino-c-api-docs/reference/Func/NSFDbStampNotes)
+[IDDestroyTable](/domino-c-api-docs/reference/Func/IDDestroyTable)
 ---

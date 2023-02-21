@@ -74,8 +74,8 @@ sError = NSFFormulaCompile( NULL,
                             &wdc, &wdc );
 ```
 **See Also :**
-[OSMemFree](/reference/Func/OSMemFree)
-[NSFSearch](/reference/Func/NSFSearch)
-[NSFComputeStart](/reference/Func/NSFComputeStart)
-[NSFComputeEvaluate](/reference/Func/NSFComputeEvaluate)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NSFComputeStart](/domino-c-api-docs/reference/Func/NSFComputeStart)
+[NSFComputeEvaluate](/domino-c-api-docs/reference/Func/NSFComputeEvaluate)
 ---

@@ -15,6 +15,6 @@ Implementors must call ArchiveDocumentDestroy when finished to free resources.
               NOERROR return status means that it is successful.
 
 **See Also :**
-[ArchiveDocumentExport](/reference/Func/ArchiveDocumentExport)
-[ArchiveExportDatabase](/reference/Func/ArchiveExportDatabase)
+[ArchiveDocumentExport](/domino-c-api-docs/reference/Func/ArchiveDocumentExport)
+[ArchiveExportDatabase](/domino-c-api-docs/reference/Func/ArchiveExportDatabase)
 ---

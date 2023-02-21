@@ -10,5 +10,5 @@ These symbols specify which information is to be returned in SECKFMUserInfo.
 Currently, only one symbol is supported.
 
 **See Also :**
-[SECKFMUserInfo](/reference/Func/SECKFMUserInfo)
+[SECKFMUserInfo](/domino-c-api-docs/reference/Func/SECKFMUserInfo)
 ---

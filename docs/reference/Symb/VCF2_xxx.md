@@ -12,7 +12,7 @@ specific attribute.  The Mask flags specify the bit mask (which bits are used)
 for a specific attribute.
 
 **See Also :**
-[NIF_STAT_xxx](/reference/Symb/NIF_STAT_xxx)
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
-[VIEW_COL_ALIGN_xxx](/reference/Symb/VIEW_COL_ALIGN_xxx)
+[NIF_STAT_xxx](/domino-c-api-docs/reference/Symb/NIF_STAT_xxx)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_COL_ALIGN_xxx](/domino-c-api-docs/reference/Symb/VIEW_COL_ALIGN_xxx)
 ---

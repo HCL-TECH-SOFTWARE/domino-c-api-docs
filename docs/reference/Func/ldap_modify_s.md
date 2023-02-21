@@ -41,5 +41,5 @@ LDAPMod *mods[] = {
 ldap_modify_s( ld, dn, mods );
 ```
 **See Also :**
-[LDAPMod](/reference/Data/LDAPMod)
+[LDAPMod](/domino-c-api-docs/reference/Data/LDAPMod)
 ---

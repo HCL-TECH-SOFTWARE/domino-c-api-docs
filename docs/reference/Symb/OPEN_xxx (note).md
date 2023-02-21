@@ -26,10 +26,10 @@ structured.
 
 
 **See Also :**
-[NSFDbCopyNoteExt](/reference/Func/NSFDbCopyNoteExt)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteOpenByUNID](/reference/Func/NSFNoteOpenByUNID)
-[NSFNoteOpenExt](/reference/Func/NSFNoteOpenExt)
-[NSFNoteSign](/reference/Func/NSFNoteSign)
+[NSFDbCopyNoteExt](/domino-c-api-docs/reference/Func/NSFDbCopyNoteExt)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteOpenByUNID](/domino-c-api-docs/reference/Func/NSFNoteOpenByUNID)
+[NSFNoteOpenExt](/domino-c-api-docs/reference/Func/NSFNoteOpenExt)
+[NSFNoteSign](/domino-c-api-docs/reference/Func/NSFNoteSign)
 ---

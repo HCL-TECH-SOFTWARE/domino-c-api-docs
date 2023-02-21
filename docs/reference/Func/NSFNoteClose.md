@@ -30,7 +30,7 @@ Output :
 
 ```
 **See Also :**
-[NSFNoteCreate](/reference/Func/NSFNoteCreate)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
+[NSFNoteCreate](/domino-c-api-docs/reference/Func/NSFNoteCreate)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
 ---

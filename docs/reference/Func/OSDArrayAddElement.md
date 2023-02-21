@@ -86,8 +86,8 @@ status = OSDArrayAddElement (hArray, &pArray, &entry, index);
 
 ```
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[OSDArrayAlloc](/reference/Func/OSDArrayAlloc)
-[OSDArrayRemoveElement](/reference/Func/OSDArrayRemoveElement)
-[PSTRING](/reference/Data/PSTRING)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[OSDArrayAlloc](/domino-c-api-docs/reference/Func/OSDArrayAlloc)
+[OSDArrayRemoveElement](/domino-c-api-docs/reference/Func/OSDArrayRemoveElement)
+[PSTRING](/domino-c-api-docs/reference/Data/PSTRING)
 ---

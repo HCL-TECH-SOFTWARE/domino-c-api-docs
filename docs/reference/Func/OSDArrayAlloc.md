@@ -89,10 +89,10 @@ status = OSDArrayAlloc (
 
 ```
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[OSDArrayAddElement](/reference/Func/OSDArrayAddElement)
-[OSDArrayRemoveElement](/reference/Func/OSDArrayRemoveElement)
-[OSMemFree](/reference/Func/OSMemFree)
-[PSTRING](/reference/Data/PSTRING)
-[OSDArraySetFreeSizes](/reference/Func/OSDArraySetFreeSizes)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[OSDArrayAddElement](/domino-c-api-docs/reference/Func/OSDArrayAddElement)
+[OSDArrayRemoveElement](/domino-c-api-docs/reference/Func/OSDArrayRemoveElement)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[PSTRING](/domino-c-api-docs/reference/Data/PSTRING)
+[OSDArraySetFreeSizes](/domino-c-api-docs/reference/Func/OSDArraySetFreeSizes)
 ---

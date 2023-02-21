@@ -33,6 +33,6 @@ perform host/canonical conversion on structures of this type when accessing
 these records in an item in a note.
 
 **See Also :**
-[CDLARGEPARAGRAPH_xxx](/reference/Symb/CDLARGEPARAGRAPH_xxx)
-[LARGEPARAGRAPH_xxx](/reference/Symb/LARGEPARAGRAPH_xxx)
+[CDLARGEPARAGRAPH_xxx](/domino-c-api-docs/reference/Symb/CDLARGEPARAGRAPH_xxx)
+[LARGEPARAGRAPH_xxx](/domino-c-api-docs/reference/Symb/LARGEPARAGRAPH_xxx)
 ---

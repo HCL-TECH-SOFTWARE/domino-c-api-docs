@@ -27,6 +27,6 @@ present.
 
 
 **See Also :**
-[FilterContext](/reference/Data/FilterContext)
-[RequestMethod](/reference/Data/RequestMethod)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[RequestMethod](/domino-c-api-docs/reference/Data/RequestMethod)
 ---

@@ -32,7 +32,7 @@ Output :
 msgid = ldap_msgid(lm);
 ```
 **See Also :**
-[ldap_msgfree](/reference/Func/ldap_msgfree)
-[ldap_msgtype](/reference/Func/ldap_msgtype)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_msgfree](/domino-c-api-docs/reference/Func/ldap_msgfree)
+[ldap_msgtype](/domino-c-api-docs/reference/Func/ldap_msgtype)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

@@ -10,6 +10,6 @@ Optional possible values for the MailSystem parameter in REGNewWorkstation and
 REGNewWorkstationExtended.
 
 **See Also :**
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[REGNewWorkstationExtended](/reference/Func/REGNewWorkstationExtended)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[REGNewWorkstationExtended](/domino-c-api-docs/reference/Func/REGNewWorkstationExtended)
 ---

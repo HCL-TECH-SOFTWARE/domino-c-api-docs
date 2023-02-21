@@ -54,5 +54,5 @@ OriginatorNameLength  -  Originator string length (not including '\0').
         printf ("\tOriginator = '%s'\n", Originator);
 ```
 **See Also :**
-[MailGetMessageOriginatorDomain](/reference/Func/MailGetMessageOriginatorDomain)
+[MailGetMessageOriginatorDomain](/domino-c-api-docs/reference/Func/MailGetMessageOriginatorDomain)
 ---

@@ -206,11 +206,11 @@ OSMemFree(hLookup);
 
 ```
 **See Also :**
-[NAMEGetTextItem2](/reference/Func/NAMEGetTextItem2)
-[NAMELocateItem2](/reference/Func/NAMELocateItem2)
-[NAMELocateMatchAndItem2](/reference/Func/NAMELocateMatchAndItem2)
-[NAMELocateNextMatch2](/reference/Func/NAMELocateNextMatch2)
-[NAMELocateNextName2](/reference/Func/NAMELocateNextName2)
-[NAMELookup](/reference/Func/NAMELookup)
-[NAME_LOOKUP_xxx](/reference/Symb/NAME_LOOKUP_xxx)
+[NAMEGetTextItem2](/domino-c-api-docs/reference/Func/NAMEGetTextItem2)
+[NAMELocateItem2](/domino-c-api-docs/reference/Func/NAMELocateItem2)
+[NAMELocateMatchAndItem2](/domino-c-api-docs/reference/Func/NAMELocateMatchAndItem2)
+[NAMELocateNextMatch2](/domino-c-api-docs/reference/Func/NAMELocateNextMatch2)
+[NAMELocateNextName2](/domino-c-api-docs/reference/Func/NAMELocateNextName2)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[NAME_LOOKUP_xxx](/domino-c-api-docs/reference/Symb/NAME_LOOKUP_xxx)
 ---

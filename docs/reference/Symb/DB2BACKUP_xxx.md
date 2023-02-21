@@ -10,6 +10,6 @@ These values are optional values for the flags parameter of
 NSFDB2ReconnectNotesDatabase.  
 
 **See Also :**
-[NSFDB2FastCopy](/reference/Func/NSFDB2FastCopy)
-[NSFDB2ReconnectNotesDatabase](/reference/Func/NSFDB2ReconnectNotesDatabase)
+[NSFDB2FastCopy](/domino-c-api-docs/reference/Func/NSFDB2FastCopy)
+[NSFDB2ReconnectNotesDatabase](/domino-c-api-docs/reference/Func/NSFDB2ReconnectNotesDatabase)
 ---

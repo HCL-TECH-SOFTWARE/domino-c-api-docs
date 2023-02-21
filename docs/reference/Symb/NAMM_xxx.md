@@ -43,9 +43,9 @@ NAMRESULT LNPUBLIC DTMenuProc (WORD wMsg, LONG lParam)
          pInitInfo = (NAM_INIT_INFO *)lParam;
 ```
 **See Also :**
-[WM_ADDIN_xxx](/reference/Symb/WM_ADDIN_xxx)
-[NAM_INIT_INFO](/reference/Data/NAM_INIT_INFO)
-[NAM_INITMENU_INFO](/reference/Data/NAM_INITMENU_INFO)
-[NAM_COMMAND_INFO](/reference/Data/NAM_COMMAND_INFO)
-[NAM_CONTEXT_DATA](/reference/Data/NAM_CONTEXT_DATA)
+[WM_ADDIN_xxx](/domino-c-api-docs/reference/Symb/WM_ADDIN_xxx)
+[NAM_INIT_INFO](/domino-c-api-docs/reference/Data/NAM_INIT_INFO)
+[NAM_INITMENU_INFO](/domino-c-api-docs/reference/Data/NAM_INITMENU_INFO)
+[NAM_COMMAND_INFO](/domino-c-api-docs/reference/Data/NAM_COMMAND_INFO)
+[NAM_CONTEXT_DATA](/domino-c-api-docs/reference/Data/NAM_CONTEXT_DATA)
 ---

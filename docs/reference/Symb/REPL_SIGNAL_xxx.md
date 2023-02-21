@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[OSSIGREPLPROC](/reference/Data/OSSIGREPLPROC)
+[OSSIGREPLPROC](/domino-c-api-docs/reference/Data/OSSIGREPLPROC)
 ---

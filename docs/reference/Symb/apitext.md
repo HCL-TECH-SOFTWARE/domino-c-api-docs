@@ -24,13 +24,13 @@ is followed by another #define.
 
 
 **See Also :**
-[errortext](/reference/Symb/errortext)
-[internaltext](/reference/Symb/internaltext)
-[helptext](/reference/Symb/helptext)
-[stringtext](/reference/Symb/stringtext)
-[debugtext](/reference/Symb/debugtext)
-[limitedasciitext](/reference/Symb/limitedasciitext)
-[blocktext](/reference/Symb/blocktext)
-[semtext](/reference/Symb/semtext)
-[donottranslatetext](/reference/Symb/donottranslatetext)
+[errortext](/domino-c-api-docs/reference/Symb/errortext)
+[internaltext](/domino-c-api-docs/reference/Symb/internaltext)
+[helptext](/domino-c-api-docs/reference/Symb/helptext)
+[stringtext](/domino-c-api-docs/reference/Symb/stringtext)
+[debugtext](/domino-c-api-docs/reference/Symb/debugtext)
+[limitedasciitext](/domino-c-api-docs/reference/Symb/limitedasciitext)
+[blocktext](/domino-c-api-docs/reference/Symb/blocktext)
+[semtext](/domino-c-api-docs/reference/Symb/semtext)
+[donottranslatetext](/domino-c-api-docs/reference/Symb/donottranslatetext)
 ---

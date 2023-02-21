@@ -38,8 +38,8 @@ wSpare   Spare word
 spare[2]   Spare dwords
 
 **See Also :**
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[PRINTNEW_SETTINGS](/reference/Data/PRINTNEW_SETTINGS)
-[PSPO_xxx](/reference/Symb/PSPO_xxx)
-[PS_xxx](/reference/Symb/PS_xxx)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[PRINTNEW_SETTINGS](/domino-c-api-docs/reference/Data/PRINTNEW_SETTINGS)
+[PSPO_xxx](/domino-c-api-docs/reference/Symb/PSPO_xxx)
+[PS_xxx](/domino-c-api-docs/reference/Symb/PS_xxx)
 ---

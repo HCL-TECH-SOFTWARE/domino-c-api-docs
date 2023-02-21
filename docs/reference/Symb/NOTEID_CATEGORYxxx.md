@@ -19,6 +19,6 @@ that don't point to a real note. */
              printf ("Note ID number %lu is: %lX\n", ++note_count, id_list[i]);
 ```
 **See Also :**
-[NOTEID_xxx](/reference/Symb/NOTEID_xxx)
-[NOTEID](/reference/Data/NOTEID)
+[NOTEID_xxx](/domino-c-api-docs/reference/Symb/NOTEID_xxx)
+[NOTEID](/domino-c-api-docs/reference/Data/NOTEID)
 ---

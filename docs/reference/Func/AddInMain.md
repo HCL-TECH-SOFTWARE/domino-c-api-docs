@@ -82,10 +82,10 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[AddInIdle](/reference/Func/AddInIdle)
-[AddInShouldTerminate](/reference/Func/AddInShouldTerminate)
-[NotesInit](/reference/Func/NotesInit)
-[NotesInitExtended](/reference/Func/NotesInitExtended)
-[NotesMain](/reference/Func/NotesMain)
-[NotesTerm](/reference/Func/NotesTerm)
+[AddInIdle](/domino-c-api-docs/reference/Func/AddInIdle)
+[AddInShouldTerminate](/domino-c-api-docs/reference/Func/AddInShouldTerminate)
+[NotesInit](/domino-c-api-docs/reference/Func/NotesInit)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
+[NotesTerm](/domino-c-api-docs/reference/Func/NotesTerm)
 ---

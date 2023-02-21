@@ -69,8 +69,8 @@ Report  -  (Optional) - If not NULL, type of delivery reporting requested, which
         }   /* end of loop over recipients */
 ```
 **See Also :**
-[DELIVERY_PRIORITY_xxx](/reference/Symb/DELIVERY_PRIORITY_xxx)
-[DELIVERY_REPORT_xxx](/reference/Symb/DELIVERY_REPORT_xxx)
-[MailGetMessageRecipient](/reference/Func/MailGetMessageRecipient)
-[MailParseMailAddress](/reference/Func/MailParseMailAddress)
+[DELIVERY_PRIORITY_xxx](/domino-c-api-docs/reference/Symb/DELIVERY_PRIORITY_xxx)
+[DELIVERY_REPORT_xxx](/domino-c-api-docs/reference/Symb/DELIVERY_REPORT_xxx)
+[MailGetMessageRecipient](/domino-c-api-docs/reference/Func/MailGetMessageRecipient)
+[MailParseMailAddress](/domino-c-api-docs/reference/Func/MailParseMailAddress)
 ---

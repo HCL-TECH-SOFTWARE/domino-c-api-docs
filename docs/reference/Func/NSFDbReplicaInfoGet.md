@@ -54,5 +54,5 @@ retReplicationInfo  -  The address of a DBREPLICAINFO structure in which the dat
 
 ```
 **See Also :**
-[NSFDbReplicaInfoSet](/reference/Func/NSFDbReplicaInfoSet)
+[NSFDbReplicaInfoSet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoSet)
 ---

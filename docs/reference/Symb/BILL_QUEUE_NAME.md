@@ -11,5 +11,5 @@ This value is passed to the MQOpen() function when called by a billing add-in
 server task.
 
 **See Also :**
-[MQOpen](/reference/Func/MQOpen)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
 ---

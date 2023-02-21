@@ -37,8 +37,8 @@ Usage example:
         (char NOTESPTR) "Current Status");
 ```
 **See Also :**
-[LNVARARGS](/reference/Symb/LNVARARGS)
-[NOTESAPI](/reference/Data/NOTESAPI)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
-[NotesMain](/reference/Func/NotesMain)
+[LNVARARGS](/domino-c-api-docs/reference/Symb/LNVARARGS)
+[NOTESAPI](/domino-c-api-docs/reference/Data/NOTESAPI)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
 ---

@@ -9,5 +9,5 @@
 Constants which define the shape within a CDAREAELEMENT record.
 
 **See Also :**
-[CDAREAELEMENT](/reference/Data/CDAREAELEMENT)
+[CDAREAELEMENT](/domino-c-api-docs/reference/Data/CDAREAELEMENT)
 ---

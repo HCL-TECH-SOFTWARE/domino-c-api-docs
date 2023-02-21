@@ -51,8 +51,8 @@ Output :
        }
 ```
 **See Also :**
-[AddInIdle](/reference/Func/AddInIdle)
-[AddInSecondsHaveElapsed](/reference/Func/AddInSecondsHaveElapsed)
-[AddInMinutesHaveElapsed](/reference/Func/AddInMinutesHaveElapsed)
-[AddInShouldTerminate](/reference/Func/AddInShouldTerminate)
+[AddInIdle](/domino-c-api-docs/reference/Func/AddInIdle)
+[AddInSecondsHaveElapsed](/domino-c-api-docs/reference/Func/AddInSecondsHaveElapsed)
+[AddInMinutesHaveElapsed](/domino-c-api-docs/reference/Func/AddInMinutesHaveElapsed)
+[AddInShouldTerminate](/domino-c-api-docs/reference/Func/AddInShouldTerminate)
 ---

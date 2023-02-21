@@ -24,5 +24,5 @@ to maintain context to account for this.
 
 
 **See Also :**
-[ArchiveDocumentInsertItem](/reference/Func/ArchiveDocumentInsertItem)
+[ArchiveDocumentInsertItem](/domino-c-api-docs/reference/Func/ArchiveDocumentInsertItem)
 ---

@@ -112,9 +112,9 @@ retSize  -  receives the data length, in bytes, of the requested item value, inc
 OSMemFree (hLookup);
 ```
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[NAMELocateNextName](/reference/Func/NAMELocateNextName)
-[NAMELocateNextMatch](/reference/Func/NAMELocateNextMatch)
-[NAMEGetTextItem](/reference/Func/NAMEGetTextItem)
-[OSLockObject](/reference/Func/OSLockObject)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[NAMELocateNextName](/domino-c-api-docs/reference/Func/NAMELocateNextName)
+[NAMELocateNextMatch](/domino-c-api-docs/reference/Func/NAMELocateNextMatch)
+[NAMEGetTextItem](/domino-c-api-docs/reference/Func/NAMEGetTextItem)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
 ---

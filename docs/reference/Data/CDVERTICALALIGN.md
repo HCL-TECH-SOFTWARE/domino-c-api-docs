@@ -12,6 +12,6 @@ BSIG Header  Signature and length of this record.
 WORD Alignment see VERTICAL_ALIGNMENT_xxx
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[VERTICAL_ALIGNMENT_xxx](/reference/Symb/VERTICAL_ALIGNMENT_xxx)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[VERTICAL_ALIGNMENT_xxx](/domino-c-api-docs/reference/Symb/VERTICAL_ALIGNMENT_xxx)
 ---

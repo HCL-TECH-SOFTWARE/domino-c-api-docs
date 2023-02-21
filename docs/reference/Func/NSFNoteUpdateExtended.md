@@ -45,12 +45,12 @@ ERR_SUMMARY_TOO_BIG -  "Field is too large (32K) or field's column in selection 
 
 
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[UPDATE_xxx](/reference/Symb/UPDATE_xxx)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[UPDATE_xxx](/domino-c-api-docs/reference/Symb/UPDATE_xxx)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
 ---

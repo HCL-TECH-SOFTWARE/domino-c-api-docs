@@ -9,5 +9,5 @@
 Log entry ID numbers that are reserved.
 
 **See Also :**
-[LogCreateEntry](/reference/Func/LogCreateEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
 ---

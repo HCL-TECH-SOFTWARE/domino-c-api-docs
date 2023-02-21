@@ -9,5 +9,5 @@
 A LONG is a signed 32-bit integer.
 
 **See Also :**
-[ULONG](/reference/Data/ULONG)
+[ULONG](/domino-c-api-docs/reference/Data/ULONG)
 ---

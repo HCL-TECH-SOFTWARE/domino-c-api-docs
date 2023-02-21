@@ -11,5 +11,5 @@ uses a different datatype for a boolean value than BOOL, the datatype that
 Domino and Notes uses for a boolean value.
 
 **See Also :**
-[BOOL](/reference/Data/BOOL)
+[BOOL](/domino-c-api-docs/reference/Data/BOOL)
 ---

@@ -22,6 +22,6 @@ VIEW_COLUMN_FORMAT structure.
 
 
 **See Also :**
-[VCF2_xxx](/reference/Symb/VCF2_xxx)
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
+[VCF2_xxx](/domino-c-api-docs/reference/Symb/VCF2_xxx)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
 ---

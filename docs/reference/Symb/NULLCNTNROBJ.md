@@ -9,5 +9,5 @@
 Null container object handle.
 
 **See Also :**
-[HCNTNROBJ](/reference/Data/HCNTNROBJ)
+[HCNTNROBJ](/domino-c-api-docs/reference/Data/HCNTNROBJ)
 ---

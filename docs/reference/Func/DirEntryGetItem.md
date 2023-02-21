@@ -55,5 +55,5 @@ itemValLen  -  The size of the value(s) for itemName in bytes.
 
 
 **See Also :**
-[DirEntryGetItemByName](/reference/Func/DirEntryGetItemByName)
+[DirEntryGetItemByName](/domino-c-api-docs/reference/Func/DirEntryGetItemByName)
 ---

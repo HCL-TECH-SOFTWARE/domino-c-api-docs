@@ -38,5 +38,5 @@ Output :
 
 
 **See Also :**
-[INTL_xxx_SENSITIVE](/reference/Symb/INTL_xxx_SENSITIVE)
+[INTL_xxx_SENSITIVE](/domino-c-api-docs/reference/Symb/INTL_xxx_SENSITIVE)
 ---

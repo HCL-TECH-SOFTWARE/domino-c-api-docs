@@ -27,7 +27,7 @@ Output :
 
 
 **See Also :**
-[FontGetSize](/reference/Func/FontGetSize)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontGetSize](/domino-c-api-docs/reference/Func/FontGetSize)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

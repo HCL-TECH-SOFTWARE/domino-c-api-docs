@@ -10,5 +10,5 @@ Possible optional values for the Flags1 member of the VIEW_COLUMN_FORMAT
 structure.  These values specify column attributes.
 
 **See Also :**
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
 ---

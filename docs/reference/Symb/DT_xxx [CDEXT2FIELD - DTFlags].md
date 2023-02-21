@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
-[DT_GET_STYLE](/reference/Func/DT_GET_STYLE)
-[DT_SET_STYLE](/reference/Func/DT_SET_STYLE)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
+[DT_GET_STYLE](/domino-c-api-docs/reference/Func/DT_GET_STYLE)
+[DT_SET_STYLE](/domino-c-api-docs/reference/Func/DT_SET_STYLE)
 ---

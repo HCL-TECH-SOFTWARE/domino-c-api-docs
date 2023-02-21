@@ -77,9 +77,9 @@ hToItem, ToItemSize, 0))
 
 ```
 **See Also :**
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAllocate](/reference/Func/ListAllocate)
-[MailAddHeaderItem](/reference/Func/MailAddHeaderItem)
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
-[MAIL_xxx_ITEM_NUM(2)](/reference/Symb/MAIL_xxx_ITEM_NUM(2))
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[MailAddHeaderItem](/domino-c-api-docs/reference/Func/MailAddHeaderItem)
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MAIL_xxx_ITEM_NUM(2)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(2))
 ---

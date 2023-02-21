@@ -11,5 +11,5 @@ string holds additional arguments that are passed to the GeneralEntryPoint
 function of a Remote Lan Adapter.
 
 **See Also :**
-[PREMOTE_LAN_SERVICE_ENTRY](/reference/Data/PREMOTE_LAN_SERVICE_ENTRY)
+[PREMOTE_LAN_SERVICE_ENTRY](/domino-c-api-docs/reference/Data/PREMOTE_LAN_SERVICE_ENTRY)
 ---

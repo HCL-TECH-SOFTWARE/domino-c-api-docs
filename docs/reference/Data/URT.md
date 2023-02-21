@@ -13,5 +13,5 @@ This enumerates ways a Notes Object can be references in a URL path.
 see sample html/convattach
 ```
 **See Also :**
-[HTMLAPI_URLTargetComponent](/reference/Data/HTMLAPI_URLTargetComponent)
+[HTMLAPI_URLTargetComponent](/domino-c-api-docs/reference/Data/HTMLAPI_URLTargetComponent)
 ---

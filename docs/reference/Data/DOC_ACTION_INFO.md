@@ -33,7 +33,7 @@ for ACTION_FLAG_xxx.
 
 
 **See Also :**
-[NSFDbReopen](/reference/Func/NSFDbReopen)
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
-[ACTION_FLAG_xxx](/reference/Symb/ACTION_FLAG_xxx)
+[NSFDbReopen](/domino-c-api-docs/reference/Func/NSFDbReopen)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
+[ACTION_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTION_FLAG_xxx)
 ---

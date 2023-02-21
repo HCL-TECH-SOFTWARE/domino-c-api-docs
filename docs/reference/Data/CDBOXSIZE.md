@@ -18,6 +18,6 @@ Reserved Reserved for future use.
 dwReserved Reserved for future use.
 
 **See Also :**
-[CDLAYER](/reference/Data/CDLAYER)
-[CDPOSITIONING](/reference/Data/CDPOSITIONING)
+[CDLAYER](/domino-c-api-docs/reference/Data/CDLAYER)
+[CDPOSITIONING](/domino-c-api-docs/reference/Data/CDPOSITIONING)
 ---

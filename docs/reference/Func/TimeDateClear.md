@@ -21,5 +21,5 @@ tdptr  -  Pointer to the TIMEDATE that is to be cleared.
 
 
 **See Also :**
-[TIMEDATE](/reference/Data/TIMEDATE)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

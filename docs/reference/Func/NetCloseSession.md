@@ -23,5 +23,5 @@ Output :
 
 
 **See Also :**
-[NetLink](/reference/Func/NetLink)
+[NetLink](/domino-c-api-docs/reference/Func/NetLink)
 ---

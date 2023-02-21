@@ -41,7 +41,7 @@ WORD   wSpares[5]
 
 
 **See Also :**
-[CDBORDERSTYLE_xxx](/reference/Symb/CDBORDERSTYLE_xxx)
-[CDBORDER_FLAGS_xxx](/reference/Symb/CDBORDER_FLAGS_xxx)
-[CDPRETABLEBEGIN](/reference/Data/CDPRETABLEBEGIN)
+[CDBORDERSTYLE_xxx](/domino-c-api-docs/reference/Symb/CDBORDERSTYLE_xxx)
+[CDBORDER_FLAGS_xxx](/domino-c-api-docs/reference/Symb/CDBORDER_FLAGS_xxx)
+[CDPRETABLEBEGIN](/domino-c-api-docs/reference/Data/CDPRETABLEBEGIN)
 ---

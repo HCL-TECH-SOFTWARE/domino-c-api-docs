@@ -28,10 +28,10 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[EventQueueAlloc](/reference/Func/EventQueueAlloc)
-[EventQueuePut](/reference/Func/EventQueuePut)
-[EventQueueGet](/reference/Func/EventQueueGet)
-[EventRegisterEventRequest](/reference/Func/EventRegisterEventRequest)
-[EventDeregisterEventRequest](/reference/Func/EventDeregisterEventRequest)
-[EventGetDestName](/reference/Func/EventGetDestName)
+[EventQueueAlloc](/domino-c-api-docs/reference/Func/EventQueueAlloc)
+[EventQueuePut](/domino-c-api-docs/reference/Func/EventQueuePut)
+[EventQueueGet](/domino-c-api-docs/reference/Func/EventQueueGet)
+[EventRegisterEventRequest](/domino-c-api-docs/reference/Func/EventRegisterEventRequest)
+[EventDeregisterEventRequest](/domino-c-api-docs/reference/Func/EventDeregisterEventRequest)
+[EventGetDestName](/domino-c-api-docs/reference/Func/EventGetDestName)
 ---

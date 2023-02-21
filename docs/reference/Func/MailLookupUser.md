@@ -45,5 +45,5 @@ ShortName  -  Short name string (null-terminated) up to MAXUSERNAME+1 in length 
 
 
 **See Also :**
-[MailLookupAddress](/reference/Func/MailLookupAddress)
+[MailLookupAddress](/domino-c-api-docs/reference/Func/MailLookupAddress)
 ---

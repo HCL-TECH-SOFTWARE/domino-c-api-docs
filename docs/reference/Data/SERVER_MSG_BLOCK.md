@@ -28,8 +28,8 @@ proxy collector.  Otherwise set to NULL.
 	
 
 **See Also :**
-[MQGet](/reference/Func/MQGet)
-[MQPut](/reference/Func/MQPut)
-[STAT_RETURN_BLOCK](/reference/Data/STAT_RETURN_BLOCK)
-[xxx_TASK](/reference/Symb/xxx_TASK)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[STAT_RETURN_BLOCK](/domino-c-api-docs/reference/Data/STAT_RETURN_BLOCK)
+[xxx_TASK](/domino-c-api-docs/reference/Symb/xxx_TASK)
 ---

@@ -9,5 +9,5 @@
 Maximum number of SEV_xxx flags.
 
 **See Also :**
-[SEV_xxx](/reference/Symb/SEV_xxx)
+[SEV_xxx](/domino-c-api-docs/reference/Symb/SEV_xxx)
 ---

@@ -64,9 +64,9 @@ Output :
 
 ```
 **See Also :**
-[DBOPTION_xxx](/reference/Symb/DBOPTION_xxx)
-[DNCanonicalize](/reference/Func/DNCanonicalize)
-[NSFDbMarkForDelete](/reference/Func/NSFDbMarkForDelete)
-[NSFDbMarkOutOfService](/reference/Func/NSFDbMarkOutOfService)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[DBOPTION_xxx](/domino-c-api-docs/reference/Symb/DBOPTION_xxx)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
+[NSFDbMarkForDelete](/domino-c-api-docs/reference/Func/NSFDbMarkForDelete)
+[NSFDbMarkOutOfService](/domino-c-api-docs/reference/Func/NSFDbMarkOutOfService)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

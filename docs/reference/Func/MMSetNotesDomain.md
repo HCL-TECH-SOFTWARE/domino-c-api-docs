@@ -33,6 +33,6 @@ MMSetNotesDomain(hCC, pszNotesDomain); /* Local notes domain, used to construct
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMGetNotesDomain](/reference/Func/MMGetNotesDomain)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMGetNotesDomain](/domino-c-api-docs/reference/Func/MMGetNotesDomain)
 ---

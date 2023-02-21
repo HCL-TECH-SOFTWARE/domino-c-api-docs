@@ -10,6 +10,6 @@ These flags specify options for the Send Mail action for a Agent.  These flags
 are stored in the dwFlags field of the CDACTIONSENDMAIL structure.
 
 **See Also :**
-[CDACTIONNEWSLETTER](/reference/Data/CDACTIONNEWSLETTER)
-[CDACTIONSENDMAIL](/reference/Data/CDACTIONSENDMAIL)
+[CDACTIONNEWSLETTER](/domino-c-api-docs/reference/Data/CDACTIONNEWSLETTER)
+[CDACTIONSENDMAIL](/domino-c-api-docs/reference/Data/CDACTIONSENDMAIL)
 ---

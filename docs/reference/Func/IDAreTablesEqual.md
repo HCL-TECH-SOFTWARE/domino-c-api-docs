@@ -28,8 +28,8 @@ Output :
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDTableIntersect](/reference/Func/IDTableIntersect)
-[IDDeleteTable](/reference/Func/IDDeleteTable)
-[IDInsertTable](/reference/Func/IDInsertTable)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDTableIntersect](/domino-c-api-docs/reference/Func/IDTableIntersect)
+[IDDeleteTable](/domino-c-api-docs/reference/Func/IDDeleteTable)
+[IDInsertTable](/domino-c-api-docs/reference/Func/IDInsertTable)
 ---

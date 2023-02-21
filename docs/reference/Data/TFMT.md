@@ -12,10 +12,10 @@ the various fields of this structure are found in TDFMT_xxx, TTFMT_xxx,
 TZFMT_xxx, and TSFMT_xxx.
 
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[TDFMT_xxx](/reference/Symb/TDFMT_xxx)
-[TSFMT_xxx](/reference/Symb/TSFMT_xxx)
-[TTFMT_xxx](/reference/Symb/TTFMT_xxx)
-[TZFMT_xxx](/reference/Symb/TZFMT_xxx)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[TDFMT_xxx](/domino-c-api-docs/reference/Symb/TDFMT_xxx)
+[TSFMT_xxx](/domino-c-api-docs/reference/Symb/TSFMT_xxx)
+[TTFMT_xxx](/domino-c-api-docs/reference/Symb/TTFMT_xxx)
+[TZFMT_xxx](/domino-c-api-docs/reference/Symb/TZFMT_xxx)
 ---

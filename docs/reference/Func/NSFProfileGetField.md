@@ -101,5 +101,5 @@ if( retDataType == TYPE_TEXT )
 
 ```
 **See Also :**
-[NSFProfileSetField](/reference/Func/NSFProfileSetField)
+[NSFProfileSetField](/domino-c-api-docs/reference/Func/NSFProfileSetField)
 ---

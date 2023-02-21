@@ -66,6 +66,6 @@ if( error = NSFProfileDelete( db_handle, MAIL_CALENDAR_PROFILE_FORM,
 
 ```
 **See Also :**
-[NSFProfileOpen](/reference/Func/NSFProfileOpen)
-[NSFProfileUpdate](/reference/Func/NSFProfileUpdate)
+[NSFProfileOpen](/domino-c-api-docs/reference/Func/NSFProfileOpen)
+[NSFProfileUpdate](/domino-c-api-docs/reference/Func/NSFProfileUpdate)
 ---

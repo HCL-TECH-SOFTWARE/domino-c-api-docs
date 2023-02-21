@@ -16,5 +16,5 @@ case where the caller of NSFItemScan() needs to pass data to this routine.  If
 this routine returns an error, NSFItemScan will halt and return that error.
 
 **See Also :**
-[NSFItemScan](/reference/Func/NSFItemScan)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
 ---

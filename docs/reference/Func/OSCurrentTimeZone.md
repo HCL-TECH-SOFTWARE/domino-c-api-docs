@@ -69,7 +69,7 @@ retDST  -  The address of an integer (int) in which the daylight savings time (D
 
 ```
 **See Also :**
-[TimeLocalToGM](/reference/Func/TimeLocalToGM)
-[TimeGMToLocal](/reference/Func/TimeGMToLocal)
-[TimeGMToLocalZone](/reference/Func/TimeGMToLocalZone)
+[TimeLocalToGM](/domino-c-api-docs/reference/Func/TimeLocalToGM)
+[TimeGMToLocal](/domino-c-api-docs/reference/Func/TimeGMToLocal)
+[TimeGMToLocalZone](/domino-c-api-docs/reference/Func/TimeGMToLocalZone)
 ---

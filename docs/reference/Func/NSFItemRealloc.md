@@ -104,8 +104,8 @@ item_type,
  
 ```
 **See Also :**
-[NSFItemScan](/reference/Func/NSFItemScan)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
 ---

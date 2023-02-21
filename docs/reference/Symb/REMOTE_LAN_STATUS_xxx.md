@@ -13,5 +13,5 @@ of these status codes to the Notes remote LAN adapter callback routine in order
 for Notes to display the status information. 
 
 **See Also :**
-[PREMOTE_LAN_STATUS_CALLBACK](/reference/Data/PREMOTE_LAN_STATUS_CALLBACK)
+[PREMOTE_LAN_STATUS_CALLBACK](/domino-c-api-docs/reference/Data/PREMOTE_LAN_STATUS_CALLBACK)
 ---

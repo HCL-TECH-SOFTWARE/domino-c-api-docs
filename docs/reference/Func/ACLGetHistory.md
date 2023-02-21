@@ -36,5 +36,5 @@ HistoryCount  -  Number of strings in the change history (0 if there are no chan
 
 
 **See Also :**
-[NSFDbReadACL](/reference/Func/NSFDbReadACL)
+[NSFDbReadACL](/domino-c-api-docs/reference/Func/NSFDbReadACL)
 ---

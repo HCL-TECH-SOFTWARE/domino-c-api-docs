@@ -74,7 +74,7 @@ FreeProcInstance(lpProc);
     :
 ```
 **See Also :**
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[REGNewServer](/reference/Func/REGNewServer)
-[REGNewCertifier](/reference/Func/REGNewCertifier)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
 ---

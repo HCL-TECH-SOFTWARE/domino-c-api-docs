@@ -10,5 +10,5 @@ The maximum number of text search terms that may be stored in a CDQUERYTEXTTERM
 record.
 
 **See Also :**
-[CDQUERYTEXTTERM](/reference/Data/CDQUERYTEXTTERM)
+[CDQUERYTEXTTERM](/domino-c-api-docs/reference/Data/CDQUERYTEXTTERM)
 ---

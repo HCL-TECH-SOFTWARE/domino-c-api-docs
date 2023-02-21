@@ -41,7 +41,7 @@ ERR_xxx - STATUS returned from a lower level Notes function call.
 
 
 **See Also :**
-[LSCOMPILEERRPROC](/reference/Data/LSCOMPILEERRPROC)
-[LSCOMPILE_ERR_INFO;](/reference/Data/LSCOMPILE_ERR_INFO;)
-[NSFNoteLSCompile](/reference/Func/NSFNoteLSCompile)
+[LSCOMPILEERRPROC](/domino-c-api-docs/reference/Data/LSCOMPILEERRPROC)
+[LSCOMPILE_ERR_INFO;](/domino-c-api-docs/reference/Data/LSCOMPILE_ERR_INFO;)
+[NSFNoteLSCompile](/domino-c-api-docs/reference/Func/NSFNoteLSCompile)
 ---

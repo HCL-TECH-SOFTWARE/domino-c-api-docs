@@ -33,6 +33,6 @@ BinFirstPage Index of paper bin to use for the first page
 BinOtherPage Index of paper bin to use for all other pages
 
 **See Also :**
-[PRINT_SETTINGS](/reference/Data/PRINT_SETTINGS)
-[PS_xxx](/reference/Symb/PS_xxx)
+[PRINT_SETTINGS](/domino-c-api-docs/reference/Data/PRINT_SETTINGS)
+[PS_xxx](/domino-c-api-docs/reference/Symb/PS_xxx)
 ---

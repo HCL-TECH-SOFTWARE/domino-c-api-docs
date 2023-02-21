@@ -29,6 +29,6 @@ pszDropItems = MMGetDropItems(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetDropItems](/reference/Func/MMSetDropItems)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetDropItems](/domino-c-api-docs/reference/Func/MMSetDropItems)
 ---

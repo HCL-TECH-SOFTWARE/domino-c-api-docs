@@ -39,5 +39,5 @@ Output :
 
 
 **See Also :**
-[MailGetMessageAttachmentInfo](/reference/Func/MailGetMessageAttachmentInfo)
+[MailGetMessageAttachmentInfo](/domino-c-api-docs/reference/Func/MailGetMessageAttachmentInfo)
 ---

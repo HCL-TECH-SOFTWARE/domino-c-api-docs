@@ -24,8 +24,8 @@ retHashedPassword  -  Pointer to the returned encoded password.  This is used in
 
 
 **See Also :**
-[NSFDB2DeleteUsernamePW](/reference/Func/NSFDB2DeleteUsernamePW)
-[NSFDB2GetUsernamePW](/reference/Func/NSFDB2GetUsernamePW)
-[NSFDB2PutUsernamePW](/reference/Func/NSFDB2PutUsernamePW)
-[SECKFMGetCertifierCtx](/reference/Func/SECKFMGetCertifierCtx)
+[NSFDB2DeleteUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2DeleteUsernamePW)
+[NSFDB2GetUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2GetUsernamePW)
+[NSFDB2PutUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2PutUsernamePW)
+[SECKFMGetCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
 ---

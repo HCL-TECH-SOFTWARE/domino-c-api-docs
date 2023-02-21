@@ -67,10 +67,10 @@ void  LNPUBLIC  DumpCDLink2 (char *RecordPtr, DWORD RecordLength)
 }
 ```
 **See Also :**
-[CDANCHOR](/reference/Data/CDANCHOR)
-[CDLINKEXPORT2](/reference/Data/CDLINKEXPORT2)
-[LINK_VERSIONxxx](/reference/Symb/LINK_VERSIONxxx)
-[NOTELINK](/reference/Data/NOTELINK)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
-[TYPE_xxx [NOTELINK_LIST]](/reference/Symb/TYPE_xxx [NOTELINK_LIST])
+[CDANCHOR](/domino-c-api-docs/reference/Data/CDANCHOR)
+[CDLINKEXPORT2](/domino-c-api-docs/reference/Data/CDLINKEXPORT2)
+[LINK_VERSIONxxx](/domino-c-api-docs/reference/Symb/LINK_VERSIONxxx)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
+[TYPE_xxx [NOTELINK_LIST]](/domino-c-api-docs/reference/Symb/TYPE_xxx [NOTELINK_LIST])
 ---

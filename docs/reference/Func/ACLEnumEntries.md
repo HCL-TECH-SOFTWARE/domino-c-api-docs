@@ -38,7 +38,7 @@ Output :
 
 
 **See Also :**
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[ACL_FLAG_xxx](/reference/Symb/ACL_FLAG_xxx)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[ACL_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACL_FLAG_xxx)
 ---

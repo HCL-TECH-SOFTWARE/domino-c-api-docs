@@ -64,7 +64,7 @@ if (error) goto Close;
 hRecipientsItem = NULLHANDLE;
 ```
 **See Also :**
-[ListAllocate](/reference/Func/ListAllocate)
-[ListAddEntry](/reference/Func/ListAddEntry)
-[MailLookupAddress](/reference/Func/MailLookupAddress)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[MailLookupAddress](/domino-c-api-docs/reference/Func/MailLookupAddress)
 ---

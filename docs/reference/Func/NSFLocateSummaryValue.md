@@ -83,8 +83,8 @@ OSUnlockObject (buffer_handle);
 OSMemFree (buffer_handle)
 ```
 **See Also :**
-[NSFGetSummaryValue](/reference/Func/NSFGetSummaryValue)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFSearch](/reference/Func/NSFSearch)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NSFGetSummaryValue](/domino-c-api-docs/reference/Func/NSFGetSummaryValue)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

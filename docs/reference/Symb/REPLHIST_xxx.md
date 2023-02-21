@@ -9,6 +9,6 @@
 Optional flags that can be used with NSFDbGetReplHistorySummary.
 
 **See Also :**
-[NSFDbGetReplHistorySummary](/reference/Func/NSFDbGetReplHistorySummary)
-[REPLHIST_SUMMARY](/reference/Data/REPLHIST_SUMMARY)
+[NSFDbGetReplHistorySummary](/domino-c-api-docs/reference/Func/NSFDbGetReplHistorySummary)
+[REPLHIST_SUMMARY](/domino-c-api-docs/reference/Data/REPLHIST_SUMMARY)
 ---

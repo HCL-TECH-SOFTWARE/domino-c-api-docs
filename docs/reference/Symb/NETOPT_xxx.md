@@ -12,7 +12,7 @@ Unless indicated otherwise, the option flags that are appropriate for a
 function may be or'd together (bitwise).
 
 **See Also :**
-[NetSend](/reference/Func/NetSend)
-[NetReceive](/reference/Func/NetReceive)
-[NetSetSessionMode](/reference/Func/NetSetSessionMode)
+[NetSend](/domino-c-api-docs/reference/Func/NetSend)
+[NetReceive](/domino-c-api-docs/reference/Func/NetReceive)
+[NetSetSessionMode](/domino-c-api-docs/reference/Func/NetSetSessionMode)
 ---

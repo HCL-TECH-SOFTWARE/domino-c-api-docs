@@ -108,6 +108,6 @@ control settings */
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
 ---

@@ -33,7 +33,7 @@ LBER_DEFAULT is returned if there is no further data to be read.
 
 
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[ber_len_t](/reference/Data/ber_len_t)
-[ber_tag_t](/reference/Data/ber_tag_t)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
+[ber_tag_t](/domino-c-api-docs/reference/Data/ber_tag_t)
 ---

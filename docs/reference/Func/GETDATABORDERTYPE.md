@@ -27,6 +27,6 @@ Output :
 
 
 **See Also :**
-[BARREC_DATA_BORDER_xxx](/reference/Symb/BARREC_DATA_BORDER_xxx)
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
+[BARREC_DATA_BORDER_xxx](/domino-c-api-docs/reference/Symb/BARREC_DATA_BORDER_xxx)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
 ---

@@ -34,6 +34,6 @@ format used in a CDCOLORTABLE).  In this case, all 24 bytes of each pattern
 table entry will be used.
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
-[CDCOLORTABLE](/reference/Data/CDCOLORTABLE)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
+[CDCOLORTABLE](/domino-c-api-docs/reference/Data/CDCOLORTABLE)
 ---

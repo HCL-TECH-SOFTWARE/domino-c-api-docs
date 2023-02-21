@@ -19,5 +19,5 @@ wFolderNameLen Length of the folder name.
 This structure is followed by a packed string containing the folder name.
 
 **See Also :**
-[QUERYBYFOLDER_FLAG_xxx](/reference/Symb/QUERYBYFOLDER_FLAG_xxx)
+[QUERYBYFOLDER_FLAG_xxx](/domino-c-api-docs/reference/Symb/QUERYBYFOLDER_FLAG_xxx)
 ---

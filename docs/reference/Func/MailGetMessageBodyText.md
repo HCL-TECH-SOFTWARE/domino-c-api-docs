@@ -75,6 +75,6 @@ OutputFileSize  -  Output file size in bytes.
     fclose(BodyFile);
 ```
 **See Also :**
-[MailGetMessageBody](/reference/Func/MailGetMessageBody)
-[MailGetMessageBodyComposite](/reference/Func/MailGetMessageBodyComposite)
+[MailGetMessageBody](/domino-c-api-docs/reference/Func/MailGetMessageBody)
+[MailGetMessageBodyComposite](/domino-c-api-docs/reference/Func/MailGetMessageBodyComposite)
 ---

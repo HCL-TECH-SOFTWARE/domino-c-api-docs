@@ -52,5 +52,5 @@ NOT NULL-TERMINATED!) */
 specified by the string */
 
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
 ---

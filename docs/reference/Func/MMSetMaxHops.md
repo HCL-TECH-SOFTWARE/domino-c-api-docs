@@ -31,6 +31,6 @@ MMSetMaxHops(hCC, 25); /* Used to create $Hops when importing (default is 25)
 */
 ```
 **See Also :**
-[MMGetMaxHops](/reference/Func/MMGetMaxHops)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetMaxHops](/domino-c-api-docs/reference/Func/MMGetMaxHops)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

@@ -21,6 +21,6 @@ This structure is followed by the text strings in packed format (no NUL
 terminators).
 
 **See Also :**
-[MAXTEXTTERMCOUNT](/reference/Symb/MAXTEXTTERMCOUNT)
-[TEXTTERM_FLAG_xxx](/reference/Symb/TEXTTERM_FLAG_xxx)
+[MAXTEXTTERMCOUNT](/domino-c-api-docs/reference/Symb/MAXTEXTTERMCOUNT)
+[TEXTTERM_FLAG_xxx](/domino-c-api-docs/reference/Symb/TEXTTERM_FLAG_xxx)
 ---

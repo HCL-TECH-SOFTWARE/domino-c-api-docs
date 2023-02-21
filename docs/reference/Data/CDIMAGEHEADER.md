@@ -23,7 +23,7 @@ Flags  Image flag values (currently unused).
 Reserved  unused.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDIMAGESEGMENT](/reference/Data/CDIMAGESEGMENT)
-[CDIMAGETYPE_xxx](/reference/Symb/CDIMAGETYPE_xxx)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDIMAGESEGMENT](/domino-c-api-docs/reference/Data/CDIMAGESEGMENT)
+[CDIMAGETYPE_xxx](/domino-c-api-docs/reference/Symb/CDIMAGETYPE_xxx)
 ---

@@ -41,5 +41,5 @@ rethMore  -  If not NULLCNTNROBJ then this is the handle to more busytime inform
 
 
 **See Also :**
-[Schedule_ExtractBusyTimeRange](/reference/Func/Schedule_ExtractBusyTimeRange)
+[Schedule_ExtractBusyTimeRange](/domino-c-api-docs/reference/Func/Schedule_ExtractBusyTimeRange)
 ---

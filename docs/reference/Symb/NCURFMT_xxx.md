@@ -10,5 +10,5 @@ The  currency format for the CurrencyType and CurrencyFlags members of
 CDEXT2FIELD.
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
 ---

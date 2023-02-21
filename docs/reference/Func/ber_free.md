@@ -34,7 +34,7 @@ ber_free(ber, 0);
 
 ```
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[ber_alloc_t](/reference/Func/ber_alloc_t)
-[ber_init](/reference/Func/ber_init)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[ber_alloc_t](/domino-c-api-docs/reference/Func/ber_alloc_t)
+[ber_init](/domino-c-api-docs/reference/Func/ber_init)
 ---

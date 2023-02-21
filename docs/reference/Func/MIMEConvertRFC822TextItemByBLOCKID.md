@@ -64,6 +64,6 @@ if (error = MIMEConvertRFC822TextItemByBLOCKID(hNote, bhItem, bhValue)) {
 
 ```
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
 ---

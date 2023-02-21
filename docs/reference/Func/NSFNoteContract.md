@@ -30,5 +30,5 @@ ERR_xxx - STATUS returned from a lower level Notes function.  This value can be 
 
 
 **See Also :**
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

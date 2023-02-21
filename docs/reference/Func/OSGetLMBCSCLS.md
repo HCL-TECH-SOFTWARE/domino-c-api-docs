@@ -20,7 +20,7 @@ Output :
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[OSGetNativeCLS](/reference/Func/OSGetNativeCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[OSGetNativeCLS](/domino-c-api-docs/reference/Func/OSGetNativeCLS)
 ---

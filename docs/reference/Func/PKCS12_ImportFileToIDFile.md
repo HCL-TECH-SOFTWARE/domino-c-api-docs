@@ -41,6 +41,6 @@ Output :
 
 
 **See Also :**
-[PKCS12_ExportIDFileToFile](/reference/Func/PKCS12_ExportIDFileToFile)
-[PKCS12_xxx](/reference/Symb/PKCS12_xxx)
+[PKCS12_ExportIDFileToFile](/domino-c-api-docs/reference/Func/PKCS12_ExportIDFileToFile)
+[PKCS12_xxx](/domino-c-api-docs/reference/Symb/PKCS12_xxx)
 ---

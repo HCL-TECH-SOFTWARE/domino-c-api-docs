@@ -9,5 +9,5 @@
 Cell flags
 
 **See Also :**
-[CDTABLECELL_xxx](/reference/Symb/CDTABLECELL_xxx)
+[CDTABLECELL_xxx](/domino-c-api-docs/reference/Symb/CDTABLECELL_xxx)
 ---

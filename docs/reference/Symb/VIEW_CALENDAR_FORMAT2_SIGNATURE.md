@@ -12,5 +12,5 @@ record.
 
 
 **See Also :**
-[VIEW_CALENDAR_FORMAT2](/reference/Data/VIEW_CALENDAR_FORMAT2)
+[VIEW_CALENDAR_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT2)
 ---

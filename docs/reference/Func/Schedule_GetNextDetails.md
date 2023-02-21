@@ -34,9 +34,9 @@ retpNextDetail  -  Pointer to the pointer of the next detail.
 
 
 **See Also :**
-[HCNTNR](/reference/Data/HCNTNR)
-[HCNTNROBJ](/reference/Data/HCNTNROBJ)
-[SCHED_DETAIL_DATA](/reference/Data/SCHED_DETAIL_DATA)
-[SCHED_DETAIL_ENTRY](/reference/Data/SCHED_DETAIL_ENTRY)
-[SCHED_DETAIL_LIST](/reference/Data/SCHED_DETAIL_LIST)
+[HCNTNR](/domino-c-api-docs/reference/Data/HCNTNR)
+[HCNTNROBJ](/domino-c-api-docs/reference/Data/HCNTNROBJ)
+[SCHED_DETAIL_DATA](/domino-c-api-docs/reference/Data/SCHED_DETAIL_DATA)
+[SCHED_DETAIL_ENTRY](/domino-c-api-docs/reference/Data/SCHED_DETAIL_ENTRY)
+[SCHED_DETAIL_LIST](/domino-c-api-docs/reference/Data/SCHED_DETAIL_LIST)
 ---

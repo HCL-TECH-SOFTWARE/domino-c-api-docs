@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDEMBEDDEDOUTLINE](/reference/Data/CDEMBEDDEDOUTLINE)
+[CDEMBEDDEDOUTLINE](/domino-c-api-docs/reference/Data/CDEMBEDDEDOUTLINE)
 ---

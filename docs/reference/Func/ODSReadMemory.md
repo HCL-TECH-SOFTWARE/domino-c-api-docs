@@ -115,9 +115,9 @@ pDest  -  Pointer to the variable or buffer to receive data in machine-specific 
     }
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[ODSLength](/reference/Func/ODSLength)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[ODSLength](/domino-c-api-docs/reference/Func/ODSLength)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
 ---

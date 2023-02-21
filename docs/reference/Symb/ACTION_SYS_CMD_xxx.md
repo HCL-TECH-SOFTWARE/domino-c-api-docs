@@ -12,5 +12,5 @@ one of these values. Please see the Tech Note "System Action Command Codes" for
 more details.
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

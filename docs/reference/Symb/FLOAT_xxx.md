@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDFLOAT](/reference/Data/CDFLOAT)
+[CDFLOAT](/domino-c-api-docs/reference/Data/CDFLOAT)
 ---

@@ -13,5 +13,5 @@ The menu add-in receives this information when processing the NAMM_INITMENU
 message from Notes.
 
 **See Also :**
-[NAM_CONTEXT_DATA](/reference/Data/NAM_CONTEXT_DATA)
+[NAM_CONTEXT_DATA](/domino-c-api-docs/reference/Data/NAM_CONTEXT_DATA)
 ---

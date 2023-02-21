@@ -11,8 +11,8 @@ access control list.  These values may be bitwise-OR'd together to modify
 multiple parameters.
 
 **See Also :**
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
-[ACLAddEntry](/reference/Func/ACLAddEntry)
-[ACLUpdateEntry](/reference/Func/ACLUpdateEntry)
-[ACLEnumEntries](/reference/Func/ACLEnumEntries)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
+[ACLAddEntry](/domino-c-api-docs/reference/Func/ACLAddEntry)
+[ACLUpdateEntry](/domino-c-api-docs/reference/Func/ACLUpdateEntry)
+[ACLEnumEntries](/domino-c-api-docs/reference/Func/ACLEnumEntries)
 ---

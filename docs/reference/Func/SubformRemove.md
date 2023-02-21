@@ -33,5 +33,5 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[SubformInsert](/reference/Func/SubformInsert)
+[SubformInsert](/domino-c-api-docs/reference/Func/SubformInsert)
 ---

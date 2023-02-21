@@ -40,7 +40,7 @@ retValueBuffer  -  The address of an existing text buffer in which the null-term
 
 
 **See Also :**
-[OSGetEnvironmentLong](/reference/Func/OSGetEnvironmentLong)
-[OSSetEnvironmentVariable](/reference/Func/OSSetEnvironmentVariable)
-[OSSetEnvironmentInt](/reference/Func/OSSetEnvironmentInt)
+[OSGetEnvironmentLong](/domino-c-api-docs/reference/Func/OSGetEnvironmentLong)
+[OSSetEnvironmentVariable](/domino-c-api-docs/reference/Func/OSSetEnvironmentVariable)
+[OSSetEnvironmentInt](/domino-c-api-docs/reference/Func/OSSetEnvironmentInt)
 ---

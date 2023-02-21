@@ -10,5 +10,5 @@ These identifiers indicate the type of helper in use by the Keyword and the
 Name helper/pickers.
 
 **See Also :**
-[CDEXTFIELD](/reference/Data/CDEXTFIELD)
+[CDEXTFIELD](/domino-c-api-docs/reference/Data/CDEXTFIELD)
 ---

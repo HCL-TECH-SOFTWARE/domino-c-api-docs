@@ -35,5 +35,5 @@ must appear in the same order as the "length" parameters
 
 
 **See Also :**
-[CDFIELD](/reference/Data/CDFIELD)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
 ---

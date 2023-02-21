@@ -90,5 +90,5 @@ if (Status != NOERROR)
  return Status;
 ```
 **See Also :**
-[CompoundTextClose](/reference/Func/CompoundTextClose)
+[CompoundTextClose](/domino-c-api-docs/reference/Func/CompoundTextClose)
 ---

@@ -69,6 +69,6 @@ for (i=2;i<1000;i++)
 
 ```
 **See Also :**
-[OSSIGPROC](/reference/Data/OSSIGPROC)
-[PROGRESS_SIGNAL_xxx](/reference/Symb/PROGRESS_SIGNAL_xxx)
+[OSSIGPROC](/domino-c-api-docs/reference/Data/OSSIGPROC)
+[PROGRESS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/PROGRESS_SIGNAL_xxx)
 ---

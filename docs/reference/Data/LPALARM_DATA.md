@@ -10,5 +10,5 @@ Pointer to message structure sent TO THE CLIENT, one per alarm.  There is an
 array of these structures pointed to by ALARM_MSG.
 
 **See Also :**
-[ALARM_DATA](/reference/Data/ALARM_DATA)
+[ALARM_DATA](/domino-c-api-docs/reference/Data/ALARM_DATA)
 ---

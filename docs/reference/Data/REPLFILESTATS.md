@@ -11,6 +11,6 @@ ReplicateWithServerExt().  It contains the resulting replication statistics
 information.
 
 **See Also :**
-[ReplicateWithServer](/reference/Func/ReplicateWithServer)
-[ReplicateWithServerExt](/reference/Func/ReplicateWithServerExt)
+[ReplicateWithServer](/domino-c-api-docs/reference/Func/ReplicateWithServer)
+[ReplicateWithServerExt](/domino-c-api-docs/reference/Func/ReplicateWithServerExt)
 ---

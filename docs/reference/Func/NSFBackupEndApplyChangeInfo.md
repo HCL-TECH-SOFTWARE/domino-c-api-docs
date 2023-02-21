@@ -37,6 +37,6 @@ ERR_xxx - Errors returned by lower level functions.  Call to OSLoadString to int
 
 ```
 **See Also :**
-[APPLYEND_xxx](/reference/Symb/APPLYEND_xxx)
-[NSFBackupStartApplyChangeInfo](/reference/Func/NSFBackupStartApplyChangeInfo)
+[APPLYEND_xxx](/domino-c-api-docs/reference/Symb/APPLYEND_xxx)
+[NSFBackupStartApplyChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupStartApplyChangeInfo)
 ---

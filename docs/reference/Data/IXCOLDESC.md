@@ -11,5 +11,5 @@ view for imports/exports (one entry per view column).  The structure,
 VIEWIXDATA, contains a handle to the column descriptor block.
 
 **See Also :**
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
 ---

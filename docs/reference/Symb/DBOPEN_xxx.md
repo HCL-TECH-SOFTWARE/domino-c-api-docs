@@ -17,5 +17,5 @@ These flags can only be specified with NSFDbOpenExtended, and not with
 NSFDbOpen.
 
 **See Also :**
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

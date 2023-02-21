@@ -125,8 +125,8 @@ Exit1:
  
 ```
 **See Also :**
-[OSLock](/reference/Func/OSLock)
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemFree](/reference/Func/OSMemFree)
-[SCRIPTCONTEXTDESCR](/reference/Data/SCRIPTCONTEXTDESCR)
+[OSLock](/domino-c-api-docs/reference/Func/OSLock)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[SCRIPTCONTEXTDESCR](/domino-c-api-docs/reference/Data/SCRIPTCONTEXTDESCR)
 ---

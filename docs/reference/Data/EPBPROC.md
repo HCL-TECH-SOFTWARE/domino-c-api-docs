@@ -11,5 +11,5 @@ routine for each page in a specified note.  PageNumber is a 1-based page
 number. 
 
 **See Also :**
-[EditorPrintNoteToBitmap](/reference/Func/EditorPrintNoteToBitmap)
+[EditorPrintNoteToBitmap](/domino-c-api-docs/reference/Func/EditorPrintNoteToBitmap)
 ---

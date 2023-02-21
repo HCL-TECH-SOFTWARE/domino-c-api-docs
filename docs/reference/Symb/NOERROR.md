@@ -15,5 +15,5 @@ is more readable:
         return(error);
 
 **See Also :**
-[STATUS](/reference/Data/STATUS)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

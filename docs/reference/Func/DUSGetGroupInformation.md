@@ -28,5 +28,5 @@ hGroupNote  -  A handle to the group note.
 
 
 **See Also :**
-[DUSGetUserInformation](/reference/Func/DUSGetUserInformation)
+[DUSGetUserInformation](/domino-c-api-docs/reference/Func/DUSGetUserInformation)
 ---

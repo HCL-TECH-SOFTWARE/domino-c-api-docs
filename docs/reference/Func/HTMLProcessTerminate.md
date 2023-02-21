@@ -26,5 +26,5 @@ Output :
 
 
 **See Also :**
-[HTMLProcessInitialize](/reference/Func/HTMLProcessInitialize)
+[HTMLProcessInitialize](/domino-c-api-docs/reference/Func/HTMLProcessInitialize)
 ---

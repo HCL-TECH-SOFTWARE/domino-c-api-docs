@@ -25,9 +25,9 @@ if (error = NSFDbOpen(szName))
 }
 ```
 **See Also :**
-[ERR](/reference/Func/ERR)
-[errortext](/reference/Symb/errortext)
-[OSLoadString](/reference/Func/OSLoadString)
-[PKG_xxx](/reference/Symb/PKG_xxx)
-[STATUS](/reference/Data/STATUS)
+[ERR](/domino-c-api-docs/reference/Func/ERR)
+[errortext](/domino-c-api-docs/reference/Symb/errortext)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
+[PKG_xxx](/domino-c-api-docs/reference/Symb/PKG_xxx)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

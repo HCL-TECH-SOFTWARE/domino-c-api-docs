@@ -29,5 +29,5 @@ ERR_xxx - Error returned by lower level functions. Call OSLoadString to interpre
 
 
 **See Also :**
-[FTIndex](/reference/Func/FTIndex)
+[FTIndex](/domino-c-api-docs/reference/Func/FTIndex)
 ---

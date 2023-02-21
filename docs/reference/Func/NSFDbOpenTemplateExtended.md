@@ -100,13 +100,13 @@ retNonDataModified  -  The address of a Domino binary time/date structure in whi
 
 
 **See Also :**
-[DBOPEN_xxx](/reference/Symb/DBOPEN_xxx)
-[NSFBuildNamesList](/reference/Func/NSFBuildNamesList)
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbOpenTemplate](/reference/Func/NSFDbOpenTemplate)
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[DBOPEN_xxx](/domino-c-api-docs/reference/Symb/DBOPEN_xxx)
+[NSFBuildNamesList](/domino-c-api-docs/reference/Func/NSFBuildNamesList)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbOpenTemplate](/domino-c-api-docs/reference/Func/NSFDbOpenTemplate)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

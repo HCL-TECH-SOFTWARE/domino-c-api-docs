@@ -50,6 +50,6 @@ Output :
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
-[NSFMarkReadEMCallback](/reference/Func/NSFMarkReadEMCallback)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[NSFMarkReadEMCallback](/domino-c-api-docs/reference/Func/NSFMarkReadEMCallback)
 ---

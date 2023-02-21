@@ -15,7 +15,7 @@ requested statistics information.  See the Message Queues chapter in the User
 Guide for details on how to parse this buffer.
 
 **See Also :**
-[MQGet](/reference/Func/MQGet)
-[MQPut](/reference/Func/MQPut)
-[SERVER_MSG_BLOCK](/reference/Data/SERVER_MSG_BLOCK)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[SERVER_MSG_BLOCK](/domino-c-api-docs/reference/Data/SERVER_MSG_BLOCK)
 ---

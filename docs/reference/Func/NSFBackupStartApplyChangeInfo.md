@@ -61,5 +61,5 @@ ApplyInfoContext  -  Handle to the apply info context.
 
 ```
 **See Also :**
-[NSFBackupGetChangeInfoSize](/reference/Func/NSFBackupGetChangeInfoSize)
+[NSFBackupGetChangeInfoSize](/domino-c-api-docs/reference/Func/NSFBackupGetChangeInfoSize)
 ---

@@ -55,6 +55,6 @@ sizeof(MAIL_POSTEDDATE_ITEM)-1)) {
 
 ```
 **See Also :**
-[MIMEConvertMIMEPartCC](/reference/Func/MIMEConvertMIMEPartCC)
-[MIMEConvertMIMEPartsCC](/reference/Func/MIMEConvertMIMEPartsCC)
+[MIMEConvertMIMEPartCC](/domino-c-api-docs/reference/Func/MIMEConvertMIMEPartCC)
+[MIMEConvertMIMEPartsCC](/domino-c-api-docs/reference/Func/MIMEConvertMIMEPartsCC)
 ---

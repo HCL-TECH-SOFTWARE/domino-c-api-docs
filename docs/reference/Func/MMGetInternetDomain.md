@@ -30,6 +30,6 @@ pszInternetDomain = MMGetInternetDomain(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetInternetDomain](/reference/Func/MMSetInternetDomain)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetInternetDomain](/domino-c-api-docs/reference/Func/MMSetInternetDomain)
 ---

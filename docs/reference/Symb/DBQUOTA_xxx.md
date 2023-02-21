@@ -9,5 +9,5 @@
 Placeholders for structure DBQUOTAINFO.
 
 **See Also :**
-[DBQUOTAINFO](/reference/Data/DBQUOTAINFO)
+[DBQUOTAINFO](/domino-c-api-docs/reference/Data/DBQUOTAINFO)
 ---

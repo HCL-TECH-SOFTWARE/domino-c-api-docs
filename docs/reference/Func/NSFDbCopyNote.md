@@ -71,7 +71,7 @@ if (error_status = NSFDbCopyNote(db_handle_src,
   goto Exit;
 ```
 **See Also :**
-[NSFDbCopy](/reference/Func/NSFDbCopy)
-[NSFDbCopyNoteExt](/reference/Func/NSFDbCopyNoteExt)
-[NSFDbIDGet](/reference/Func/NSFDbIDGet)
+[NSFDbCopy](/domino-c-api-docs/reference/Func/NSFDbCopy)
+[NSFDbCopyNoteExt](/domino-c-api-docs/reference/Func/NSFDbCopyNoteExt)
+[NSFDbIDGet](/domino-c-api-docs/reference/Func/NSFDbIDGet)
 ---

@@ -97,5 +97,5 @@ TYPE_VIEW, TYPE_ALL,
 	 TYPE_UNREAD, TYPE_PROMPT, TYPE_UI.
 
 **See Also :**
-[ODS_ASSISTSTRUCT](/reference/Data/ODS_ASSISTSTRUCT)
+[ODS_ASSISTSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTSTRUCT)
 ---

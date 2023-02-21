@@ -120,12 +120,12 @@ optional_var1, ...  -  Routine stores its results in these optional arguments.
 
 
 **See Also :**
-[Berval](/reference/Data/Berval)
-[ber_bvecfree](/reference/Func/ber_bvecfree)
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ber_int_t](/reference/Data/ber_int_t)
-[ber_len_t](/reference/Data/ber_len_t)
-[ber_printf](/reference/Func/ber_printf)
-[ber_tag_t](/reference/Data/ber_tag_t)
-[ldap_memfree](/reference/Func/ldap_memfree)
+[Berval](/domino-c-api-docs/reference/Data/Berval)
+[ber_bvecfree](/domino-c-api-docs/reference/Func/ber_bvecfree)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ber_int_t](/domino-c-api-docs/reference/Data/ber_int_t)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
+[ber_printf](/domino-c-api-docs/reference/Func/ber_printf)
+[ber_tag_t](/domino-c-api-docs/reference/Data/ber_tag_t)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
 ---

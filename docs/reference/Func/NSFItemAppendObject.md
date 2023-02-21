@@ -125,8 +125,8 @@ if (error = NSFItemAppendObject(hMacro, ITEM_SUMMARY,
 }
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[NSFDbAllocObject](/reference/Func/NSFDbAllocObject)
-[NSFDbWriteObject](/reference/Func/NSFDbWriteObject)
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[NSFDbAllocObject](/domino-c-api-docs/reference/Func/NSFDbAllocObject)
+[NSFDbWriteObject](/domino-c-api-docs/reference/Func/NSFDbWriteObject)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
 ---

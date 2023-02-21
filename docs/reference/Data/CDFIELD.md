@@ -55,9 +55,9 @@ be present, in the form of a CDEXT2FIELD record.  Please refer to that entry
 for more information.
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
-[CDEXTFIELD](/reference/Data/CDEXTFIELD)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
+[CDEXTFIELD](/domino-c-api-docs/reference/Data/CDEXTFIELD)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
 ---

@@ -31,8 +31,8 @@ spare             Reserved; must be 0.
 
 
 **See Also :**
-[VM_MAX_OBJTYPES](/reference/Symb/VM_MAX_OBJTYPES)
-[VIEWMAP_STYLE_DEFAULTS](/reference/Data/VIEWMAP_STYLE_DEFAULTS)
-[VIEWMAP_VERSION](/reference/Symb/VIEWMAP_VERSION)
-[VM_DSET_xxx](/reference/Symb/VM_DSET_xxx)
+[VM_MAX_OBJTYPES](/domino-c-api-docs/reference/Symb/VM_MAX_OBJTYPES)
+[VIEWMAP_STYLE_DEFAULTS](/domino-c-api-docs/reference/Data/VIEWMAP_STYLE_DEFAULTS)
+[VIEWMAP_VERSION](/domino-c-api-docs/reference/Symb/VIEWMAP_VERSION)
+[VM_DSET_xxx](/domino-c-api-docs/reference/Symb/VM_DSET_xxx)
 ---

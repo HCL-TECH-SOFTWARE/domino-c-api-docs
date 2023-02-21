@@ -49,6 +49,6 @@ if( error = SECTokenListGenerate( NULL,
 SECTokenListFree( &pTokenList, 0, NULL );
 ```
 **See Also :**
-[SECTokenListGenerate](/reference/Func/SECTokenListGenerate)
-[SSO_LTPA_TOKEN_LIST](/reference/Data/SSO_LTPA_TOKEN_LIST)
+[SECTokenListGenerate](/domino-c-api-docs/reference/Func/SECTokenListGenerate)
+[SSO_LTPA_TOKEN_LIST](/domino-c-api-docs/reference/Data/SSO_LTPA_TOKEN_LIST)
 ---

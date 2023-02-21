@@ -29,13 +29,13 @@ Output :
 
 
 **See Also :**
-[ldap_first_entry](/reference/Func/ldap_first_entry)
-[ldap_first_message](/reference/Func/ldap_first_message)
-[ldap_first_reference](/reference/Func/ldap_first_reference)
-[ldap_msgfree](/reference/Func/ldap_msgfree)
-[ldap_msgid](/reference/Func/ldap_msgid)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
-[ldap_next_message](/reference/Func/ldap_next_message)
-[ldap_next_reference](/reference/Func/ldap_next_reference)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_first_entry](/domino-c-api-docs/reference/Func/ldap_first_entry)
+[ldap_first_message](/domino-c-api-docs/reference/Func/ldap_first_message)
+[ldap_first_reference](/domino-c-api-docs/reference/Func/ldap_first_reference)
+[ldap_msgfree](/domino-c-api-docs/reference/Func/ldap_msgfree)
+[ldap_msgid](/domino-c-api-docs/reference/Func/ldap_msgid)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
+[ldap_next_message](/domino-c-api-docs/reference/Func/ldap_next_message)
+[ldap_next_reference](/domino-c-api-docs/reference/Func/ldap_next_reference)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

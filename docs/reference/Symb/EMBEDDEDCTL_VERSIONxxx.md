@@ -10,5 +10,5 @@ This symbol is used to define which version of an embedded control data
 structure is in use. Currently there is only one version of the structure.
 
 **See Also :**
-[CDEMBEDDEDCTL](/reference/Data/CDEMBEDDEDCTL)
+[CDEMBEDDEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDCTL)
 ---

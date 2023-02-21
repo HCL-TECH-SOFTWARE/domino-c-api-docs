@@ -47,5 +47,5 @@ ERR_OOO_MISSING_MAILFILE - Mailfile information is not specified
 
 
 **See Also :**
-[OOOGetAwayPeriod](/reference/Func/OOOGetAwayPeriod)
+[OOOGetAwayPeriod](/domino-c-api-docs/reference/Func/OOOGetAwayPeriod)
 ---

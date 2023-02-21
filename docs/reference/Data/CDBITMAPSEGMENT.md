@@ -91,6 +91,6 @@ possible colors (5 bits of R,G,B intensity)
 
 ```
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
 ---

@@ -46,7 +46,7 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[MIMEEntityContentSubtype](/reference/Func/MIMEEntityContentSubtype)
-[MIMESYMBOL](/reference/Data/MIMESYMBOL)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[MIMEEntityContentSubtype](/domino-c-api-docs/reference/Func/MIMEEntityContentSubtype)
+[MIMESYMBOL](/domino-c-api-docs/reference/Data/MIMESYMBOL)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

@@ -43,5 +43,5 @@ retDigest  -  Digest that is returned
 
 
 **See Also :**
-[SECVerifyPassword](/reference/Func/SECVerifyPassword)
+[SECVerifyPassword](/domino-c-api-docs/reference/Func/SECVerifyPassword)
 ---

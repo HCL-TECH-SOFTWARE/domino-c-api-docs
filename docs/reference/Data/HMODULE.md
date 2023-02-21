@@ -9,8 +9,8 @@
 This is the datatype for a handle to a module.
 
 **See Also :**
-[AddInMain](/reference/Func/AddInMain)
-[OSLoadLibrary](/reference/Func/OSLoadLibrary)
-[OSFreeLibrary](/reference/Func/OSFreeLibrary)
-[NotesInitModule](/reference/Func/NotesInitModule)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[OSLoadLibrary](/domino-c-api-docs/reference/Func/OSLoadLibrary)
+[OSFreeLibrary](/domino-c-api-docs/reference/Func/OSFreeLibrary)
+[NotesInitModule](/domino-c-api-docs/reference/Func/NotesInitModule)
 ---

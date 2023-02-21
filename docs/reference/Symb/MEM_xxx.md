@@ -11,8 +11,8 @@ block to be allocated.  0 may be specified if none of these types is
 applicable.
 
 **See Also :**
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemoryAllocate](/reference/Func/OSMemoryAllocate)
-[OSMemoryReallocate](/reference/Func/OSMemoryReallocate)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemoryAllocate](/domino-c-api-docs/reference/Func/OSMemoryAllocate)
+[OSMemoryReallocate](/domino-c-api-docs/reference/Func/OSMemoryReallocate)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
 ---

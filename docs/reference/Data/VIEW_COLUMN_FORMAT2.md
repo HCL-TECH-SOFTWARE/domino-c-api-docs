@@ -20,8 +20,8 @@ a  VIEW_TABLE_FORMAT2 structure, followed by one VIEW_COLUMN_FORMAT2 structure
 for each column, followed by a VIEW_TABLE_FORMAT3 structure.
 
 **See Also :**
-[VCF3_xxx](/reference/Symb/VCF3_xxx)
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
-[VIEW_TABLE_FORMAT](/reference/Data/VIEW_TABLE_FORMAT)
-[VIEW_TABLE_FORMAT2](/reference/Data/VIEW_TABLE_FORMAT2)
+[VCF3_xxx](/domino-c-api-docs/reference/Symb/VCF3_xxx)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
+[VIEW_TABLE_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT2)
 ---

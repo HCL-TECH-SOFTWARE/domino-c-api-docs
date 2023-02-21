@@ -17,5 +17,5 @@ paragraph should have the same style as the previous paragraph.
 
 
 **See Also :**
-[CompoundTextAddTextExt](/reference/Func/CompoundTextAddTextExt)
+[CompoundTextAddTextExt](/domino-c-api-docs/reference/Func/CompoundTextAddTextExt)
 ---

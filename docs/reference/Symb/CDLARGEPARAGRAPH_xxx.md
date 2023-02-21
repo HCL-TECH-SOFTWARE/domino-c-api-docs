@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDLARGEPARAGRAPH](/reference/Data/CDLARGEPARAGRAPH)
+[CDLARGEPARAGRAPH](/domino-c-api-docs/reference/Data/CDLARGEPARAGRAPH)
 ---

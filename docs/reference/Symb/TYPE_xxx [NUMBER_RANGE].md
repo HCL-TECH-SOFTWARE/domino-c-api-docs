@@ -92,9 +92,9 @@ error = NSFItemAppend (hNote,
 free (pvoidItemValue);
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NUMBER](/reference/Data/NUMBER)
-[RANGE](/reference/Data/RANGE)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NUMBER](/domino-c-api-docs/reference/Data/NUMBER)
+[RANGE](/domino-c-api-docs/reference/Data/RANGE)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

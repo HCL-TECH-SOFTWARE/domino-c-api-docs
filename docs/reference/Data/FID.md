@@ -14,6 +14,6 @@ x - Access the FONTID as a FONTIDFIELDS structure.
 FontID - Access the FONTID as a single DWORD value.
 
 **See Also :**
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

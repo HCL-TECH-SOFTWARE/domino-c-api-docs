@@ -18,5 +18,5 @@ hCtx  -  Directory context for this operation. May be NULLDIRCTX.
 
 
 **See Also :**
-[DirCtxAlloc2](/reference/Func/DirCtxAlloc2)
+[DirCtxAlloc2](/domino-c-api-docs/reference/Func/DirCtxAlloc2)
 ---

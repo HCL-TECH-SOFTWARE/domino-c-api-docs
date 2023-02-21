@@ -10,8 +10,8 @@ This structure is used by NSFDbQuotaSetExt() and returned by NSFDbQuotaGet().
 It contains the database quota information.
 
 **See Also :**
-[DBQUOTAINFOEXT](/reference/Data/DBQUOTAINFOEXT)
-[DBQUOTA_xxx](/reference/Symb/DBQUOTA_xxx)
-[NSFDbQuotaGet](/reference/Func/NSFDbQuotaGet)
-[NSFDbQuotaSetExt](/reference/Func/NSFDbQuotaSetExt)
+[DBQUOTAINFOEXT](/domino-c-api-docs/reference/Data/DBQUOTAINFOEXT)
+[DBQUOTA_xxx](/domino-c-api-docs/reference/Symb/DBQUOTA_xxx)
+[NSFDbQuotaGet](/domino-c-api-docs/reference/Func/NSFDbQuotaGet)
+[NSFDbQuotaSetExt](/domino-c-api-docs/reference/Func/NSFDbQuotaSetExt)
 ---

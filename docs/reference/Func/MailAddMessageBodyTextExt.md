@@ -43,6 +43,6 @@ Output :
 
 
 **See Also :**
-[MailCreateBodyItem](/reference/Func/MailCreateBodyItem)
-[MailAppendBodyItemLine](/reference/Func/MailAppendBodyItemLine)
+[MailCreateBodyItem](/domino-c-api-docs/reference/Func/MailCreateBodyItem)
+[MailAppendBodyItemLine](/domino-c-api-docs/reference/Func/MailAppendBodyItemLine)
 ---

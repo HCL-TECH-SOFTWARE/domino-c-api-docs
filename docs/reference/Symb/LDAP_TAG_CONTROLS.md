@@ -9,5 +9,5 @@
 Optional controls field in an LDAPMessage message (LDAPv3 only).
 
 **See Also :**
-[LDAP](/reference/Data/LDAP)
+[LDAP](/domino-c-api-docs/reference/Data/LDAP)
 ---

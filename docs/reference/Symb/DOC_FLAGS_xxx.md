@@ -10,5 +10,5 @@ This symbol is used to define some state information for documents containing
 OLE objects
 
 **See Also :**
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
 ---

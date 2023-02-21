@@ -58,7 +58,7 @@ if (error_status = NSFDbOpen(fullpath_name, &db_handle))
 
 ```
 **See Also :**
-[OSPathNetParse](/reference/Func/OSPathNetParse)
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
 ---

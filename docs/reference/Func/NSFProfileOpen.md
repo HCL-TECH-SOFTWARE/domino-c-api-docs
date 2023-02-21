@@ -72,6 +72,6 @@ if( Error = NSFProfileOpen( db_handle,
 }
 ```
 **See Also :**
-[NSFProfileDelete](/reference/Func/NSFProfileDelete)
-[NSFProfileUpdate](/reference/Func/NSFProfileUpdate)
+[NSFProfileDelete](/domino-c-api-docs/reference/Func/NSFProfileDelete)
+[NSFProfileUpdate](/domino-c-api-docs/reference/Func/NSFProfileUpdate)
 ---

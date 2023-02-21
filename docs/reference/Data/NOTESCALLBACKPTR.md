@@ -25,7 +25,7 @@ Callback pointer declaration from nsfsearc.h:
         ITEM_TABLE    NOTESPTR SummaryBuffer);
 ```
 **See Also :**
-[LNCALLBACK](/reference/Data/LNCALLBACK)
-[LNCALLBACKPTR](/reference/Data/LNCALLBACKPTR)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
+[LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
+[LNCALLBACKPTR](/domino-c-api-docs/reference/Data/LNCALLBACKPTR)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
 ---

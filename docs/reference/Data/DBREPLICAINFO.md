@@ -19,7 +19,7 @@ keeping the local time zone and daylight savings time settings will further
 ensure that it is a unique time/date.
 
 **See Also :**
-[NSFDbReplicaInfoGet](/reference/Func/NSFDbReplicaInfoGet)
-[NSFDbReplicaInfoSet](/reference/Func/NSFDbReplicaInfoSet)
-[REPLFLG_xxx](/reference/Symb/REPLFLG_xxx)
+[NSFDbReplicaInfoGet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoGet)
+[NSFDbReplicaInfoSet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoSet)
+[REPLFLG_xxx](/domino-c-api-docs/reference/Symb/REPLFLG_xxx)
 ---

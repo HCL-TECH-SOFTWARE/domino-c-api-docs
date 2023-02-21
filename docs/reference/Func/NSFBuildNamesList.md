@@ -79,7 +79,7 @@ if (error)
 	...
 ```
 **See Also :**
-[NAMES_LIST](/reference/Data/NAMES_LIST)
-[NAMES_LIST_xxx](/reference/Symb/NAMES_LIST_xxx)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[NAMES_LIST](/domino-c-api-docs/reference/Data/NAMES_LIST)
+[NAMES_LIST_xxx](/domino-c-api-docs/reference/Symb/NAMES_LIST_xxx)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

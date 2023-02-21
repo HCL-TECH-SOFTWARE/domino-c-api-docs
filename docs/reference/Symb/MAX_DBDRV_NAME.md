@@ -9,5 +9,5 @@
 Maximum length of database driver class name.
 
 **See Also :**
-[DBVEC](/reference/Data/DBVEC)
+[DBVEC](/domino-c-api-docs/reference/Data/DBVEC)
 ---

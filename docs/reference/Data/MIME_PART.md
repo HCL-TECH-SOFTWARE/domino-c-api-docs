@@ -22,6 +22,6 @@ dwSpare  Spare DWORD.
 
 
 **See Also :**
-[MIME_PART_VERSION](/reference/Symb/MIME_PART_VERSION)
-[MIME_PART_xxx](/reference/Symb/MIME_PART_xxx)
+[MIME_PART_VERSION](/domino-c-api-docs/reference/Symb/MIME_PART_VERSION)
+[MIME_PART_xxx](/domino-c-api-docs/reference/Symb/MIME_PART_xxx)
 ---

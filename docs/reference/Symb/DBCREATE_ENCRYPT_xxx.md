@@ -12,5 +12,5 @@ documentation for a detailed description of the various local encryption
 levels.
 
 **See Also :**
-[NSFDbCreateExtended](/reference/Func/NSFDbCreateExtended)
+[NSFDbCreateExtended](/domino-c-api-docs/reference/Func/NSFDbCreateExtended)
 ---

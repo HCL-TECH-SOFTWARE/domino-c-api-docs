@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[OSSIGPROGRESSPROC](/reference/Data/OSSIGPROGRESSPROC)
+[OSSIGPROGRESSPROC](/domino-c-api-docs/reference/Data/OSSIGPROGRESSPROC)
 ---

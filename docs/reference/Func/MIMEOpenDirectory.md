@@ -50,6 +50,6 @@ if (error = MIMEOpenDirectory(hNote, &hMIMEDir)) {
 
 ```
 **See Also :**
-[HMIMEDIRECTORY](/reference/Data/HMIMEDIRECTORY)
-[MIMEFreeDirectory](/reference/Func/MIMEFreeDirectory)
+[HMIMEDIRECTORY](/domino-c-api-docs/reference/Data/HMIMEDIRECTORY)
+[MIMEFreeDirectory](/domino-c-api-docs/reference/Func/MIMEFreeDirectory)
 ---

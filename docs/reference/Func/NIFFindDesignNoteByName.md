@@ -64,6 +64,6 @@ the notes in a view, given the view's name. */
 
 ```
 **See Also :**
-[NIFFindDesignNote](/reference/Func/NIFFindDesignNote)
-[NIFFindView](/reference/Func/NIFFindView)
+[NIFFindDesignNote](/domino-c-api-docs/reference/Func/NIFFindDesignNote)
+[NIFFindView](/domino-c-api-docs/reference/Func/NIFFindView)
 ---

@@ -40,9 +40,9 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[DB2BACKUP_LINKS_xxx](/reference/Symb/DB2BACKUP_LINKS_xxx)
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
-[NSFDB2GetServerInfo](/reference/Func/NSFDB2GetServerInfo)
-[NSFDB2ListNSFDB2Databases](/reference/Func/NSFDB2ListNSFDB2Databases)
-[NSFDB2ReconnectNotesDatabase](/reference/Func/NSFDB2ReconnectNotesDatabase)
+[DB2BACKUP_LINKS_xxx](/domino-c-api-docs/reference/Symb/DB2BACKUP_LINKS_xxx)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
+[NSFDB2GetServerInfo](/domino-c-api-docs/reference/Func/NSFDB2GetServerInfo)
+[NSFDB2ListNSFDB2Databases](/domino-c-api-docs/reference/Func/NSFDB2ListNSFDB2Databases)
+[NSFDB2ReconnectNotesDatabase](/domino-c-api-docs/reference/Func/NSFDB2ReconnectNotesDatabase)
 ---

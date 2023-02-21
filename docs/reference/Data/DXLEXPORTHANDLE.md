@@ -9,12 +9,12 @@
 
 
 **See Also :**
-[DXLCreateExporter](/reference/Func/DXLCreateExporter)
-[DXLDeleteExporter](/reference/Func/DXLDeleteExporter)
-[DXLExportACL](/reference/Func/DXLExportACL)
-[DXLExportDatabase](/reference/Func/DXLExportDatabase)
-[DXLExportIDTable](/reference/Func/DXLExportIDTable)
-[DXLExportNote](/reference/Func/DXLExportNote)
-[DXLGetExporterProperty](/reference/Func/DXLGetExporterProperty)
-[DXLSetExporterProperty](/reference/Func/DXLSetExporterProperty)
+[DXLCreateExporter](/domino-c-api-docs/reference/Func/DXLCreateExporter)
+[DXLDeleteExporter](/domino-c-api-docs/reference/Func/DXLDeleteExporter)
+[DXLExportACL](/domino-c-api-docs/reference/Func/DXLExportACL)
+[DXLExportDatabase](/domino-c-api-docs/reference/Func/DXLExportDatabase)
+[DXLExportIDTable](/domino-c-api-docs/reference/Func/DXLExportIDTable)
+[DXLExportNote](/domino-c-api-docs/reference/Func/DXLExportNote)
+[DXLGetExporterProperty](/domino-c-api-docs/reference/Func/DXLGetExporterProperty)
+[DXLSetExporterProperty](/domino-c-api-docs/reference/Func/DXLSetExporterProperty)
 ---

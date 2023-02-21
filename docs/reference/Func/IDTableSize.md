@@ -32,9 +32,9 @@ Output :
 
 ```
 **See Also :**
-[IDTableFlags](/reference/Func/IDTableFlags)
-[IDTableTime](/reference/Func/IDTableTime)
-[IDTableSetFlags](/reference/Func/IDTableSetFlags)
-[IDTableSetTime](/reference/Func/IDTableSetTime)
-[IDTableSizeP](/reference/Func/IDTableSizeP)
+[IDTableFlags](/domino-c-api-docs/reference/Func/IDTableFlags)
+[IDTableTime](/domino-c-api-docs/reference/Func/IDTableTime)
+[IDTableSetFlags](/domino-c-api-docs/reference/Func/IDTableSetFlags)
+[IDTableSetTime](/domino-c-api-docs/reference/Func/IDTableSetTime)
+[IDTableSizeP](/domino-c-api-docs/reference/Func/IDTableSizeP)
 ---

@@ -130,8 +130,8 @@ EXIT:
 }
 ```
 **See Also :**
-[EMDeregister](/reference/Func/EMDeregister)
-[EMRECORD](/reference/Data/EMRECORD)
-[EMRegister](/reference/Func/EMRegister)
-[VARARG_GET](/reference/Func/VARARG_GET)
+[EMDeregister](/domino-c-api-docs/reference/Func/EMDeregister)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
+[VARARG_GET](/domino-c-api-docs/reference/Func/VARARG_GET)
 ---

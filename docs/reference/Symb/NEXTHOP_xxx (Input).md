@@ -10,5 +10,5 @@ Possible input values for the FindFlags input parameter in the
 MailFindNextHopToDomain Extended function.
 
 **See Also :**
-[MailFindNextHopToDomainExt](/reference/Func/MailFindNextHopToDomainExt)
+[MailFindNextHopToDomainExt](/domino-c-api-docs/reference/Func/MailFindNextHopToDomainExt)
 ---

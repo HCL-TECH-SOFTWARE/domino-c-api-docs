@@ -21,6 +21,6 @@ SourcePABID - ID number of PAB containing the "Hide When" formula
 DestPABID - ID number of CDPABDEFINITION record for this paragraph
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDPABREFERENCE](/reference/Data/CDPABREFERENCE)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)
 ---

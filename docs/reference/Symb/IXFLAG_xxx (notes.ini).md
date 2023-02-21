@@ -10,5 +10,5 @@ Definitions of the flags word which follows the description field in the
 notes.ini import/export flag.
 
 **See Also :**
-[IXFLAG_xxx](/reference/Symb/IXFLAG_xxx)
+[IXFLAG_xxx](/domino-c-api-docs/reference/Symb/IXFLAG_xxx)
 ---

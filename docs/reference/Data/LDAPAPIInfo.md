@@ -52,7 +52,7 @@ set to 400.  If no version information is available, this field will be set to
 LDAP_VENDOR_xxx.
 
 **See Also :**
-[ldap_get_option](/reference/Func/ldap_get_option)
-[LDAP_VENDOR_xxx](/reference/Symb/LDAP_VENDOR_xxx)
-[LDAP_xxx_INFO_VERSION](/reference/Symb/LDAP_xxx_INFO_VERSION)
+[ldap_get_option](/domino-c-api-docs/reference/Func/ldap_get_option)
+[LDAP_VENDOR_xxx](/domino-c-api-docs/reference/Symb/LDAP_VENDOR_xxx)
+[LDAP_xxx_INFO_VERSION](/domino-c-api-docs/reference/Symb/LDAP_xxx_INFO_VERSION)
 ---

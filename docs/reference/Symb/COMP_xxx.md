@@ -66,6 +66,6 @@ strings:  the comment string, the NUL terminator ('\0'), the server name, and a
 second NUL terminator.
 
 **See Also :**
-[CompoundTextAddDocLink](/reference/Func/CompoundTextAddDocLink)
-[CompoundTextAddTextExt](/reference/Func/CompoundTextAddTextExt)
+[CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
+[CompoundTextAddTextExt](/domino-c-api-docs/reference/Func/CompoundTextAddTextExt)
 ---

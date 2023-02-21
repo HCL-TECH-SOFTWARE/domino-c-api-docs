@@ -40,7 +40,7 @@ rethNote  -  The address in which the handle of the opened note is returned.
 
 
 **See Also :**
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[OPEN_xxx (note)](/reference/Symb/OPEN_xxx (note))
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[OPEN_xxx (note)](/domino-c-api-docs/reference/Symb/OPEN_xxx (note))
 ---

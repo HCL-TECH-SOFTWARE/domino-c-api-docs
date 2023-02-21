@@ -10,5 +10,5 @@ These flags control the manner in which NIFOpenCollection opens a collection of
 notes.
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
 ---

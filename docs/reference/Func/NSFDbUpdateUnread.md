@@ -89,6 +89,6 @@ status = IDDestroyTable (hOriginalTable);
    status = IDDestroyTable (hTable);
 ```
 **See Also :**
-[NSFDbGetUnreadNoteTable](/reference/Func/NSFDbGetUnreadNoteTable)
-[NSFDbSetUnreadNoteTable](/reference/Func/NSFDbSetUnreadNoteTable)
+[NSFDbGetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetUnreadNoteTable)
+[NSFDbSetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbSetUnreadNoteTable)
 ---

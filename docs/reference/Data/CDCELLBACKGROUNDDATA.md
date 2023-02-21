@@ -17,5 +17,5 @@ SpareDWORD Not Used.
 
 
 **See Also :**
-[REPEAT_xxx](/reference/Symb/REPEAT_xxx)
+[REPEAT_xxx](/domino-c-api-docs/reference/Symb/REPEAT_xxx)
 ---

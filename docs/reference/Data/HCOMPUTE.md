@@ -12,7 +12,7 @@ input to uniquely identify the formula to be evaluated.  The HCOMPUTE is freed
 by calling NSFComputeStop.
 
 **See Also :**
-[NSFComputeEvaluate](/reference/Func/NSFComputeEvaluate)
-[NSFComputeStart](/reference/Func/NSFComputeStart)
-[NSFComputeStop](/reference/Func/NSFComputeStop)
+[NSFComputeEvaluate](/domino-c-api-docs/reference/Func/NSFComputeEvaluate)
+[NSFComputeStart](/domino-c-api-docs/reference/Func/NSFComputeStart)
+[NSFComputeStop](/domino-c-api-docs/reference/Func/NSFComputeStop)
 ---

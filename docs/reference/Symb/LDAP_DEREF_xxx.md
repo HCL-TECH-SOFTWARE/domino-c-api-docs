@@ -9,5 +9,5 @@
 Dereferencing aliases relating to LDAP_OPT_DEREF.  See LDAP_OPT_xxx.
 
 **See Also :**
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
 ---

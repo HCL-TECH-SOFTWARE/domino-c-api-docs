@@ -42,6 +42,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NSFDbReadACL](/reference/Func/NSFDbReadACL)
-[ACLCreate](/reference/Func/ACLCreate)
+[NSFDbReadACL](/domino-c-api-docs/reference/Func/NSFDbReadACL)
+[ACLCreate](/domino-c-api-docs/reference/Func/ACLCreate)
 ---

@@ -107,5 +107,5 @@ Status = CompoundTextAssimilateItem( hCompound,
 
 ```
 **See Also :**
-[CompoundTextAssimilateFile](/reference/Func/CompoundTextAssimilateFile)
+[CompoundTextAssimilateFile](/domino-c-api-docs/reference/Func/CompoundTextAssimilateFile)
 ---

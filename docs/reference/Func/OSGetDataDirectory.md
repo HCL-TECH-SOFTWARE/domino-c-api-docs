@@ -25,11 +25,11 @@ retPathName  -  The address of a text buffer dimensioned with MAXPATH, in which 
 
 
 **See Also :**
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[NSFDbLocateByReplicaID](/reference/Func/NSFDbLocateByReplicaID)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
-[OSGetEnvironmentString](/reference/Func/OSGetEnvironmentString)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[NSFDbLocateByReplicaID](/domino-c-api-docs/reference/Func/NSFDbLocateByReplicaID)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
+[OSGetEnvironmentString](/domino-c-api-docs/reference/Func/OSGetEnvironmentString)
 ---

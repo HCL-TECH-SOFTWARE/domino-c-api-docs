@@ -27,5 +27,5 @@ corresponding to the "length" parameters listed above.  These packed strings
 must appear in the same order as the "length" parameters.
 
 **See Also :**
-[CDOLEEND](/reference/Data/CDOLEEND)
+[CDOLEEND](/domino-c-api-docs/reference/Data/CDOLEEND)
 ---

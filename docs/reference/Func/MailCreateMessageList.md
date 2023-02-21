@@ -71,7 +71,7 @@ MessageCount  -  Number of messages in the message list.
     printf ("There are %d messages in the message file.\n", MessageCount);
 ```
 **See Also :**
-[MailOpenMessageFile](/reference/Func/MailOpenMessageFile)
-[MailOpenMessage](/reference/Func/MailOpenMessage)
-[MailFreeMessageList](/reference/Func/MailFreeMessageList)
+[MailOpenMessageFile](/domino-c-api-docs/reference/Func/MailOpenMessageFile)
+[MailOpenMessage](/domino-c-api-docs/reference/Func/MailOpenMessage)
+[MailFreeMessageList](/domino-c-api-docs/reference/Func/MailFreeMessageList)
 ---

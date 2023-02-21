@@ -29,5 +29,5 @@ int main (int argc, char *argv[])
 #endif
 ```
 **See Also :**
-[NotesLibraryMain](/reference/Func/NotesLibraryMain)
+[NotesLibraryMain](/domino-c-api-docs/reference/Func/NotesLibraryMain)
 ---

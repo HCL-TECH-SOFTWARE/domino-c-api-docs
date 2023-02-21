@@ -14,6 +14,6 @@ represents package code but is hard-coded to protect against changes in the
 package code. Most sig. 2 bytes are reserved for future use.
 
 **See Also :**
-[DBREPLICAINFO](/reference/Data/DBREPLICAINFO)
-[REPLICA_DATE_RESERVED](/reference/Symb/REPLICA_DATE_RESERVED)
+[DBREPLICAINFO](/domino-c-api-docs/reference/Data/DBREPLICAINFO)
+[REPLICA_DATE_RESERVED](/domino-c-api-docs/reference/Symb/REPLICA_DATE_RESERVED)
 ---

@@ -61,5 +61,5 @@ FileModified  -  File modification time.  Optional - specify NULL if not to be r
     }
 ```
 **See Also :**
-[MailExtractMessageAttachment](/reference/Func/MailExtractMessageAttachment)
+[MailExtractMessageAttachment](/domino-c-api-docs/reference/Func/MailExtractMessageAttachment)
 ---

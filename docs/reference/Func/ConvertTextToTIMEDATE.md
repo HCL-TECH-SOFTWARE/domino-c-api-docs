@@ -77,9 +77,9 @@ retTIMEDATE  -  The address of a TIMEDATE structure in which the binary equivale
        goto Exit;
 ```
 **See Also :**
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
-[TFMT](/reference/Data/TFMT)
-[TYPE_xxx [TIME_RANGE]](/reference/Symb/TYPE_xxx [TIME_RANGE])
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
+[TFMT](/domino-c-api-docs/reference/Data/TFMT)
+[TYPE_xxx [TIME_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TIME_RANGE])
 ---

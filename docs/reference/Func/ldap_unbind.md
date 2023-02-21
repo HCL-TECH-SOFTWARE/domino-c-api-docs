@@ -27,9 +27,9 @@ Output :
 
 
 **See Also :**
-[ldap_bind](/reference/Func/ldap_bind)
-[ldap_sasl_bind](/reference/Func/ldap_sasl_bind)
-[ldap_simple_bind](/reference/Func/ldap_simple_bind)
-[ldap_unbind_ext](/reference/Func/ldap_unbind_ext)
-[ldap_unbind_s](/reference/Func/ldap_unbind_s)
+[ldap_bind](/domino-c-api-docs/reference/Func/ldap_bind)
+[ldap_sasl_bind](/domino-c-api-docs/reference/Func/ldap_sasl_bind)
+[ldap_simple_bind](/domino-c-api-docs/reference/Func/ldap_simple_bind)
+[ldap_unbind_ext](/domino-c-api-docs/reference/Func/ldap_unbind_ext)
+[ldap_unbind_s](/domino-c-api-docs/reference/Func/ldap_unbind_s)
 ---

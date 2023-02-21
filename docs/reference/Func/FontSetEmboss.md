@@ -29,8 +29,8 @@ Output :
 
 
 **See Also :**
-[FontClearEmboss](/reference/Func/FontClearEmboss)
-[FontIsEmboss](/reference/Func/FontIsEmboss)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontClearEmboss](/domino-c-api-docs/reference/Func/FontClearEmboss)
+[FontIsEmboss](/domino-c-api-docs/reference/Func/FontIsEmboss)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

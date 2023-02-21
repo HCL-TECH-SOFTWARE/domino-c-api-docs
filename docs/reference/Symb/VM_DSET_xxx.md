@@ -13,5 +13,5 @@ generated and stored.  When this navigator is accessed through a Domino server,
 the bitmap image is displayed in the browser.
 
 **See Also :**
-[VIEWMAP_DATASET_RECORD](/reference/Data/VIEWMAP_DATASET_RECORD)
+[VIEWMAP_DATASET_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_DATASET_RECORD)
 ---

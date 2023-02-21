@@ -42,9 +42,9 @@ ViewTableFormat.Flags2 = VIEW_TABLE_FLAT_HEADINGS;
 ODSWriteMemory( &pVFBuf, _VIEW_TABLE_FORMAT, &ViewTableFormat, 1 );
 ```
 **See Also :**
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
-[VIEW_FORMAT_HEADER](/reference/Data/VIEW_FORMAT_HEADER)
-[VIEW_TABLE_FORMAT2](/reference/Data/VIEW_TABLE_FORMAT2)
-[VIEW_TABLE_xxx (VIEW_TABLE_FORMAT)](/reference/Symb/VIEW_TABLE_xxx (VIEW_TABLE_FORMAT))
-[VIEW_TABLE_xxx (VIEW_TABLE_FORMAT)](/reference/Symb/VIEW_TABLE_xxx (VIEW_TABLE_FORMAT))
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_FORMAT_HEADER](/domino-c-api-docs/reference/Data/VIEW_FORMAT_HEADER)
+[VIEW_TABLE_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT2)
+[VIEW_TABLE_xxx (VIEW_TABLE_FORMAT)](/domino-c-api-docs/reference/Symb/VIEW_TABLE_xxx (VIEW_TABLE_FORMAT))
+[VIEW_TABLE_xxx (VIEW_TABLE_FORMAT)](/domino-c-api-docs/reference/Symb/VIEW_TABLE_xxx (VIEW_TABLE_FORMAT))
 ---

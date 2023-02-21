@@ -21,5 +21,5 @@ the event. In this case the http stack is to stop processing the request, and
 send an appropriate error response to the user.
 
 **See Also :**
-[DSAPI_xxx](/reference/Symb/DSAPI_xxx)
+[DSAPI_xxx](/domino-c-api-docs/reference/Symb/DSAPI_xxx)
 ---

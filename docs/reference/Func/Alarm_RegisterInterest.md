@@ -27,5 +27,5 @@ ERR_xxx - There are many possible errors. It is best to use the code in a call t
 
 
 **See Also :**
-[Alarm_DeregisterInterest](/reference/Func/Alarm_DeregisterInterest)
+[Alarm_DeregisterInterest](/domino-c-api-docs/reference/Func/Alarm_DeregisterInterest)
 ---

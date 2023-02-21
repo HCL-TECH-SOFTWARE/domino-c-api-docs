@@ -27,8 +27,8 @@ Output :
 
 
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemDeleteByBLOCKID](/reference/Func/NSFItemDeleteByBLOCKID)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemDeleteByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemDeleteByBLOCKID)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
 ---

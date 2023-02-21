@@ -17,7 +17,7 @@ FT_SEARCH_RESULT_ENTRY array.
    
 
 **See Also :**
-[FTSearch](/reference/Func/FTSearch)
-[FT_SEARCH_RESULTS](/reference/Data/FT_SEARCH_RESULTS)
-[FT_RESULTS_xxx](/reference/Symb/FT_RESULTS_xxx)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FT_SEARCH_RESULTS](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULTS)
+[FT_RESULTS_xxx](/domino-c-api-docs/reference/Symb/FT_RESULTS_xxx)
 ---

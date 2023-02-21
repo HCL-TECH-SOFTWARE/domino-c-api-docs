@@ -11,7 +11,7 @@ attachment objects in NSFNoteExtractFile and NSFNoteExtractFileExt.  File
 attachment objects are not decrypted until necessary.
 
 **See Also :**
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
-[NSFNoteExtractFileExt](/reference/Func/NSFNoteExtractFileExt)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
+[NSFNoteExtractFileExt](/domino-c-api-docs/reference/Func/NSFNoteExtractFileExt)
 ---

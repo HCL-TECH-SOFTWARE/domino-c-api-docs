@@ -21,5 +21,5 @@ NULL delimiter.  The Java class files are stored as $FILE items in the
 document;  the Java class file name is the file name of the $FILE item.
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

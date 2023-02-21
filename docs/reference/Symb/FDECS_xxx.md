@@ -9,5 +9,5 @@
 Values for the Flags member of CDDECSFIELD
 
 **See Also :**
-[CDDECSFIELD](/reference/Data/CDDECSFIELD)
+[CDDECSFIELD](/domino-c-api-docs/reference/Data/CDDECSFIELD)
 ---

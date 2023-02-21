@@ -106,10 +106,10 @@ error = NSFItemAppend( note_handle,
 free( rt_field );
 ```
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDPABREFERENCE](/reference/Data/CDPABREFERENCE)
-[CDPARAGRAPH](/reference/Data/CDPARAGRAPH)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)
+[CDPARAGRAPH](/domino-c-api-docs/reference/Data/CDPARAGRAPH)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

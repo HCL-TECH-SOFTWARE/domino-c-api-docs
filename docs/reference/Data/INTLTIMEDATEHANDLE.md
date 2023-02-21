@@ -10,9 +10,9 @@ International TIMEDATE handle needed to create additional information within a
 TIMEDATE text string.
 
 **See Also :**
-[IntlTIMEDATEConvertToText](/reference/Func/IntlTIMEDATEConvertToText)
-[IntlTIMEDATECreateHandle](/reference/Func/IntlTIMEDATECreateHandle)
-[IntlTIMEDATEDeleteHandle](/reference/Func/IntlTIMEDATEDeleteHandle)
-[IntlTIMEDATEGetValue](/reference/Func/IntlTIMEDATEGetValue)
-[IntlTIMEDATESetValue](/reference/Func/IntlTIMEDATESetValue)
+[IntlTIMEDATEConvertToText](/domino-c-api-docs/reference/Func/IntlTIMEDATEConvertToText)
+[IntlTIMEDATECreateHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATECreateHandle)
+[IntlTIMEDATEDeleteHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATEDeleteHandle)
+[IntlTIMEDATEGetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATEGetValue)
+[IntlTIMEDATESetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATESetValue)
 ---

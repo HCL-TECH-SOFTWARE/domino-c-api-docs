@@ -37,6 +37,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[SECNABEnumerateCertificates](/reference/Func/SECNABEnumerateCertificates)
-[SECNABRemoveCertificate](/reference/Func/SECNABRemoveCertificate)
+[SECNABEnumerateCertificates](/domino-c-api-docs/reference/Func/SECNABEnumerateCertificates)
+[SECNABRemoveCertificate](/domino-c-api-docs/reference/Func/SECNABRemoveCertificate)
 ---

@@ -24,6 +24,6 @@ Domain  -  Domain name string (null-terminated).
 
 
 **See Also :**
-[MailLookupAddress](/reference/Func/MailLookupAddress)
-[MailLookupUser](/reference/Func/MailLookupUser)
+[MailLookupAddress](/domino-c-api-docs/reference/Func/MailLookupAddress)
+[MailLookupUser](/domino-c-api-docs/reference/Func/MailLookupUser)
 ---

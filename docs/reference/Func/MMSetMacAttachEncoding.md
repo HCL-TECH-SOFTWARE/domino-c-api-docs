@@ -33,6 +33,6 @@ MMSetMacAttachEncoding(hCC, 0); /* CD to MIME conversion */
 
 ```
 **See Also :**
-[MMGetMacAttachEncoding](/reference/Func/MMGetMacAttachEncoding)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetMacAttachEncoding](/domino-c-api-docs/reference/Func/MMGetMacAttachEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

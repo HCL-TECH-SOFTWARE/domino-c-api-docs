@@ -12,9 +12,9 @@ NSFNoteUpdate or NSFNoteDelete;  these options can only be passed to
 NSFNoteUpdatedExtended, NSFNoteDeleteExtended and NSFDbCopyNoteExt.
 
 **See Also :**
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[NSFNoteDelete](/reference/Func/NSFNoteDelete)
-[NSFNoteUpdateExtended](/reference/Func/NSFNoteUpdateExtended)
-[NSFNoteDeleteExtended](/reference/Func/NSFNoteDeleteExtended)
-[NSFDbCopyNoteExt](/reference/Func/NSFDbCopyNoteExt)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[NSFNoteDelete](/domino-c-api-docs/reference/Func/NSFNoteDelete)
+[NSFNoteUpdateExtended](/domino-c-api-docs/reference/Func/NSFNoteUpdateExtended)
+[NSFNoteDeleteExtended](/domino-c-api-docs/reference/Func/NSFNoteDeleteExtended)
+[NSFDbCopyNoteExt](/domino-c-api-docs/reference/Func/NSFDbCopyNoteExt)
 ---

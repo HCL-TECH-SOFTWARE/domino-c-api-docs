@@ -14,7 +14,7 @@ NULL-terminated user name strings.  Use the NSFDbGetActivityUserNamePtr() macro
 for accessing the user name for each DBACTIVITY_ENTRY structure in the array.
 
 **See Also :**
-[DBACTIVITY](/reference/Data/DBACTIVITY)
-[NSFDbGetUserActivity](/reference/Func/NSFDbGetUserActivity)
-[NSFDbGetActivityUserNamePtr](/reference/Func/NSFDbGetActivityUserNamePtr)
+[DBACTIVITY](/domino-c-api-docs/reference/Data/DBACTIVITY)
+[NSFDbGetUserActivity](/domino-c-api-docs/reference/Func/NSFDbGetUserActivity)
+[NSFDbGetActivityUserNamePtr](/domino-c-api-docs/reference/Func/NSFDbGetActivityUserNamePtr)
 ---

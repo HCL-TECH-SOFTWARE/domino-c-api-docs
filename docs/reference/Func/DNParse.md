@@ -245,7 +245,7 @@ short i;
    /* ... */
 ```
 **See Also :**
-[DNAbbreviate](/reference/Func/DNAbbreviate)
-[DNCanonicalize](/reference/Func/DNCanonicalize)
-[DN_COMPONENTS](/reference/Data/DN_COMPONENTS)
+[DNAbbreviate](/domino-c-api-docs/reference/Func/DNAbbreviate)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
+[DN_COMPONENTS](/domino-c-api-docs/reference/Data/DN_COMPONENTS)
 ---

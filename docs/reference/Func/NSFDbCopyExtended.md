@@ -55,6 +55,6 @@ retUntil  -  Optional;  if not NULL, the TIMEDATE of the most recent note copied
 
 
 **See Also :**
-[NSFDbCopy](/reference/Func/NSFDbCopy)
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
+[NSFDbCopy](/domino-c-api-docs/reference/Func/NSFDbCopy)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
 ---

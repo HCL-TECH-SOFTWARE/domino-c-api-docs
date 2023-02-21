@@ -21,5 +21,5 @@ Each color table entry consists of 3 bytes, Red (byte 0), Green (byte 1), and
 Blue (byte 2).  Each byte is a color value in the range 0 to 255.
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
 ---

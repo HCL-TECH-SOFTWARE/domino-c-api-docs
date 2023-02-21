@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[OLEOBJHTMLDATA](/reference/Data/OLEOBJHTMLDATA)
-[OLEOBJHTMLEVENT](/reference/Data/OLEOBJHTMLEVENT)
+[OLEOBJHTMLDATA](/domino-c-api-docs/reference/Data/OLEOBJHTMLDATA)
+[OLEOBJHTMLEVENT](/domino-c-api-docs/reference/Data/OLEOBJHTMLEVENT)
 ---

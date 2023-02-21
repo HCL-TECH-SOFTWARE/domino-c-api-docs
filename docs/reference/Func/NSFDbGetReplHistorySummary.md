@@ -104,7 +104,7 @@ OSUnlock (hReplHist);
 OSMemFree (hReplHist);
 ```
 **See Also :**
-[NSFGetSummaryFileNamePtr](/reference/Func/NSFGetSummaryFileNamePtr)
-[NSFGetSummaryServerNamePtr](/reference/Func/NSFGetSummaryServerNamePtr)
-[REPLHIST_SUMMARY](/reference/Data/REPLHIST_SUMMARY)
+[NSFGetSummaryFileNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryFileNamePtr)
+[NSFGetSummaryServerNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryServerNamePtr)
+[REPLHIST_SUMMARY](/domino-c-api-docs/reference/Data/REPLHIST_SUMMARY)
 ---

@@ -25,8 +25,8 @@ Output :
 
 
 **See Also :**
-[FontClearStrikeOut](/reference/Func/FontClearStrikeOut)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontSetStrikeOut](/reference/Func/FontSetStrikeOut)
+[FontClearStrikeOut](/domino-c-api-docs/reference/Func/FontClearStrikeOut)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontSetStrikeOut](/domino-c-api-docs/reference/Func/FontSetStrikeOut)
 ---

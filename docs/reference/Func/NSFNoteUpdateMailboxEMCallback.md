@@ -28,6 +28,6 @@ ERR_EM_CONTINUE
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
-[UPDATE_xxx](/reference/Symb/UPDATE_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[UPDATE_xxx](/domino-c-api-docs/reference/Symb/UPDATE_xxx)
 ---

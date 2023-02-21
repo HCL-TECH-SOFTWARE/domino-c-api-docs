@@ -31,6 +31,6 @@ MMSetKeepTabs(hCC, FALSE); /* if TRUE, when converting CD to MIME, don't
 convert tabs to spaces (default is FALSE) */
 ```
 **See Also :**
-[MMGetKeepTabs](/reference/Func/MMGetKeepTabs)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetKeepTabs](/domino-c-api-docs/reference/Func/MMGetKeepTabs)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

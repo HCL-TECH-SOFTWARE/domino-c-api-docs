@@ -9,5 +9,5 @@
 These definitions specify the set of TIMEDATE value constants.
 
 **See Also :**
-[TimeConstant](/reference/Func/TimeConstant)
+[TimeConstant](/domino-c-api-docs/reference/Func/TimeConstant)
 ---

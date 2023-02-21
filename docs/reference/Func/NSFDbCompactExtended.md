@@ -59,6 +59,6 @@ printf ("Size of %s after compaction:   %lu\n", db_filename, Stats[1]);
 
 ```
 **See Also :**
-[DBCOMPACT_xxx](/reference/Symb/DBCOMPACT_xxx)
-[NSFDbCompact](/reference/Func/NSFDbCompact)
+[DBCOMPACT_xxx](/domino-c-api-docs/reference/Symb/DBCOMPACT_xxx)
+[NSFDbCompact](/domino-c-api-docs/reference/Func/NSFDbCompact)
 ---

@@ -62,9 +62,9 @@ response.NoteUNID.Note = MainOID.Note;
 
 ```
 **See Also :**
-[NOTELINK](/reference/Data/NOTELINK)
-[OID](/reference/Data/OID)
-[ORIGINATORID](/reference/Data/ORIGINATORID)
-[UNID](/reference/Data/UNID)
-[NSFNoteOpenByUNID](/reference/Func/NSFNoteOpenByUNID)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[OID](/domino-c-api-docs/reference/Data/OID)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
+[NSFNoteOpenByUNID](/domino-c-api-docs/reference/Func/NSFNoteOpenByUNID)
 ---

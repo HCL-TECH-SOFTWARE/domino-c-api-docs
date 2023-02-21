@@ -12,6 +12,6 @@ marking the divisions is returned with that structure.  This constant gives the
 number of entries in that table.
 
 **See Also :**
-[COLLECTIONDATA](/reference/Data/COLLECTIONDATA)
-[PERCENTILE_xxx](/reference/Symb/PERCENTILE_xxx)
+[COLLECTIONDATA](/domino-c-api-docs/reference/Data/COLLECTIONDATA)
+[PERCENTILE_xxx](/domino-c-api-docs/reference/Symb/PERCENTILE_xxx)
 ---

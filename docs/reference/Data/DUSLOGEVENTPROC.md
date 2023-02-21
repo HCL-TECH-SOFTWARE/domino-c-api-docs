@@ -28,5 +28,5 @@ pDUSCtx->LogEventProc = DUSLogEvent;
 pDUSCtx->LogEventProc( STR_DUS_GETTING_USERS, pDUSCtx->hDUSModule, NOERROR );
 ```
 **See Also :**
-[DUSStart](/reference/Func/DUSStart)
+[DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
 ---

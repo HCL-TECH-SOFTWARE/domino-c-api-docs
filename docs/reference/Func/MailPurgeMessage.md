@@ -37,5 +37,5 @@ Output :
 
 
 **See Also :**
-[MailDeleteMessageRecipient](/reference/Func/MailDeleteMessageRecipient)
+[MailDeleteMessageRecipient](/domino-c-api-docs/reference/Func/MailDeleteMessageRecipient)
 ---

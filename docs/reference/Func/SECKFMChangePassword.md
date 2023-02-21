@@ -77,6 +77,6 @@ if (error = SECKFMChangePassword (pIDFile, OrigPassword, NewPassword))
 }
 ```
 **See Also :**
-[SECKFMGetUserName](/reference/Func/SECKFMGetUserName)
-[SECKFMUserInfo](/reference/Func/SECKFMUserInfo)
+[SECKFMGetUserName](/domino-c-api-docs/reference/Func/SECKFMGetUserName)
+[SECKFMUserInfo](/domino-c-api-docs/reference/Func/SECKFMUserInfo)
 ---

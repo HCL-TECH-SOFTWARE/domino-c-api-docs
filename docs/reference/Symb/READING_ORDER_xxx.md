@@ -11,5 +11,5 @@ the paragraph reading order is READING_ORDER_RIGHT otherwise it is
 READING_ORDER_LEFT.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

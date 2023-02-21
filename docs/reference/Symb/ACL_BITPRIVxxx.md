@@ -11,8 +11,8 @@ Notes, those privileges are stored as 5 of the bits in the privileges bit array
 in an Access Control List.  Names of privileges are enclosed in parenthesis.
 
 **See Also :**
-[ACL_PRIVCOUNT](/reference/Symb/ACL_PRIVCOUNT)
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACL_PRIVNAMEMAX](/reference/Symb/ACL_PRIVNAMEMAX)
-[ACL_PRIVSTRINGMAX](/reference/Symb/ACL_PRIVSTRINGMAX)
+[ACL_PRIVCOUNT](/domino-c-api-docs/reference/Symb/ACL_PRIVCOUNT)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACL_PRIVNAMEMAX](/domino-c-api-docs/reference/Symb/ACL_PRIVNAMEMAX)
+[ACL_PRIVSTRINGMAX](/domino-c-api-docs/reference/Symb/ACL_PRIVSTRINGMAX)
 ---

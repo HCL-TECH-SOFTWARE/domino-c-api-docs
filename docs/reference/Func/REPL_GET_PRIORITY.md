@@ -30,8 +30,8 @@ Output :
 
 
 **See Also :**
-[NSFDbReplicaInfoGet](/reference/Func/NSFDbReplicaInfoGet)
-[NSFDbReplicaInfoSet](/reference/Func/NSFDbReplicaInfoSet)
-[DBREPLICAINFO](/reference/Data/DBREPLICAINFO)
-[REPL_SET_PRIORITY](/reference/Func/REPL_SET_PRIORITY)
+[NSFDbReplicaInfoGet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoGet)
+[NSFDbReplicaInfoSet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoSet)
+[DBREPLICAINFO](/domino-c-api-docs/reference/Data/DBREPLICAINFO)
+[REPL_SET_PRIORITY](/domino-c-api-docs/reference/Func/REPL_SET_PRIORITY)
 ---

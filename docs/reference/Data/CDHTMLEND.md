@@ -17,5 +17,5 @@ Spares  Reserved;  must be 0.
 
 
 **See Also :**
-[CDHTMLBEGIN](/reference/Data/CDHTMLBEGIN)
+[CDHTMLBEGIN](/domino-c-api-docs/reference/Data/CDHTMLBEGIN)
 ---

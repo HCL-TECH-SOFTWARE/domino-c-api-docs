@@ -31,9 +31,9 @@ Output :
 
 ```
 **See Also :**
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[TimeDateCollate](/reference/Func/TimeDateCollate)
-[TimeDateEqual](/reference/Func/TimeDateEqual)
-[TimeDateDifference](/reference/Func/TimeDateDifference)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[TimeDateCollate](/domino-c-api-docs/reference/Func/TimeDateCollate)
+[TimeDateEqual](/domino-c-api-docs/reference/Func/TimeDateEqual)
+[TimeDateDifference](/domino-c-api-docs/reference/Func/TimeDateDifference)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

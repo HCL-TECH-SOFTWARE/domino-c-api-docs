@@ -45,6 +45,6 @@ RemovedNoteTable  -  Address to the handle of the ID Table containing the net am
 
 
 **See Also :**
-[NSFFolderGetIDTable](/reference/Func/NSFFolderGetIDTable)
-[TimeDateClear](/reference/Func/TimeDateClear)
+[NSFFolderGetIDTable](/domino-c-api-docs/reference/Func/NSFFolderGetIDTable)
+[TimeDateClear](/domino-c-api-docs/reference/Func/TimeDateClear)
 ---

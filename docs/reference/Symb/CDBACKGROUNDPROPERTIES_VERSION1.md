@@ -11,7 +11,7 @@ CDENDRECORD.  This version number is applied to the Version member within a
 CDBEGINRECORD and to the Version member within a CDENDRECORD.
 
 **See Also :**
-[CDBACKGROUNDPROPERTIES](/reference/Data/CDBACKGROUNDPROPERTIES)
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
+[CDBACKGROUNDPROPERTIES](/domino-c-api-docs/reference/Data/CDBACKGROUNDPROPERTIES)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
 ---

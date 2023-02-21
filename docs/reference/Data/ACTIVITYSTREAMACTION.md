@@ -30,5 +30,5 @@ pUserData - User context information
 
 
 **See Also :**
-[LogEnumActivityStream](/reference/Func/LogEnumActivityStream)
+[LogEnumActivityStream](/domino-c-api-docs/reference/Func/LogEnumActivityStream)
 ---

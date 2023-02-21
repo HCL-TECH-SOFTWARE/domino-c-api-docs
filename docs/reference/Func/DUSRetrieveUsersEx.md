@@ -54,5 +54,5 @@ pRetUserEntrySize  -  Pointer to the size of the DUS_ENTRY structure. (an array 
 
 
 **See Also :**
-[DUSRetrieveUsers](/reference/Func/DUSRetrieveUsers)
+[DUSRetrieveUsers](/domino-c-api-docs/reference/Func/DUSRetrieveUsers)
 ---

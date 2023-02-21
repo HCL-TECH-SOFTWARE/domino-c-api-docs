@@ -60,7 +60,7 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[LogEventText](/reference/Func/LogEventText)
-[MailLogEvent](/reference/Func/MailLogEvent)
-[MAIL_LOG_xxx](/reference/Symb/MAIL_LOG_xxx)
+[LogEventText](/domino-c-api-docs/reference/Func/LogEventText)
+[MailLogEvent](/domino-c-api-docs/reference/Func/MailLogEvent)
+[MAIL_LOG_xxx](/domino-c-api-docs/reference/Symb/MAIL_LOG_xxx)
 ---

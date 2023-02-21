@@ -28,5 +28,5 @@ rethMessage  -  Open message handle.
 
 
 **See Also :**
-[MailCloseMessage](/reference/Func/MailCloseMessage)
+[MailCloseMessage](/domino-c-api-docs/reference/Func/MailCloseMessage)
 ---

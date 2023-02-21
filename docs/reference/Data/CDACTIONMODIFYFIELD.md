@@ -22,5 +22,5 @@ new value for the field.
 
 
 **See Also :**
-[MODIFYFIELD_FLAG_xxx](/reference/Symb/MODIFYFIELD_FLAG_xxx)
+[MODIFYFIELD_FLAG_xxx](/domino-c-api-docs/reference/Symb/MODIFYFIELD_FLAG_xxx)
 ---

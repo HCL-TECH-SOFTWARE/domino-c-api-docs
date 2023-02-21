@@ -10,5 +10,5 @@ Same as LF_FACESIZE in windows.h.  This is the maximum size of the Name member
 of the CDFACE structure.  This size includes the terminating null.
 
 **See Also :**
-[CDFACE](/reference/Data/CDFACE)
+[CDFACE](/domino-c-api-docs/reference/Data/CDFACE)
 ---

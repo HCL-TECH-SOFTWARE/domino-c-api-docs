@@ -12,5 +12,5 @@ NAM_INIT_INFO structure, giving a menu add-in program the ability to set a menu
 item name.
 
 **See Also :**
-[NAM_INIT_INFO](/reference/Data/NAM_INIT_INFO)
+[NAM_INIT_INFO](/domino-c-api-docs/reference/Data/NAM_INIT_INFO)
 ---

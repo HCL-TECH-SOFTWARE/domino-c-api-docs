@@ -32,5 +32,5 @@ tdLastSyncTime  -  TIMEDATE when the notes were last in synch.
 
 
 **See Also :**
-[NSFDbGetNoteInfo](/reference/Func/NSFDbGetNoteInfo)
+[NSFDbGetNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfo)
 ---

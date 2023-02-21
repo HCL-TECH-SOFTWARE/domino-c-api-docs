@@ -9,5 +9,5 @@
 These symbols are optional load flags for MailLoadingRoutingTablesExt.
 
 **See Also :**
-[MailLoadRoutingTablesExt](/reference/Func/MailLoadRoutingTablesExt)
+[MailLoadRoutingTablesExt](/domino-c-api-docs/reference/Func/MailLoadRoutingTablesExt)
 ---

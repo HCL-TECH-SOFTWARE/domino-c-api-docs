@@ -11,5 +11,5 @@ graphical element in a Navigator.  These values are stored in the ClickAction
 field of the VIEWMAP_ACTION_RECORD.
 
 **See Also :**
-[VIEWMAP_ACTION_RECORD](/reference/Data/VIEWMAP_ACTION_RECORD)
+[VIEWMAP_ACTION_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_ACTION_RECORD)
 ---

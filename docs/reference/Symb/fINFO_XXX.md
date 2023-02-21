@@ -10,10 +10,10 @@ Definitions for NSFDbGetMultNoteInfo and NSFDbGetMultNoteInfoByUNID. Specify
 the infomation to return.
 
 **See Also :**
-[NSFDbGetMultNoteInfo](/reference/Func/NSFDbGetMultNoteInfo)
-[NSFDbGetMultNoteInfoByUNID](/reference/Func/NSFDbGetMultNoteInfoByUNID)
-[OID](/reference/Data/OID)
-[ORIGINATORID](/reference/Data/ORIGINATORID)
-[UNID](/reference/Data/UNID)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
+[NSFDbGetMultNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetMultNoteInfo)
+[NSFDbGetMultNoteInfoByUNID](/domino-c-api-docs/reference/Func/NSFDbGetMultNoteInfoByUNID)
+[OID](/domino-c-api-docs/reference/Data/OID)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
 ---

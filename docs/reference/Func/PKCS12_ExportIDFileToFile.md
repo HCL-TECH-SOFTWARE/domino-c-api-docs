@@ -41,6 +41,6 @@ Output :
 
 
 **See Also :**
-[PKCS12_ImportFileToIDFile](/reference/Func/PKCS12_ImportFileToIDFile)
-[PKCS12_xxx](/reference/Symb/PKCS12_xxx)
+[PKCS12_ImportFileToIDFile](/domino-c-api-docs/reference/Func/PKCS12_ImportFileToIDFile)
+[PKCS12_xxx](/domino-c-api-docs/reference/Symb/PKCS12_xxx)
 ---

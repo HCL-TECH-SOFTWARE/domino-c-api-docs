@@ -10,5 +10,5 @@ This option is used when the immediate termination of the change information
 application is desired prior to backup completion.
 
 **See Also :**
-[NSFBackupEndApplyChangeInfo](/reference/Func/NSFBackupEndApplyChangeInfo)
+[NSFBackupEndApplyChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupEndApplyChangeInfo)
 ---

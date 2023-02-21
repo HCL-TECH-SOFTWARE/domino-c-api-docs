@@ -26,7 +26,7 @@ value of REPLICA_ID_NEVERREPLICATE.  This latter method has the failing that
 databases  that use it cannot have DocLinks to them.
 
 **See Also :**
-[NSFDbReplicaInfoGet](/reference/Func/NSFDbReplicaInfoGet)
-[NSFDbReplicaInfoSet](/reference/Func/NSFDbReplicaInfoSet)
-[DBREPLICAINFO](/reference/Data/DBREPLICAINFO)
+[NSFDbReplicaInfoGet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoGet)
+[NSFDbReplicaInfoSet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoSet)
+[DBREPLICAINFO](/domino-c-api-docs/reference/Data/DBREPLICAINFO)
 ---

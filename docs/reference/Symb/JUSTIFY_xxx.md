@@ -26,5 +26,5 @@ field.
     pabdef.Flags = 0;
 ```
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

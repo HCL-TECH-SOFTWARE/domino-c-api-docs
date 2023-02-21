@@ -15,6 +15,6 @@ allocates an object that is MAXONESEGSIZE and then sends it to a client, the
 client's definition of MAXONESEGSIZE must be the same as the server's.
 
 **See Also :**
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
 ---

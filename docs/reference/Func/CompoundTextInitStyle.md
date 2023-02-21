@@ -29,5 +29,5 @@ COMPOUNDSTYLE  Style;
 CompoundTextInitStyle(&Style);
 ```
 **See Also :**
-[CompoundTextDefineStyle](/reference/Func/CompoundTextDefineStyle)
+[CompoundTextDefineStyle](/domino-c-api-docs/reference/Func/CompoundTextDefineStyle)
 ---

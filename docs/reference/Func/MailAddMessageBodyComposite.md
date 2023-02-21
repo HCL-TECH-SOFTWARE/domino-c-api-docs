@@ -29,5 +29,5 @@ Output :
 
 
 **See Also :**
-[MailGetMessageBodyComposite](/reference/Func/MailGetMessageBodyComposite)
+[MailGetMessageBodyComposite](/domino-c-api-docs/reference/Func/MailGetMessageBodyComposite)
 ---

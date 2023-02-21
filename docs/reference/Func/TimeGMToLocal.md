@@ -35,8 +35,8 @@ if (TimeGMToLocal(&time_oid))
    goto Exit;
 ```
 **See Also :**
-[TimeLocalToGM](/reference/Func/TimeLocalToGM)
-[TimeGMToLocalZone](/reference/Func/TimeGMToLocalZone)
-[OSCurrentTimeZone](/reference/Func/OSCurrentTimeZone)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
+[TimeLocalToGM](/domino-c-api-docs/reference/Func/TimeLocalToGM)
+[TimeGMToLocalZone](/domino-c-api-docs/reference/Func/TimeGMToLocalZone)
+[OSCurrentTimeZone](/domino-c-api-docs/reference/Func/OSCurrentTimeZone)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
 ---

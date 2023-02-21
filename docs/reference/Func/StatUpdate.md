@@ -45,7 +45,7 @@ Output :
 
 ```
 **See Also :**
-[StatDelete](/reference/Func/StatDelete)
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
-[ST_xxx](/reference/Symb/ST_xxx)
+[StatDelete](/domino-c-api-docs/reference/Func/StatDelete)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
+[ST_xxx](/domino-c-api-docs/reference/Symb/ST_xxx)
 ---

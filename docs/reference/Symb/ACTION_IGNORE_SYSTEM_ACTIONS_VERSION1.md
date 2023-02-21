@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDIGNORE](/reference/Data/CDIGNORE)
+[CDIGNORE](/domino-c-api-docs/reference/Data/CDIGNORE)
 ---

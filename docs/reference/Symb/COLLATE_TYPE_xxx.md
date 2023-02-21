@@ -11,5 +11,5 @@ data structure.  The keytype structure member specifies the type of sorting
 that is done in the specified column in a view.
 
 **See Also :**
-[COLLATE_DESCRIPTOR](/reference/Data/COLLATE_DESCRIPTOR)
+[COLLATE_DESCRIPTOR](/domino-c-api-docs/reference/Data/COLLATE_DESCRIPTOR)
 ---

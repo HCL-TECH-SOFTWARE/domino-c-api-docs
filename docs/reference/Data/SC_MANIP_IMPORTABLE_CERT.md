@@ -31,6 +31,6 @@ a string "intended to assist users in browsing".
 CertOffset -  The X.509 certificate.
 
 **See Also :**
-[SC_manip_xxx](/reference/Symb/SC_manip_xxx)
-[SECManipulateSC](/reference/Func/SECManipulateSC)
+[SC_manip_xxx](/domino-c-api-docs/reference/Symb/SC_manip_xxx)
+[SECManipulateSC](/domino-c-api-docs/reference/Func/SECManipulateSC)
 ---

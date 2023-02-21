@@ -19,5 +19,5 @@ displayed.  "Standard" draws an outline around the options.  "3D" draws a
 background as a box with 3-dimensional depth cues.
 
 **See Also :**
-[CDEXTFIELD](/reference/Data/CDEXTFIELD)
+[CDEXTFIELD](/domino-c-api-docs/reference/Data/CDEXTFIELD)
 ---

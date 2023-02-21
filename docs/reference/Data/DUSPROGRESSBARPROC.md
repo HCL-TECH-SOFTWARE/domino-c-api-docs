@@ -46,5 +46,5 @@ pDUSCtx->ProgressBarProc(*pNumUsersReturned, *pNumUsersReturned, Message); /*
 Reset Progress Bar */
 ```
 **See Also :**
-[DUSStart](/reference/Func/DUSStart)
+[DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
 ---

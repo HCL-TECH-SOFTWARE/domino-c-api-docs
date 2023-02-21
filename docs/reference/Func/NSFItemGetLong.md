@@ -36,9 +36,9 @@ Output :
               (NSFItemGetLong(note1_handle, ULONG_ITEM, 0L)));
 ```
 **See Also :**
-[NSFItemGetNumber](/reference/Func/NSFItemGetNumber)
-[NSFItemLongCompare](/reference/Func/NSFItemLongCompare)
-[NSFItemSetNumber](/reference/Func/NSFItemSetNumber)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemGetNumber](/domino-c-api-docs/reference/Func/NSFItemGetNumber)
+[NSFItemLongCompare](/domino-c-api-docs/reference/Func/NSFItemLongCompare)
+[NSFItemSetNumber](/domino-c-api-docs/reference/Func/NSFItemSetNumber)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

@@ -37,6 +37,6 @@ retModified  -  The last modified time/date of the most recently modified Addres
 
 
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[NSFDbModifiedTime](/reference/Func/NSFDbModifiedTime)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[NSFDbModifiedTime](/domino-c-api-docs/reference/Func/NSFDbModifiedTime)
 ---

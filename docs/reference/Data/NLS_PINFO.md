@@ -9,5 +9,5 @@
 Type definition for a pointer to an NLS_INFO structure.
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
 ---

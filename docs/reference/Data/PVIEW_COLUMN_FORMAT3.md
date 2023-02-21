@@ -9,5 +9,5 @@
 Pointer to a VIEW_COLUMN_FORMAT3 structure.
 
 **See Also :**
-[VIEW_COLUMN_FORMAT3](/reference/Data/VIEW_COLUMN_FORMAT3)
+[VIEW_COLUMN_FORMAT3](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT3)
 ---

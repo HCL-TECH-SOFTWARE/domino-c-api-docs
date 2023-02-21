@@ -86,14 +86,14 @@ error = NSFItemAppend (hNote, ITEM_SUMMARY,
 free (pvoidItemValue);
 ```
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[RANGE](/reference/Data/RANGE)
-[TIMEDATE](/reference/Data/TIMEDATE)
-[TIMEDATE_PAIR](/reference/Data/TIMEDATE_PAIR)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[RANGE](/domino-c-api-docs/reference/Data/RANGE)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
+[TIMEDATE_PAIR](/domino-c-api-docs/reference/Data/TIMEDATE_PAIR)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

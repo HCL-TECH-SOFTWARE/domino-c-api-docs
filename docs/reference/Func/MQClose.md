@@ -26,13 +26,13 @@ ERR_MQ_EMPTY - The MQHANDLE passed into this routine was not a valid MQHANDLE.
 
 
 **See Also :**
-[MQCreate](/reference/Func/MQCreate)
-[MQGet](/reference/Func/MQGet)
-[MQHANDLE](/reference/Data/MQHANDLE)
-[MQIsQuitPending](/reference/Func/MQIsQuitPending)
-[MQOpen](/reference/Func/MQOpen)
-[MQPut](/reference/Func/MQPut)
-[MQPutQuitMsg](/reference/Func/MQPutQuitMsg)
-[MQScan](/reference/Func/MQScan)
-[MQSCAN_CALLBACK](/reference/Data/MQSCAN_CALLBACK)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQHANDLE](/domino-c-api-docs/reference/Data/MQHANDLE)
+[MQIsQuitPending](/domino-c-api-docs/reference/Func/MQIsQuitPending)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[MQPutQuitMsg](/domino-c-api-docs/reference/Func/MQPutQuitMsg)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
+[MQSCAN_CALLBACK](/domino-c-api-docs/reference/Data/MQSCAN_CALLBACK)
 ---

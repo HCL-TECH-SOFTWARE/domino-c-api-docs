@@ -39,6 +39,6 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[HMIMEDIRECTORY](/reference/Data/HMIMEDIRECTORY)
-[MIMEOpenDirectory](/reference/Func/MIMEOpenDirectory)
+[HMIMEDIRECTORY](/domino-c-api-docs/reference/Data/HMIMEDIRECTORY)
+[MIMEOpenDirectory](/domino-c-api-docs/reference/Func/MIMEOpenDirectory)
 ---

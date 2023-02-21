@@ -36,5 +36,5 @@ Output :
 err = ldap_result2error(Id, r, 1);
 ```
 **See Also :**
-[ldap_err2string](/reference/Func/ldap_err2string)
+[ldap_err2string](/domino-c-api-docs/reference/Func/ldap_err2string)
 ---

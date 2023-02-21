@@ -27,7 +27,7 @@ Output :
 
 
 **See Also :**
-[CDBAR](/reference/Data/CDBAR)
-[BARREC_xxx](/reference/Symb/BARREC_xxx)
-[SETBORDERTYPE](/reference/Func/SETBORDERTYPE)
+[CDBAR](/domino-c-api-docs/reference/Data/CDBAR)
+[BARREC_xxx](/domino-c-api-docs/reference/Symb/BARREC_xxx)
+[SETBORDERTYPE](/domino-c-api-docs/reference/Func/SETBORDERTYPE)
 ---

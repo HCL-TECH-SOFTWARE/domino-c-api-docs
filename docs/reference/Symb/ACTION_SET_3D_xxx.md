@@ -10,5 +10,5 @@ These action bar button border display properties are stored in the
 BtnBorderDisplay member of CDACTIONBAREXT.
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

@@ -10,5 +10,5 @@ Type definition for the hNotesWnd member  of the NAM_COMMAND_INFO structure for
 UNIX.
 
 **See Also :**
-[NAM_COMMAND_INFO](/reference/Data/NAM_COMMAND_INFO)
+[NAM_COMMAND_INFO](/domino-c-api-docs/reference/Data/NAM_COMMAND_INFO)
 ---

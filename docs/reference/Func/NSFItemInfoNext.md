@@ -146,11 +146,11 @@ value_len_ptr  -  The address of a DWORD in which the length of the item's value
 
 ```
 **See Also :**
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoPrev](/reference/Func/NSFItemInfoPrev)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
-[NSFItemScan](/reference/Func/NSFItemScan)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[OSLockBlock](/reference/Func/OSLockBlock)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoPrev](/domino-c-api-docs/reference/Func/NSFItemInfoPrev)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

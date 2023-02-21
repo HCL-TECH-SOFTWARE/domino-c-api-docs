@@ -60,7 +60,7 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDHOTSPOTEND](/reference/Data/CDHOTSPOTEND)
-[HOTSPOTREC_TYPE_xxx](/reference/Symb/HOTSPOTREC_TYPE_xxx)
-[HOTSPOTREC_RUNFLAG_xxx](/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
+[CDHOTSPOTEND](/domino-c-api-docs/reference/Data/CDHOTSPOTEND)
+[HOTSPOTREC_TYPE_xxx](/domino-c-api-docs/reference/Symb/HOTSPOTREC_TYPE_xxx)
+[HOTSPOTREC_RUNFLAG_xxx](/domino-c-api-docs/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
 ---

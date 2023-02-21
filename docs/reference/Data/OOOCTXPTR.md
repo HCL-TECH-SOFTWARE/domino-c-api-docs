@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[OOOEndOperation](/reference/Func/OOOEndOperation)
-[OOOStartOperation](/reference/Func/OOOStartOperation)
+[OOOEndOperation](/domino-c-api-docs/reference/Func/OOOEndOperation)
+[OOOStartOperation](/domino-c-api-docs/reference/Func/OOOStartOperation)
 ---

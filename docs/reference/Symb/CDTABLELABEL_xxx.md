@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDTABLELABEL](/reference/Data/CDTABLELABEL)
+[CDTABLELABEL](/domino-c-api-docs/reference/Data/CDTABLELABEL)
 ---

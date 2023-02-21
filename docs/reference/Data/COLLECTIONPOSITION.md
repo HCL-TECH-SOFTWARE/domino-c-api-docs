@@ -40,7 +40,7 @@ should be represented in the Tumbler and there are only three.
 
 
 **See Also :**
-[NIFFindByKey](/reference/Func/NIFFindByKey)
-[NIFFindByName](/reference/Func/NIFFindByName)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NIFFindByKey](/domino-c-api-docs/reference/Func/NIFFindByKey)
+[NIFFindByName](/domino-c-api-docs/reference/Func/NIFFindByName)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

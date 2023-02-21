@@ -37,8 +37,8 @@ retbhItem2  -  BLOCKID of the matching item.
 
 
 **See Also :**
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFNoteFindDivergenceTime](/reference/Func/NSFNoteFindDivergenceTime)
-[NSFItemGetModifiedTime](/reference/Func/NSFItemGetModifiedTime)
-[NSFItemGetModifiedTimeByBLOCKID](/reference/Func/NSFItemGetModifiedTimeByBLOCKID)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFNoteFindDivergenceTime](/domino-c-api-docs/reference/Func/NSFNoteFindDivergenceTime)
+[NSFItemGetModifiedTime](/domino-c-api-docs/reference/Func/NSFItemGetModifiedTime)
+[NSFItemGetModifiedTimeByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemGetModifiedTimeByBLOCKID)
 ---

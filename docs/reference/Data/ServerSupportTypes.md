@@ -28,8 +28,8 @@ session authentication.) The user's group list will not be available until the
 user's group list generation phase has taken place.
 
 **See Also :**
-[FilterAuthenticatedUser](/reference/Data/FilterAuthenticatedUser)
-[FilterContext](/reference/Data/FilterContext)
-[FilterParsedRequestLine](/reference/Data/FilterParsedRequestLine)
-[FilterResponseHeaders](/reference/Data/FilterResponseHeaders)
+[FilterAuthenticatedUser](/domino-c-api-docs/reference/Data/FilterAuthenticatedUser)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[FilterParsedRequestLine](/domino-c-api-docs/reference/Data/FilterParsedRequestLine)
+[FilterResponseHeaders](/domino-c-api-docs/reference/Data/FilterResponseHeaders)
 ---

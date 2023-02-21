@@ -10,5 +10,5 @@ This symbol denotes the maximum length of the YesterdayString, TodayString, and
 TomorrowString members of the INTLFORMAT structure, including null-terminators.
 
 **See Also :**
-[INTLFORMAT](/reference/Data/INTLFORMAT)
+[INTLFORMAT](/domino-c-api-docs/reference/Data/INTLFORMAT)
 ---

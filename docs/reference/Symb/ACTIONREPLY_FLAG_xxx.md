@@ -10,5 +10,5 @@ These flags specify options for the Reply action for a Agent.  These flags are
 stored in the dwFlags field of the CDACTIONREPLY structure.
 
 **See Also :**
-[CDACTIONREPLY](/reference/Data/CDACTIONREPLY)
+[CDACTIONREPLY](/domino-c-api-docs/reference/Data/CDACTIONREPLY)
 ---

@@ -22,5 +22,5 @@ This structure is followed by the ODS_ASSISTFIELDSTRUCT structures, then a
 packed string containing the form name.
 
 **See Also :**
-[ODS_ASSISTFIELDSTRUCT](/reference/Data/ODS_ASSISTFIELDSTRUCT)
+[ODS_ASSISTFIELDSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTFIELDSTRUCT)
 ---

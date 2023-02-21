@@ -49,6 +49,6 @@ architecture platforms must perform host/canonical conversion when accessing a
 CDDOCUMENT structure in a document information field item.
 
 **See Also :**
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[TPL_FLAG_xxx](/reference/Symb/TPL_FLAG_xxx)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[TPL_FLAG_xxx](/domino-c-api-docs/reference/Symb/TPL_FLAG_xxx)
 ---

@@ -59,9 +59,9 @@ ODSWriteMemory( &buff_ptr, _CDPABREFERENCE, &ref, 1 );
 
 ```
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDPABFORMULAREF](/reference/Data/CDPABFORMULAREF)
-[CDPARAGRAPH](/reference/Data/CDPARAGRAPH)
-[CDTEXT](/reference/Data/CDTEXT)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDPABFORMULAREF](/domino-c-api-docs/reference/Data/CDPABFORMULAREF)
+[CDPARAGRAPH](/domino-c-api-docs/reference/Data/CDPARAGRAPH)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

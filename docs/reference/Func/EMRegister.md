@@ -57,8 +57,8 @@ rethRegistration  -  Handle to be used when de-registering.
 
 
 **See Also :**
-[EMCreateRecursionID](/reference/Func/EMCreateRecursionID)
-[EMDeregister](/reference/Func/EMDeregister)
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EM_xxx](/reference/Symb/EM_xxx)
+[EMCreateRecursionID](/domino-c-api-docs/reference/Func/EMCreateRecursionID)
+[EMDeregister](/domino-c-api-docs/reference/Func/EMDeregister)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
 ---

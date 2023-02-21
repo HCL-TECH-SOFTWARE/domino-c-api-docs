@@ -10,5 +10,5 @@ Values to set DXL_EXPORT_PROPERTY member eDxlRichtextOption.  Default value is
 eRichtextAsDxl.
 
 **See Also :**
-[DXL_EXPORT_PROPERTY](/reference/Data/DXL_EXPORT_PROPERTY)
+[DXL_EXPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_EXPORT_PROPERTY)
 ---

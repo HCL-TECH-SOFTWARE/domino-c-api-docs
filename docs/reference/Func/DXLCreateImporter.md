@@ -28,7 +28,7 @@ ERR_xxx - Other errors returned by this function and includes errors returned by
 
 
 **See Also :**
-[DXLDeleteImporter](/reference/Func/DXLDeleteImporter)
-[DXLIMPORTHANDLE](/reference/Data/DXLIMPORTHANDLE)
-[DXL_IMPORT_PROPERTY](/reference/Data/DXL_IMPORT_PROPERTY)
+[DXLDeleteImporter](/domino-c-api-docs/reference/Func/DXLDeleteImporter)
+[DXLIMPORTHANDLE](/domino-c-api-docs/reference/Data/DXLIMPORTHANDLE)
+[DXL_IMPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_IMPORT_PROPERTY)
 ---

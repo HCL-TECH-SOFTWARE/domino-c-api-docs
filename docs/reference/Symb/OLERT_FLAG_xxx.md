@@ -9,5 +9,5 @@
 These flags are stored in the Flags field of the HSOLERICHTEXT record.
 
 **See Also :**
-[HSOLERICHTEXT](/reference/Data/HSOLERICHTEXT)
+[HSOLERICHTEXT](/domino-c-api-docs/reference/Data/HSOLERICHTEXT)
 ---

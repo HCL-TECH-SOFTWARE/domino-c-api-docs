@@ -11,8 +11,8 @@ REGNewCertifier, REGNewServer, REGNewServerExtended, REGNewWorkstation, and
 REGNewWorkstationExtended.  This size includes the terminating null.
 
 **See Also :**
-[REGCrossCertifyID](/reference/Func/REGCrossCertifyID)
-[REGNewCertifier](/reference/Func/REGNewCertifier)
-[REGNewServer](/reference/Func/REGNewServer)
-[REGNewServerExtended](/reference/Func/REGNewServerExtended)
+[REGCrossCertifyID](/domino-c-api-docs/reference/Func/REGCrossCertifyID)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
+[REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)
+[REGNewServerExtended](/domino-c-api-docs/reference/Func/REGNewServerExtended)
 ---

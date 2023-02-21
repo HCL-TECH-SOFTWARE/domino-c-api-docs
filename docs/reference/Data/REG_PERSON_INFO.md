@@ -72,7 +72,7 @@ pReserved   Reserved - must be NULL
    phDirEntry;     /* Internal use */
 
 **See Also :**
-[fREGExtxxx](/reference/Symb/fREGExtxxx)
-[fREGxxx](/reference/Symb/fREGxxx)
-[REGNewPerson](/reference/Func/REGNewPerson)
+[fREGExtxxx](/domino-c-api-docs/reference/Symb/fREGExtxxx)
+[fREGxxx](/domino-c-api-docs/reference/Symb/fREGxxx)
+[REGNewPerson](/domino-c-api-docs/reference/Func/REGNewPerson)
 ---

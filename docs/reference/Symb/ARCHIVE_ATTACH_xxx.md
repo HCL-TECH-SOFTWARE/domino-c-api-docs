@@ -18,5 +18,5 @@
 
 
 **See Also :**
-[ARCHIVEATTACHINIT](/reference/Data/ARCHIVEATTACHINIT)
+[ARCHIVEATTACHINIT](/domino-c-api-docs/reference/Data/ARCHIVEATTACHINIT)
 ---

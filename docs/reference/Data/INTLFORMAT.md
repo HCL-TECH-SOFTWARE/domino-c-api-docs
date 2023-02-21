@@ -17,16 +17,16 @@ Note: The function ConvertTIMEDATEToText does not take the DAYLIGHT_SAVINGS
 flag  into account.
 
 **See Also :**
-[CLOCK_24_HOUR](/reference/Symb/CLOCK_24_HOUR)
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[CURRENCY_SPACE](/reference/Symb/CURRENCY_SPACE)
-[CURRENCY_SUFFIX](/reference/Symb/CURRENCY_SUFFIX)
-[DATE_DMY](/reference/Symb/DATE_DMY)
-[DATE_MDY](/reference/Symb/DATE_MDY)
-[DATE_YMD](/reference/Symb/DATE_YMD)
-[DAYLIGHT_SAVINGS](/reference/Symb/DAYLIGHT_SAVINGS)
-[NUMBER_LEADING_ZERO](/reference/Symb/NUMBER_LEADING_ZERO)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
+[CLOCK_24_HOUR](/domino-c-api-docs/reference/Symb/CLOCK_24_HOUR)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[CURRENCY_SPACE](/domino-c-api-docs/reference/Symb/CURRENCY_SPACE)
+[CURRENCY_SUFFIX](/domino-c-api-docs/reference/Symb/CURRENCY_SUFFIX)
+[DATE_DMY](/domino-c-api-docs/reference/Symb/DATE_DMY)
+[DATE_MDY](/domino-c-api-docs/reference/Symb/DATE_MDY)
+[DATE_YMD](/domino-c-api-docs/reference/Symb/DATE_YMD)
+[DAYLIGHT_SAVINGS](/domino-c-api-docs/reference/Symb/DAYLIGHT_SAVINGS)
+[NUMBER_LEADING_ZERO](/domino-c-api-docs/reference/Symb/NUMBER_LEADING_ZERO)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
 ---

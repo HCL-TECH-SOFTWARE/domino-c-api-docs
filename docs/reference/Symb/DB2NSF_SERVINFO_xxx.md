@@ -9,5 +9,5 @@
 The type of information for NSFDB2GetServerInfo to return.
 
 **See Also :**
-[NSFDB2GetServerInfo](/reference/Func/NSFDB2GetServerInfo)
+[NSFDB2GetServerInfo](/domino-c-api-docs/reference/Func/NSFDB2GetServerInfo)
 ---

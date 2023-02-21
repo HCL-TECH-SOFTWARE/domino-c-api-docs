@@ -23,7 +23,7 @@ Right   Not implemented.
 
 
 **See Also :**
-[CDBOXSIZE](/reference/Data/CDBOXSIZE)
-[CDLAYER](/reference/Data/CDLAYER)
-[CDPOSITIONING_SCHEME_xxx](/reference/Symb/CDPOSITIONING_SCHEME_xxx)
+[CDBOXSIZE](/domino-c-api-docs/reference/Data/CDBOXSIZE)
+[CDLAYER](/domino-c-api-docs/reference/Data/CDLAYER)
+[CDPOSITIONING_SCHEME_xxx](/domino-c-api-docs/reference/Symb/CDPOSITIONING_SCHEME_xxx)
 ---

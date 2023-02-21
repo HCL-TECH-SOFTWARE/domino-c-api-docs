@@ -10,6 +10,6 @@ These symbolic constants define the type of delivery reporting option
 requested.  Used in MailGetMessageInfo function and MAILREC structure.
 
 **See Also :**
-[MailGetMessageInfo](/reference/Func/MailGetMessageInfo)
-[MAILREC](/reference/Data/MAILREC)
+[MailGetMessageInfo](/domino-c-api-docs/reference/Func/MailGetMessageInfo)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
 ---

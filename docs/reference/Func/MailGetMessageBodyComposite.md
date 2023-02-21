@@ -33,6 +33,6 @@ OutputFileSize  -  Output file size in bytes.
 
 
 **See Also :**
-[MailGetMessageBody](/reference/Func/MailGetMessageBody)
-[MailGetMessageBodyText](/reference/Func/MailGetMessageBodyText)
+[MailGetMessageBody](/domino-c-api-docs/reference/Func/MailGetMessageBody)
+[MailGetMessageBodyText](/domino-c-api-docs/reference/Func/MailGetMessageBodyText)
 ---

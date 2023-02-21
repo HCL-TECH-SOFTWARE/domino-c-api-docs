@@ -88,9 +88,9 @@ phRef  -  memory handle of reference.  The handle is to a COPY of the reference 
         }
 ```
 **See Also :**
-[HTMLAPIReference](/reference/Data/HTMLAPIReference)
-[HTMLAPI_REF_TYPE](/reference/Data/HTMLAPI_REF_TYPE)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
-[HTMLLockAndFixupReference](/reference/Func/HTMLLockAndFixupReference)
-[HTMLSetReferenceText](/reference/Func/HTMLSetReferenceText)
+[HTMLAPIReference](/domino-c-api-docs/reference/Data/HTMLAPIReference)
+[HTMLAPI_REF_TYPE](/domino-c-api-docs/reference/Data/HTMLAPI_REF_TYPE)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
+[HTMLLockAndFixupReference](/domino-c-api-docs/reference/Func/HTMLLockAndFixupReference)
+[HTMLSetReferenceText](/domino-c-api-docs/reference/Func/HTMLSetReferenceText)
 ---

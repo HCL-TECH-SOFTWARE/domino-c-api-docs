@@ -45,6 +45,6 @@ CompactedSize  -  Returns the CompactedSize of the database in a NUMBER *.
 
 
 **See Also :**
-[NSFDbCompact](/reference/Func/NSFDbCompact)
-[NSFDbCompactExtended](/reference/Func/NSFDbCompactExtended)
+[NSFDbCompact](/domino-c-api-docs/reference/Func/NSFDbCompact)
+[NSFDbCompactExtended](/domino-c-api-docs/reference/Func/NSFDbCompactExtended)
 ---

@@ -78,7 +78,7 @@ rethDstNote  -  Pointer to the handle of the returned copy of the note.  This re
 
 
 **See Also :**
-[ENCRYPT_xxx](/reference/Symb/ENCRYPT_xxx)
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
-[SECKFMOpen](/reference/Func/SECKFMOpen)
+[ENCRYPT_xxx](/domino-c-api-docs/reference/Symb/ENCRYPT_xxx)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

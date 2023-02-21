@@ -44,7 +44,7 @@ pLinkTextLength  -  The size of the tagged text note link, in bytes, is written 
 
 
 **See Also :**
-[LINKFLAG_xxx](/reference/Symb/LINKFLAG_xxx)
-[NOTELINK](/reference/Data/NOTELINK)
-[NSFNoteLinkFromText](/reference/Func/NSFNoteLinkFromText)
+[LINKFLAG_xxx](/domino-c-api-docs/reference/Symb/LINKFLAG_xxx)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[NSFNoteLinkFromText](/domino-c-api-docs/reference/Func/NSFNoteLinkFromText)
 ---

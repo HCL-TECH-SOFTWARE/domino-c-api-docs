@@ -32,6 +32,6 @@ BillingClass  -  The active Billing Class mask, that can be logically OR'ed with
 
 
 **See Also :**
-[BILL_CLASS_xxx](/reference/Symb/BILL_CLASS_xxx)
-[BillingWrite](/reference/Func/BillingWrite)
+[BILL_CLASS_xxx](/domino-c-api-docs/reference/Symb/BILL_CLASS_xxx)
+[BillingWrite](/domino-c-api-docs/reference/Func/BillingWrite)
 ---

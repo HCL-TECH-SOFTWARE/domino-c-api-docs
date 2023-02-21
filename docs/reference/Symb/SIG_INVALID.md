@@ -9,6 +9,6 @@
 This value identifies that the type of composite data (CD) record is invalid.
 
 **See Also :**
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

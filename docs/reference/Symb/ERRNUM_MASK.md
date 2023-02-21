@@ -19,6 +19,6 @@ the status code.  Newer package codes may use more than 6 bits, leaving fewer
 than 8 bits for the status value. 
 
 **See Also :**
-[ERRNUM](/reference/Func/ERRNUM)
-[STATUS](/reference/Data/STATUS)
+[ERRNUM](/domino-c-api-docs/reference/Func/ERRNUM)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

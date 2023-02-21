@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[OOOGetState](/reference/Func/OOOGetState)
+[OOOGetState](/domino-c-api-docs/reference/Func/OOOGetState)
 ---

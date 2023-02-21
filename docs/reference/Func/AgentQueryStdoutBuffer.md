@@ -51,7 +51,7 @@ retSize  -  Byte length of retrieved buffer.
 
 ```
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[AgentRedirectStdout](/reference/Func/AgentRedirectStdout)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[AgentRedirectStdout](/domino-c-api-docs/reference/Func/AgentRedirectStdout)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

@@ -31,9 +31,9 @@ perform host/canonical conversion on structures of this type when accessing
 these records in an item in a note.
 
 **See Also :**
-[BARREC_xxx](/reference/Symb/BARREC_xxx)
-[BAR_VERSIONxxx](/reference/Symb/BAR_VERSIONxxx)
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
-[GETBORDERTYPE](/reference/Func/GETBORDERTYPE)
-[SETBORDERTYPE](/reference/Func/SETBORDERTYPE)
+[BARREC_xxx](/domino-c-api-docs/reference/Symb/BARREC_xxx)
+[BAR_VERSIONxxx](/domino-c-api-docs/reference/Symb/BAR_VERSIONxxx)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
+[GETBORDERTYPE](/domino-c-api-docs/reference/Func/GETBORDERTYPE)
+[SETBORDERTYPE](/domino-c-api-docs/reference/Func/SETBORDERTYPE)
 ---

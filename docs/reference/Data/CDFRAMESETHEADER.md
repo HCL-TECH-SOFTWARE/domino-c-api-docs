@@ -14,7 +14,7 @@ RecCount  Total number of CDFRAMESET and CDFRAME records that follow.
 Reserved  Currently not used, must be 0,
 
 **See Also :**
-[CDFRAME](/reference/Data/CDFRAME)
-[CDFRAMESET](/reference/Data/CDFRAMESET)
-[FRAMESETHEADER_VERSION](/reference/Symb/FRAMESETHEADER_VERSION)
+[CDFRAME](/domino-c-api-docs/reference/Data/CDFRAME)
+[CDFRAMESET](/domino-c-api-docs/reference/Data/CDFRAMESET)
+[FRAMESETHEADER_VERSION](/domino-c-api-docs/reference/Symb/FRAMESETHEADER_VERSION)
 ---

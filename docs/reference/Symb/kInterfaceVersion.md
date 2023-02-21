@@ -11,5 +11,5 @@ structure element appFilterVersion.  It is the filter's version of the filter
 software.
 
 **See Also :**
-[FilterInitData](/reference/Data/FilterInitData)
+[FilterInitData](/domino-c-api-docs/reference/Data/FilterInitData)
 ---

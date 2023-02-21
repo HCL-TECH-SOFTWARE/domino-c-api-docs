@@ -13,5 +13,5 @@ This is the data type of the returned value in of a menu add-in program.
 NAMRESULT LNCALLBACK DTMenuProc (WORD wMsg, void far *pParam)
 ```
 **See Also :**
-[NAMPROC](/reference/Data/NAMPROC)
+[NAMPROC](/domino-c-api-docs/reference/Data/NAMPROC)
 ---

@@ -47,9 +47,9 @@ printf("Answer: %s\n", (NSFItemTextEqual(note1_handle, TEXT_ITEM,
                               ? "YES YES YES!" : "Nooooooooo!");
 ```
 **See Also :**
-[NSFItemLongCompare](/reference/Func/NSFItemLongCompare)
-[NSFItemSetText](/reference/Func/NSFItemSetText)
-[NSFItemTimeCompare](/reference/Func/NSFItemTimeCompare)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemLongCompare](/domino-c-api-docs/reference/Func/NSFItemLongCompare)
+[NSFItemSetText](/domino-c-api-docs/reference/Func/NSFItemSetText)
+[NSFItemTimeCompare](/domino-c-api-docs/reference/Func/NSFItemTimeCompare)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

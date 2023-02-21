@@ -24,8 +24,8 @@ Output :
 
 
 **See Also :**
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontIsUnderline](/reference/Func/FontIsUnderline)
-[FontSetUnderline](/reference/Func/FontSetUnderline)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontIsUnderline](/domino-c-api-docs/reference/Func/FontIsUnderline)
+[FontSetUnderline](/domino-c-api-docs/reference/Func/FontSetUnderline)
 ---

@@ -9,5 +9,5 @@
 Possible values for the ObjectType member of the CDDOCAUTOLAUNCH structure.
 
 **See Also :**
-[CDDOCAUTOLAUNCH](/reference/Data/CDDOCAUTOLAUNCH)
+[CDDOCAUTOLAUNCH](/domino-c-api-docs/reference/Data/CDDOCAUTOLAUNCH)
 ---

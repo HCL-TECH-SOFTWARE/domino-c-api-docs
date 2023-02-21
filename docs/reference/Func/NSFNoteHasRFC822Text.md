@@ -31,8 +31,8 @@ bHasRFC822Text = NSFNoteHasRFC822Text(hNote);
 
 ```
 **See Also :**
-[NSFNoteHasComposite](/reference/Func/NSFNoteHasComposite)
-[NSFNoteHasMIME](/reference/Func/NSFNoteHasMIME)
-[NSFNoteHasMIMEPart](/reference/Func/NSFNoteHasMIMEPart)
-[NSFNoteHasObjects](/reference/Func/NSFNoteHasObjects)
+[NSFNoteHasComposite](/domino-c-api-docs/reference/Func/NSFNoteHasComposite)
+[NSFNoteHasMIME](/domino-c-api-docs/reference/Func/NSFNoteHasMIME)
+[NSFNoteHasMIMEPart](/domino-c-api-docs/reference/Func/NSFNoteHasMIMEPart)
+[NSFNoteHasObjects](/domino-c-api-docs/reference/Func/NSFNoteHasObjects)
 ---

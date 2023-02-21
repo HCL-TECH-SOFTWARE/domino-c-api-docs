@@ -37,13 +37,13 @@ Output :
 
 
 **See Also :**
-[ldap_bind](/reference/Func/ldap_bind)
-[ldap_bind_s](/reference/Func/ldap_bind_s)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
-[ldap_sasl_bind](/reference/Func/ldap_sasl_bind)
-[ldap_sasl_bind_s](/reference/Func/ldap_sasl_bind_s)
-[ldap_simple_bind](/reference/Func/ldap_simple_bind)
-[ldap_simple_bind_s](/reference/Func/ldap_simple_bind_s)
-[ldap_unbind](/reference/Func/ldap_unbind)
-[ldap_unbind_s](/reference/Func/ldap_unbind_s)
+[ldap_bind](/domino-c-api-docs/reference/Func/ldap_bind)
+[ldap_bind_s](/domino-c-api-docs/reference/Func/ldap_bind_s)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
+[ldap_sasl_bind](/domino-c-api-docs/reference/Func/ldap_sasl_bind)
+[ldap_sasl_bind_s](/domino-c-api-docs/reference/Func/ldap_sasl_bind_s)
+[ldap_simple_bind](/domino-c-api-docs/reference/Func/ldap_simple_bind)
+[ldap_simple_bind_s](/domino-c-api-docs/reference/Func/ldap_simple_bind_s)
+[ldap_unbind](/domino-c-api-docs/reference/Func/ldap_unbind)
+[ldap_unbind_s](/domino-c-api-docs/reference/Func/ldap_unbind_s)
 ---

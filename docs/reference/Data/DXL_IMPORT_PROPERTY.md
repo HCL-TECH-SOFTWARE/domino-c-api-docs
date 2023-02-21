@@ -34,9 +34,9 @@ element named <fulltextsettings>
 
 
 **See Also :**
-[DXLGetImporterProperty](/reference/Func/DXLGetImporterProperty)
-[DXLIMPORTOPTION](/reference/Data/DXLIMPORTOPTION)
-[DXLLOGOPTION](/reference/Data/DXLLOGOPTION)
-[DXLSetImporterProperty](/reference/Func/DXLSetImporterProperty)
-[Xml_Validation_Option](/reference/Data/Xml_Validation_Option)
+[DXLGetImporterProperty](/domino-c-api-docs/reference/Func/DXLGetImporterProperty)
+[DXLIMPORTOPTION](/domino-c-api-docs/reference/Data/DXLIMPORTOPTION)
+[DXLLOGOPTION](/domino-c-api-docs/reference/Data/DXLLOGOPTION)
+[DXLSetImporterProperty](/domino-c-api-docs/reference/Func/DXLSetImporterProperty)
+[Xml_Validation_Option](/domino-c-api-docs/reference/Data/Xml_Validation_Option)
 ---

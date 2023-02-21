@@ -33,7 +33,7 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[ACTIVITYSTREAMPOSITION](/reference/Data/ACTIVITYSTREAMPOSITION)
-[LogEnumActivityStream](/reference/Func/LogEnumActivityStream)
-[LogOpenActivityStream](/reference/Func/LogOpenActivityStream)
+[ACTIVITYSTREAMPOSITION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMPOSITION)
+[LogEnumActivityStream](/domino-c-api-docs/reference/Func/LogEnumActivityStream)
+[LogOpenActivityStream](/domino-c-api-docs/reference/Func/LogOpenActivityStream)
 ---

@@ -23,5 +23,5 @@ ERR_xxx - There are many possible errors. It is best to use the code in a call t
 
 
 **See Also :**
-[Alarm_ProcessAlarm](/reference/Func/Alarm_ProcessAlarm)
+[Alarm_ProcessAlarm](/domino-c-api-docs/reference/Func/Alarm_ProcessAlarm)
 ---

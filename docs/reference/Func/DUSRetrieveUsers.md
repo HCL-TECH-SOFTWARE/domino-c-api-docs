@@ -43,5 +43,5 @@ pRetUserEntrySize  -  Pointer to the size of the DUS_ENTRY struct.
 
 
 **See Also :**
-[DUS_ENTRY](/reference/Data/DUS_ENTRY)
+[DUS_ENTRY](/domino-c-api-docs/reference/Data/DUS_ENTRY)
 ---

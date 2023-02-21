@@ -96,11 +96,11 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDTABLEBEGIN](/reference/Data/CDTABLEBEGIN)
-[CDTABLECELL_xxx](/reference/Symb/CDTABLECELL_xxx)
-[CDTABLEEND](/reference/Data/CDTABLEEND)
-[CDTC_xxx](/reference/Symb/CDTC_xxx)
-[CDTC_xxx_V42_xxx](/reference/Symb/CDTC_xxx_V42_xxx)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
-[TABLE_BORDER_xxx](/reference/Symb/TABLE_BORDER_xxx)
+[CDTABLEBEGIN](/domino-c-api-docs/reference/Data/CDTABLEBEGIN)
+[CDTABLECELL_xxx](/domino-c-api-docs/reference/Symb/CDTABLECELL_xxx)
+[CDTABLEEND](/domino-c-api-docs/reference/Data/CDTABLEEND)
+[CDTC_xxx](/domino-c-api-docs/reference/Symb/CDTC_xxx)
+[CDTC_xxx_V42_xxx](/domino-c-api-docs/reference/Symb/CDTC_xxx_V42_xxx)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
+[TABLE_BORDER_xxx](/domino-c-api-docs/reference/Symb/TABLE_BORDER_xxx)
 ---

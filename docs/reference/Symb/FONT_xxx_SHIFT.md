@@ -11,7 +11,7 @@ specify which byte in a DWORD is be masked off. These values are usually used
 in macros that access the bytes in a FONTID.
 
 **See Also :**
-[BYTEMASK](/reference/Func/BYTEMASK)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[BYTEMASK](/domino-c-api-docs/reference/Func/BYTEMASK)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

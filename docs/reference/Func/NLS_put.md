@@ -31,8 +31,8 @@ ppString  -  A pointer to a pointer to the character following the one that was 
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[NLS_put_term](/reference/Func/NLS_put_term)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[NLS_put_term](/domino-c-api-docs/reference/Func/NLS_put_term)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

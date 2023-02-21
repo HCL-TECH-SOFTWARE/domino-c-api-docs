@@ -46,7 +46,7 @@ Status = CompoundTextDefineStyle( hCompound
                                   &dwNormalStyle);
 ```
 **See Also :**
-[CompoundTextInitStyle](/reference/Func/CompoundTextInitStyle)
-[CompoundTextAddParagraphExt](/reference/Func/CompoundTextAddParagraphExt)
-[CompoundTextAddTextExt](/reference/Func/CompoundTextAddTextExt)
+[CompoundTextInitStyle](/domino-c-api-docs/reference/Func/CompoundTextInitStyle)
+[CompoundTextAddParagraphExt](/domino-c-api-docs/reference/Func/CompoundTextAddParagraphExt)
+[CompoundTextAddTextExt](/domino-c-api-docs/reference/Func/CompoundTextAddTextExt)
 ---

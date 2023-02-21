@@ -32,6 +32,6 @@ MMSetTypeFace(hCC, 0); /* 0 - Times Roman */
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMGetTypeFace](/reference/Func/MMGetTypeFace)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMGetTypeFace](/domino-c-api-docs/reference/Func/MMGetTypeFace)
 ---

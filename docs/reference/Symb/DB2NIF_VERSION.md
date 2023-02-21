@@ -9,5 +9,5 @@
 Value for the DB2 NIF version.
 
 **See Also :**
-[EVENT_DATA](/reference/Data/EVENT_DATA)
+[EVENT_DATA](/domino-c-api-docs/reference/Data/EVENT_DATA)
 ---

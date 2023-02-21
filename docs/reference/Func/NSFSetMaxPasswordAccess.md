@@ -27,6 +27,6 @@ ERR_xxx - Use OSLoadString to display the error returned.
 
 
 **See Also :**
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[NSFGetMaxPasswordAccess](/reference/Func/NSFGetMaxPasswordAccess)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[NSFGetMaxPasswordAccess](/domino-c-api-docs/reference/Func/NSFGetMaxPasswordAccess)
 ---

@@ -29,6 +29,6 @@ bStripGroups = MMGetStripGroups(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetStripGroups](/reference/Func/MMSetStripGroups)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetStripGroups](/domino-c-api-docs/reference/Func/MMSetStripGroups)
 ---

@@ -11,5 +11,5 @@ Specify a Flags value of 0 to prevent StatUpdate from taking any of these
 actions.
 
 **See Also :**
-[StatUpdate](/reference/Func/StatUpdate)
+[StatUpdate](/domino-c-api-docs/reference/Func/StatUpdate)
 ---

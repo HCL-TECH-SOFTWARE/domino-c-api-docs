@@ -53,5 +53,5 @@ hUnread  -  Pointer to a handle for an IDTABLE of noteIDs that were marked Unrea
 
 
 **See Also :**
-[IDDestroyTable](/reference/Func/IDDestroyTable)
+[IDDestroyTable](/domino-c-api-docs/reference/Func/IDDestroyTable)
 ---

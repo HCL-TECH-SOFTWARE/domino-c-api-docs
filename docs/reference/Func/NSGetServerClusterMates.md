@@ -77,10 +77,10 @@ if (hClusterMateList != NULLHANDLE)
 	OSMemFree(hClusterMateList);
 ```
 **See Also :**
-[CLUSTER_LOOKUP_xxx](/reference/Symb/CLUSTER_LOOKUP_xxx)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
-[ListGetText](/reference/Func/ListGetText)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSMemFree](/reference/Func/OSMemFree)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[CLUSTER_LOOKUP_xxx](/domino-c-api-docs/reference/Symb/CLUSTER_LOOKUP_xxx)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

@@ -65,9 +65,9 @@ if (status = NSFItemDeleteByBLOCKID( hRespNote, bhThisBodyItem ))
 
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemDelete](/reference/Func/NSFItemDelete)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemDelete](/domino-c-api-docs/reference/Func/NSFItemDelete)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
 ---

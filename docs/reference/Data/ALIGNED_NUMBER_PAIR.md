@@ -10,5 +10,5 @@ An ALIGNED_NUMBER_PAIR is typically used for the lower and upper bounds of a
 range of values.
 
 **See Also :**
-[ALIGNED_NUMBER](/reference/Data/ALIGNED_NUMBER)
+[ALIGNED_NUMBER](/domino-c-api-docs/reference/Data/ALIGNED_NUMBER)
 ---

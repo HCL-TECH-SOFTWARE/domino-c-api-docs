@@ -13,5 +13,5 @@ identify changes in the record structure and interpret the data to preserve
 binary compatibility.
 
 **See Also :**
-[VIEW_FORMAT_HEADER](/reference/Data/VIEW_FORMAT_HEADER)
+[VIEW_FORMAT_HEADER](/domino-c-api-docs/reference/Data/VIEW_FORMAT_HEADER)
 ---

@@ -39,8 +39,8 @@ Output :
 
 
 **See Also :**
-[ConvertNotesBitmap](/reference/Func/ConvertNotesBitmap)
-[ConvertNotesBitmapFree](/reference/Func/ConvertNotesBitmapFree)
-[CONVERT_NOTESBITMAP_TO_GIF](/reference/Symb/CONVERT_NOTESBITMAP_TO_GIF)
-[pConvertNBmpWriter](/reference/Data/pConvertNBmpWriter)
+[ConvertNotesBitmap](/domino-c-api-docs/reference/Func/ConvertNotesBitmap)
+[ConvertNotesBitmapFree](/domino-c-api-docs/reference/Func/ConvertNotesBitmapFree)
+[CONVERT_NOTESBITMAP_TO_GIF](/domino-c-api-docs/reference/Symb/CONVERT_NOTESBITMAP_TO_GIF)
+[pConvertNBmpWriter](/domino-c-api-docs/reference/Data/pConvertNBmpWriter)
 ---

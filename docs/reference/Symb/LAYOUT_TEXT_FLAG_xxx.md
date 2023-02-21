@@ -10,5 +10,5 @@ These flags are set in the "Flags" field of a CDLAYOUTTEXT record, and control
 operation of the field in the layout region.
 
 **See Also :**
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
 ---

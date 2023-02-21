@@ -15,11 +15,11 @@ value greater than or equal to STATIC_FONT_FACES (5) refers to an entry in a
 font table. See Data Type CDFONTTABLE.
 
 **See Also :**
-[CDFONTTABLE](/reference/Data/CDFONTTABLE)
-[CDTEXT](/reference/Data/CDTEXT)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[ISxxx](/reference/Symb/ISxxx)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
-[STATIC_FONT_FACES](/reference/Symb/STATIC_FONT_FACES)
+[CDFONTTABLE](/domino-c-api-docs/reference/Data/CDFONTTABLE)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[ISxxx](/domino-c-api-docs/reference/Symb/ISxxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
+[STATIC_FONT_FACES](/domino-c-api-docs/reference/Symb/STATIC_FONT_FACES)
 ---

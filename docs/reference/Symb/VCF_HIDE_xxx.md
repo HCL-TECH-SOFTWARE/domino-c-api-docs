@@ -13,5 +13,5 @@ you may wish to hide more columns than when the day display is larger (ex: a
 two day calendar format).
 
 **See Also :**
-[VIEW_COLUMN_FORMAT2](/reference/Data/VIEW_COLUMN_FORMAT2)
+[VIEW_COLUMN_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT2)
 ---

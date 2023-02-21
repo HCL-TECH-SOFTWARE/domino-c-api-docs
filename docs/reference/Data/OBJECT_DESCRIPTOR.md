@@ -76,8 +76,8 @@ object to a note, use NSFDbAllocObject() and NSFItemAppendObject().
 
 ```
 **See Also :**
-[FILEOBJECT](/reference/Data/FILEOBJECT)
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[OBJECT_xxx](/reference/Symb/OBJECT_xxx)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[OBJECT_xxx](/domino-c-api-docs/reference/Symb/OBJECT_xxx)
 ---

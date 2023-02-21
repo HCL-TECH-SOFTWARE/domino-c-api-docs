@@ -71,11 +71,11 @@ if (error = LogEventTextNoConsole("Unable to open input file %s.",
    goto Exit;
 ```
 **See Also :**
-[AddInFormatErrorText](/reference/Func/AddInFormatErrorText)
-[AddInLogErrorText](/reference/Func/AddInLogErrorText)
-[LogCloseEntry](/reference/Func/LogCloseEntry)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
-[LogCreateEntry](/reference/Func/LogCreateEntry)
-[LogEvent](/reference/Func/LogEvent)
-[LogEventText](/reference/Func/LogEventText)
+[AddInFormatErrorText](/domino-c-api-docs/reference/Func/AddInFormatErrorText)
+[AddInLogErrorText](/domino-c-api-docs/reference/Func/AddInLogErrorText)
+[LogCloseEntry](/domino-c-api-docs/reference/Func/LogCloseEntry)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
+[LogEvent](/domino-c-api-docs/reference/Func/LogEvent)
+[LogEventText](/domino-c-api-docs/reference/Func/LogEventText)
 ---

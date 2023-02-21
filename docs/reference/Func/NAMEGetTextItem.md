@@ -130,9 +130,9 @@ Buffer  -  receives the zero-terminated text string
 OSMemFree(hLookup);
 ```
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[NAMELocateNextName](/reference/Func/NAMELocateNextName)
-[NAMELocateNextMatch](/reference/Func/NAMELocateNextMatch)
-[NAMELocateItem](/reference/Func/NAMELocateItem)
-[OSLockObject](/reference/Func/OSLockObject)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[NAMELocateNextName](/domino-c-api-docs/reference/Func/NAMELocateNextName)
+[NAMELocateNextMatch](/domino-c-api-docs/reference/Func/NAMELocateNextMatch)
+[NAMELocateItem](/domino-c-api-docs/reference/Func/NAMELocateItem)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
 ---

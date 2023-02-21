@@ -75,8 +75,8 @@ retTextLength  -  The address of a WORD in which the length of the converted cha
 
 ```
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
-[TFMT](/reference/Data/TFMT)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
+[TFMT](/domino-c-api-docs/reference/Data/TFMT)
 ---

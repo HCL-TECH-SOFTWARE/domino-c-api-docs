@@ -10,7 +10,7 @@ These symbols define possible values for the Flags member of the PRINT_SETTINGS
 and PRINTNEW_SETTINGS structures.
 
 **See Also :**
-[PRINTNEW_SETTINGS](/reference/Data/PRINTNEW_SETTINGS)
-[PRINT_SETTINGS](/reference/Data/PRINT_SETTINGS)
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
+[PRINTNEW_SETTINGS](/domino-c-api-docs/reference/Data/PRINTNEW_SETTINGS)
+[PRINT_SETTINGS](/domino-c-api-docs/reference/Data/PRINT_SETTINGS)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
 ---

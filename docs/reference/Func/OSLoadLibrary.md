@@ -41,5 +41,5 @@ retEntryPoint  -  Receives the address of the main entry point to the loaded lib
 
 
 **See Also :**
-[IXENTRYPROC](/reference/Data/IXENTRYPROC)
+[IXENTRYPROC](/domino-c-api-docs/reference/Data/IXENTRYPROC)
 ---

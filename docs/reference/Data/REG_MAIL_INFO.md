@@ -25,6 +25,6 @@ mail gateway.
 
 
 **See Also :**
-[REGNewUser](/reference/Func/REGNewUser)
-[REG_MAIL_OWNER_ACL_xxx](/reference/Symb/REG_MAIL_OWNER_ACL_xxx)
+[REGNewUser](/domino-c-api-docs/reference/Func/REGNewUser)
+[REG_MAIL_OWNER_ACL_xxx](/domino-c-api-docs/reference/Symb/REG_MAIL_OWNER_ACL_xxx)
 ---

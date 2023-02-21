@@ -10,5 +10,5 @@ These symbolic values defines the priorities assignable to a message in a
 message queue.
 
 **See Also :**
-[MQPut](/reference/Func/MQPut)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
 ---

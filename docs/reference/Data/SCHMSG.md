@@ -9,7 +9,7 @@
 Used by gateways to pass in scheduling requests.
 
 **See Also :**
-[MQGet](/reference/Func/MQGet)
-[SCHMSG_xxx](/reference/Symb/SCHMSG_xxx)
-[SCHFUNC_RQST_xxx](/reference/Symb/SCHFUNC_RQST_xxx)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[SCHMSG_xxx](/domino-c-api-docs/reference/Symb/SCHMSG_xxx)
+[SCHFUNC_RQST_xxx](/domino-c-api-docs/reference/Symb/SCHFUNC_RQST_xxx)
 ---

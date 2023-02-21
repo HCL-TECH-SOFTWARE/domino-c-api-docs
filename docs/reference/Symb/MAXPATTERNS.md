@@ -9,5 +9,5 @@
 Maximum number of patterns allowed to be stored in a CDBITMAPHEADER.
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
 ---

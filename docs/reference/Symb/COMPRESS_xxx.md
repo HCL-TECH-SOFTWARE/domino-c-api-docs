@@ -9,5 +9,5 @@
 Specifies compression algorithm used when attaching file to a note.
 
 **See Also :**
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[DUS_ENTRY](/reference/Data/DUS_ENTRY)
+[DUS_ENTRY](/domino-c-api-docs/reference/Data/DUS_ENTRY)
 ---

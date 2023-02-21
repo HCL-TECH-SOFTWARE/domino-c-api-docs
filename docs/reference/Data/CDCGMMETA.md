@@ -21,7 +21,7 @@ CGM_MAPMODE_ABSTRACT
 This header is followed by up to 64K of metafile data.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CGM_MAPMODE_xxx](/reference/Symb/CGM_MAPMODE_xxx)
-[RECTSIZE](/reference/Data/RECTSIZE)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CGM_MAPMODE_xxx](/domino-c-api-docs/reference/Symb/CGM_MAPMODE_xxx)
+[RECTSIZE](/domino-c-api-docs/reference/Data/RECTSIZE)
 ---

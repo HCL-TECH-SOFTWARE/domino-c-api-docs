@@ -43,5 +43,5 @@ LotusScript was contained in a button:
 	
 ```
 **See Also :**
-[AgentLSTextFormat](/reference/Func/AgentLSTextFormat)
+[AgentLSTextFormat](/domino-c-api-docs/reference/Func/AgentLSTextFormat)
 ---

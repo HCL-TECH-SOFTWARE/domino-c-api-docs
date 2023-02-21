@@ -75,9 +75,9 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 ```
 **See Also :**
-[NSFItemSetTextSummary](/reference/Func/NSFItemSetTextSummary)
-[NSFItemGetText](/reference/Func/NSFItemGetText)
-[NSFItemTextEqual](/reference/Func/NSFItemTextEqual)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemSetTextSummary](/domino-c-api-docs/reference/Func/NSFItemSetTextSummary)
+[NSFItemGetText](/domino-c-api-docs/reference/Func/NSFItemGetText)
+[NSFItemTextEqual](/domino-c-api-docs/reference/Func/NSFItemTextEqual)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

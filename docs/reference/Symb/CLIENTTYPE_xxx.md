@@ -10,5 +10,5 @@ Possible numerical values for the "ClientType" (FIELD_CLIENTTYPE) item.  This
 value is converted to text before being stored in the Address book
 
 **See Also :**
-[REGIDGetxxx](/reference/Symb/REGIDGetxxx)
+[REGIDGetxxx](/domino-c-api-docs/reference/Symb/REGIDGetxxx)
 ---

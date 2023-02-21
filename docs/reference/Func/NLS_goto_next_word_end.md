@@ -35,8 +35,8 @@ ppString  -  A  pointer to a pointer to the first character following the curren
 
 
 **See Also :**
-[NLS_goto_next](/reference/Func/NLS_goto_next)
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_goto_next](/domino-c-api-docs/reference/Func/NLS_goto_next)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

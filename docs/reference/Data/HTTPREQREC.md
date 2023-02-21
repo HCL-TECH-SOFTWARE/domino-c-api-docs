@@ -44,12 +44,12 @@ Note: All offset members are relative to the beginning of the record
 available.
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[DBREC](/reference/Data/DBREC)
-[DOCUMENT](/reference/Data/DOCUMENT)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

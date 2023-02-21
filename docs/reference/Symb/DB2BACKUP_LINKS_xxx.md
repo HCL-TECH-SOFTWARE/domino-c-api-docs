@@ -9,5 +9,5 @@
 These values are for the flags parameter of NSFDB2RegenerateLinks.
 
 **See Also :**
-[NSFDB2RegenerateLinks](/reference/Func/NSFDB2RegenerateLinks)
+[NSFDB2RegenerateLinks](/domino-c-api-docs/reference/Func/NSFDB2RegenerateLinks)
 ---

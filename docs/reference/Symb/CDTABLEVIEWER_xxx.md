@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[CDPRETABLEBEGIN](/reference/Data/CDPRETABLEBEGIN)
-[CDTIMERINFO](/reference/Data/CDTIMERINFO)
+[CDPRETABLEBEGIN](/domino-c-api-docs/reference/Data/CDPRETABLEBEGIN)
+[CDTIMERINFO](/domino-c-api-docs/reference/Data/CDTIMERINFO)
 ---

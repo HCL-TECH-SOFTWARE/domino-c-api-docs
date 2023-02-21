@@ -16,5 +16,5 @@ case where the caller of StatTraverse() needs to pass data to this routine.  If
 this routine returns an error, the traversal will halt and return that error.
 
 **See Also :**
-[StatTraverse](/reference/Func/StatTraverse)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
 ---

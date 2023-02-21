@@ -31,6 +31,6 @@ MMSetCharSetDetect(hCC, TRUE); /* if TRUE auto-detect if necessary when
 converting MIME to CD (default is FALSE) */
 ```
 **See Also :**
-[MMGetCharSetDetect](/reference/Func/MMGetCharSetDetect)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetCharSetDetect](/domino-c-api-docs/reference/Func/MMGetCharSetDetect)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

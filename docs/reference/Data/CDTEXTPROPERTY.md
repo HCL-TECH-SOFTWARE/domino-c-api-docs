@@ -40,6 +40,6 @@ CDSPANRECORD PropID member corresponds to the value of the PropID member of a
 CDTEXTPROPERTY record.
 
 **See Also :**
-[CDSPANRECORD](/reference/Data/CDSPANRECORD)
-[CDTEXTPROPERTIESTABLE](/reference/Data/CDTEXTPROPERTIESTABLE)
+[CDSPANRECORD](/domino-c-api-docs/reference/Data/CDSPANRECORD)
+[CDTEXTPROPERTIESTABLE](/domino-c-api-docs/reference/Data/CDTEXTPROPERTIESTABLE)
 ---

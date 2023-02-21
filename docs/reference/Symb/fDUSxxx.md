@@ -12,5 +12,5 @@ in the Domino User Registarion 'People and Groups Migration' dialog under
 'Migration Options'. 
 
 **See Also :**
-[DUSStart](/reference/Func/DUSStart)
+[DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
 ---

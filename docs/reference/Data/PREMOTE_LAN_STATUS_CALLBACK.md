@@ -29,6 +29,6 @@ continue, and FALSE (0) if the user has asked for an abort (e.g. ctl+break for
 a PC, or command-period for a Macintosh).
 
 **See Also :**
-[PREMOTE_LAN_SERVICE_ENTRY](/reference/Data/PREMOTE_LAN_SERVICE_ENTRY)
-[REMOTE_LAN_STATUS_xxx](/reference/Symb/REMOTE_LAN_STATUS_xxx)
+[PREMOTE_LAN_SERVICE_ENTRY](/domino-c-api-docs/reference/Data/PREMOTE_LAN_SERVICE_ENTRY)
+[REMOTE_LAN_STATUS_xxx](/domino-c-api-docs/reference/Symb/REMOTE_LAN_STATUS_xxx)
 ---

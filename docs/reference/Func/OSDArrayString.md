@@ -59,7 +59,7 @@ putchar ('\n');
 
 ```
 **See Also :**
-[OSDArray](/reference/Func/OSDArray)
-[PSTRING](/reference/Data/PSTRING)
-[DARRAY](/reference/Data/DARRAY)
+[OSDArray](/domino-c-api-docs/reference/Func/OSDArray)
+[PSTRING](/domino-c-api-docs/reference/Data/PSTRING)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
 ---

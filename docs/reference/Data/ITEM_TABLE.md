@@ -53,9 +53,9 @@ STATUS PrintSummary (char *pSummary)
     }
 ```
 **See Also :**
-[ITEM](/reference/Data/ITEM)
-[NIFFindByKey](/reference/Func/NIFFindByKey)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[NSFSearch](/reference/Func/NSFSearch)
-[SEARCH_xxx](/reference/Symb/SEARCH_xxx)
+[ITEM](/domino-c-api-docs/reference/Data/ITEM)
+[NIFFindByKey](/domino-c-api-docs/reference/Func/NIFFindByKey)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[SEARCH_xxx](/domino-c-api-docs/reference/Symb/SEARCH_xxx)
 ---

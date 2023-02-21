@@ -29,6 +29,6 @@ bImplicitBCC = MMGetImplicitBCC(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetImplicitBCC](/reference/Func/MMSetImplicitBCC)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetImplicitBCC](/domino-c-api-docs/reference/Func/MMSetImplicitBCC)
 ---

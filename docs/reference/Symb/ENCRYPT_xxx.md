@@ -9,5 +9,5 @@
 Optional flag for NSFNoteCopyAndEncrypt.
 
 **See Also :**
-[NSFNoteCopyAndEncrypt](/reference/Func/NSFNoteCopyAndEncrypt)
+[NSFNoteCopyAndEncrypt](/domino-c-api-docs/reference/Func/NSFNoteCopyAndEncrypt)
 ---

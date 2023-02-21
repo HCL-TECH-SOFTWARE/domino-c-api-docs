@@ -11,5 +11,5 @@ word of the VIEW_TABLE_FORMAT structure contains a value constructed by
 combining these flags using bitwise-OR.
 
 **See Also :**
-[VIEW_TABLE_FORMAT](/reference/Data/VIEW_TABLE_FORMAT)
+[VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
 ---

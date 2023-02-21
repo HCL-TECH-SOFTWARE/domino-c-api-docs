@@ -50,7 +50,7 @@ ptr  -  A pointer to memory allocated by the LDAP library, such as the   attribu
 
 ```
 **See Also :**
-[ldap_first_attribute](/reference/Func/ldap_first_attribute)
-[ldap_get_dn](/reference/Func/ldap_get_dn)
-[ldap_next_attribute](/reference/Func/ldap_next_attribute)
+[ldap_first_attribute](/domino-c-api-docs/reference/Func/ldap_first_attribute)
+[ldap_get_dn](/domino-c-api-docs/reference/Func/ldap_get_dn)
+[ldap_next_attribute](/domino-c-api-docs/reference/Func/ldap_next_attribute)
 ---

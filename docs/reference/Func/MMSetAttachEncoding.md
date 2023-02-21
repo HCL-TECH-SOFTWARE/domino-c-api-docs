@@ -35,6 +35,6 @@ MMSetAttachEncoding(hCC, 0); /* 1 - base64 (default) */
 
 ```
 **See Also :**
-[MMGetAttachEncoding](/reference/Func/MMGetAttachEncoding)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetAttachEncoding](/domino-c-api-docs/reference/Func/MMGetAttachEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

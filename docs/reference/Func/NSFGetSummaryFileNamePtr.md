@@ -34,7 +34,7 @@ Output :
 
 
 **See Also :**
-[NSFDbGetReplHistorySummary](/reference/Func/NSFDbGetReplHistorySummary)
-[NSFGetSummaryServerNamePtr](/reference/Func/NSFGetSummaryServerNamePtr)
-[REPLHIST_SUMMARY](/reference/Data/REPLHIST_SUMMARY)
+[NSFDbGetReplHistorySummary](/domino-c-api-docs/reference/Func/NSFDbGetReplHistorySummary)
+[NSFGetSummaryServerNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryServerNamePtr)
+[REPLHIST_SUMMARY](/domino-c-api-docs/reference/Data/REPLHIST_SUMMARY)
 ---

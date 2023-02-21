@@ -16,9 +16,9 @@ application in a previous NOTES_DOC_INFO_MSG.
  
 ```
 **See Also :**
-[DOC_FLAGS_xxx](/reference/Symb/DOC_FLAGS_xxx)
-[DOC_OPENMODE_xxx](/reference/Symb/DOC_OPENMODE_xxx)
-[NOTES_DOC_INFO_VERSIONxxx](/reference/Symb/NOTES_DOC_INFO_VERSIONxxx)
-[NSFDbReopen](/reference/Func/NSFDbReopen)
-[USER_ACCESS_xxx](/reference/Symb/USER_ACCESS_xxx)
+[DOC_FLAGS_xxx](/domino-c-api-docs/reference/Symb/DOC_FLAGS_xxx)
+[DOC_OPENMODE_xxx](/domino-c-api-docs/reference/Symb/DOC_OPENMODE_xxx)
+[NOTES_DOC_INFO_VERSIONxxx](/domino-c-api-docs/reference/Symb/NOTES_DOC_INFO_VERSIONxxx)
+[NSFDbReopen](/domino-c-api-docs/reference/Func/NSFDbReopen)
+[USER_ACCESS_xxx](/domino-c-api-docs/reference/Symb/USER_ACCESS_xxx)
 ---

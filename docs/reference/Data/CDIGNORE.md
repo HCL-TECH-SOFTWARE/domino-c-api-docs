@@ -29,7 +29,7 @@ host/canonical conversion on structures of this type when accessing these
 records in an item in a note.
 
 **See Also :**
-[ACTION_IGNORE_SYSTEM_ACTIONS_VERSION1](/reference/Symb/ACTION_IGNORE_SYSTEM_ACTIONS_VERSION1)
-[CDIGNORE_NOTES_VERSION_xxx](/reference/Symb/CDIGNORE_NOTES_VERSION_xxx)
-[FLAG_CDIGNORE_xxx](/reference/Symb/FLAG_CDIGNORE_xxx)
+[ACTION_IGNORE_SYSTEM_ACTIONS_VERSION1](/domino-c-api-docs/reference/Symb/ACTION_IGNORE_SYSTEM_ACTIONS_VERSION1)
+[CDIGNORE_NOTES_VERSION_xxx](/domino-c-api-docs/reference/Symb/CDIGNORE_NOTES_VERSION_xxx)
+[FLAG_CDIGNORE_xxx](/domino-c-api-docs/reference/Symb/FLAG_CDIGNORE_xxx)
 ---

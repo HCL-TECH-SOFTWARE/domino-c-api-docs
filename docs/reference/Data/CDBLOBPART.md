@@ -13,5 +13,5 @@ CDEVENT.  Therefore it may be necessary to loop thorough all of the CDBLOBPART
 records to read in the complete JavaScript code.
 
 **See Also :**
-[CDEVENT](/reference/Data/CDEVENT)
+[CDEVENT](/domino-c-api-docs/reference/Data/CDEVENT)
 ---

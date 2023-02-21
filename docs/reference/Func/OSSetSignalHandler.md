@@ -24,6 +24,6 @@ Output :
 
 
 **See Also :**
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

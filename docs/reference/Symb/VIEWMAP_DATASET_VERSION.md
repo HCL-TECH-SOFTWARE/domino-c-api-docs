@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[VIEWMAP_DATASET_RECORD](/reference/Data/VIEWMAP_DATASET_RECORD)
+[VIEWMAP_DATASET_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_DATASET_RECORD)
 ---

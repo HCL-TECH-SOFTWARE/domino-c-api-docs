@@ -69,6 +69,6 @@ retdwFlags values
 	  &VaultFlags);
 ```
 **See Also :**
-[SECidfGet](/reference/Func/SECidfGet)
-[SECidfPut](/reference/Func/SECidfPut)
+[SECidfGet](/domino-c-api-docs/reference/Func/SECidfGet)
+[SECidfPut](/domino-c-api-docs/reference/Func/SECidfPut)
 ---

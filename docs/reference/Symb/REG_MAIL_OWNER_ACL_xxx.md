@@ -9,5 +9,5 @@
 Mail Owner Access Levels for User Registration functions.
 
 **See Also :**
-[REG_MAIL_INFO](/reference/Data/REG_MAIL_INFO)
+[REG_MAIL_INFO](/domino-c-api-docs/reference/Data/REG_MAIL_INFO)
 ---

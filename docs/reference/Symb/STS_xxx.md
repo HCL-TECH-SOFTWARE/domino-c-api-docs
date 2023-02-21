@@ -12,6 +12,6 @@ code are reserved for the bit flags and indicate an error code status ; four
 values can be encoded of which two are currently used.
 
 **See Also :**
-[ERR](/reference/Func/ERR)
-[ERR_MASK](/reference/Symb/ERR_MASK)
+[ERR](/domino-c-api-docs/reference/Func/ERR)
+[ERR_MASK](/domino-c-api-docs/reference/Symb/ERR_MASK)
 ---

@@ -11,5 +11,5 @@ ODS_ASSISTSTRUCT for an Agent.  The interval type code determines the
 intrepretation of the wInterval, dwTime1, and dwTime2 fields in the structure.
 
 **See Also :**
-[ODS_ASSISTSTRUCT](/reference/Data/ODS_ASSISTSTRUCT)
+[ODS_ASSISTSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTSTRUCT)
 ---

@@ -64,10 +64,10 @@ else
   cleanup_state += CLOSE_DST_DB;
 ```
 **See Also :**
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbCreate](/reference/Func/NSFDbCreate)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbOpenTemplate](/reference/Func/NSFDbOpenTemplate)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbCreate](/domino-c-api-docs/reference/Func/NSFDbCreate)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbOpenTemplate](/domino-c-api-docs/reference/Func/NSFDbOpenTemplate)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

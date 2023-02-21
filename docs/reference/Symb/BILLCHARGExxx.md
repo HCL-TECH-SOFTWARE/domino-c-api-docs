@@ -14,6 +14,6 @@ billing record.
 documentation.
 
 **See Also :**
-[BillingWrite](/reference/Func/BillingWrite)
-[DOCUMENT](/reference/Data/DOCUMENT)
+[BillingWrite](/domino-c-api-docs/reference/Func/BillingWrite)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
 ---

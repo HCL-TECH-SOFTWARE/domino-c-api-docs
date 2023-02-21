@@ -10,8 +10,8 @@ These flags can be used with the LogAdd functions for additional specifications
 about a log entry.
 
 **See Also :**
-[LogAddNumberItem](/reference/Func/LogAddNumberItem)
-[LogAddText](/reference/Func/LogAddText)
-[LogAddTextlistItem](/reference/Func/LogAddTextlistItem)
-[LogAddTimeItem](/reference/Func/LogAddTimeItem)
+[LogAddNumberItem](/domino-c-api-docs/reference/Func/LogAddNumberItem)
+[LogAddText](/domino-c-api-docs/reference/Func/LogAddText)
+[LogAddTextlistItem](/domino-c-api-docs/reference/Func/LogAddTextlistItem)
+[LogAddTimeItem](/domino-c-api-docs/reference/Func/LogAddTimeItem)
 ---

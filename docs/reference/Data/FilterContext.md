@@ -156,8 +156,8 @@ pErrID - (Output) pointer to an integer where the server can store an error code
 
 
 **See Also :**
-[FilterRequest](/reference/Data/FilterRequest)
-[FilterResponseHeaders](/reference/Data/FilterResponseHeaders)
-[RequestMethod](/reference/Data/RequestMethod)
-[ServerSupportTypes](/reference/Data/ServerSupportTypes)
+[FilterRequest](/domino-c-api-docs/reference/Data/FilterRequest)
+[FilterResponseHeaders](/domino-c-api-docs/reference/Data/FilterResponseHeaders)
+[RequestMethod](/domino-c-api-docs/reference/Data/RequestMethod)
+[ServerSupportTypes](/domino-c-api-docs/reference/Data/ServerSupportTypes)
 ---

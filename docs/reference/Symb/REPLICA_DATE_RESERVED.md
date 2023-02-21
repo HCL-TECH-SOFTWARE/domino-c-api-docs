@@ -10,6 +10,6 @@ Used in ID.Date member of the DBREPLICAINFO structure to escape to reserved
 REPLICA_ID_xxx.
 
 **See Also :**
-[DBREPLICAINFO](/reference/Data/DBREPLICAINFO)
-[REPLICA_ID_xxx](/reference/Symb/REPLICA_ID_xxx)
+[DBREPLICAINFO](/domino-c-api-docs/reference/Data/DBREPLICAINFO)
+[REPLICA_ID_xxx](/domino-c-api-docs/reference/Symb/REPLICA_ID_xxx)
 ---

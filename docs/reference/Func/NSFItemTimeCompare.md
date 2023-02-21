@@ -51,10 +51,10 @@ if (NSFItemIsPresent(note1_handle, TIME_ITEM, strlen(TIME_ITEM)))
 }
 ```
 **See Also :**
-[NSFItemGetTime](/reference/Func/NSFItemGetTime)
-[NSFItemLongCompare](/reference/Func/NSFItemLongCompare)
-[NSFItemSetTime](/reference/Func/NSFItemSetTime)
-[NSFItemTextEqual](/reference/Func/NSFItemTextEqual)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemGetTime](/domino-c-api-docs/reference/Func/NSFItemGetTime)
+[NSFItemLongCompare](/domino-c-api-docs/reference/Func/NSFItemLongCompare)
+[NSFItemSetTime](/domino-c-api-docs/reference/Func/NSFItemSetTime)
+[NSFItemTextEqual](/domino-c-api-docs/reference/Func/NSFItemTextEqual)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

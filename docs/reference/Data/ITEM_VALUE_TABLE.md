@@ -20,6 +20,6 @@ values.  Each item value includes the item's datatype. The item's datatype is
 stored in the first USHORT of each item value.
 
 **See Also :**
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[READ_MASK_xxx](/reference/Symb/READ_MASK_xxx)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[READ_MASK_xxx](/domino-c-api-docs/reference/Symb/READ_MASK_xxx)
 ---

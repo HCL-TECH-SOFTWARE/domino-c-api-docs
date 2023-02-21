@@ -21,5 +21,5 @@ use it, you will need to declare the variable and assign a value to its length.
 
 
 **See Also :**
-[EMBEDDEDEDITCTL_FLAG_xxx](/reference/Symb/EMBEDDEDEDITCTL_FLAG_xxx)
+[EMBEDDEDEDITCTL_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDEDITCTL_FLAG_xxx)
 ---

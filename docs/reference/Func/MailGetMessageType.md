@@ -26,5 +26,5 @@ Output :
 
 
 **See Also :**
-[MAIL_MESSAGE_xxx](/reference/Symb/MAIL_MESSAGE_xxx)
+[MAIL_MESSAGE_xxx](/domino-c-api-docs/reference/Symb/MAIL_MESSAGE_xxx)
 ---

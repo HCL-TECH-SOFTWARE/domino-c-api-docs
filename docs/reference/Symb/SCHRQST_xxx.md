@@ -9,8 +9,8 @@
 Option flags used in scheduling API calls such as SchRetrieve.
 
 **See Also :**
-[SCHED_LIST](/reference/Data/SCHED_LIST)
-[SchRetrieve](/reference/Func/SchRetrieve)
-[SchSrvRetrieve](/reference/Func/SchSrvRetrieve)
-[SchSrvRetrieveExt](/reference/Func/SchSrvRetrieveExt)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
+[SchRetrieve](/domino-c-api-docs/reference/Func/SchRetrieve)
+[SchSrvRetrieve](/domino-c-api-docs/reference/Func/SchSrvRetrieve)
+[SchSrvRetrieveExt](/domino-c-api-docs/reference/Func/SchSrvRetrieveExt)
 ---

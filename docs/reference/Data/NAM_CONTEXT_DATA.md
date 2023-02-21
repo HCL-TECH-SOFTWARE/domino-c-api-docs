@@ -21,11 +21,11 @@ message from Notes.
 
 
 **See Also :**
-[NAM_xxx](/reference/Symb/NAM_xxx)
-[NAM_IN_xxx](/reference/Symb/NAM_IN_xxx)
-[EDITIXDATA](/reference/Data/EDITIXDATA)
-[EDITIMPORTDATA](/reference/Data/EDITIMPORTDATA)
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
-[NAM_COMMAND_INFO](/reference/Data/NAM_COMMAND_INFO)
+[NAM_xxx](/domino-c-api-docs/reference/Symb/NAM_xxx)
+[NAM_IN_xxx](/domino-c-api-docs/reference/Symb/NAM_IN_xxx)
+[EDITIXDATA](/domino-c-api-docs/reference/Data/EDITIXDATA)
+[EDITIMPORTDATA](/domino-c-api-docs/reference/Data/EDITIMPORTDATA)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
+[NAM_COMMAND_INFO](/domino-c-api-docs/reference/Data/NAM_COMMAND_INFO)
 ---

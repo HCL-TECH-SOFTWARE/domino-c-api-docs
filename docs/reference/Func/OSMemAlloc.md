@@ -50,11 +50,11 @@ retHandle  -  The address of a HANDLE in which the handle to the allocated memor
 
 ```
 **See Also :**
-[MEM_xxx](/reference/Symb/MEM_xxx)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSMemFree](/reference/Func/OSMemFree)
-[OSMemoryAllocate](/reference/Func/OSMemoryAllocate)
-[OSMemoryReallocate](/reference/Func/OSMemoryReallocate)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[MEM_xxx](/domino-c-api-docs/reference/Symb/MEM_xxx)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[OSMemoryAllocate](/domino-c-api-docs/reference/Func/OSMemoryAllocate)
+[OSMemoryReallocate](/domino-c-api-docs/reference/Func/OSMemoryReallocate)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

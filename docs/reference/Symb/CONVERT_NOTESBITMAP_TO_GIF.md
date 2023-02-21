@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[ConvertNotesBitmap](/reference/Func/ConvertNotesBitmap)
+[ConvertNotesBitmap](/domino-c-api-docs/reference/Func/ConvertNotesBitmap)
 ---

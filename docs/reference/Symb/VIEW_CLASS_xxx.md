@@ -12,5 +12,5 @@ the class of a view (ie:  calendar or table view).  The lower four bits of the
 ViewStyle member further define the style of a view style.
 
 **See Also :**
-[VIEW_FORMAT_HEADER](/reference/Data/VIEW_FORMAT_HEADER)
+[VIEW_FORMAT_HEADER](/domino-c-api-docs/reference/Data/VIEW_FORMAT_HEADER)
 ---

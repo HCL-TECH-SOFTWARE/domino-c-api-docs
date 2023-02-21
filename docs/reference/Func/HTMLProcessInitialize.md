@@ -27,5 +27,5 @@ Output :
 
 
 **See Also :**
-[HTMLProcessTerminate](/reference/Func/HTMLProcessTerminate)
+[HTMLProcessTerminate](/domino-c-api-docs/reference/Func/HTMLProcessTerminate)
 ---

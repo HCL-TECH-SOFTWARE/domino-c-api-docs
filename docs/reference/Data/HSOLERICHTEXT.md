@@ -22,7 +22,7 @@ Reserved4 Reserved;  must be 0.
 This record is followed by the file object name string.
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
-[OLERT_FLAG_xxx](/reference/Symb/OLERT_FLAG_xxx)
-[CDOLEOBJ_INFO](/reference/Data/CDOLEOBJ_INFO)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
+[OLERT_FLAG_xxx](/domino-c-api-docs/reference/Symb/OLERT_FLAG_xxx)
+[CDOLEOBJ_INFO](/domino-c-api-docs/reference/Data/CDOLEOBJ_INFO)
 ---

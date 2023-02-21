@@ -310,9 +310,9 @@ for (wIndex = 0; wIndex < cdFontTab.Fonts; wIndex++)
 }
 ```
 **See Also :**
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[ODSLength](/reference/Func/ODSLength)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[odsmacro](/reference/Func/odsmacro)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[ODSLength](/domino-c-api-docs/reference/Func/ODSLength)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[odsmacro](/domino-c-api-docs/reference/Func/odsmacro)
 ---

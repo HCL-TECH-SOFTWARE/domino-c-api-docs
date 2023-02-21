@@ -26,5 +26,5 @@ will be the center of the rectangle for this region, and the radius will be
 one-half the width of the rectangle.
 
 **See Also :**
-[VMODSdrobj](/reference/Data/VMODSdrobj)
+[VMODSdrobj](/domino-c-api-docs/reference/Data/VMODSdrobj)
 ---

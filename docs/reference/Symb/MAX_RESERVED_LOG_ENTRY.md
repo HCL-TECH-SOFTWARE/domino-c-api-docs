@@ -9,5 +9,5 @@
 Maximum number of reserved Log Entry values.
 
 **See Also :**
-[LOG_xxx_ENTRYxxx](/reference/Symb/LOG_xxx_ENTRYxxx)
+[LOG_xxx_ENTRYxxx](/domino-c-api-docs/reference/Symb/LOG_xxx_ENTRYxxx)
 ---

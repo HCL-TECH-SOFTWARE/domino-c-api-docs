@@ -10,5 +10,5 @@ This structure contains statistics information that is returned when indexing a
 database for full text searching capabilities with FTIndex.
 
 **See Also :**
-[FTIndex](/reference/Func/FTIndex)
+[FTIndex](/domino-c-api-docs/reference/Func/FTIndex)
 ---

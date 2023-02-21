@@ -58,9 +58,9 @@ Output :
 AddInLogMsg(MSG_SMKADDN_STARTED);
 ```
 **See Also :**
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInLogMessage](/reference/Func/AddInLogMessage)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[AddInFormatError](/reference/Func/AddInFormatError)
-[LogEvent](/reference/Func/LogEvent)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInLogMessage](/domino-c-api-docs/reference/Func/AddInLogMessage)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[LogEvent](/domino-c-api-docs/reference/Func/LogEvent)
 ---

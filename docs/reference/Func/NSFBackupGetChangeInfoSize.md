@@ -66,7 +66,7 @@ InfoSizeHigh  -  Pointer to DWORD to get the high 32 bits of change information 
 
 ```
 **See Also :**
-[NSFBackupStart](/reference/Func/NSFBackupStart)
-[NSFBackupStartApplyChangeInfo](/reference/Func/NSFBackupStartApplyChangeInfo)
-[NSFBackupStop](/reference/Func/NSFBackupStop)
+[NSFBackupStart](/domino-c-api-docs/reference/Func/NSFBackupStart)
+[NSFBackupStartApplyChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupStartApplyChangeInfo)
+[NSFBackupStop](/domino-c-api-docs/reference/Func/NSFBackupStop)
 ---

@@ -11,6 +11,6 @@ This structure contains the components of a distinguished name.
 String components are not null terminated.
 
 **See Also :**
-[DNParse](/reference/Func/DNParse)
-[DN_xxx](/reference/Symb/DN_xxx)
+[DNParse](/domino-c-api-docs/reference/Func/DNParse)
+[DN_xxx](/domino-c-api-docs/reference/Symb/DN_xxx)
 ---

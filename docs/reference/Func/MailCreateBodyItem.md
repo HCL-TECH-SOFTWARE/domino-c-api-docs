@@ -73,8 +73,8 @@ Close:
     /* close message file */
 ```
 **See Also :**
-[MailAddBodyItemExt](/reference/Func/MailAddBodyItemExt)
-[MailAddMessageBodyTextExt](/reference/Func/MailAddMessageBodyTextExt)
-[MailAppendBodyItemLine](/reference/Func/MailAppendBodyItemLine)
-[OSMemFree](/reference/Func/OSMemFree)
+[MailAddBodyItemExt](/domino-c-api-docs/reference/Func/MailAddBodyItemExt)
+[MailAddMessageBodyTextExt](/domino-c-api-docs/reference/Func/MailAddMessageBodyTextExt)
+[MailAppendBodyItemLine](/domino-c-api-docs/reference/Func/MailAppendBodyItemLine)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

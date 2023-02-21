@@ -39,5 +39,5 @@ TotalsColor - Notes/Domino 6 Column Total Color
 dwReserved[2] - Reserved for future use 
 
 **See Also :**
-[VTF3_xxx](/reference/Symb/VTF3_xxx)
+[VTF3_xxx](/domino-c-api-docs/reference/Symb/VTF3_xxx)
 ---

@@ -34,8 +34,8 @@ pNumBytes  -  A pointer to a WORD containing the number of bytes in the string.
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[NLS_string_chars](/reference/Func/NLS_string_chars)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[NLS_string_chars](/domino-c-api-docs/reference/Func/NLS_string_chars)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

@@ -9,5 +9,5 @@
 Possible values for the dwFlags member of the CDACTIONMODIFYFIELD structure.
 
 **See Also :**
-[CDACTIONMODIFYFIELD](/reference/Data/CDACTIONMODIFYFIELD)
+[CDACTIONMODIFYFIELD](/domino-c-api-docs/reference/Data/CDACTIONMODIFYFIELD)
 ---

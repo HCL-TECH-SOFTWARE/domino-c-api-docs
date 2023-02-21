@@ -122,9 +122,9 @@ Info.Username.ptr */
 SECTokenFreeInfo( &Info, TRUE, 0 );
 ```
 **See Also :**
-[SECCreateTokenListEntry](/reference/Func/SECCreateTokenListEntry)
-[SECTokenValidate](/reference/Func/SECTokenValidate)
-[SECTokenValidate2](/reference/Func/SECTokenValidate2)
-[SSO_LTPA_TOKEN_LIST](/reference/Data/SSO_LTPA_TOKEN_LIST)
-[SSO_TOKEN_INFO_DESC](/reference/Data/SSO_TOKEN_INFO_DESC)
+[SECCreateTokenListEntry](/domino-c-api-docs/reference/Func/SECCreateTokenListEntry)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
+[SECTokenValidate2](/domino-c-api-docs/reference/Func/SECTokenValidate2)
+[SSO_LTPA_TOKEN_LIST](/domino-c-api-docs/reference/Data/SSO_LTPA_TOKEN_LIST)
+[SSO_TOKEN_INFO_DESC](/domino-c-api-docs/reference/Data/SSO_TOKEN_INFO_DESC)
 ---

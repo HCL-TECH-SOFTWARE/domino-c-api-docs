@@ -23,6 +23,6 @@ Output :
 
 
 **See Also :**
-[DXLCreateImporter](/reference/Func/DXLCreateImporter)
-[DXLIMPORTHANDLE](/reference/Data/DXLIMPORTHANDLE)
+[DXLCreateImporter](/domino-c-api-docs/reference/Func/DXLCreateImporter)
+[DXLIMPORTHANDLE](/domino-c-api-docs/reference/Data/DXLIMPORTHANDLE)
 ---

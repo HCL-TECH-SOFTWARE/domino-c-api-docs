@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[ber_int_t](/reference/Data/ber_int_t)
+[ber_int_t](/domino-c-api-docs/reference/Data/ber_int_t)
 ---

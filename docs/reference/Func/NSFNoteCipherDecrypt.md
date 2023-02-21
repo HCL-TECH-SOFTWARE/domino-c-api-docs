@@ -68,6 +68,6 @@ error = NSFNoteCipherDecrypt(hnote2, NULLKFHANDLE, 0, &rethCipherAttachments,
 0, NULL);
 ```
 **See Also :**
-[NSFNoteCipherExtractFile](/reference/Func/NSFNoteCipherExtractFile)
-[NSFNoteCopyAndEncrypt](/reference/Func/NSFNoteCopyAndEncrypt)
+[NSFNoteCipherExtractFile](/domino-c-api-docs/reference/Func/NSFNoteCipherExtractFile)
+[NSFNoteCopyAndEncrypt](/domino-c-api-docs/reference/Func/NSFNoteCopyAndEncrypt)
 ---

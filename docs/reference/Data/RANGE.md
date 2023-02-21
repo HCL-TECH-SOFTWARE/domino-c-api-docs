@@ -57,6 +57,6 @@ error = NSFItemAppend (hNote, ITEM_SUMMARY,
 free (pvoidItemValue);
 ```
 **See Also :**
-[TYPE_xxx [NUMBER_RANGE]](/reference/Symb/TYPE_xxx [NUMBER_RANGE])
-[TYPE_xxx [TIME_RANGE]](/reference/Symb/TYPE_xxx [TIME_RANGE])
+[TYPE_xxx [NUMBER_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [NUMBER_RANGE])
+[TYPE_xxx [TIME_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TIME_RANGE])
 ---

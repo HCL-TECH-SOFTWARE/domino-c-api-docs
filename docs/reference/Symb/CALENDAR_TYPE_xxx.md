@@ -11,6 +11,6 @@ in the lower four bits of the BYTE ViewStyle member of the VIEW_FORMAT_HEADER
 structure.
 
 **See Also :**
-[VIEW_FORMAT_HEADER](/reference/Data/VIEW_FORMAT_HEADER)
-[VIEW_CLASS_xxx](/reference/Symb/VIEW_CLASS_xxx)
+[VIEW_FORMAT_HEADER](/domino-c-api-docs/reference/Data/VIEW_FORMAT_HEADER)
+[VIEW_CLASS_xxx](/domino-c-api-docs/reference/Symb/VIEW_CLASS_xxx)
 ---

@@ -10,5 +10,5 @@ Possible values for the FormatDataType member of a VIEW_COLUMN_FORMAT
 structure.
 
 **See Also :**
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
 ---

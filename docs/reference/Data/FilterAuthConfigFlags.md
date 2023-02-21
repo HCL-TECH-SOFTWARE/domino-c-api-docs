@@ -24,5 +24,5 @@ kAuthRedirectToSSL - The server allows redirections to SSL authentication for
 documents that are SSL protected.
 
 **See Also :**
-[FilterAuthenticate](/reference/Data/FilterAuthenticate)
+[FilterAuthenticate](/domino-c-api-docs/reference/Data/FilterAuthenticate)
 ---

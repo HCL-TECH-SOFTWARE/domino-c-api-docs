@@ -9,5 +9,5 @@
 Geographic information.
 
 **See Also :**
-[SCHED_ENTRY_EXT](/reference/Data/SCHED_ENTRY_EXT)
+[SCHED_ENTRY_EXT](/domino-c-api-docs/reference/Data/SCHED_ENTRY_EXT)
 ---

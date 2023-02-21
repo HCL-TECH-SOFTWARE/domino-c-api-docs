@@ -59,10 +59,10 @@ else
 /* "StartTime" & "Form" fields/items for you.                   */
 ```
 **See Also :**
-[LogAddNumberItem](/reference/Func/LogAddNumberItem)
-[LogAddText](/reference/Func/LogAddText)
-[LogAddTextlistItem](/reference/Func/LogAddTextlistItem)
-[LogAddTimeItem](/reference/Func/LogAddTimeItem)
-[LogCloseEntry](/reference/Func/LogCloseEntry)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
+[LogAddNumberItem](/domino-c-api-docs/reference/Func/LogAddNumberItem)
+[LogAddText](/domino-c-api-docs/reference/Func/LogAddText)
+[LogAddTextlistItem](/domino-c-api-docs/reference/Func/LogAddTextlistItem)
+[LogAddTimeItem](/domino-c-api-docs/reference/Func/LogAddTimeItem)
+[LogCloseEntry](/domino-c-api-docs/reference/Func/LogCloseEntry)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
 ---

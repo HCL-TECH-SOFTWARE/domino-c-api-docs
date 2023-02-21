@@ -15,8 +15,8 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDTABLEBEGIN](/reference/Data/CDTABLEBEGIN)
-[CDTABLECELL](/reference/Data/CDTABLECELL)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
+[CDTABLEBEGIN](/domino-c-api-docs/reference/Data/CDTABLEBEGIN)
+[CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
 ---

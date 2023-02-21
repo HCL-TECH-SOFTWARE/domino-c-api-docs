@@ -11,5 +11,5 @@ record is followed by a CDDATAFLAGS structure with its Flags member set to a
 BUTTON_TYPE_xxx value.
 
 **See Also :**
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
 ---

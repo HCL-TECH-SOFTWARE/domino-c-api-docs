@@ -29,9 +29,9 @@ RowQty or ColQty.  There could be multiple FRAMESETLENGTH structures defining
 the RowQty and ColQty values.
 
 **See Also :**
-[CDFRAME](/reference/Data/CDFRAME)
-[CDFRAMESETHEADER](/reference/Data/CDFRAMESETHEADER)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[fFSxxx](/reference/Symb/fFSxxx)
-[FRAMESETLENGTH](/reference/Data/FRAMESETLENGTH)
+[CDFRAME](/domino-c-api-docs/reference/Data/CDFRAME)
+[CDFRAMESETHEADER](/domino-c-api-docs/reference/Data/CDFRAMESETHEADER)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[fFSxxx](/domino-c-api-docs/reference/Symb/fFSxxx)
+[FRAMESETLENGTH](/domino-c-api-docs/reference/Data/FRAMESETLENGTH)
 ---

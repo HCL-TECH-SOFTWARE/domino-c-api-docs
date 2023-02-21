@@ -39,5 +39,5 @@ if (error_status = SECKFMUserInfo(KFM_ui_GetUserInfo, user_name,
    goto Exit;
 ```
 **See Also :**
-[SECKFMGetUserName](/reference/Func/SECKFMGetUserName)
+[SECKFMGetUserName](/domino-c-api-docs/reference/Func/SECKFMGetUserName)
 ---

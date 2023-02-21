@@ -42,8 +42,8 @@ pReserved  Reserved - must be NULL
 
 
 **See Also :**
-[fREGxxx](/reference/Symb/fREGxxx)
-[REGNewServerExtended2](/reference/Func/REGNewServerExtended2)
-[REG_ID_INFO](/reference/Data/REG_ID_INFO)
-[REG_MISC_INFO](/reference/Data/REG_MISC_INFO)
+[fREGxxx](/domino-c-api-docs/reference/Symb/fREGxxx)
+[REGNewServerExtended2](/domino-c-api-docs/reference/Func/REGNewServerExtended2)
+[REG_ID_INFO](/domino-c-api-docs/reference/Data/REG_ID_INFO)
+[REG_MISC_INFO](/domino-c-api-docs/reference/Data/REG_MISC_INFO)
 ---

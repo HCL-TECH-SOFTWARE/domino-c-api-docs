@@ -76,9 +76,9 @@ if (error = MIMEStreamOpen(hNote,
 
 ```
 **See Also :**
-[MIMEHANDLE](/reference/Data/MIMEHANDLE)
-[MIMEStreamClose](/reference/Func/MIMEStreamClose)
-[MIMEStreamRead](/reference/Func/MIMEStreamRead)
-[MIMEStreamWrite](/reference/Func/MIMEStreamWrite)
-[MIME_STREAM_xxx](/reference/Symb/MIME_STREAM_xxx)
+[MIMEHANDLE](/domino-c-api-docs/reference/Data/MIMEHANDLE)
+[MIMEStreamClose](/domino-c-api-docs/reference/Func/MIMEStreamClose)
+[MIMEStreamRead](/domino-c-api-docs/reference/Func/MIMEStreamRead)
+[MIMEStreamWrite](/domino-c-api-docs/reference/Func/MIMEStreamWrite)
+[MIME_STREAM_xxx](/domino-c-api-docs/reference/Symb/MIME_STREAM_xxx)
 ---

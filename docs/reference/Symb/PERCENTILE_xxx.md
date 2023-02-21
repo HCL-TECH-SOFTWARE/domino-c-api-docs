@@ -12,6 +12,6 @@ marking the divisions is returned with that structure.  These constants are
 provided for indexing into the table.
 
 **See Also :**
-[COLLECTIONDATA](/reference/Data/COLLECTIONDATA)
-[PERCENTILE_COUNT](/reference/Symb/PERCENTILE_COUNT)
+[COLLECTIONDATA](/domino-c-api-docs/reference/Data/COLLECTIONDATA)
+[PERCENTILE_COUNT](/domino-c-api-docs/reference/Symb/PERCENTILE_COUNT)
 ---

@@ -9,5 +9,5 @@
 These symbols indicate special note IDs, such as categories and deleted notes.
 
 **See Also :**
-[NOTEID](/reference/Data/NOTEID)
+[NOTEID](/domino-c-api-docs/reference/Data/NOTEID)
 ---

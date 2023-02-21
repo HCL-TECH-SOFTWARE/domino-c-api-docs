@@ -11,6 +11,6 @@ CDSTORAGELINK data structure.  It describes the type of object (Object, Note or
 URL).
 
 **See Also :**
-[CDSTORAGELINK](/reference/Data/CDSTORAGELINK)
-[STORAGE_LINK_LOAD_xxx](/reference/Symb/STORAGE_LINK_LOAD_xxx)
+[CDSTORAGELINK](/domino-c-api-docs/reference/Data/CDSTORAGELINK)
+[STORAGE_LINK_LOAD_xxx](/domino-c-api-docs/reference/Symb/STORAGE_LINK_LOAD_xxx)
 ---

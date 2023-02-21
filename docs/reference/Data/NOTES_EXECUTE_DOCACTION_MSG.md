@@ -10,6 +10,6 @@ This data structure is passed by an OLE server to Notes in response to an OLE
 request for data in the NotesDocAction format.
 
 **See Also :**
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
-[DOC_ACTION_INFO](/reference/Data/DOC_ACTION_INFO)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
+[DOC_ACTION_INFO](/domino-c-api-docs/reference/Data/DOC_ACTION_INFO)
 ---

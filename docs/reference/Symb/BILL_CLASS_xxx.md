@@ -11,5 +11,5 @@ OR'ed with a billing class mask, as returned by the BillingGetClass() function,
 to determine the active classes on the billing server.
 
 **See Also :**
-[BillingGetClass](/reference/Func/BillingGetClass)
+[BillingGetClass](/domino-c-api-docs/reference/Func/BillingGetClass)
 ---

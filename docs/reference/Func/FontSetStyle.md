@@ -38,8 +38,8 @@ pCDText->FontID = FontSetStyle(pCDText->FontID, ISBOLD | ISITALIC |
 ISUNDERLINE);
 ```
 **See Also :**
-[FontGetStyle](/reference/Func/FontGetStyle)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[ISxxx](/reference/Symb/ISxxx)
+[FontGetStyle](/domino-c-api-docs/reference/Func/FontGetStyle)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[ISxxx](/domino-c-api-docs/reference/Symb/ISxxx)
 ---

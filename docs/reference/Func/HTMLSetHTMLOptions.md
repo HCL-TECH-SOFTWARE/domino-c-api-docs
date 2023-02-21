@@ -60,7 +60,7 @@ const char* HTMLOption[4] = {"ForceSectionExpand=1",
       PrintAPIError(nstat);
 ```
 **See Also :**
-[HTMLGetProperty](/reference/Func/HTMLGetProperty)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
-[HTMLSetProperty](/reference/Func/HTMLSetProperty)
+[HTMLGetProperty](/domino-c-api-docs/reference/Func/HTMLGetProperty)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
+[HTMLSetProperty](/domino-c-api-docs/reference/Func/HTMLSetProperty)
 ---

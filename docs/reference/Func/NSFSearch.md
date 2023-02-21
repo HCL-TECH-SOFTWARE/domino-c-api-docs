@@ -149,7 +149,7 @@ if (error = IDEnumerate( hNoteIDTable,
 IDDestroyTable( hNoteIDTable );
 ```
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[NSFSEARCHPROC](/reference/Data/NSFSEARCHPROC)
-[SEARCH_xxx](/reference/Symb/SEARCH_xxx)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[NSFSEARCHPROC](/domino-c-api-docs/reference/Data/NSFSEARCHPROC)
+[SEARCH_xxx](/domino-c-api-docs/reference/Symb/SEARCH_xxx)
 ---

@@ -10,5 +10,5 @@ These flags are used to define what type of hotspot is being defined by a
 CDHOTSPOTBEGIN data structure.
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
 ---

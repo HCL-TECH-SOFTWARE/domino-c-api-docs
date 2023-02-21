@@ -9,5 +9,5 @@
 These flags are specified in the dwFlags field of the CDQUERYBYFOLDER record.
 
 **See Also :**
-[CDQUERYBYFORM](/reference/Data/CDQUERYBYFORM)
+[CDQUERYBYFORM](/domino-c-api-docs/reference/Data/CDQUERYBYFORM)
 ---

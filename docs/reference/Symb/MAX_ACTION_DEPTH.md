@@ -11,6 +11,6 @@ in the action's title. Here's an example action title:
 "one\two\three\four\five\six\seven\eight"
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
-[CDACTIONEXT](/reference/Data/CDACTIONEXT)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
+[CDACTIONEXT](/domino-c-api-docs/reference/Data/CDACTIONEXT)
 ---

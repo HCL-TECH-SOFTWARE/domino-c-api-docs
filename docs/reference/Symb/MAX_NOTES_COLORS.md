@@ -9,5 +9,5 @@
 Maximum number of colors that can be handled by Domino and Notes.
 
 **See Also :**
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
 ---

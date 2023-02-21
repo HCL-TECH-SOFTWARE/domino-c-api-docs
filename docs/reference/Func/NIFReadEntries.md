@@ -176,10 +176,10 @@ the resulting pointer to the type we need. */
 
 ```
 **See Also :**
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSMemFree](/reference/Func/OSMemFree)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
-[SIGNAL_xxx](/reference/Symb/SIGNAL_xxx)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
+[SIGNAL_xxx](/domino-c-api-docs/reference/Symb/SIGNAL_xxx)
 ---

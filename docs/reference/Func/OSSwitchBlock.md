@@ -50,6 +50,6 @@ ptr  -  Pointer to be loaded with a data pointer associated with the new BLOCKID
 
 
 **See Also :**
-[OSLockBlock](/reference/Func/OSLockBlock)
-[OSUnlockBlock](/reference/Func/OSUnlockBlock)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[OSUnlockBlock](/domino-c-api-docs/reference/Func/OSUnlockBlock)
 ---

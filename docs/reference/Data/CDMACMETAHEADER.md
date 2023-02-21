@@ -22,6 +22,6 @@ CDMACMETAHEADER record
 This header is followed by the segments of metafile data.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDMACMETASEG](/reference/Data/CDMACMETASEG)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDMACMETASEG](/domino-c-api-docs/reference/Data/CDMACMETASEG)
 ---

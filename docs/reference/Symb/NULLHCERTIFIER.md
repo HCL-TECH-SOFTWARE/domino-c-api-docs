@@ -12,5 +12,5 @@ parameter.
 It is defined as (HCERTIFIER) 0.
 
 **See Also :**
-[HCERTIFIER](/reference/Data/HCERTIFIER)
+[HCERTIFIER](/domino-c-api-docs/reference/Data/HCERTIFIER)
 ---

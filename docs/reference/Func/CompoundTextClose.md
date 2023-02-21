@@ -120,6 +120,6 @@ else
     }
 ```
 **See Also :**
-[CompoundTextCreate](/reference/Func/CompoundTextCreate)
-[CompoundTextDiscard](/reference/Func/CompoundTextDiscard)
+[CompoundTextCreate](/domino-c-api-docs/reference/Func/CompoundTextCreate)
+[CompoundTextDiscard](/domino-c-api-docs/reference/Func/CompoundTextDiscard)
 ---

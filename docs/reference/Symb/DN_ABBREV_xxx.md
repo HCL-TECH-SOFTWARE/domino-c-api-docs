@@ -12,5 +12,5 @@ string returned from DNAbbreviate.
 Note:  These flags are not currently supported by DNAbbreviate.
 
 **See Also :**
-[DNAbbreviate](/reference/Func/DNAbbreviate)
+[DNAbbreviate](/domino-c-api-docs/reference/Func/DNAbbreviate)
 ---

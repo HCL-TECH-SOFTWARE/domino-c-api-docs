@@ -42,5 +42,5 @@ Output :
 
 
 **See Also :**
-[MailSendDeliveryReport](/reference/Func/MailSendDeliveryReport)
+[MailSendDeliveryReport](/domino-c-api-docs/reference/Func/MailSendDeliveryReport)
 ---

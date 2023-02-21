@@ -24,7 +24,7 @@ Usage example:
         (char far *) "Current Status");
 ```
 **See Also :**
-[LNCALLBACK](/reference/Data/LNCALLBACK)
-[LNPUBLIC](/reference/Symb/LNPUBLIC)
-[NOTESAPICDECL](/reference/Data/NOTESAPICDECL)
+[LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
+[LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)
+[NOTESAPICDECL](/domino-c-api-docs/reference/Data/NOTESAPICDECL)
 ---

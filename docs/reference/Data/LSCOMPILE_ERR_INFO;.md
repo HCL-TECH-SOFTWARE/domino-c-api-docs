@@ -10,6 +10,6 @@ Structure holds information about the error, including specific error text, and
 also a line number and file name, if applicable.
 
 **See Also :**
-[LSCOMPILEERRPROC](/reference/Data/LSCOMPILEERRPROC)
-[NSFNoteLSCompileExt](/reference/Func/NSFNoteLSCompileExt)
+[LSCOMPILEERRPROC](/domino-c-api-docs/reference/Data/LSCOMPILEERRPROC)
+[NSFNoteLSCompileExt](/domino-c-api-docs/reference/Func/NSFNoteLSCompileExt)
 ---

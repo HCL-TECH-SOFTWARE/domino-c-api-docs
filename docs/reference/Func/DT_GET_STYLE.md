@@ -25,6 +25,6 @@ Output :
 
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
-[DT_xxx [CDEXT2FIELD - DTFlags]](/reference/Symb/DT_xxx [CDEXT2FIELD - DTFlags])
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
+[DT_xxx [CDEXT2FIELD - DTFlags]](/domino-c-api-docs/reference/Symb/DT_xxx [CDEXT2FIELD - DTFlags])
 ---

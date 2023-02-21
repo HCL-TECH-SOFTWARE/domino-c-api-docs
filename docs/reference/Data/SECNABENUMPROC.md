@@ -18,5 +18,5 @@ SECNABEnumerateCertificates.
 
 
 **See Also :**
-[SECNABEnumerateCertificates](/reference/Func/SECNABEnumerateCertificates)
+[SECNABEnumerateCertificates](/domino-c-api-docs/reference/Func/SECNABEnumerateCertificates)
 ---

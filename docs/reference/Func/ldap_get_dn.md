@@ -39,9 +39,9 @@ NULL - If there is some error parsing the dn, setting error parameters in the se
 
 ```
 **See Also :**
-[ldap_dn2ufn](/reference/Func/ldap_dn2ufn)
-[ldap_explode_dn](/reference/Func/ldap_explode_dn)
-[ldap_explode_rdn](/reference/Func/ldap_explode_rdn)
-[ldap_first_entry](/reference/Func/ldap_first_entry)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
+[ldap_dn2ufn](/domino-c-api-docs/reference/Func/ldap_dn2ufn)
+[ldap_explode_dn](/domino-c-api-docs/reference/Func/ldap_explode_dn)
+[ldap_explode_rdn](/domino-c-api-docs/reference/Func/ldap_explode_rdn)
+[ldap_first_entry](/domino-c-api-docs/reference/Func/ldap_first_entry)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
 ---

@@ -198,10 +198,10 @@ close the NAB */
 	while (error && (nNumRetries <= nMaxRetries));
 ```
 **See Also :**
-[fREGExtxxx](/reference/Symb/fREGExtxxx)
-[fREGxxx](/reference/Symb/fREGxxx)
-[ListAllocate](/reference/Func/ListAllocate)
-[REGNewWorkstationExtended](/reference/Func/REGNewWorkstationExtended)
-[REG_MAIL_INFO](/reference/Data/REG_MAIL_INFO)
-[REG_USERNAME_INFO](/reference/Data/REG_USERNAME_INFO)
+[fREGExtxxx](/domino-c-api-docs/reference/Symb/fREGExtxxx)
+[fREGxxx](/domino-c-api-docs/reference/Symb/fREGxxx)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[REGNewWorkstationExtended](/domino-c-api-docs/reference/Func/REGNewWorkstationExtended)
+[REG_MAIL_INFO](/domino-c-api-docs/reference/Data/REG_MAIL_INFO)
+[REG_USERNAME_INFO](/domino-c-api-docs/reference/Data/REG_USERNAME_INFO)
 ---

@@ -9,9 +9,9 @@
 Constants used to indicate various types of IDs that can be created.
 
 **See Also :**
-[REGNewCertifier](/reference/Func/REGNewCertifier)
-[REGNewServer](/reference/Func/REGNewServer)
-[REGNewServerExtended](/reference/Func/REGNewServerExtended)
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[REGNewWorkstationExtended](/reference/Func/REGNewWorkstationExtended)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
+[REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)
+[REGNewServerExtended](/domino-c-api-docs/reference/Func/REGNewServerExtended)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[REGNewWorkstationExtended](/domino-c-api-docs/reference/Func/REGNewWorkstationExtended)
 ---

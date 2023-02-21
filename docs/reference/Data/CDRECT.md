@@ -10,6 +10,6 @@ This structure defines either a rectangle or a circle within a CDAREAELEMENT if
 the AREA_SHAPE_xxx is an AREA_SHAPE_RECT or AREA_SHAPE_CIRCLE.
 
 **See Also :**
-[AREA_SHAPE_xxx](/reference/Symb/AREA_SHAPE_xxx)
-[CDAREAELEMENT](/reference/Data/CDAREAELEMENT)
+[AREA_SHAPE_xxx](/domino-c-api-docs/reference/Symb/AREA_SHAPE_xxx)
+[CDAREAELEMENT](/domino-c-api-docs/reference/Data/CDAREAELEMENT)
 ---

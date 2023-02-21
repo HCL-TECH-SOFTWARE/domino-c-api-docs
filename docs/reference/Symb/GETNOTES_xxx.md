@@ -9,5 +9,5 @@
 Control flags for NSFDbGetNotes.
 
 **See Also :**
-[NSFDbGetNotes](/reference/Func/NSFDbGetNotes)
+[NSFDbGetNotes](/domino-c-api-docs/reference/Func/NSFDbGetNotes)
 ---

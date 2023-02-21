@@ -10,5 +10,5 @@
 definitions for NOTE_CLASS_xxx in nsfnote.h.
 
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
 ---

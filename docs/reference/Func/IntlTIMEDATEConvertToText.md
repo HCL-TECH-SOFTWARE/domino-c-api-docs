@@ -174,12 +174,12 @@ sizeof(dtFormat), &TimeItem, MAXALPHATIMEDATE,
        break;
 ```
 **See Also :**
-[DTFMT](/reference/Data/DTFMT)
-[IntlTIMEDATECreateHandle](/reference/Func/IntlTIMEDATECreateHandle)
-[IntlTIMEDATEDeleteHandle](/reference/Func/IntlTIMEDATEDeleteHandle)
-[IntlTIMEDATEGetValue](/reference/Func/IntlTIMEDATEGetValue)
-[INTLTIMEDATEHANDLE](/reference/Data/INTLTIMEDATEHANDLE)
-[IntlTIMEDATESetValue](/reference/Func/IntlTIMEDATESetValue)
-[INTL_TIMEDATE_PROPERTY](/reference/Data/INTL_TIMEDATE_PROPERTY)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[DTFMT](/domino-c-api-docs/reference/Data/DTFMT)
+[IntlTIMEDATECreateHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATECreateHandle)
+[IntlTIMEDATEDeleteHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATEDeleteHandle)
+[IntlTIMEDATEGetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATEGetValue)
+[INTLTIMEDATEHANDLE](/domino-c-api-docs/reference/Data/INTLTIMEDATEHANDLE)
+[IntlTIMEDATESetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATESetValue)
+[INTL_TIMEDATE_PROPERTY](/domino-c-api-docs/reference/Data/INTL_TIMEDATE_PROPERTY)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

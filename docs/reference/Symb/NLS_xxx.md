@@ -9,5 +9,5 @@
 Miscellaneous definitions for National Language Services.
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
 ---

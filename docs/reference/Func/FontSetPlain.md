@@ -24,7 +24,7 @@ Output :
 
 
 **See Also :**
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontIsPlain](/reference/Func/FontIsPlain)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontIsPlain](/domino-c-api-docs/reference/Func/FontIsPlain)
 ---

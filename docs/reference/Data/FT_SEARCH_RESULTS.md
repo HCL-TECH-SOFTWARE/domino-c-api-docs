@@ -24,10 +24,10 @@ NoteIDs and be parallel to it.  Relevancy scores range from 0 to 100, with 100
 being the most relevant.  Otherwise, relevancy scores are not returned.
 
 **See Also :**
-[FTSearch](/reference/Func/FTSearch)
-[FTSearchExt](/reference/Func/FTSearchExt)
-[FT_RESULTS_xxx](/reference/Symb/FT_RESULTS_xxx)
-[FT_SEARCH_RESULT_ENTRY](/reference/Data/FT_SEARCH_RESULT_ENTRY)
-[FT_SEARCH_URL_RESULTS](/reference/Data/FT_SEARCH_URL_RESULTS)
-[FT_SEARCH_URL_RESULT_ENTRY](/reference/Data/FT_SEARCH_URL_RESULT_ENTRY)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FTSearchExt](/domino-c-api-docs/reference/Func/FTSearchExt)
+[FT_RESULTS_xxx](/domino-c-api-docs/reference/Symb/FT_RESULTS_xxx)
+[FT_SEARCH_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULT_ENTRY)
+[FT_SEARCH_URL_RESULTS](/domino-c-api-docs/reference/Data/FT_SEARCH_URL_RESULTS)
+[FT_SEARCH_URL_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_URL_RESULT_ENTRY)
 ---

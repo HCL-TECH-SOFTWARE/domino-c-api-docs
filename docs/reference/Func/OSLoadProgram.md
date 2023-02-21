@@ -54,5 +54,5 @@ WORD Flags = OS_LOADPROG_BACKGROUND | OS_LOADPROG_ICONIC |
 
 ```
 **See Also :**
-[OS_LOADPROG_xxx](/reference/Symb/OS_LOADPROG_xxx)
+[OS_LOADPROG_xxx](/domino-c-api-docs/reference/Symb/OS_LOADPROG_xxx)
 ---

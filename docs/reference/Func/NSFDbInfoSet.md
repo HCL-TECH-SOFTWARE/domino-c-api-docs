@@ -56,6 +56,6 @@ ERR_NOACCESS
 
 ```
 **See Also :**
-[NSFDbInfoGet](/reference/Func/NSFDbInfoGet)
-[NSFDbInfoModify](/reference/Func/NSFDbInfoModify)
+[NSFDbInfoGet](/domino-c-api-docs/reference/Func/NSFDbInfoGet)
+[NSFDbInfoModify](/domino-c-api-docs/reference/Func/NSFDbInfoModify)
 ---

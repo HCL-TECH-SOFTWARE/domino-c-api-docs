@@ -52,6 +52,6 @@ hMIMEStream)) == MIME_STREAM_IO) {
 
 ```
 **See Also :**
-[MIMEHANDLE](/reference/Data/MIMEHANDLE)
-[MIMEStreamWrite](/reference/Func/MIMEStreamWrite)
+[MIMEHANDLE](/domino-c-api-docs/reference/Data/MIMEHANDLE)
+[MIMEStreamWrite](/domino-c-api-docs/reference/Func/MIMEStreamWrite)
 ---

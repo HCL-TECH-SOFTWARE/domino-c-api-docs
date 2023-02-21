@@ -70,13 +70,13 @@ message was delivered.  This allows for crediting of undelivered messages in
 case of delivery errors.
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_ROUTINGSTATE_xxx](/reference/Symb/BILL_ROUTINGSTATE_xxx)
-[DBREC](/reference/Data/DBREC)
-[DOCUMENT](/reference/Data/DOCUMENT)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[REPLREC](/reference/Data/REPLREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_ROUTINGSTATE_xxx](/domino-c-api-docs/reference/Symb/BILL_ROUTINGSTATE_xxx)
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

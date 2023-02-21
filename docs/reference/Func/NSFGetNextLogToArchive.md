@@ -51,6 +51,6 @@ LogPath  -  Null terminated full path to the log file to be archived.  This buff
          err = NSFGetNextLogToArchive(&LogId, &LogNumber, &LogPath[0]);
 ```
 **See Also :**
-[NSFDoneArchivingLog](/reference/Func/NSFDoneArchivingLog)
-[NSFGetFirstLogToArchive](/reference/Func/NSFGetFirstLogToArchive)
+[NSFDoneArchivingLog](/domino-c-api-docs/reference/Func/NSFDoneArchivingLog)
+[NSFGetFirstLogToArchive](/domino-c-api-docs/reference/Func/NSFGetFirstLogToArchive)
 ---

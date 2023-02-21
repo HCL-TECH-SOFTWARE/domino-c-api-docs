@@ -101,8 +101,8 @@ pSchedDetailEntry + pSchedDetailEntry->wEntryLen);
 
 ```
 **See Also :**
-[LIST](/reference/Data/LIST)
-[SCHED_DETAIL_DATA](/reference/Data/SCHED_DETAIL_DATA)
-[SCHED_DETAIL_ENTRY](/reference/Data/SCHED_DETAIL_ENTRY)
-[SCHED_DETAIL_LIST_ATTR_xxx](/reference/Symb/SCHED_DETAIL_LIST_ATTR_xxx)
+[LIST](/domino-c-api-docs/reference/Data/LIST)
+[SCHED_DETAIL_DATA](/domino-c-api-docs/reference/Data/SCHED_DETAIL_DATA)
+[SCHED_DETAIL_ENTRY](/domino-c-api-docs/reference/Data/SCHED_DETAIL_ENTRY)
+[SCHED_DETAIL_LIST_ATTR_xxx](/domino-c-api-docs/reference/Symb/SCHED_DETAIL_LIST_ATTR_xxx)
 ---

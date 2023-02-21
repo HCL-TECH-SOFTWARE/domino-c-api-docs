@@ -58,7 +58,7 @@ NULL  - When no more entries or references exist in the result set to be returne
 
 ```
 **See Also :**
-[ldap_count_entries](/reference/Func/ldap_count_entries)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_count_entries](/domino-c-api-docs/reference/Func/ldap_count_entries)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

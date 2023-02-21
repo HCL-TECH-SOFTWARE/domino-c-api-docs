@@ -35,8 +35,8 @@ Output :
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailResetAllDynamicCosts](/reference/Func/MailResetAllDynamicCosts)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailResetAllDynamicCosts](/domino-c-api-docs/reference/Func/MailResetAllDynamicCosts)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
 ---

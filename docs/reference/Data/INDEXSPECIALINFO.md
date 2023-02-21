@@ -10,5 +10,5 @@ Index information structure passed into NSFTranslateSpecial() to provide
 index-related information for certain @INDEX functions, if specified.
 
 **See Also :**
-[NSFTranslateSpecial](/reference/Func/NSFTranslateSpecial)
+[NSFTranslateSpecial](/domino-c-api-docs/reference/Func/NSFTranslateSpecial)
 ---

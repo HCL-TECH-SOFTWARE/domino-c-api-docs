@@ -34,6 +34,6 @@ bhFirstObjectItem  -  Receives the BLOCKID of the object item. Note: this variab
 
 
 **See Also :**
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
 ---

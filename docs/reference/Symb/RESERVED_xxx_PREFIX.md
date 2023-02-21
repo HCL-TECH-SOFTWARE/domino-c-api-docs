@@ -11,5 +11,5 @@ restriction applies to group names in the  Address Book, in access control
 lists and in items restricting access control.  These characters are reserved.
 
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 ---

@@ -26,6 +26,6 @@ Output :
 
 
 **See Also :**
-[CDEMBEDDEDVIEW](/reference/Data/CDEMBEDDEDVIEW)
-[EMBEDDEDVIEW_FLAG_xxx](/reference/Symb/EMBEDDEDVIEW_FLAG_xxx)
+[CDEMBEDDEDVIEW](/domino-c-api-docs/reference/Data/CDEMBEDDEDVIEW)
+[EMBEDDEDVIEW_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDVIEW_FLAG_xxx)
 ---

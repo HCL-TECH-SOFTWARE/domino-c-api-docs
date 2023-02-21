@@ -62,7 +62,7 @@ error = ReplicateWithServer(
    &retStats))
 ```
 **See Also :**
-[ReplicateWithServerExt](/reference/Func/ReplicateWithServerExt)
-[REPLSERVSTATS](/reference/Data/REPLSERVSTATS)
-[REPL_OPTION_xxx](/reference/Symb/REPL_OPTION_xxx)
+[ReplicateWithServerExt](/domino-c-api-docs/reference/Func/ReplicateWithServerExt)
+[REPLSERVSTATS](/domino-c-api-docs/reference/Data/REPLSERVSTATS)
+[REPL_OPTION_xxx](/domino-c-api-docs/reference/Symb/REPL_OPTION_xxx)
 ---

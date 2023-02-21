@@ -9,5 +9,5 @@
 The type of information for NSFDB2GetInfo to return.
 
 **See Also :**
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
 ---

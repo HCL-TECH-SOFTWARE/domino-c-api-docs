@@ -9,5 +9,5 @@
 These flags are stored in the dwFlags of the CDQUERYFORMULA record.
 
 **See Also :**
-[CDQUERYFORMULA](/reference/Data/CDQUERYFORMULA)
+[CDQUERYFORMULA](/domino-c-api-docs/reference/Data/CDQUERYFORMULA)
 ---

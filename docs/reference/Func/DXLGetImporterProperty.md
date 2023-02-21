@@ -34,8 +34,8 @@ retPropValue  -  the current set value of the Import Property
 
 
 **See Also :**
-[DXLIMPORTHANDLE](/reference/Data/DXLIMPORTHANDLE)
-[DXLIMPORTOPTION](/reference/Data/DXLIMPORTOPTION)
-[DXLSetImporterProperty](/reference/Func/DXLSetImporterProperty)
-[DXL_IMPORT_PROPERTY](/reference/Data/DXL_IMPORT_PROPERTY)
+[DXLIMPORTHANDLE](/domino-c-api-docs/reference/Data/DXLIMPORTHANDLE)
+[DXLIMPORTOPTION](/domino-c-api-docs/reference/Data/DXLIMPORTOPTION)
+[DXLSetImporterProperty](/domino-c-api-docs/reference/Func/DXLSetImporterProperty)
+[DXL_IMPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_IMPORT_PROPERTY)
 ---

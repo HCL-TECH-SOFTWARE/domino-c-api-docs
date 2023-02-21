@@ -18,5 +18,5 @@ Reserved Reserved;  must be 0.
 This record is followed by the actual formula.
 
 **See Also :**
-[CDHTMLFORMULA_FLAG_xxx](/reference/Symb/CDHTMLFORMULA_FLAG_xxx)
+[CDHTMLFORMULA_FLAG_xxx](/domino-c-api-docs/reference/Symb/CDHTMLFORMULA_FLAG_xxx)
 ---

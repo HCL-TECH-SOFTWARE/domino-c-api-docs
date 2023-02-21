@@ -36,5 +36,5 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[NSFDbNoteLock](/reference/Func/NSFDbNoteLock)
+[NSFDbNoteLock](/domino-c-api-docs/reference/Func/NSFDbNoteLock)
 ---

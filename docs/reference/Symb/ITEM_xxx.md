@@ -23,9 +23,9 @@ may be bitwise or'ed together for combined functionality.
     }
 ```
 **See Also :**
-[ITEM_xxx [NAMES]](/reference/Symb/ITEM_xxx [NAMES])
-[ITEM_xxx [READERS]](/reference/Symb/ITEM_xxx [READERS])
-[ITEM_xxx [READWRITERS]](/reference/Symb/ITEM_xxx [READWRITERS])
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ITEM_xxx [NAMES]](/domino-c-api-docs/reference/Symb/ITEM_xxx [NAMES])
+[ITEM_xxx [READERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READERS])
+[ITEM_xxx [READWRITERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READWRITERS])
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

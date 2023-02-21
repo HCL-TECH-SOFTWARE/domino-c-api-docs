@@ -11,8 +11,8 @@ CDCOLORTABLE color entry.  These color values are used in color tables and
 CDPATTERNTABLE records.
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
-[CDCOLORTABLE](/reference/Data/CDCOLORTABLE)
-[CDPATTERNTABLE](/reference/Data/CDPATTERNTABLE)
-[CT_xxx](/reference/Symb/CT_xxx)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
+[CDCOLORTABLE](/domino-c-api-docs/reference/Data/CDCOLORTABLE)
+[CDPATTERNTABLE](/domino-c-api-docs/reference/Data/CDPATTERNTABLE)
+[CT_xxx](/domino-c-api-docs/reference/Symb/CT_xxx)
 ---

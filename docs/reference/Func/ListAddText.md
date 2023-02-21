@@ -60,10 +60,10 @@ pList  -  Pointer to memory containing the updated text list.
 
 ```
 **See Also :**
-[ListAllocate](/reference/Func/ListAllocate)
-[ListGetText](/reference/Func/ListGetText)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
 ---

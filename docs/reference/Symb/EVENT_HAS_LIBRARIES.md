@@ -9,5 +9,5 @@
 Value for Flags member of CDEVENT.
 
 **See Also :**
-[CDEVENT](/reference/Data/CDEVENT)
+[CDEVENT](/domino-c-api-docs/reference/Data/CDEVENT)
 ---

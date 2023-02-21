@@ -88,14 +88,14 @@ retBufferLength  -  The address of a DWORD in which the length of the converted 
 
 ```
 **See Also :**
-[ConvertItemToCompositeExt](/reference/Func/ConvertItemToCompositeExt)
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemConvertToText](/reference/Func/NSFItemConvertToText)
-[NSFItemConvertValueToText](/reference/Func/NSFItemConvertValueToText)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[OSMemFree](/reference/Func/OSMemFree)
+[ConvertItemToCompositeExt](/domino-c-api-docs/reference/Func/ConvertItemToCompositeExt)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemConvertToText](/domino-c-api-docs/reference/Func/NSFItemConvertToText)
+[NSFItemConvertValueToText](/domino-c-api-docs/reference/Func/NSFItemConvertValueToText)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

@@ -31,5 +31,5 @@ Output :
 
 
 **See Also :**
-[DUSGetGroupInformation](/reference/Func/DUSGetGroupInformation)
+[DUSGetGroupInformation](/domino-c-api-docs/reference/Func/DUSGetGroupInformation)
 ---

@@ -27,6 +27,6 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[ACLGetAdminServer](/reference/Func/ACLGetAdminServer)
-[DNCanonicalize](/reference/Func/DNCanonicalize)
+[ACLGetAdminServer](/domino-c-api-docs/reference/Func/ACLGetAdminServer)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
 ---

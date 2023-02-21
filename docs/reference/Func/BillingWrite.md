@@ -198,10 +198,10 @@ Done:
 }
 ```
 **See Also :**
-[BillingGetClass](/reference/Func/BillingGetClass)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_CLASS_xxx](/reference/Symb/BILL_CLASS_xxx)
-[BILL_xxx (structure types)](/reference/Symb/BILL_xxx (structure types))
-[EMHANDLER](/reference/Data/EMHANDLER)
+[BillingGetClass](/domino-c-api-docs/reference/Func/BillingGetClass)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_CLASS_xxx](/domino-c-api-docs/reference/Symb/BILL_CLASS_xxx)
+[BILL_xxx (structure types)](/domino-c-api-docs/reference/Symb/BILL_xxx (structure types))
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
 ---

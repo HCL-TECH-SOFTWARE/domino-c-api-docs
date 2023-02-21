@@ -43,7 +43,7 @@ else
 }
 ```
 **See Also :**
-[FTIndex](/reference/Func/FTIndex)
-[FTSearch](/reference/Func/FTSearch)
-[FTSearchExt](/reference/Func/FTSearchExt)
+[FTIndex](/domino-c-api-docs/reference/Func/FTIndex)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FTSearchExt](/domino-c-api-docs/reference/Func/FTSearchExt)
 ---

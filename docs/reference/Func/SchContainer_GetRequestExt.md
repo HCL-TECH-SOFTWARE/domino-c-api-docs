@@ -55,5 +55,5 @@ retpAuthPassword  -  Points to password to use to authenticate with firewall.  M
 
 
 **See Also :**
-[SchContainer_FreeRequest](/reference/Func/SchContainer_FreeRequest)
+[SchContainer_FreeRequest](/domino-c-api-docs/reference/Func/SchContainer_FreeRequest)
 ---

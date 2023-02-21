@@ -45,7 +45,7 @@ char       *path_name;
     }
 ```
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

@@ -121,11 +121,11 @@ STATUS LNPUBLIC ReadLeftToDoObject(
 }
 ```
 **See Also :**
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
-[NSFDbAllocObject](/reference/Func/NSFDbAllocObject)
-[NSFDbReallocObject](/reference/Func/NSFDbReallocObject)
-[NSFDbFreeObject](/reference/Func/NSFDbFreeObject)
-[NSFDbGetObjectSize](/reference/Func/NSFDbGetObjectSize)
-[NSFDbWriteObject](/reference/Func/NSFDbWriteObject)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
+[NSFDbAllocObject](/domino-c-api-docs/reference/Func/NSFDbAllocObject)
+[NSFDbReallocObject](/domino-c-api-docs/reference/Func/NSFDbReallocObject)
+[NSFDbFreeObject](/domino-c-api-docs/reference/Func/NSFDbFreeObject)
+[NSFDbGetObjectSize](/domino-c-api-docs/reference/Func/NSFDbGetObjectSize)
+[NSFDbWriteObject](/domino-c-api-docs/reference/Func/NSFDbWriteObject)
 ---

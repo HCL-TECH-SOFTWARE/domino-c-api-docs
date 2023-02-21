@@ -26,16 +26,16 @@ NLS_INVALIDTABLE - pInfo->PropertyTable is NULL;
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_isalnum](/reference/Func/NLS_isalnum)
-[NLS_isalpha](/reference/Func/NLS_isalpha)
-[NLS_isarith](/reference/Func/NLS_isarith)
-[NLS_iscntrl](/reference/Func/NLS_iscntrl)
-[NLS_isdigit](/reference/Func/NLS_isdigit)
-[NLS_isleadbyte](/reference/Func/NLS_isleadbyte)
-[NLS_ispunct](/reference/Func/NLS_ispunct)
-[NLS_isspace](/reference/Func/NLS_isspace)
-[NLS_isupper](/reference/Func/NLS_isupper)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_isalnum](/domino-c-api-docs/reference/Func/NLS_isalnum)
+[NLS_isalpha](/domino-c-api-docs/reference/Func/NLS_isalpha)
+[NLS_isarith](/domino-c-api-docs/reference/Func/NLS_isarith)
+[NLS_iscntrl](/domino-c-api-docs/reference/Func/NLS_iscntrl)
+[NLS_isdigit](/domino-c-api-docs/reference/Func/NLS_isdigit)
+[NLS_isleadbyte](/domino-c-api-docs/reference/Func/NLS_isleadbyte)
+[NLS_ispunct](/domino-c-api-docs/reference/Func/NLS_ispunct)
+[NLS_isspace](/domino-c-api-docs/reference/Func/NLS_isspace)
+[NLS_isupper](/domino-c-api-docs/reference/Func/NLS_isupper)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

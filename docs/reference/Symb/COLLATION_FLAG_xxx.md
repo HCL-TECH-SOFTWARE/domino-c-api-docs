@@ -9,5 +9,5 @@
 Possible optional values for the Flags member of the COLLATION structure.
 
 **See Also :**
-[COLLATION](/reference/Data/COLLATION)
+[COLLATION](/domino-c-api-docs/reference/Data/COLLATION)
 ---

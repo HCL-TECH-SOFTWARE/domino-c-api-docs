@@ -36,7 +36,7 @@ ERR_xxx - Errors returned by lower level Notes functions: (memory management, fi
 
 
 **See Also :**
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
-[StatTraverse](/reference/Func/StatTraverse)
-[StatUpdate](/reference/Func/StatUpdate)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
+[StatUpdate](/domino-c-api-docs/reference/Func/StatUpdate)
 ---

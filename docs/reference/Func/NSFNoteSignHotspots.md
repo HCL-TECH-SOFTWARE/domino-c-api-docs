@@ -35,5 +35,5 @@ retfSigned  -  TRUE if any hotspots are signed, otherwise FALSE.  Set to NULL if
 
 
 **See Also :**
-[NSFHotSpotSign](/reference/Func/NSFHotSpotSign)
+[NSFHotSpotSign](/domino-c-api-docs/reference/Func/NSFHotSpotSign)
 ---

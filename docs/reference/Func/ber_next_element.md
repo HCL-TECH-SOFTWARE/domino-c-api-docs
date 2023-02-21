@@ -40,8 +40,8 @@ last  -  The last element in a set or sequence of data values.
 
 
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[ber_first_element](/reference/Func/ber_first_element)
-[ber_len_t](/reference/Data/ber_len_t)
-[ber_tag_t](/reference/Data/ber_tag_t)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[ber_first_element](/domino-c-api-docs/reference/Func/ber_first_element)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
+[ber_tag_t](/domino-c-api-docs/reference/Data/ber_tag_t)
 ---

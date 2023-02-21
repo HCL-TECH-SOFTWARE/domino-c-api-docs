@@ -69,10 +69,10 @@ cannot be created using the C API;  the PatternCount field must be set to 0.
 
 
 **See Also :**
-[CDBITMAPSEGMENT](/reference/Data/CDBITMAPSEGMENT)
-[CDBITMAP_FLAG_xxx](/reference/Symb/CDBITMAP_FLAG_xxx)
-[CDCOLORTABLE](/reference/Data/CDCOLORTABLE)
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDPATTERNTABLE](/reference/Data/CDPATTERNTABLE)
-[CDTRANSPARENTTABLE](/reference/Data/CDTRANSPARENTTABLE)
+[CDBITMAPSEGMENT](/domino-c-api-docs/reference/Data/CDBITMAPSEGMENT)
+[CDBITMAP_FLAG_xxx](/domino-c-api-docs/reference/Symb/CDBITMAP_FLAG_xxx)
+[CDCOLORTABLE](/domino-c-api-docs/reference/Data/CDCOLORTABLE)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDPATTERNTABLE](/domino-c-api-docs/reference/Data/CDPATTERNTABLE)
+[CDTRANSPARENTTABLE](/domino-c-api-docs/reference/Data/CDTRANSPARENTTABLE)
 ---

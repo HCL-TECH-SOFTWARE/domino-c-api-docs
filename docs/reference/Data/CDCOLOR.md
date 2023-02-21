@@ -13,6 +13,6 @@ COLOR_VALUE CD Structure defining the components of paper color.
 
 
 **See Also :**
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[COLOR_VALUE_FLAGS_xxx](/reference/Symb/COLOR_VALUE_FLAGS_xxx)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[COLOR_VALUE_FLAGS_xxx](/domino-c-api-docs/reference/Symb/COLOR_VALUE_FLAGS_xxx)
 ---

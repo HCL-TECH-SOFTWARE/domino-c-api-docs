@@ -97,8 +97,8 @@ Info.Username.ptr */
 SECTokenFreeInfo( &Info, TRUE, 0 );
 ```
 **See Also :**
-[SECTOKENFORMAT](/reference/Data/SECTOKENFORMAT)
-[SECTokenListValidate](/reference/Func/SECTokenListValidate)
-[SECTokenValidate](/reference/Func/SECTokenValidate)
-[SSO_TOKEN_INFO_DESC](/reference/Data/SSO_TOKEN_INFO_DESC)
+[SECTOKENFORMAT](/domino-c-api-docs/reference/Data/SECTOKENFORMAT)
+[SECTokenListValidate](/domino-c-api-docs/reference/Func/SECTokenListValidate)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
+[SSO_TOKEN_INFO_DESC](/domino-c-api-docs/reference/Data/SSO_TOKEN_INFO_DESC)
 ---

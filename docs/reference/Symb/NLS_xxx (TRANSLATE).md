@@ -10,6 +10,6 @@ Control flags used by the function NLS_translate to govern how the translation
 is performed.
 
 **See Also :**
-[ACLGetHistory](/reference/Func/ACLGetHistory)
-[NLS_translate](/reference/Func/NLS_translate)
+[ACLGetHistory](/domino-c-api-docs/reference/Func/ACLGetHistory)
+[NLS_translate](/domino-c-api-docs/reference/Func/NLS_translate)
 ---

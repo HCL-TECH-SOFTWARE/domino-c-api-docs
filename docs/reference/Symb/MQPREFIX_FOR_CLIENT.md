@@ -13,6 +13,6 @@ registering with the alarms daemon for alarms.  Alarms daemon will use the name
 and send alarms to it.
 
 **See Also :**
-[MQCreate](/reference/Func/MQCreate)
-[Alarm_RegisterInterest](/reference/Func/Alarm_RegisterInterest)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[Alarm_RegisterInterest](/domino-c-api-docs/reference/Func/Alarm_RegisterInterest)
 ---

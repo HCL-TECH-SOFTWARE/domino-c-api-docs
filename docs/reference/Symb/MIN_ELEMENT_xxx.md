@@ -11,5 +11,5 @@ region of a form.  These symbols may be used for the wWidth and wHeight members
 of the ELEMENTHEADER structure.
 
 **See Also :**
-[ELEMENTHEADER](/reference/Data/ELEMENTHEADER)
+[ELEMENTHEADER](/domino-c-api-docs/reference/Data/ELEMENTHEADER)
 ---

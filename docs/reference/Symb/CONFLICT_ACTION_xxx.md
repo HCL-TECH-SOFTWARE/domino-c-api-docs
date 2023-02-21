@@ -15,5 +15,5 @@ want to abort handling the conflict yourself and pass ERR_EM_CONTINUE back to
 Domino or Notes.
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
 ---

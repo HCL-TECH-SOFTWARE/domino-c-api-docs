@@ -24,5 +24,5 @@ ERR_EM_CONTINUE, any other value will have no affect on Domino internal processi
 
 
 **See Also :**
-[EM_xxx](/reference/Symb/EM_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
 ---

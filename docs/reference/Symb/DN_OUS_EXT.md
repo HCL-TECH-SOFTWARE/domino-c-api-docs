@@ -9,5 +9,5 @@
 Maximum number of extended organizational units.
 
 **See Also :**
-[DN_COMPONENTS](/reference/Data/DN_COMPONENTS)
+[DN_COMPONENTS](/domino-c-api-docs/reference/Data/DN_COMPONENTS)
 ---

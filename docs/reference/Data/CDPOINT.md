@@ -11,5 +11,5 @@ is an AREA_SHAPE_POLYGON.
 
 
 **See Also :**
-[CDAREAELEMENT](/reference/Data/CDAREAELEMENT)
+[CDAREAELEMENT](/domino-c-api-docs/reference/Data/CDAREAELEMENT)
 ---

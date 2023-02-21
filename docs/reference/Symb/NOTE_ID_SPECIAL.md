@@ -16,8 +16,8 @@ be specified in the ViewNoteID parameter of NIFOpenCollection to open the
 design collection.
 
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NSFDbGetSpecialNoteID](/reference/Func/NSFDbGetSpecialNoteID)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NSFDbGetSpecialNoteID](/domino-c-api-docs/reference/Func/NSFDbGetSpecialNoteID)
 ---

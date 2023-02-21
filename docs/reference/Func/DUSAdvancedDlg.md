@@ -23,6 +23,6 @@ Output :
 
 
 **See Also :**
-[DUSStart](/reference/Func/DUSStart)
-[fDUSxxx](/reference/Symb/fDUSxxx)
+[DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
+[fDUSxxx](/domino-c-api-docs/reference/Symb/fDUSxxx)
 ---

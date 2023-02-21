@@ -80,8 +80,8 @@ AddInLogMessage(MSG_INDEX_DONE, NOERROR,
 }
 ```
 **See Also :**
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInLogMessageText](/reference/Func/AddInLogMessageText)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInLogMessageText](/domino-c-api-docs/reference/Func/AddInLogMessageText)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
 ---

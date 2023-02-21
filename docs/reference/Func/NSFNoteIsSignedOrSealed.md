@@ -44,7 +44,7 @@ sealed_flag_ptr  -  The address of a BOOL in which the Sealed state of the Note 
 
 
 **See Also :**
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
 ---

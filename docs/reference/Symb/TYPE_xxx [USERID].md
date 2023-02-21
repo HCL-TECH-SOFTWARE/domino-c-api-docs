@@ -57,9 +57,9 @@ field but does not save items with this type.
     } 
 ```
 **See Also :**
-[ITEM_xxx [NAMES]](/reference/Symb/ITEM_xxx [NAMES])
-[ITEM_xxx [READERS]](/reference/Symb/ITEM_xxx [READERS])
-[ITEM_xxx [READWRITERS]](/reference/Symb/ITEM_xxx [READWRITERS])
-[NAMES_LIST](/reference/Data/NAMES_LIST)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ITEM_xxx [NAMES]](/domino-c-api-docs/reference/Symb/ITEM_xxx [NAMES])
+[ITEM_xxx [READERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READERS])
+[ITEM_xxx [READWRITERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READWRITERS])
+[NAMES_LIST](/domino-c-api-docs/reference/Data/NAMES_LIST)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

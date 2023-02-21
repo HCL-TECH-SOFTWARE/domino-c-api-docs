@@ -31,6 +31,6 @@ This record is followed first by the string, in LMBCS format with no NULL
 delimiter, then by the formula, if present.
 
 **See Also :**
-[ACTIVEOBJECT](/reference/Data/ACTIVEOBJECT)
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
+[ACTIVEOBJECT](/domino-c-api-docs/reference/Data/ACTIVEOBJECT)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
 ---

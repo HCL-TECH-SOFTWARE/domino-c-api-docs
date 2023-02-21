@@ -67,7 +67,7 @@ if (error = NSFDbOpen(szName))
 }
 ```
 **See Also :**
-[NOERROR](/reference/Symb/NOERROR)
-[OSLoadString](/reference/Func/OSLoadString)
-[PKG_xxx [ADDIN]](/reference/Symb/PKG_xxx [ADDIN])
+[NOERROR](/domino-c-api-docs/reference/Symb/NOERROR)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
+[PKG_xxx [ADDIN]](/domino-c-api-docs/reference/Symb/PKG_xxx [ADDIN])
 ---

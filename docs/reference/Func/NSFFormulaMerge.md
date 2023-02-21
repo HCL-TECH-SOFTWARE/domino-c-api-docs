@@ -179,8 +179,8 @@ formula.\n");
 
 ```
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[NSFFormulaDecompile](/reference/Func/NSFFormulaDecompile)
-[NSFFormulaGetSize](/reference/Func/NSFFormulaGetSize)
-[NSFFormulaSummaryItem](/reference/Func/NSFFormulaSummaryItem)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[NSFFormulaDecompile](/domino-c-api-docs/reference/Func/NSFFormulaDecompile)
+[NSFFormulaGetSize](/domino-c-api-docs/reference/Func/NSFFormulaGetSize)
+[NSFFormulaSummaryItem](/domino-c-api-docs/reference/Func/NSFFormulaSummaryItem)
 ---

@@ -36,5 +36,5 @@ pReserved  Reserved - must be NULL
 
 
 **See Also :**
-[REGNewCertifierExtended](/reference/Func/REGNewCertifierExtended)
+[REGNewCertifierExtended](/domino-c-api-docs/reference/Func/REGNewCertifierExtended)
 ---

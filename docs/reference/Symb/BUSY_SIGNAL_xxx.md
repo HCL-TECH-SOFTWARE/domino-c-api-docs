@@ -11,6 +11,6 @@ be painted on the screen when the busy signal handler function (OS_SIGNAL_BUSY)
 is called.
 
 **See Also :**
-[OSSIGBUSYPROC](/reference/Data/OSSIGBUSYPROC)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[OSSIGBUSYPROC](/domino-c-api-docs/reference/Data/OSSIGBUSYPROC)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

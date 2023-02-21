@@ -61,7 +61,7 @@ rethCntnr  -  Handle of the container that results are returned in.
 
 
 **See Also :**
-[SchContainer_Free](/reference/Func/SchContainer_Free)
-[SCHRQST_xxx](/reference/Symb/SCHRQST_xxx)
-[SchRetrieve](/reference/Func/SchRetrieve)
+[SchContainer_Free](/domino-c-api-docs/reference/Func/SchContainer_Free)
+[SCHRQST_xxx](/domino-c-api-docs/reference/Symb/SCHRQST_xxx)
+[SchRetrieve](/domino-c-api-docs/reference/Func/SchRetrieve)
 ---

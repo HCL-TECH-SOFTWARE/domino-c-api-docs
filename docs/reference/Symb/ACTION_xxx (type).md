@@ -12,5 +12,5 @@ The CDACTION structure contains an action Type member of one of the above.
 type should be defined in the rich-text item "$V5ACTIONS", not the "$ACTIONS".
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

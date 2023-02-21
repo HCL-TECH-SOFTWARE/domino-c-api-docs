@@ -10,6 +10,6 @@ The CDACTIONSENDMAIL record contains an array of length values for the SendMail
 action fields.  These values are used to index into the array.
 
 **See Also :**
-[CDACTIONNEWSLETTER](/reference/Data/CDACTIONNEWSLETTER)
-[CDACTIONSENDMAIL](/reference/Data/CDACTIONSENDMAIL)
+[CDACTIONNEWSLETTER](/domino-c-api-docs/reference/Data/CDACTIONNEWSLETTER)
+[CDACTIONSENDMAIL](/domino-c-api-docs/reference/Data/CDACTIONSENDMAIL)
 ---

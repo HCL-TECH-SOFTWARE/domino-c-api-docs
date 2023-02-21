@@ -12,5 +12,5 @@ of a FILEOBJECT structure is set to HOST_HPFS, then the FILEOBJECT structure is
 followed by a FILEOBJEC_HPFSEXT structure.
 
 **See Also :**
-[FILEOBJECT](/reference/Data/FILEOBJECT)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
 ---

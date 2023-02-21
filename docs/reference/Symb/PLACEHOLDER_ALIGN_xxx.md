@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDPLACEHOLDER](/reference/Data/CDPLACEHOLDER)
+[CDPLACEHOLDER](/domino-c-api-docs/reference/Data/CDPLACEHOLDER)
 ---

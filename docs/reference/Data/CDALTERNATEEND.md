@@ -15,5 +15,5 @@ Flags Currently unused;  must be 0
 
 
 **See Also :**
-[CDALTERNATEBEGIN](/reference/Data/CDALTERNATEBEGIN)
+[CDALTERNATEBEGIN](/domino-c-api-docs/reference/Data/CDALTERNATEBEGIN)
 ---

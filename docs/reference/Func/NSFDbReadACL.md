@@ -31,6 +31,6 @@ rethACL  -  Pointer to the returned handle to the access control list.  Use OSMe
 
 
 **See Also :**
-[ACLCreate](/reference/Func/ACLCreate)
-[NSFDbStoreACL](/reference/Func/NSFDbStoreACL)
+[ACLCreate](/domino-c-api-docs/reference/Func/ACLCreate)
+[NSFDbStoreACL](/domino-c-api-docs/reference/Func/NSFDbStoreACL)
 ---

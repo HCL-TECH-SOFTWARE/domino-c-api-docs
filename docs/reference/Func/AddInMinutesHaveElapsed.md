@@ -65,7 +65,7 @@ else if (AddInMinutesHaveElapsed(1))
 }
 ```
 **See Also :**
-[AddInSecondsHaveElapsed](/reference/Func/AddInSecondsHaveElapsed)
-[AddInDayHasElapsed](/reference/Func/AddInDayHasElapsed)
-[AddInIdle](/reference/Func/AddInIdle)
+[AddInSecondsHaveElapsed](/domino-c-api-docs/reference/Func/AddInSecondsHaveElapsed)
+[AddInDayHasElapsed](/domino-c-api-docs/reference/Func/AddInDayHasElapsed)
+[AddInIdle](/domino-c-api-docs/reference/Func/AddInIdle)
 ---

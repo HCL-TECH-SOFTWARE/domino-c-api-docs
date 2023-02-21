@@ -49,5 +49,5 @@ retLength  -  Length of the string associated with rethLockers.
 
 
 **See Also :**
-[NSFDbNoteUnlock](/reference/Func/NSFDbNoteUnlock)
+[NSFDbNoteUnlock](/domino-c-api-docs/reference/Func/NSFDbNoteUnlock)
 ---

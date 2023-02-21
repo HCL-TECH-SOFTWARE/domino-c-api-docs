@@ -135,7 +135,7 @@ error = REGNewCertifier (
                                       error occurred */
 ```
 **See Also :**
-[SECKFMGetCertifierCtx](/reference/Func/SECKFMGetCertifierCtx)
-[SECKFMFreeCertifierCtx](/reference/Func/SECKFMFreeCertifierCtx)
-[REGSIGNALPROC](/reference/Data/REGSIGNALPROC)
+[SECKFMGetCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
+[SECKFMFreeCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMFreeCertifierCtx)
+[REGSIGNALPROC](/domino-c-api-docs/reference/Data/REGSIGNALPROC)
 ---

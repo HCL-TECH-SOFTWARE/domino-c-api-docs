@@ -41,10 +41,10 @@ pStreamCtx  -  A pointer to the stream context needed by the other API functions
 
 
 **See Also :**
-[ACTFLAGS_xxx](/reference/Symb/ACTFLAGS_xxx)
-[ACTIVITYSTREAMACTION](/reference/Data/ACTIVITYSTREAMACTION)
-[ACTIVITYSTREAMPOSITION](/reference/Data/ACTIVITYSTREAMPOSITION)
-[LogCloseActivityStream](/reference/Func/LogCloseActivityStream)
-[LogEnumActivityStream](/reference/Func/LogEnumActivityStream)
-[LogSetActivityStreamPosition](/reference/Func/LogSetActivityStreamPosition)
+[ACTFLAGS_xxx](/domino-c-api-docs/reference/Symb/ACTFLAGS_xxx)
+[ACTIVITYSTREAMACTION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMACTION)
+[ACTIVITYSTREAMPOSITION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMPOSITION)
+[LogCloseActivityStream](/domino-c-api-docs/reference/Func/LogCloseActivityStream)
+[LogEnumActivityStream](/domino-c-api-docs/reference/Func/LogEnumActivityStream)
+[LogSetActivityStreamPosition](/domino-c-api-docs/reference/Func/LogSetActivityStreamPosition)
 ---

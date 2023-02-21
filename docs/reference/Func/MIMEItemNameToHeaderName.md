@@ -74,7 +74,7 @@ MIME_HEADER_FORMAT_XXXX
 
 ```
 **See Also :**
-[MIMEHeaderNameToItemName](/reference/Func/MIMEHeaderNameToItemName)
-[MIME_HEADER_FORMAT_xxx](/reference/Symb/MIME_HEADER_FORMAT_xxx)
-[MIME_HEADER_MAP_xxx](/reference/Symb/MIME_HEADER_MAP_xxx)
+[MIMEHeaderNameToItemName](/domino-c-api-docs/reference/Func/MIMEHeaderNameToItemName)
+[MIME_HEADER_FORMAT_xxx](/domino-c-api-docs/reference/Symb/MIME_HEADER_FORMAT_xxx)
+[MIME_HEADER_MAP_xxx](/domino-c-api-docs/reference/Symb/MIME_HEADER_MAP_xxx)
 ---

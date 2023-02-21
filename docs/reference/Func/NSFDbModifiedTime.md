@@ -43,7 +43,7 @@ retNonDataModified  -  The address of a TIMEDATE structure in which the last mod
 
 ```
 **See Also :**
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[TimeDateAdjust](/reference/Func/TimeDateAdjust)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[TimeDateAdjust](/domino-c-api-docs/reference/Func/TimeDateAdjust)
 ---

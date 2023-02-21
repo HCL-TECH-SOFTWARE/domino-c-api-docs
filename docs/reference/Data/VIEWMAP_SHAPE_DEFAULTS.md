@@ -22,6 +22,6 @@ FontID  Default Font ID for label text.
 
 
 **See Also :**
-[VIEWMAP_HIGHLIGHT_DEFAULTS](/reference/Data/VIEWMAP_HIGHLIGHT_DEFAULTS)
-[VIEWMAP_STYLE_DEFAULTS](/reference/Data/VIEWMAP_STYLE_DEFAULTS)
+[VIEWMAP_HIGHLIGHT_DEFAULTS](/domino-c-api-docs/reference/Data/VIEWMAP_HIGHLIGHT_DEFAULTS)
+[VIEWMAP_STYLE_DEFAULTS](/domino-c-api-docs/reference/Data/VIEWMAP_STYLE_DEFAULTS)
 ---

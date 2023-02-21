@@ -46,8 +46,8 @@ retString  -  The formatted message string is placed in the specified character 
 
 
 **See Also :**
-[AddInLogErrorText](/reference/Func/AddInLogErrorText)
-[AddInSetStatusText](/reference/Func/AddInSetStatusText)
-[AddInLogMessageText](/reference/Func/AddInLogMessageText)
-[AddInFormatError](/reference/Func/AddInFormatError)
+[AddInLogErrorText](/domino-c-api-docs/reference/Func/AddInLogErrorText)
+[AddInSetStatusText](/domino-c-api-docs/reference/Func/AddInSetStatusText)
+[AddInLogMessageText](/domino-c-api-docs/reference/Func/AddInLogMessageText)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
 ---

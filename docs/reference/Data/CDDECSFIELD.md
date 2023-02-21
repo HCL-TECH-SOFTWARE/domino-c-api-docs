@@ -31,5 +31,5 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note. 
 
 **See Also :**
-[FDECS_xxx](/reference/Symb/FDECS_xxx)
+[FDECS_xxx](/domino-c-api-docs/reference/Symb/FDECS_xxx)
 ---

@@ -28,7 +28,7 @@ Output :
 
 
 **See Also :**
-[MailCreateMessage](/reference/Func/MailCreateMessage)
-[MailExtractMessageAttachment](/reference/Func/MailExtractMessageAttachment)
-[MailGetMessageAttachmentInfo](/reference/Func/MailGetMessageAttachmentInfo)
+[MailCreateMessage](/domino-c-api-docs/reference/Func/MailCreateMessage)
+[MailExtractMessageAttachment](/domino-c-api-docs/reference/Func/MailExtractMessageAttachment)
+[MailGetMessageAttachmentInfo](/domino-c-api-docs/reference/Func/MailGetMessageAttachmentInfo)
 ---

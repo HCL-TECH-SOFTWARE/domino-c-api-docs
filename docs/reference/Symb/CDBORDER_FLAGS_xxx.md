@@ -9,5 +9,5 @@
 Settings for Flags in CD Record CDBORDERINFO.
 
 **See Also :**
-[CDBORDERINFO](/reference/Data/CDBORDERINFO)
+[CDBORDERINFO](/domino-c-api-docs/reference/Data/CDBORDERINFO)
 ---

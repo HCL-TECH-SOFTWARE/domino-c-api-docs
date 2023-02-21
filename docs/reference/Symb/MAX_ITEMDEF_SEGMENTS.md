@@ -10,7 +10,7 @@ The maximum number of Item Name Segments contained in the structure
 ITEM_DEFINITION_TABLE_EXT.
 
 **See Also :**
-[ITEM_DEFINITION_EXT](/reference/Data/ITEM_DEFINITION_EXT)
-[ITEM_DEFINITION_TABLE_EXT](/reference/Data/ITEM_DEFINITION_TABLE_EXT)
-[ITEM_DEFINITION_TABLE_LOCK](/reference/Data/ITEM_DEFINITION_TABLE_LOCK)
+[ITEM_DEFINITION_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_EXT)
+[ITEM_DEFINITION_TABLE_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE_EXT)
+[ITEM_DEFINITION_TABLE_LOCK](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE_LOCK)
 ---

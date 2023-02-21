@@ -53,6 +53,6 @@ Out  -  Buffer to receive output.
 
 
 **See Also :**
-[OSLoadString](/reference/Func/OSLoadString)
-[OS_TRANSLATE_xxx](/reference/Symb/OS_TRANSLATE_xxx)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
+[OS_TRANSLATE_xxx](/domino-c-api-docs/reference/Symb/OS_TRANSLATE_xxx)
 ---

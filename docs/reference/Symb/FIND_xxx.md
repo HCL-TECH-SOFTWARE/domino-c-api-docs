@@ -25,6 +25,6 @@ comparison is specified, then the number of matching entries cannot be
 requested.
 
 **See Also :**
-[NIFFindByName](/reference/Func/NIFFindByName)
-[NIFFindByKey](/reference/Func/NIFFindByKey)
+[NIFFindByName](/domino-c-api-docs/reference/Func/NIFFindByName)
+[NIFFindByKey](/domino-c-api-docs/reference/Func/NIFFindByKey)
 ---

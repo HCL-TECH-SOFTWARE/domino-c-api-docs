@@ -59,9 +59,9 @@ OSUnlockAndFree(hPart);
 
 ```
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFMimePartGetInfo](/reference/Func/NSFMimePartGetInfo)
-[NSFMimePartGetInfoByBLOCKID](/reference/Func/NSFMimePartGetInfoByBLOCKID)
-[NSFMimePartGetInfoNext](/reference/Func/NSFMimePartGetInfoNext)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFMimePartGetInfo](/domino-c-api-docs/reference/Func/NSFMimePartGetInfo)
+[NSFMimePartGetInfoByBLOCKID](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoByBLOCKID)
+[NSFMimePartGetInfoNext](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoNext)
 ---

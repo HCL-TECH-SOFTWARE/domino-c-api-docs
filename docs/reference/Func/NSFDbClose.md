@@ -38,6 +38,6 @@ else
   cleanup_state -= CLOSE_SRC_DB;
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

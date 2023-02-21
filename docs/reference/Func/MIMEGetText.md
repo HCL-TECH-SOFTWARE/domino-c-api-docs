@@ -84,6 +84,6 @@ if (error = MIMEGetText(hNote,
 
 ```
 **See Also :**
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 ---

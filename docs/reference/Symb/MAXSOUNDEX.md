@@ -9,5 +9,5 @@
 Maximum size of a Soundex string.  This size includes the terminating null.
 
 **See Also :**
-[Soundex](/reference/Func/Soundex)
+[Soundex](/domino-c-api-docs/reference/Func/Soundex)
 ---

@@ -17,8 +17,8 @@ header, the signature is of type BYTE and the Length member of the header is
 also of type BYTE.
 
 **See Also :**
-[BSIG](/reference/Data/BSIG)
-[LSIG](/reference/Data/LSIG)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
-[WSIG](/reference/Data/WSIG)
+[BSIG](/domino-c-api-docs/reference/Data/BSIG)
+[LSIG](/domino-c-api-docs/reference/Data/LSIG)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
+[WSIG](/domino-c-api-docs/reference/Data/WSIG)
 ---

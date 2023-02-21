@@ -10,5 +10,5 @@ Option flags that may be specified in the dwFlags field of the CDACTIONDBCOPY
 record.
 
 **See Also :**
-[CDACTIONDBCOPY](/reference/Data/CDACTIONDBCOPY)
+[CDACTIONDBCOPY](/domino-c-api-docs/reference/Data/CDACTIONDBCOPY)
 ---

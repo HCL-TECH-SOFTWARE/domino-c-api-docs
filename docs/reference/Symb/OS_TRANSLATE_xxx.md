@@ -12,5 +12,5 @@ strings -- either LMBCS to native, or native to LMBCS.
 LMBCS is the Lotus Multi-Byte Character Set.
 
 **See Also :**
-[OSTranslate](/reference/Func/OSTranslate)
+[OSTranslate](/domino-c-api-docs/reference/Func/OSTranslate)
 ---

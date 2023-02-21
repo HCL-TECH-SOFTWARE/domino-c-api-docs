@@ -13,6 +13,6 @@ names specified in the Names parameter of the call to NAMELookup.  Each
 LOOKUP_INFO structure is followed by an array of LOOKUP_MATCH structures.
 
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[LOOKUP_HEADER](/reference/Data/LOOKUP_HEADER)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[LOOKUP_HEADER](/domino-c-api-docs/reference/Data/LOOKUP_HEADER)
 ---

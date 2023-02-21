@@ -70,8 +70,8 @@ SECTokenListValidate()  */
 SECTokenListFree ( &pTokenEntry, 0, NULL );
 ```
 **See Also :**
-[SECTOKENFORMAT](/reference/Data/SECTOKENFORMAT)
-[SECTokenListGenerate](/reference/Func/SECTokenListGenerate)
-[SECTokenListValidate](/reference/Func/SECTokenListValidate)
-[SSO_LTPA_TOKEN_LIST](/reference/Data/SSO_LTPA_TOKEN_LIST)
+[SECTOKENFORMAT](/domino-c-api-docs/reference/Data/SECTOKENFORMAT)
+[SECTokenListGenerate](/domino-c-api-docs/reference/Func/SECTokenListGenerate)
+[SECTokenListValidate](/domino-c-api-docs/reference/Func/SECTokenListValidate)
+[SSO_LTPA_TOKEN_LIST](/domino-c-api-docs/reference/Data/SSO_LTPA_TOKEN_LIST)
 ---

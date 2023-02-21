@@ -9,5 +9,5 @@
 This is the datatype of the action routine passed to NSFProfileEnum.
 
 **See Also :**
-[NSFProfileEnum](/reference/Func/NSFProfileEnum)
+[NSFProfileEnum](/domino-c-api-docs/reference/Func/NSFProfileEnum)
 ---

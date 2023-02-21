@@ -36,5 +36,5 @@ Output :
 
 
 **See Also :**
-[ITEMEXTRACTCALLBACK](/reference/Data/ITEMEXTRACTCALLBACK)
+[ITEMEXTRACTCALLBACK](/domino-c-api-docs/reference/Data/ITEMEXTRACTCALLBACK)
 ---

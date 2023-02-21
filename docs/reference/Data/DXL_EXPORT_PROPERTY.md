@@ -37,8 +37,8 @@ DXL exporter."
  
 
 **See Also :**
-[DXLGetExporterProperty](/reference/Func/DXLGetExporterProperty)
-[DXLSetExporterProperty](/reference/Func/DXLSetExporterProperty)
-[DXL_EXPORT_CHARSET](/reference/Data/DXL_EXPORT_CHARSET)
-[DXL_RICHTEXT_OPTION](/reference/Data/DXL_RICHTEXT_OPTION)
+[DXLGetExporterProperty](/domino-c-api-docs/reference/Func/DXLGetExporterProperty)
+[DXLSetExporterProperty](/domino-c-api-docs/reference/Func/DXLSetExporterProperty)
+[DXL_EXPORT_CHARSET](/domino-c-api-docs/reference/Data/DXL_EXPORT_CHARSET)
+[DXL_RICHTEXT_OPTION](/domino-c-api-docs/reference/Data/DXL_RICHTEXT_OPTION)
 ---

@@ -20,10 +20,10 @@ This signal handler requires two parameters:
 OSMESSAGETYPE_xxx Symbolic Values.
 
 **See Also :**
-[DesignRefresh](/reference/Func/DesignRefresh)
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OSMESSAGETYPE_xxx](/reference/Symb/OSMESSAGETYPE_xxx)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[DesignRefresh](/domino-c-api-docs/reference/Func/DesignRefresh)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OSMESSAGETYPE_xxx](/domino-c-api-docs/reference/Symb/OSMESSAGETYPE_xxx)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

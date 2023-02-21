@@ -38,5 +38,5 @@ NULL - If the session cannot be initialized.
 
 
 **See Also :**
-[ldap_init](/reference/Func/ldap_init)
+[ldap_init](/domino-c-api-docs/reference/Func/ldap_init)
 ---

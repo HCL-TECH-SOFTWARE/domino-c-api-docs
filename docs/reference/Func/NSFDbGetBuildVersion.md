@@ -90,8 +90,8 @@ retVersion  -  The address of a WORD in which the major portion of the build num
 
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

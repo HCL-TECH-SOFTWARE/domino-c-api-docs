@@ -40,10 +40,10 @@ for (counter = 0; counter < num_entries; counter++)
 }
 ```
 **See Also :**
-[NSFItemAppendTextList](/reference/Func/NSFItemAppendTextList)
-[NSFItemCreateTextList](/reference/Func/NSFItemCreateTextList)
-[NSFItemGetTextListEntry](/reference/Func/NSFItemGetTextListEntry)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
+[NSFItemAppendTextList](/domino-c-api-docs/reference/Func/NSFItemAppendTextList)
+[NSFItemCreateTextList](/domino-c-api-docs/reference/Func/NSFItemCreateTextList)
+[NSFItemGetTextListEntry](/domino-c-api-docs/reference/Func/NSFItemGetTextListEntry)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
 ---

@@ -44,5 +44,5 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 
 **See Also :**
-[NSFGETALLFOLDERCHANGESCALLBACK](/reference/Data/NSFGETALLFOLDERCHANGESCALLBACK)
+[NSFGETALLFOLDERCHANGESCALLBACK](/domino-c-api-docs/reference/Data/NSFGETALLFOLDERCHANGESCALLBACK)
 ---

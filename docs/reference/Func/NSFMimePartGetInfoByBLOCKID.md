@@ -105,7 +105,7 @@ if (error = NSFMimePartGetInfoByBLOCKID(bhItem,
 
 ```
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NSFMimePartGetInfo](/reference/Func/NSFMimePartGetInfo)
-[NSFMimePartGetInfoNext](/reference/Func/NSFMimePartGetInfoNext)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NSFMimePartGetInfo](/domino-c-api-docs/reference/Func/NSFMimePartGetInfo)
+[NSFMimePartGetInfoNext](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoNext)
 ---

@@ -28,5 +28,5 @@ kRequestUNKNOWN - Unknown request method.
 kRequestBAD - Bad request method. Error.
 
 **See Also :**
-[FilterRequest](/reference/Data/FilterRequest)
+[FilterRequest](/domino-c-api-docs/reference/Data/FilterRequest)
 ---

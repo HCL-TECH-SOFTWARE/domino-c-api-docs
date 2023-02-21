@@ -38,6 +38,6 @@ retpSched  -  Returns pointer to the schedule object.
 
 
 **See Also :**
-[SchContainer_GetFirstSchedule](/reference/Func/SchContainer_GetFirstSchedule)
-[SchContainer_GetNextSchedule](/reference/Func/SchContainer_GetNextSchedule)
+[SchContainer_GetFirstSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetFirstSchedule)
+[SchContainer_GetNextSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetNextSchedule)
 ---

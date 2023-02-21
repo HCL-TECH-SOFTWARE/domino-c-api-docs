@@ -45,5 +45,5 @@ NULL - If the session cannot be initialized.
 
 ```
 **See Also :**
-[ldap_open](/reference/Func/ldap_open)
+[ldap_open](/domino-c-api-docs/reference/Func/ldap_open)
 ---

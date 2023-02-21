@@ -29,8 +29,8 @@ accessed using the variable argument macros;  see VARARG_PTR for more
 information.
 
 **See Also :**
-[EID](/reference/Data/EID)
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EM_xxx](/reference/Symb/EM_xxx)
-[VARARG_PTR](/reference/Data/VARARG_PTR)
+[EID](/domino-c-api-docs/reference/Data/EID)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[VARARG_PTR](/domino-c-api-docs/reference/Data/VARARG_PTR)
 ---

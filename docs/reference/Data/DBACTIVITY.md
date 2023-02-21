@@ -11,7 +11,7 @@ the database usage statistics for the prior day, week, and month, and since
 user activity recording began.
 
 **See Also :**
-[DBACTIVITY_ENTRY](/reference/Data/DBACTIVITY_ENTRY)
-[NSFDbGetActivityUserNamePtr](/reference/Func/NSFDbGetActivityUserNamePtr)
-[NSFDbGetUserActivity](/reference/Func/NSFDbGetUserActivity)
+[DBACTIVITY_ENTRY](/domino-c-api-docs/reference/Data/DBACTIVITY_ENTRY)
+[NSFDbGetActivityUserNamePtr](/domino-c-api-docs/reference/Func/NSFDbGetActivityUserNamePtr)
+[NSFDbGetUserActivity](/domino-c-api-docs/reference/Func/NSFDbGetUserActivity)
 ---

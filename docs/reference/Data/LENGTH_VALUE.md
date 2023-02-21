@@ -15,9 +15,9 @@ Units  See CDLENGTH_UNITS_xxx.
 Reserved Reserved for future use.
 
 **See Also :**
-[CDBACKGROUNDPROPERTIES](/reference/Data/CDBACKGROUNDPROPERTIES)
-[CDBOXSIZE](/reference/Data/CDBOXSIZE)
-[CDLENGTH_FLAGS_xxx](/reference/Symb/CDLENGTH_FLAGS_xxx)
-[CDLENGTH_UNITS_xxx](/reference/Symb/CDLENGTH_UNITS_xxx)
-[CDPOSITIONING](/reference/Data/CDPOSITIONING)
+[CDBACKGROUNDPROPERTIES](/domino-c-api-docs/reference/Data/CDBACKGROUNDPROPERTIES)
+[CDBOXSIZE](/domino-c-api-docs/reference/Data/CDBOXSIZE)
+[CDLENGTH_FLAGS_xxx](/domino-c-api-docs/reference/Symb/CDLENGTH_FLAGS_xxx)
+[CDLENGTH_UNITS_xxx](/domino-c-api-docs/reference/Symb/CDLENGTH_UNITS_xxx)
+[CDPOSITIONING](/domino-c-api-docs/reference/Data/CDPOSITIONING)
 ---

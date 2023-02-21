@@ -15,6 +15,6 @@ present with a value of PABFLAG3_HIDE_EE. These DWORD extensions follow the six
 R5 margin extension WORDs, if they are present.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[PABFLAG3_xxx](/reference/Symb/PABFLAG3_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[PABFLAG3_xxx](/domino-c-api-docs/reference/Symb/PABFLAG3_xxx)
 ---

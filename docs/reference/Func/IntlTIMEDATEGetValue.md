@@ -63,9 +63,9 @@ retpropValue))
 printf("\nPMStringProperty Value = %s:\n", retpropValue);
 ```
 **See Also :**
-[IntlTIMEDATECreateHandle](/reference/Func/IntlTIMEDATECreateHandle)
-[INTLTIMEDATEHANDLE](/reference/Data/INTLTIMEDATEHANDLE)
-[IntlTIMEDATESetValue](/reference/Func/IntlTIMEDATESetValue)
-[INTL_TIMEDATE_PROPERTY](/reference/Data/INTL_TIMEDATE_PROPERTY)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[IntlTIMEDATECreateHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATECreateHandle)
+[INTLTIMEDATEHANDLE](/domino-c-api-docs/reference/Data/INTLTIMEDATEHANDLE)
+[IntlTIMEDATESetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATESetValue)
+[INTL_TIMEDATE_PROPERTY](/domino-c-api-docs/reference/Data/INTL_TIMEDATE_PROPERTY)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

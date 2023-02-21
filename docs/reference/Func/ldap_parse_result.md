@@ -70,11 +70,11 @@ serverctrlsp  -  This result parameter will be filled in with an allocated array
 
 
 **See Also :**
-[ldap_controls_free](/reference/Func/ldap_controls_free)
-[ldap_memfree](/reference/Func/ldap_memfree)
-[ldap_parse_extended_result](/reference/Func/ldap_parse_extended_result)
-[ldap_parse_sasl_bind_result](/reference/Func/ldap_parse_sasl_bind_result)
-[ldap_result](/reference/Func/ldap_result)
-[LDAP_RES_xxx](/reference/Symb/LDAP_RES_xxx)
-[ldap_value_free](/reference/Func/ldap_value_free)
+[ldap_controls_free](/domino-c-api-docs/reference/Func/ldap_controls_free)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
+[ldap_parse_extended_result](/domino-c-api-docs/reference/Func/ldap_parse_extended_result)
+[ldap_parse_sasl_bind_result](/domino-c-api-docs/reference/Func/ldap_parse_sasl_bind_result)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
+[LDAP_RES_xxx](/domino-c-api-docs/reference/Symb/LDAP_RES_xxx)
+[ldap_value_free](/domino-c-api-docs/reference/Func/ldap_value_free)
 ---

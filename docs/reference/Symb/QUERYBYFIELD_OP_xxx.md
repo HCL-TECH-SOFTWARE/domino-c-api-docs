@@ -11,5 +11,5 @@ record.  The operator code identifies how the value of the field in the
 document is to be tested against the field value supplied in the query record.
 
 **See Also :**
-[CDQUERYBYFIELD](/reference/Data/CDQUERYBYFIELD)
+[CDQUERYBYFIELD](/domino-c-api-docs/reference/Data/CDQUERYBYFIELD)
 ---

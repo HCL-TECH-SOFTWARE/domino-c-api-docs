@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[DirCtxSetFlags](/reference/Func/DirCtxSetFlags)
+[DirCtxSetFlags](/domino-c-api-docs/reference/Func/DirCtxSetFlags)
 ---

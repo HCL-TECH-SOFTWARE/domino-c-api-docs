@@ -29,8 +29,8 @@ Output :
 
 
 **See Also :**
-[OSGetEnvironmentInt](/reference/Func/OSGetEnvironmentInt)
-[OSGetEnvironmentString](/reference/Func/OSGetEnvironmentString)
-[OSSetEnvironmentVariable](/reference/Func/OSSetEnvironmentVariable)
-[OSSetEnvironmentInt](/reference/Func/OSSetEnvironmentInt)
+[OSGetEnvironmentInt](/domino-c-api-docs/reference/Func/OSGetEnvironmentInt)
+[OSGetEnvironmentString](/domino-c-api-docs/reference/Func/OSGetEnvironmentString)
+[OSSetEnvironmentVariable](/domino-c-api-docs/reference/Func/OSSetEnvironmentVariable)
+[OSSetEnvironmentInt](/domino-c-api-docs/reference/Func/OSSetEnvironmentInt)
 ---

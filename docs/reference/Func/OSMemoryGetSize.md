@@ -22,10 +22,10 @@ Output :
 
 
 **See Also :**
-[MEMHANDLE](/reference/Data/MEMHANDLE)
-[OSMemoryAllocate](/reference/Func/OSMemoryAllocate)
-[OSMemoryFree](/reference/Func/OSMemoryFree)
-[OSMemoryLock](/reference/Func/OSMemoryLock)
-[OSMemoryReallocate](/reference/Func/OSMemoryReallocate)
-[OSMemoryUnlock](/reference/Func/OSMemoryUnlock)
+[MEMHANDLE](/domino-c-api-docs/reference/Data/MEMHANDLE)
+[OSMemoryAllocate](/domino-c-api-docs/reference/Func/OSMemoryAllocate)
+[OSMemoryFree](/domino-c-api-docs/reference/Func/OSMemoryFree)
+[OSMemoryLock](/domino-c-api-docs/reference/Func/OSMemoryLock)
+[OSMemoryReallocate](/domino-c-api-docs/reference/Func/OSMemoryReallocate)
+[OSMemoryUnlock](/domino-c-api-docs/reference/Func/OSMemoryUnlock)
 ---

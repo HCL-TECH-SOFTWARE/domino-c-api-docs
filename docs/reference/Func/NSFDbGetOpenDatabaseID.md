@@ -29,8 +29,8 @@ Output :
 
 
 **See Also :**
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbReopen](/reference/Func/NSFDbReopen)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbReopen](/domino-c-api-docs/reference/Func/NSFDbReopen)
 ---

@@ -9,5 +9,5 @@
 Maximum value for data of type BYTE.
 
 **See Also :**
-[BYTE](/reference/Data/BYTE)
+[BYTE](/domino-c-api-docs/reference/Data/BYTE)
 ---

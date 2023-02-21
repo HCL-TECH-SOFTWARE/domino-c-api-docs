@@ -42,7 +42,7 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
-[CDFIELD](/reference/Data/CDFIELD)
-[FIELDHINT_xxx](/reference/Symb/FIELDHINT_xxx)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
+[FIELDHINT_xxx](/domino-c-api-docs/reference/Symb/FIELDHINT_xxx)
 ---

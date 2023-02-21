@@ -12,6 +12,6 @@ values in a field, while LDDELIM_xxx flags define the separators that will be
 used when the multiple values are displayed.
 
 **See Also :**
-[CDFIELD](/reference/Data/CDFIELD)
-[LDELIM_xxx](/reference/Symb/LDELIM_xxx)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
+[LDELIM_xxx](/domino-c-api-docs/reference/Symb/LDELIM_xxx)
 ---

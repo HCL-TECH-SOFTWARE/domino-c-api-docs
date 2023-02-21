@@ -34,11 +34,11 @@ barHeight
 Spare[12]
 
 **See Also :**
-[ACTIONBAR_BACKGROUND_xxx](/reference/Symb/ACTIONBAR_BACKGROUND_xxx)
-[ACTIONBAR_BUTTON_TEXT_](/reference/Symb/ACTIONBAR_BUTTON_TEXT_)
-[ACTIONBAR_BUTTON_WIDTH_xxx](/reference/Symb/ACTIONBAR_BUTTON_WIDTH_xxx)
-[ACTION_SET_3D_xxx](/reference/Symb/ACTION_SET_3D_xxx)
-[CDACTION](/reference/Data/CDACTION)
-[CDACTIONBAR](/reference/Data/CDACTIONBAR)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
+[ACTIONBAR_BACKGROUND_xxx](/domino-c-api-docs/reference/Symb/ACTIONBAR_BACKGROUND_xxx)
+[ACTIONBAR_BUTTON_TEXT_](/domino-c-api-docs/reference/Symb/ACTIONBAR_BUTTON_TEXT_)
+[ACTIONBAR_BUTTON_WIDTH_xxx](/domino-c-api-docs/reference/Symb/ACTIONBAR_BUTTON_WIDTH_xxx)
+[ACTION_SET_3D_xxx](/domino-c-api-docs/reference/Symb/ACTION_SET_3D_xxx)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
+[CDACTIONBAR](/domino-c-api-docs/reference/Data/CDACTIONBAR)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
 ---

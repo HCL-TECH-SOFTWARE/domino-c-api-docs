@@ -52,7 +52,7 @@ ValueBuffer  -  Pointer to a buffer that will receive the value of the statistic
 
 ```
 **See Also :**
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
-[StatTraverse](/reference/Func/StatTraverse)
-[VT_xxx](/reference/Symb/VT_xxx)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
+[VT_xxx](/domino-c-api-docs/reference/Symb/VT_xxx)
 ---

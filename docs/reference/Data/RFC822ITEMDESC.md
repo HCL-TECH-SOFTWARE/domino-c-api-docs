@@ -21,5 +21,5 @@ encoding (RFC2047).
 
 
 **See Also :**
-[RFC822_xxx](/reference/Symb/RFC822_xxx)
+[RFC822_xxx](/domino-c-api-docs/reference/Symb/RFC822_xxx)
 ---

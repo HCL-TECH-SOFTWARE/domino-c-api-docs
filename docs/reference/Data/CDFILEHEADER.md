@@ -32,6 +32,6 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note. 
 
 **See Also :**
-[CDFILESEGMENT](/reference/Data/CDFILESEGMENT)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDFILESEGMENT](/domino-c-api-docs/reference/Data/CDFILESEGMENT)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

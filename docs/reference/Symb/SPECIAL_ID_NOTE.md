@@ -22,6 +22,6 @@ must be updated. This table specifies which note class each SPECIAL_ID is
 treated as for access checking purposes.
 
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
-[NSFDbGetSpecialNoteID](/reference/Func/NSFDbGetSpecialNoteID)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
+[NSFDbGetSpecialNoteID](/domino-c-api-docs/reference/Func/NSFDbGetSpecialNoteID)
 ---

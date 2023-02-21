@@ -13,6 +13,6 @@ with its Flags member set to BARREC_DATA_BORDER_TAB (for tab) or
 BARREC_DATA_BORDER_DIAG (for diagonal).
 
 **See Also :**
-[CDBAR](/reference/Data/CDBAR)
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
+[CDBAR](/domino-c-api-docs/reference/Data/CDBAR)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
 ---

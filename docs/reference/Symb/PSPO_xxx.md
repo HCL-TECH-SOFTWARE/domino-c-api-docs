@@ -10,5 +10,5 @@ These symbols define possible values for the PageOrientation member of
 PRINT_SETTINGS.
 
 **See Also :**
-[PRINT_SETTINGS](/reference/Data/PRINT_SETTINGS)
+[PRINT_SETTINGS](/domino-c-api-docs/reference/Data/PRINT_SETTINGS)
 ---

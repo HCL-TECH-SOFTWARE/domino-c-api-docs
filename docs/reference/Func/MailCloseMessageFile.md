@@ -21,6 +21,6 @@ Output :
 
 
 **See Also :**
-[MailOpenMessageFile](/reference/Func/MailOpenMessageFile)
-[MailCreateMessageFile](/reference/Func/MailCreateMessageFile)
+[MailOpenMessageFile](/domino-c-api-docs/reference/Func/MailOpenMessageFile)
+[MailCreateMessageFile](/domino-c-api-docs/reference/Func/MailCreateMessageFile)
 ---

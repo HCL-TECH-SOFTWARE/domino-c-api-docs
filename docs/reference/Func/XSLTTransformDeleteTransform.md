@@ -22,6 +22,6 @@ Output :
 
 
 **See Also :**
-[XSLTCreateTransform](/reference/Func/XSLTCreateTransform)
-[XSLTRANSFORMHANDLE](/reference/Data/XSLTRANSFORMHANDLE)
+[XSLTCreateTransform](/domino-c-api-docs/reference/Func/XSLTCreateTransform)
+[XSLTRANSFORMHANDLE](/domino-c-api-docs/reference/Data/XSLTRANSFORMHANDLE)
 ---

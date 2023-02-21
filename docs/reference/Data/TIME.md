@@ -12,9 +12,9 @@ member can be altered using any other C API time/date function that manipulates
 a TIMEDATE structure.
 
 **See Also :**
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[TimeDateIncrement](/reference/Func/TimeDateIncrement)
-[TimeDateAdjust](/reference/Func/TimeDateAdjust)
-[TimeGMToLocal](/reference/Func/TimeGMToLocal)
-[TimeLocalToGM](/reference/Func/TimeLocalToGM)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[TimeDateIncrement](/domino-c-api-docs/reference/Func/TimeDateIncrement)
+[TimeDateAdjust](/domino-c-api-docs/reference/Func/TimeDateAdjust)
+[TimeGMToLocal](/domino-c-api-docs/reference/Func/TimeGMToLocal)
+[TimeLocalToGM](/domino-c-api-docs/reference/Func/TimeLocalToGM)
 ---

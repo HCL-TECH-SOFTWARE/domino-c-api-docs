@@ -68,7 +68,7 @@ with the BerElement does not point to separately allocated memory.
 
 ```
 **See Also :**
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ldap_first_attribute](/reference/Func/ldap_first_attribute)
-[ldap_memfree](/reference/Func/ldap_memfree)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ldap_first_attribute](/domino-c-api-docs/reference/Func/ldap_first_attribute)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
 ---

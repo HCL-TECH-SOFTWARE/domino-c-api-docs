@@ -57,5 +57,5 @@ if (error = REGFindAddressBookEntry (hNABook,
 }
 ```
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
 ---

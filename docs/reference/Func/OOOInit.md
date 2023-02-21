@@ -22,5 +22,5 @@ An ERR status on failure indicating the problem.
 
 
 **See Also :**
-[OOOTerm](/reference/Func/OOOTerm)
+[OOOTerm](/domino-c-api-docs/reference/Func/OOOTerm)
 ---

@@ -64,6 +64,6 @@ char        *path_name;          /* pathname of database */
 
 ```
 **See Also :**
-[DBQUOTAINFO](/reference/Data/DBQUOTAINFO)
-[NSFDbQuotaSetExt](/reference/Func/NSFDbQuotaSetExt)
+[DBQUOTAINFO](/domino-c-api-docs/reference/Data/DBQUOTAINFO)
+[NSFDbQuotaSetExt](/domino-c-api-docs/reference/Func/NSFDbQuotaSetExt)
 ---

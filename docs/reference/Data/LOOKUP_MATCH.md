@@ -11,6 +11,6 @@ NAMELookup.  This structure appears immediately after the LOOKUP_INFO
 structure.
 
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[LOOKUP_INFO](/reference/Data/LOOKUP_INFO)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[LOOKUP_INFO](/domino-c-api-docs/reference/Data/LOOKUP_INFO)
 ---

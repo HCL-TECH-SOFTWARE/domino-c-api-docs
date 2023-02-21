@@ -30,7 +30,7 @@ retSize  -  The address of a DWORD in which the object size in bytes will be ret
 
 
 **See Also :**
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
-[OSMemFree](/reference/Func/OSMemFree)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

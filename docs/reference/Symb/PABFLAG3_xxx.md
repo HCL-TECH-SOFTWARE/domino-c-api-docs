@@ -18,6 +18,6 @@ PABFLAG3_LAYER_USES_DRM if boxes in a layer have set PABFLAG_DISPLAY_RM for the
 Flags member of CDPABDEFINITION.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[EXTENDEDPABFLAGS3](/reference/Symb/EXTENDEDPABFLAGS3)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[EXTENDEDPABFLAGS3](/domino-c-api-docs/reference/Symb/EXTENDEDPABFLAGS3)
 ---

@@ -14,5 +14,5 @@ host/canonical conversion on structures of this type when accessing these
 records in an item in a note.
 
 **See Also :**
-[CDDDEEND](/reference/Data/CDDDEEND)
+[CDDDEEND](/domino-c-api-docs/reference/Data/CDDDEEND)
 ---

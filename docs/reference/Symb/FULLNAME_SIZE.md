@@ -10,5 +10,5 @@ Size of the FullName string in the FORMNAME structure.  This is the size of the
 character array for a full form name (includes synonyms).
 
 **See Also :**
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
 ---

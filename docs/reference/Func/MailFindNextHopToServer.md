@@ -45,9 +45,9 @@ ActualCost  -  Actual cost to the destination server.  This value is computed fr
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailResetAllDynamicCosts](/reference/Func/MailResetAllDynamicCosts)
-[MailSetDynamicCost](/reference/Func/MailSetDynamicCost)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailResetAllDynamicCosts](/domino-c-api-docs/reference/Func/MailResetAllDynamicCosts)
+[MailSetDynamicCost](/domino-c-api-docs/reference/Func/MailSetDynamicCost)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
 ---

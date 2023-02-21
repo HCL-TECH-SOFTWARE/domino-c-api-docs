@@ -19,6 +19,6 @@ return and line feed characters ("\r\n"), and the whole sequence of headers
 must end with two "\r\n" sequence.
 
 **See Also :**
-[FilterContext](/reference/Data/FilterContext)
-[ServerSupportTypes](/reference/Data/ServerSupportTypes)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[ServerSupportTypes](/domino-c-api-docs/reference/Data/ServerSupportTypes)
 ---

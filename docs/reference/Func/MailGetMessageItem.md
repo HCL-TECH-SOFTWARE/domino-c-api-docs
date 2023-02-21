@@ -59,7 +59,7 @@ String[StringLength] = '\0';
 printf ("\tFrom: %s\n", String);
 ```
 **See Also :**
-[MailGetMessageItemHandle](/reference/Func/MailGetMessageItemHandle)
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
-[MAIL_xxx_ITEM_NUM(2)](/reference/Symb/MAIL_xxx_ITEM_NUM(2))
+[MailGetMessageItemHandle](/domino-c-api-docs/reference/Func/MailGetMessageItemHandle)
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MAIL_xxx_ITEM_NUM(2)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(2))
 ---

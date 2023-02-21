@@ -29,5 +29,5 @@ retTime  -  Extracted TIMEDATE value.
 
 
 **See Also :**
-[TIMEDATE](/reference/Data/TIMEDATE)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

@@ -24,6 +24,6 @@ Output :
 
 
 **See Also :**
-[ACLCreate](/reference/Func/ACLCreate)
-[ACLAddEntry](/reference/Func/ACLAddEntry)
+[ACLCreate](/domino-c-api-docs/reference/Func/ACLCreate)
+[ACLAddEntry](/domino-c-api-docs/reference/Func/ACLAddEntry)
 ---

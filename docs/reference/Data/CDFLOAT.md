@@ -11,5 +11,5 @@ Float Vertical alignment values, see (FLOAT_xxx).
 
 
 **See Also :**
-[FLOAT_xxx](/reference/Symb/FLOAT_xxx)
+[FLOAT_xxx](/domino-c-api-docs/reference/Symb/FLOAT_xxx)
 ---

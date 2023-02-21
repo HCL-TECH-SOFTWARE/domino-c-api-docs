@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

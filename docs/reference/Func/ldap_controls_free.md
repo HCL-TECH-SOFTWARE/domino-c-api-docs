@@ -22,6 +22,6 @@ ctrl  -  A pointer to a NULL terminated array of LDAPControl structures.  See LD
 
 
 **See Also :**
-[ldap_get_entry_controls](/reference/Func/ldap_get_entry_controls)
-[ldap_parse_reference](/reference/Func/ldap_parse_reference)
+[ldap_get_entry_controls](/domino-c-api-docs/reference/Func/ldap_get_entry_controls)
+[ldap_parse_reference](/domino-c-api-docs/reference/Func/ldap_parse_reference)
 ---

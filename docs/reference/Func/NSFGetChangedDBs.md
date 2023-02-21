@@ -78,6 +78,6 @@ else
 
 ```
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
 ---

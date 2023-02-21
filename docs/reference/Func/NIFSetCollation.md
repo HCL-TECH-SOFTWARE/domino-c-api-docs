@@ -43,6 +43,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NIFGetCollation](/reference/Func/NIFGetCollation)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
+[NIFGetCollation](/domino-c-api-docs/reference/Func/NIFGetCollation)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
 ---

@@ -53,6 +53,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 ```
 **See Also :**
-[NSFDbCopy](/reference/Func/NSFDbCopy)
-[NSFDbCopyTemplateACL](/reference/Func/NSFDbCopyTemplateACL)
+[NSFDbCopy](/domino-c-api-docs/reference/Func/NSFDbCopy)
+[NSFDbCopyTemplateACL](/domino-c-api-docs/reference/Func/NSFDbCopyTemplateACL)
 ---

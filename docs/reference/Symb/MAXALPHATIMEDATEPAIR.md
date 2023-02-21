@@ -16,6 +16,6 @@ MAXALPHATIMEDATEPAIR is defined as (MAXALPHATIMEDATE *2 + 3).  This includes
 three characters for the space dash space separator(" - ").
 
 **See Also :**
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
 ---

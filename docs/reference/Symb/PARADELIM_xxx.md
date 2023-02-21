@@ -14,5 +14,5 @@ item.  The Notes Workstation application uses this information to correctly
 present the Rich Text body to the user.
 
 **See Also :**
-[ConvertItemToCompositeExt](/reference/Func/ConvertItemToCompositeExt)
+[ConvertItemToCompositeExt](/domino-c-api-docs/reference/Func/ConvertItemToCompositeExt)
 ---

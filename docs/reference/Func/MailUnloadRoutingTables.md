@@ -21,6 +21,6 @@ Output :
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
 ---

@@ -54,6 +54,6 @@ status = OSDArraySetFreeSizes (
 	1024);  /* Allow up to 1k of spare space */
 ```
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[OSDArrayAlloc](/reference/Func/OSDArrayAlloc)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[OSDArrayAlloc](/domino-c-api-docs/reference/Func/OSDArrayAlloc)
 ---

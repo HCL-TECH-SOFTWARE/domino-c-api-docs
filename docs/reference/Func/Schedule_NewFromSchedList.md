@@ -40,8 +40,8 @@ rethSched  -  Returns the HCNTNROBJ of the new schedule
 
 
 **See Also :**
-[Schedule_AddSchedList](/reference/Func/Schedule_AddSchedList)
-[Schedule_ExtractMoreSchedList](/reference/Func/Schedule_ExtractMoreSchedList)
-[Schedule_ExtractSchedList](/reference/Func/Schedule_ExtractSchedList)
-[SCHED_LIST](/reference/Data/SCHED_LIST)
+[Schedule_AddSchedList](/domino-c-api-docs/reference/Func/Schedule_AddSchedList)
+[Schedule_ExtractMoreSchedList](/domino-c-api-docs/reference/Func/Schedule_ExtractMoreSchedList)
+[Schedule_ExtractSchedList](/domino-c-api-docs/reference/Func/Schedule_ExtractSchedList)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
 ---

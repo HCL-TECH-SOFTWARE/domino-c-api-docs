@@ -18,8 +18,8 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDTABLEEND](/reference/Data/CDTABLEEND)
-[CDTABLECELL](/reference/Data/CDTABLECELL)
-[CDTABLE_xxx](/reference/Symb/CDTABLE_xxx)
-[CDPRETABLEBEGIN](/reference/Data/CDPRETABLEBEGIN)
+[CDTABLEEND](/domino-c-api-docs/reference/Data/CDTABLEEND)
+[CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
+[CDTABLE_xxx](/domino-c-api-docs/reference/Symb/CDTABLE_xxx)
+[CDPRETABLEBEGIN](/domino-c-api-docs/reference/Data/CDPRETABLEBEGIN)
 ---

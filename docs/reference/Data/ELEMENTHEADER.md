@@ -20,8 +20,8 @@ BackgroundColor Release 5.0 Backgroun color
 
 
 **See Also :**
-[CDLAYOUTBUTTON](/reference/Data/CDLAYOUTBUTTON)
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
+[CDLAYOUTBUTTON](/domino-c-api-docs/reference/Data/CDLAYOUTBUTTON)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
 ---

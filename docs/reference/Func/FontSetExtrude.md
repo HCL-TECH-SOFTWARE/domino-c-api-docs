@@ -30,8 +30,8 @@ Output :
 
 
 **See Also :**
-[FontClearExtrude](/reference/Func/FontClearExtrude)
-[FontIsExtrude](/reference/Func/FontIsExtrude)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontClearExtrude](/domino-c-api-docs/reference/Func/FontClearExtrude)
+[FontIsExtrude](/domino-c-api-docs/reference/Func/FontIsExtrude)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

@@ -34,6 +34,6 @@ MailAddress  -  Mail address string (null-terminated) up to MAXRECIPIENTNAME+1 i
 
 
 **See Also :**
-[MailLookupUser](/reference/Func/MailLookupUser)
-[MailAddRecipientsItem](/reference/Func/MailAddRecipientsItem)
+[MailLookupUser](/domino-c-api-docs/reference/Func/MailLookupUser)
+[MailAddRecipientsItem](/domino-c-api-docs/reference/Func/MailAddRecipientsItem)
 ---

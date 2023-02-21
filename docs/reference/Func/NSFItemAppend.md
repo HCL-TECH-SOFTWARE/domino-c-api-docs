@@ -103,14 +103,14 @@ ERR_xxx - Errors returned by lower level functions.  Call to OSLoadString to int
 
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemDelete](/reference/Func/NSFItemDelete)
-[NSFItemDeleteByBLOCKID](/reference/Func/NSFItemDeleteByBLOCKID)
-[NSFItemSetNumber](/reference/Func/NSFItemSetNumber)
-[NSFItemSetText](/reference/Func/NSFItemSetText)
-[NSFItemSetTime](/reference/Func/NSFItemSetTime)
-[ODSLength](/reference/Func/ODSLength)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemDelete](/domino-c-api-docs/reference/Func/NSFItemDelete)
+[NSFItemDeleteByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemDeleteByBLOCKID)
+[NSFItemSetNumber](/domino-c-api-docs/reference/Func/NSFItemSetNumber)
+[NSFItemSetText](/domino-c-api-docs/reference/Func/NSFItemSetText)
+[NSFItemSetTime](/domino-c-api-docs/reference/Func/NSFItemSetTime)
+[ODSLength](/domino-c-api-docs/reference/Func/ODSLength)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

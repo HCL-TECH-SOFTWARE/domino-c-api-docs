@@ -9,5 +9,5 @@
 Root part of the mail router mailbox filename ("mail").
 
 **See Also :**
-[MAILBOX_NAME](/reference/Symb/MAILBOX_NAME)
+[MAILBOX_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_NAME)
 ---

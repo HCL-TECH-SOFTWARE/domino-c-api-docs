@@ -38,6 +38,6 @@ Output :
 mCount = ldap_count_messages(ld, res);
 ```
 **See Also :**
-[ldap_first_message](/reference/Func/ldap_first_message)
-[ldap_next_message](/reference/Func/ldap_next_message)
+[ldap_first_message](/domino-c-api-docs/reference/Func/ldap_first_message)
+[ldap_next_message](/domino-c-api-docs/reference/Func/ldap_next_message)
 ---

@@ -19,5 +19,5 @@ of these parameters the flags will affect the collection levels that are used
 in both skip navigation and return navigation of the collection.
 
 **See Also :**
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

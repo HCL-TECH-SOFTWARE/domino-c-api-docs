@@ -36,6 +36,6 @@ NOERROR - action successful
 
 
 **See Also :**
-[SECGETSIGNERINFOPROC](/reference/Data/SECGETSIGNERINFOPROC)
-[SECNABEnumerateCertificates](/reference/Func/SECNABEnumerateCertificates)
+[SECGETSIGNERINFOPROC](/domino-c-api-docs/reference/Data/SECGETSIGNERINFOPROC)
+[SECNABEnumerateCertificates](/domino-c-api-docs/reference/Func/SECNABEnumerateCertificates)
 ---

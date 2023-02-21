@@ -106,7 +106,7 @@ status = NSFDbSetUnreadNoteTable (
 status = IDDestroyTable (hOriginalTable);
 ```
 **See Also :**
-[NSFDbUpdateUnread](/reference/Func/NSFDbUpdateUnread)
-[NSFDbSetUnreadNoteTable](/reference/Func/NSFDbSetUnreadNoteTable)
-[DNCanonicalize](/reference/Func/DNCanonicalize)
+[NSFDbUpdateUnread](/domino-c-api-docs/reference/Func/NSFDbUpdateUnread)
+[NSFDbSetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbSetUnreadNoteTable)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
 ---

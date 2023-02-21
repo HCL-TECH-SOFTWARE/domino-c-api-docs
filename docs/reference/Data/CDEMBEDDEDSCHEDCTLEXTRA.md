@@ -67,6 +67,6 @@ These fields may be followed by optional items. If you plan to use them, you
 will need to declare the variables and assign values to their lengths.
 
 **See Also :**
-[CDEMBEDDEDSCHEDCTL](/reference/Data/CDEMBEDDEDSCHEDCTL)
-[EMBEDDEDSCHEDEXT_FLAG_xxx](/reference/Symb/EMBEDDEDSCHEDEXT_FLAG_xxx)
+[CDEMBEDDEDSCHEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDSCHEDCTL)
+[EMBEDDEDSCHEDEXT_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDSCHEDEXT_FLAG_xxx)
 ---

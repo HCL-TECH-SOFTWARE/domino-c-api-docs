@@ -11,5 +11,5 @@ FormFlags3 members of the CDDOCUMENT data structure. They are used to define
 document-wide attributes.
 
 **See Also :**
-[CDDOCUMENT](/reference/Data/CDDOCUMENT)
+[CDDOCUMENT](/domino-c-api-docs/reference/Data/CDDOCUMENT)
 ---

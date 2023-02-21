@@ -33,6 +33,6 @@ wMessageContentEncoding = MMGetMessageContentEncoding(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetMessageContentEncoding](/reference/Func/MMSetMessageContentEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetMessageContentEncoding](/domino-c-api-docs/reference/Func/MMSetMessageContentEncoding)
 ---

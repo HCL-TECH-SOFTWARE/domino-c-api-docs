@@ -88,11 +88,11 @@ retPrivileges  -  Optional;  if not NULL, receives the privilege mask for this o
     }
 ```
 **See Also :**
-[NSFDbAllocObject](/reference/Func/NSFDbAllocObject)
-[NSFDbFreeObject](/reference/Func/NSFDbFreeObject)
-[NSFDbReadObject](/reference/Func/NSFDbReadObject)
-[NSFDbReallocObject](/reference/Func/NSFDbReallocObject)
-[NSFDbWriteObject](/reference/Func/NSFDbWriteObject)
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
+[NSFDbAllocObject](/domino-c-api-docs/reference/Func/NSFDbAllocObject)
+[NSFDbFreeObject](/domino-c-api-docs/reference/Func/NSFDbFreeObject)
+[NSFDbReadObject](/domino-c-api-docs/reference/Func/NSFDbReadObject)
+[NSFDbReallocObject](/domino-c-api-docs/reference/Func/NSFDbReallocObject)
+[NSFDbWriteObject](/domino-c-api-docs/reference/Func/NSFDbWriteObject)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
 ---

@@ -32,5 +32,5 @@ retTime  -  Time that the item was last updated to the note.
 
 
 **See Also :**
-[NSFItemGetModifiedTime](/reference/Func/NSFItemGetModifiedTime)
+[NSFItemGetModifiedTime](/domino-c-api-docs/reference/Func/NSFItemGetModifiedTime)
 ---

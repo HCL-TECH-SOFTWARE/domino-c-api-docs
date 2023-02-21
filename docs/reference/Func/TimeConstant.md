@@ -26,6 +26,6 @@ tdptr  -  Pointer to the returned TIMEDATE value.
 
 
 **See Also :**
-[TIMEDATE](/reference/Data/TIMEDATE)
-[TIMEDATE_xxx](/reference/Symb/TIMEDATE_xxx)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
+[TIMEDATE_xxx](/domino-c-api-docs/reference/Symb/TIMEDATE_xxx)
 ---

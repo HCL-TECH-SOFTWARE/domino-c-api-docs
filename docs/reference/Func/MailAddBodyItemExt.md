@@ -84,8 +84,8 @@ Close:
 
 ```
 **See Also :**
-[MailAddMessageBodyTextExt](/reference/Func/MailAddMessageBodyTextExt)
-[MailAppendBodyItemLine](/reference/Func/MailAppendBodyItemLine)
-[MailCreateBodyItem](/reference/Func/MailCreateBodyItem)
-[OSMemFree](/reference/Func/OSMemFree)
+[MailAddMessageBodyTextExt](/domino-c-api-docs/reference/Func/MailAddMessageBodyTextExt)
+[MailAppendBodyItemLine](/domino-c-api-docs/reference/Func/MailAppendBodyItemLine)
+[MailCreateBodyItem](/domino-c-api-docs/reference/Func/MailCreateBodyItem)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

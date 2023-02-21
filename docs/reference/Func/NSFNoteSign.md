@@ -47,8 +47,8 @@ ERR_xxx - STATUS returned from a lower level Notes function.  This value can be 
 
 
 **See Also :**
-[NSFNoteSignExt](/reference/Func/NSFNoteSignExt)
-[NSFNoteUnsign](/reference/Func/NSFNoteUnsign)
-[NSFNoteVerifySignature](/reference/Func/NSFNoteVerifySignature)
-[OPEN_xxx (note)](/reference/Symb/OPEN_xxx (note))
+[NSFNoteSignExt](/domino-c-api-docs/reference/Func/NSFNoteSignExt)
+[NSFNoteUnsign](/domino-c-api-docs/reference/Func/NSFNoteUnsign)
+[NSFNoteVerifySignature](/domino-c-api-docs/reference/Func/NSFNoteVerifySignature)
+[OPEN_xxx (note)](/domino-c-api-docs/reference/Symb/OPEN_xxx (note))
 ---

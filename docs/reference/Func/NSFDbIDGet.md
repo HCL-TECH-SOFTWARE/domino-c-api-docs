@@ -33,7 +33,7 @@ NSFDbIDGet(db_handle_src, &database_id_src);
 NSFDbIDGet(db_handle_dst, &database_id_dst);
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
 ---

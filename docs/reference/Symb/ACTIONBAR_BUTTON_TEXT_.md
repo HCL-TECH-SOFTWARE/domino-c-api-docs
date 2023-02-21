@@ -10,5 +10,5 @@ These values for the BtnTextJustify member of CDACTIONBAREXT describe action
 button text justification styles. 
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

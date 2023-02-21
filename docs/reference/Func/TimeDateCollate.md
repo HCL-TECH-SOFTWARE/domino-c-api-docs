@@ -29,9 +29,9 @@ Output :
 
 
 **See Also :**
-[TimeDateCompare](/reference/Func/TimeDateCompare)
-[TIMEDATE](/reference/Data/TIMEDATE)
-[TimeDateDifference](/reference/Func/TimeDateDifference)
-[TimeDateEqual](/reference/Func/TimeDateEqual)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
+[TimeDateCompare](/domino-c-api-docs/reference/Func/TimeDateCompare)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
+[TimeDateDifference](/domino-c-api-docs/reference/Func/TimeDateDifference)
+[TimeDateEqual](/domino-c-api-docs/reference/Func/TimeDateEqual)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
 ---

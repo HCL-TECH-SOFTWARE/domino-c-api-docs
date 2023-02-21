@@ -33,5 +33,5 @@ ERR_xxx - Error returned by lower level functions. Call OSLoadString to interpre
 
 
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
 ---

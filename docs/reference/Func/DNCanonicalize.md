@@ -55,6 +55,6 @@ WORD retLen;
                            MAXUSERNAME, &retLen);     
 ```
 **See Also :**
-[DNAbbreviate](/reference/Func/DNAbbreviate)
-[DNParse](/reference/Func/DNParse)
+[DNAbbreviate](/domino-c-api-docs/reference/Func/DNAbbreviate)
+[DNParse](/domino-c-api-docs/reference/Func/DNParse)
 ---

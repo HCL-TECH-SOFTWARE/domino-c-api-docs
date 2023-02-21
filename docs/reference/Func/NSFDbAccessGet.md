@@ -28,6 +28,6 @@ retAccessFlag  -  Modifier flags (as in ACL_FLAG_xxx) for the user's database ac
 
 
 **See Also :**
-[ACL_FLAG_xxx](/reference/Symb/ACL_FLAG_xxx)
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
+[ACL_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACL_FLAG_xxx)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
 ---

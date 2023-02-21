@@ -11,5 +11,5 @@ CompoundText paragraphs and text.  It is similar to the CDPABDEFINITION
 structure.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

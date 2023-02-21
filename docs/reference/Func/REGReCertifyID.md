@@ -54,5 +54,5 @@ ErrorPathName  -  (Optional).  Pathname of file where file system error occurred
 
 
 **See Also :**
-[REGSIGNALPROC](/reference/Data/REGSIGNALPROC)
+[REGSIGNALPROC](/domino-c-api-docs/reference/Data/REGSIGNALPROC)
 ---

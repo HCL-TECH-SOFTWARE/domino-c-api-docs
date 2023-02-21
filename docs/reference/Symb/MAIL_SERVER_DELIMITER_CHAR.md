@@ -11,5 +11,5 @@ example, xxx @ LOTUS:QASERVER, where LOTUS is the name of the domain and
 QASERVER is the name of the server).
 
 **See Also :**
-[MAIL_DOMAIN_DELIMITER_xxx](/reference/Symb/MAIL_DOMAIN_DELIMITER_xxx)
+[MAIL_DOMAIN_DELIMITER_xxx](/domino-c-api-docs/reference/Symb/MAIL_DOMAIN_DELIMITER_xxx)
 ---

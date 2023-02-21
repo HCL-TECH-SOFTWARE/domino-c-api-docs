@@ -10,5 +10,5 @@ A NUMBER_PAIR is typically used for the lower and upper bounds of a range of
 values.
 
 **See Also :**
-[NUMBER](/reference/Data/NUMBER)
+[NUMBER](/domino-c-api-docs/reference/Data/NUMBER)
 ---

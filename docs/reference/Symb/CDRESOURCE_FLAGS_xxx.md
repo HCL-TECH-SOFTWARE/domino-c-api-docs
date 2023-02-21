@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDRESOURCE](/reference/Data/CDRESOURCE)
+[CDRESOURCE](/domino-c-api-docs/reference/Data/CDRESOURCE)
 ---

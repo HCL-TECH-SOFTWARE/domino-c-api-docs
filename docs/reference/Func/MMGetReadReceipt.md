@@ -31,6 +31,6 @@ wReadReceipt = MMGetReadReceipt(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetReadReceipt](/reference/Func/MMSetReadReceipt)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetReadReceipt](/domino-c-api-docs/reference/Func/MMSetReadReceipt)
 ---

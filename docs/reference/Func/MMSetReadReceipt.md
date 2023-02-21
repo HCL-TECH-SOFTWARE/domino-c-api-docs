@@ -36,6 +36,6 @@ when exporting) */
 
 ```
 **See Also :**
-[MMGetReadReceipt](/reference/Func/MMGetReadReceipt)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetReadReceipt](/domino-c-api-docs/reference/Func/MMGetReadReceipt)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

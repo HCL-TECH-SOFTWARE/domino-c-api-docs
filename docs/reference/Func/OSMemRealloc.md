@@ -39,12 +39,12 @@ ERR_SEGMENT_TOO_BIG - Requested size is greater than the maximum supported (60K)
 
 
 **See Also :**
-[MEM_xxx](/reference/Symb/MEM_xxx)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemFree](/reference/Func/OSMemFree)
-[OSMemGetSize](/reference/Func/OSMemGetSize)
-[OSMemoryAllocate](/reference/Func/OSMemoryAllocate)
-[OSMemoryReallocate](/reference/Func/OSMemoryReallocate)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[MEM_xxx](/domino-c-api-docs/reference/Symb/MEM_xxx)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[OSMemGetSize](/domino-c-api-docs/reference/Func/OSMemGetSize)
+[OSMemoryAllocate](/domino-c-api-docs/reference/Func/OSMemoryAllocate)
+[OSMemoryReallocate](/domino-c-api-docs/reference/Func/OSMemoryReallocate)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

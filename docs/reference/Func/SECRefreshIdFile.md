@@ -44,8 +44,8 @@ retFlags  -  Return flags indicating what has changed.  See SEC_refreshed_xxx.
 
 
 **See Also :**
-[SECAttachIdFileToDB](/reference/Func/SECAttachIdFileToDB)
-[SECKFMClose](/reference/Func/SECKFMClose)
-[SECKFMOpen](/reference/Func/SECKFMOpen)
-[SEC_refreshed_xxx](/reference/Symb/SEC_refreshed_xxx)
+[SECAttachIdFileToDB](/domino-c-api-docs/reference/Func/SECAttachIdFileToDB)
+[SECKFMClose](/domino-c-api-docs/reference/Func/SECKFMClose)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
+[SEC_refreshed_xxx](/domino-c-api-docs/reference/Symb/SEC_refreshed_xxx)
 ---

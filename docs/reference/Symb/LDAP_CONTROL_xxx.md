@@ -9,5 +9,5 @@
 LDAP control types.  See LDAPControl.
 
 **See Also :**
-[LDAPControl](/reference/Data/LDAPControl)
+[LDAPControl](/domino-c-api-docs/reference/Data/LDAPControl)
 ---

@@ -39,7 +39,7 @@ Position  -  If desired, a caller provided ACTIVITYSTREAMPOSITION structure will
 
 
 **See Also :**
-[ACTIVITYSTREAMACTION](/reference/Data/ACTIVITYSTREAMACTION)
-[ACTIVITYSTREAMPOSITION](/reference/Data/ACTIVITYSTREAMPOSITION)
-[LogOpenActivityStream](/reference/Func/LogOpenActivityStream)
+[ACTIVITYSTREAMACTION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMACTION)
+[ACTIVITYSTREAMPOSITION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMPOSITION)
+[LogOpenActivityStream](/domino-c-api-docs/reference/Func/LogOpenActivityStream)
 ---

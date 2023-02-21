@@ -21,5 +21,5 @@ Output :
 
 
 **See Also :**
-[AgentOpen](/reference/Func/AgentOpen)
+[AgentOpen](/domino-c-api-docs/reference/Func/AgentOpen)
 ---

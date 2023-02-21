@@ -22,7 +22,7 @@ Output :
 
 
 **See Also :**
-[DirCollectionFirstEntry](/reference/Func/DirCollectionFirstEntry)
-[DirCollectionNextEntry](/reference/Func/DirCollectionNextEntry)
-[DirCollectionNthEntry](/reference/Func/DirCollectionNthEntry)
+[DirCollectionFirstEntry](/domino-c-api-docs/reference/Func/DirCollectionFirstEntry)
+[DirCollectionNextEntry](/domino-c-api-docs/reference/Func/DirCollectionNextEntry)
+[DirCollectionNthEntry](/domino-c-api-docs/reference/Func/DirCollectionNthEntry)
 ---

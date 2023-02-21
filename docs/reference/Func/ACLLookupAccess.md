@@ -47,8 +47,8 @@ rethPrivNames  -  Pointer to a handle to a text list which contains the privileg
 
 
 **See Also :**
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACL_FLAG_xxx](/reference/Symb/ACL_FLAG_xxx)
-[NAMES_LIST](/reference/Data/NAMES_LIST)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACL_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACL_FLAG_xxx)
+[NAMES_LIST](/domino-c-api-docs/reference/Data/NAMES_LIST)
 ---

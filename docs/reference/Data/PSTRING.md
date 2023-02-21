@@ -22,8 +22,8 @@ the packed string store for that dynamic array.  (The original member structure
 is not modified.)
 
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[OSDArrayAddElement](/reference/Func/OSDArrayAddElement)
-[OSDArray](/reference/Func/OSDArray)
-[OSDArrayRemoveElement](/reference/Func/OSDArrayRemoveElement)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[OSDArrayAddElement](/domino-c-api-docs/reference/Func/OSDArrayAddElement)
+[OSDArray](/domino-c-api-docs/reference/Func/OSDArray)
+[OSDArrayRemoveElement](/domino-c-api-docs/reference/Func/OSDArrayRemoveElement)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NIFFindDesignNoteExt](/reference/Func/NIFFindDesignNoteExt)
+[NIFFindDesignNoteExt](/domino-c-api-docs/reference/Func/NIFFindDesignNoteExt)
 ---

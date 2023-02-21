@@ -15,5 +15,5 @@ MIME_PART_RETRIEVE_INFO - Mime part type is retrieve information.
 MIME_PART_MESSAGE  - Mime part type is a message.
 
 **See Also :**
-[MIME_PART](/reference/Data/MIME_PART)
+[MIME_PART](/domino-c-api-docs/reference/Data/MIME_PART)
 ---

@@ -40,7 +40,7 @@ hRecipsExpanded  -  The updated text list that reflects any new expansions.  Use
 
 
 **See Also :**
-[MailAddRecipientsItem](/reference/Func/MailAddRecipientsItem)
-[MailDeleteMessageRecipient](/reference/Func/MailDeleteMessageRecipient)
-[MailGetMessageRecipient](/reference/Func/MailGetMessageRecipient)
+[MailAddRecipientsItem](/domino-c-api-docs/reference/Func/MailAddRecipientsItem)
+[MailDeleteMessageRecipient](/domino-c-api-docs/reference/Func/MailDeleteMessageRecipient)
+[MailGetMessageRecipient](/domino-c-api-docs/reference/Func/MailGetMessageRecipient)
 ---

@@ -27,5 +27,5 @@ ServerName  -  The null-terminated name of the admin server is placed at this ad
 
 
 **See Also :**
-[ACLSetAdminServer](/reference/Func/ACLSetAdminServer)
+[ACLSetAdminServer](/domino-c-api-docs/reference/Func/ACLSetAdminServer)
 ---

@@ -20,7 +20,7 @@ if (CalendarFormat.MinorVersion < VIEW_CAL_FORMAT_MINOR_2)
 
 ```
 **See Also :**
-[VIEW_CALENDAR_FORMAT](/reference/Data/VIEW_CALENDAR_FORMAT)
-[VIEW_CAL_FORMAT_MINOR_xxx](/reference/Symb/VIEW_CAL_FORMAT_MINOR_xxx)
-[VIEW_CAL_FORMAT_xxx](/reference/Symb/VIEW_CAL_FORMAT_xxx)
+[VIEW_CALENDAR_FORMAT](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT)
+[VIEW_CAL_FORMAT_MINOR_xxx](/domino-c-api-docs/reference/Symb/VIEW_CAL_FORMAT_MINOR_xxx)
+[VIEW_CAL_FORMAT_xxx](/domino-c-api-docs/reference/Symb/VIEW_CAL_FORMAT_xxx)
 ---

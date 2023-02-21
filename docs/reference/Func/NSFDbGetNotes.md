@@ -65,10 +65,10 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 
 **See Also :**
-[GETNOTES_xxx](/reference/Symb/GETNOTES_xxx)
-[NSFFOLDERADDCALLBACK](/reference/Data/NSFFOLDERADDCALLBACK)
-[NSFGETNOTESCALLBACK](/reference/Data/NSFGETNOTESCALLBACK)
-[NSFNOTEOPENCALLBACK](/reference/Data/NSFNOTEOPENCALLBACK)
-[NSFOBJECTALLOCCALLBACK](/reference/Data/NSFOBJECTALLOCCALLBACK)
-[NSFOBJECTWRITECALLBACK](/reference/Data/NSFOBJECTWRITECALLBACK)
+[GETNOTES_xxx](/domino-c-api-docs/reference/Symb/GETNOTES_xxx)
+[NSFFOLDERADDCALLBACK](/domino-c-api-docs/reference/Data/NSFFOLDERADDCALLBACK)
+[NSFGETNOTESCALLBACK](/domino-c-api-docs/reference/Data/NSFGETNOTESCALLBACK)
+[NSFNOTEOPENCALLBACK](/domino-c-api-docs/reference/Data/NSFNOTEOPENCALLBACK)
+[NSFOBJECTALLOCCALLBACK](/domino-c-api-docs/reference/Data/NSFOBJECTALLOCCALLBACK)
+[NSFOBJECTWRITECALLBACK](/domino-c-api-docs/reference/Data/NSFOBJECTWRITECALLBACK)
 ---

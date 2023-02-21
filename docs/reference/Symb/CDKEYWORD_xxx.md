@@ -9,5 +9,5 @@
 Bit flags and fields stored in the Flags field of the CDKEYWORD record.
 
 **See Also :**
-[CDKEYWORD](/reference/Data/CDKEYWORD)
+[CDKEYWORD](/domino-c-api-docs/reference/Data/CDKEYWORD)
 ---

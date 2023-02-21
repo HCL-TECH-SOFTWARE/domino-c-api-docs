@@ -31,5 +31,5 @@ MessageSize  -  Size of message in bytes.
 
 
 **See Also :**
-[MailGetMessageInfo](/reference/Func/MailGetMessageInfo)
+[MailGetMessageInfo](/domino-c-api-docs/reference/Func/MailGetMessageInfo)
 ---

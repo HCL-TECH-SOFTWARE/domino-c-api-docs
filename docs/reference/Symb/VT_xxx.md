@@ -9,5 +9,5 @@
 These values specify the value types of a statistic.
 
 **See Also :**
-[StatTraverse](/reference/Func/StatTraverse)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
 ---

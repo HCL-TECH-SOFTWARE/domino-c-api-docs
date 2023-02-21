@@ -56,7 +56,7 @@ sError = NSFItemAppend( hNote,
                         (DWORD)wViewFormatBufLen );
 ```
 **See Also :**
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
-[VIEW_TABLE_FORMAT](/reference/Data/VIEW_TABLE_FORMAT)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
+[VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
 ---

@@ -25,9 +25,9 @@ defined with CDBPOINT.
 
 
 **See Also :**
-[AREA_SHAPE_xxx](/reference/Symb/AREA_SHAPE_xxx)
-[CDAREAELEMENT_VERSIONxxx](/reference/Symb/CDAREAELEMENT_VERSIONxxx)
-[CDMAPELEMENT](/reference/Data/CDMAPELEMENT)
-[CDPOINT](/reference/Data/CDPOINT)
-[CDRECT](/reference/Data/CDRECT)
+[AREA_SHAPE_xxx](/domino-c-api-docs/reference/Symb/AREA_SHAPE_xxx)
+[CDAREAELEMENT_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDAREAELEMENT_VERSIONxxx)
+[CDMAPELEMENT](/domino-c-api-docs/reference/Data/CDMAPELEMENT)
+[CDPOINT](/domino-c-api-docs/reference/Data/CDPOINT)
+[CDRECT](/domino-c-api-docs/reference/Data/CDRECT)
 ---

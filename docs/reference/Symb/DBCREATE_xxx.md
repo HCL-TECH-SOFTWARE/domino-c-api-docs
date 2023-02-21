@@ -9,5 +9,5 @@
 Database creation options.
 
 **See Also :**
-[NSFDbCreateExtended](/reference/Func/NSFDbCreateExtended)
+[NSFDbCreateExtended](/domino-c-api-docs/reference/Func/NSFDbCreateExtended)
 ---

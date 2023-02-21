@@ -42,8 +42,8 @@ optionValue  -  The address of a place to put the value of the option. The actua
 
 
 **See Also :**
-[ldap_controls_free](/reference/Func/ldap_controls_free)
-[ldap_memfree](/reference/Func/ldap_memfree)
-[ldap_set_option](/reference/Func/ldap_set_option)
-[LDAP_xxx_INFO_VERSION](/reference/Symb/LDAP_xxx_INFO_VERSION)
+[ldap_controls_free](/domino-c-api-docs/reference/Func/ldap_controls_free)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
+[ldap_set_option](/domino-c-api-docs/reference/Func/ldap_set_option)
+[LDAP_xxx_INFO_VERSION](/domino-c-api-docs/reference/Symb/LDAP_xxx_INFO_VERSION)
 ---

@@ -44,5 +44,5 @@ for (count = 0; count < 1048576; count++) /* Poor night's sleep */;
    hExpFile = OpenFile( FileName, &ExpOfStruct, OF_CREATE);
 ```
 **See Also :**
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
 ---

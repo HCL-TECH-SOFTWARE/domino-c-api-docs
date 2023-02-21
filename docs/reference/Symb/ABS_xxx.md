@@ -41,5 +41,5 @@ return (Abstract (commandString, pInput, bufSize, pOutput,
 
 ```
 **See Also :**
-[Abstract](/reference/Func/Abstract)
+[Abstract](/domino-c-api-docs/reference/Func/Abstract)
 ---

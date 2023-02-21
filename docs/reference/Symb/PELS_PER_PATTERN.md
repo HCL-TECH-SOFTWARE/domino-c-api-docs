@@ -11,5 +11,5 @@ A pattern table is a fixed-size color table used for patterns by CDBITMAPHEADER
 (PELS_PER_PATTERN) packed colors (3 bytes per color).
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
 ---

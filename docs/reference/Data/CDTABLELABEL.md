@@ -15,5 +15,5 @@ WORD Reserved[3]
 WORD Flags  see CDTABLELABEL_xxx
 
 **See Also :**
-[CDTABLELABEL_xxx](/reference/Symb/CDTABLELABEL_xxx)
+[CDTABLELABEL_xxx](/domino-c-api-docs/reference/Symb/CDTABLELABEL_xxx)
 ---

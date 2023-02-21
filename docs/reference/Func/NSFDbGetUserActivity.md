@@ -128,7 +128,7 @@ retUserCount  -  Pointer to the returned number of database activity entries (DB
 /* close the database when done. */
 ```
 **See Also :**
-[DBACTIVITY](/reference/Data/DBACTIVITY)
-[DBACTIVITY_ENTRY](/reference/Data/DBACTIVITY_ENTRY)
-[NSFDbGetActivityUserNamePtr](/reference/Func/NSFDbGetActivityUserNamePtr)
+[DBACTIVITY](/domino-c-api-docs/reference/Data/DBACTIVITY)
+[DBACTIVITY_ENTRY](/domino-c-api-docs/reference/Data/DBACTIVITY_ENTRY)
+[NSFDbGetActivityUserNamePtr](/domino-c-api-docs/reference/Func/NSFDbGetActivityUserNamePtr)
 ---

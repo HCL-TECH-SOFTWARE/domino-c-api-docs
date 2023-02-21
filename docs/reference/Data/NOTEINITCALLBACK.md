@@ -17,5 +17,5 @@ other initializations needed to accept a document and its attachment data.
 non-zero error status will stop all processing. 
 
 **See Also :**
-[ArchiveExportDatabase](/reference/Func/ArchiveExportDatabase)
+[ArchiveExportDatabase](/domino-c-api-docs/reference/Func/ArchiveExportDatabase)
 ---

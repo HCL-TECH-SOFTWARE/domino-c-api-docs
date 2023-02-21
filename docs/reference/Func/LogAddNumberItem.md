@@ -43,9 +43,9 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
        goto Exit;
 ```
 **See Also :**
-[LogCreateEntry](/reference/Func/LogCreateEntry)
-[LogAddText](/reference/Func/LogAddText)
-[LogAddTextlistItem](/reference/Func/LogAddTextlistItem)
-[LogAddTimeItem](/reference/Func/LogAddTimeItem)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
+[LogAddText](/domino-c-api-docs/reference/Func/LogAddText)
+[LogAddTextlistItem](/domino-c-api-docs/reference/Func/LogAddTextlistItem)
+[LogAddTimeItem](/domino-c-api-docs/reference/Func/LogAddTimeItem)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
 ---

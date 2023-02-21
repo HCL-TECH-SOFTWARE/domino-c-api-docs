@@ -9,5 +9,5 @@
 #define NULLMEMHANDLE (MEMHANDLE) 0
 
 **See Also :**
-[MEMHANDLE](/reference/Data/MEMHANDLE)
+[MEMHANDLE](/domino-c-api-docs/reference/Data/MEMHANDLE)
 ---

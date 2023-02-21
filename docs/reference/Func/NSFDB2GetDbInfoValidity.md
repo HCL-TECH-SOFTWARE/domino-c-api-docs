@@ -63,8 +63,8 @@ tsMismatch  -  True if the table space actually containing Schema.NSFNOTE differ
 
 
 **See Also :**
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
-[NSFDB2GetServerInfo](/reference/Func/NSFDB2GetServerInfo)
-[NSFDB2ListNSFDB2Databases](/reference/Func/NSFDB2ListNSFDB2Databases)
-[NSFDB2ReconnectNotesDatabase](/reference/Func/NSFDB2ReconnectNotesDatabase)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
+[NSFDB2GetServerInfo](/domino-c-api-docs/reference/Func/NSFDB2GetServerInfo)
+[NSFDB2ListNSFDB2Databases](/domino-c-api-docs/reference/Func/NSFDB2ListNSFDB2Databases)
+[NSFDB2ReconnectNotesDatabase](/domino-c-api-docs/reference/Func/NSFDB2ReconnectNotesDatabase)
 ---

@@ -9,7 +9,7 @@
 Data structure for a schedule.
 
 **See Also :**
-[SchContainer_GetFirstSchedule](/reference/Func/SchContainer_GetFirstSchedule)
-[SchContainer_GetNextSchedule](/reference/Func/SchContainer_GetNextSchedule)
-[SchContainer_FindSchedule](/reference/Func/SchContainer_FindSchedule)
+[SchContainer_GetFirstSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetFirstSchedule)
+[SchContainer_GetNextSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetNextSchedule)
+[SchContainer_FindSchedule](/domino-c-api-docs/reference/Func/SchContainer_FindSchedule)
 ---

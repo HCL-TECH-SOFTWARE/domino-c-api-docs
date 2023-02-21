@@ -42,8 +42,8 @@ Output :
 
 
 **See Also :**
-[ldap_modify](/reference/Func/ldap_modify)
-[LDAP_MOD_xxx](/reference/Symb/LDAP_MOD_xxx)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
-[mod_xxx](/reference/Symb/mod_xxx)
+[ldap_modify](/domino-c-api-docs/reference/Func/ldap_modify)
+[LDAP_MOD_xxx](/domino-c-api-docs/reference/Symb/LDAP_MOD_xxx)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
+[mod_xxx](/domino-c-api-docs/reference/Symb/mod_xxx)
 ---

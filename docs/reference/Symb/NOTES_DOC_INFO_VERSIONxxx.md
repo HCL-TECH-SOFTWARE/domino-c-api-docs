@@ -10,5 +10,5 @@ This symbol is used to define which version of the NOTES_DOC_INFO_MSG data
 structure is in use. Currently there is only one version of the structure.
 
 **See Also :**
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
 ---

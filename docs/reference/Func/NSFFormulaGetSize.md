@@ -32,5 +32,5 @@ ERR_xxx - STATUS returned from a lower level Notes function called in the action
  
 ```
 **See Also :**
-[NSFFormulaMerge](/reference/Func/NSFFormulaMerge)
+[NSFFormulaMerge](/domino-c-api-docs/reference/Func/NSFFormulaMerge)
 ---

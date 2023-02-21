@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[NSFDbNoteLock](/reference/Func/NSFDbNoteLock)
-[NSFDbNoteUnlock](/reference/Func/NSFDbNoteUnlock)
-[NSFNoteOpenWithLock](/reference/Func/NSFNoteOpenWithLock)
+[NSFDbNoteLock](/domino-c-api-docs/reference/Func/NSFDbNoteLock)
+[NSFDbNoteUnlock](/domino-c-api-docs/reference/Func/NSFDbNoteUnlock)
+[NSFNoteOpenWithLock](/domino-c-api-docs/reference/Func/NSFNoteOpenWithLock)
 ---

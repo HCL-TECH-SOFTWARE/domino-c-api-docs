@@ -19,7 +19,7 @@ hAgentCtx  -  Handle to the Agent run-time context.
 
 
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[AgentRun](/reference/Func/AgentRun)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

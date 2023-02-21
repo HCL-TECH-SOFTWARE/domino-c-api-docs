@@ -15,5 +15,5 @@ callback routine.
  Reserved2            - (I) reserved, should be ignored
 
 **See Also :**
-[SECGetSignerInfoFromMail](/reference/Func/SECGetSignerInfoFromMail)
+[SECGetSignerInfoFromMail](/domino-c-api-docs/reference/Func/SECGetSignerInfoFromMail)
 ---

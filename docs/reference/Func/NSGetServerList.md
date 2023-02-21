@@ -72,5 +72,5 @@ OSUnlockObject (hServerList);
 OSMemFree (hServerList);
 ```
 **See Also :**
-[OSGetEnvironmentString](/reference/Func/OSGetEnvironmentString)
+[OSGetEnvironmentString](/domino-c-api-docs/reference/Func/OSGetEnvironmentString)
 ---

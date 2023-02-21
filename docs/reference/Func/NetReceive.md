@@ -45,8 +45,8 @@ retSize  -  Pointer to returned buffer size.  It is set to number of bytes recei
 
 
 **See Also :**
-[NetLink](/reference/Func/NetLink)
-[NetSetSessionMode](/reference/Func/NetSetSessionMode)
-[NetSend](/reference/Func/NetSend)
-[NetCloseSession](/reference/Func/NetCloseSession)
+[NetLink](/domino-c-api-docs/reference/Func/NetLink)
+[NetSetSessionMode](/domino-c-api-docs/reference/Func/NetSetSessionMode)
+[NetSend](/domino-c-api-docs/reference/Func/NetSend)
+[NetCloseSession](/domino-c-api-docs/reference/Func/NetCloseSession)
 ---

@@ -51,13 +51,13 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 ```
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDDelete](/reference/Func/IDDelete)
-[IDEntries](/reference/Func/IDEntries)
-[IDEnumerate](/reference/Func/IDEnumerate)
-[IDInsert](/reference/Func/IDInsert)
-[IDIsPresent](/reference/Func/IDIsPresent)
-[IDScan](/reference/Func/IDScan)
-[IDTableCopy](/reference/Func/IDTableCopy)
-[IDTableSize](/reference/Func/IDTableSize)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDDelete](/domino-c-api-docs/reference/Func/IDDelete)
+[IDEntries](/domino-c-api-docs/reference/Func/IDEntries)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
+[IDIsPresent](/domino-c-api-docs/reference/Func/IDIsPresent)
+[IDScan](/domino-c-api-docs/reference/Func/IDScan)
+[IDTableCopy](/domino-c-api-docs/reference/Func/IDTableCopy)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
 ---

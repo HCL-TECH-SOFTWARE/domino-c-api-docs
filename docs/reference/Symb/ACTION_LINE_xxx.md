@@ -11,6 +11,6 @@ of the above.  If the BorderStyle member is set to ACTION_BORDER_NONE
 LineStyle is ignored.
 
 **See Also :**
-[CDACTIONBAR](/reference/Data/CDACTIONBAR)
-[ACTION_BORDER_xxx](/reference/Symb/ACTION_BORDER_xxx)
+[CDACTIONBAR](/domino-c-api-docs/reference/Data/CDACTIONBAR)
+[ACTION_BORDER_xxx](/domino-c-api-docs/reference/Symb/ACTION_BORDER_xxx)
 ---

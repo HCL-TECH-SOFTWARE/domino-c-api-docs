@@ -56,8 +56,8 @@ if (error = NSFDbCreate (output_path, DBCLASS_NOTEFILE, FALSE))
 }
 ```
 **See Also :**
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[DBCLASS_xxx](/reference/Symb/DBCLASS_xxx)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[DBCLASS_xxx](/domino-c-api-docs/reference/Symb/DBCLASS_xxx)
 ---

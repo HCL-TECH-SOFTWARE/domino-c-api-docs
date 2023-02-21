@@ -9,6 +9,6 @@
 Possible values for the Authenticated member of the NAMES_LIST structure.
 
 **See Also :**
-[NAMES_LIST](/reference/Data/NAMES_LIST)
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
+[NAMES_LIST](/domino-c-api-docs/reference/Data/NAMES_LIST)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
 ---

@@ -33,7 +33,7 @@ retPropValue  -  the current set value of the Export Property
 
 
 **See Also :**
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
-[DXLSetExporterProperty](/reference/Func/DXLSetExporterProperty)
-[DXL_EXPORT_PROPERTY](/reference/Data/DXL_EXPORT_PROPERTY)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
+[DXLSetExporterProperty](/domino-c-api-docs/reference/Func/DXLSetExporterProperty)
+[DXL_EXPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_EXPORT_PROPERTY)
 ---

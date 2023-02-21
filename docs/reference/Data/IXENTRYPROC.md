@@ -106,8 +106,8 @@ Done:
 
 ```
 **See Also :**
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[EDITIMPORTDATA](/reference/Data/EDITIMPORTDATA)
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
-[IXFLAG_xxx](/reference/Symb/IXFLAG_xxx)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[EDITIMPORTDATA](/domino-c-api-docs/reference/Data/EDITIMPORTDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
+[IXFLAG_xxx](/domino-c-api-docs/reference/Symb/IXFLAG_xxx)
 ---

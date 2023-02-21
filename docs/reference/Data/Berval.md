@@ -20,6 +20,6 @@ bv_val     The pointer to the binary data. This member is not null terminated.
 The Berval structure should be disposed of using ber_bvfree().
 
 **See Also :**
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ber_len_t](/reference/Data/ber_len_t)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
 ---

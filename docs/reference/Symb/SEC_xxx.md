@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[SECHashPassword3](/reference/Func/SECHashPassword3)
+[SECHashPassword3](/domino-c-api-docs/reference/Func/SECHashPassword3)
 ---

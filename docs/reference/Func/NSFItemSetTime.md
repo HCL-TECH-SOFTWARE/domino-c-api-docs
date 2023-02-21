@@ -64,9 +64,9 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 ```
 **See Also :**
-[NSFItemGetTime](/reference/Func/NSFItemGetTime)
-[NSFItemTimeCompare](/reference/Func/NSFItemTimeCompare)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
+[NSFItemGetTime](/domino-c-api-docs/reference/Func/NSFItemGetTime)
+[NSFItemTimeCompare](/domino-c-api-docs/reference/Func/NSFItemTimeCompare)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
 ---

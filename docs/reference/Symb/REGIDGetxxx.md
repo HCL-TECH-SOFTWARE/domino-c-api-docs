@@ -16,5 +16,5 @@ Flat IDs do not distinguish between users and certifiers, so the Certifier flag
 will always be FALSE if the Hierarchical flag is FALSE.
 
 **See Also :**
-[REGGetIDInfo](/reference/Func/REGGetIDInfo)
+[REGGetIDInfo](/domino-c-api-docs/reference/Func/REGGetIDInfo)
 ---

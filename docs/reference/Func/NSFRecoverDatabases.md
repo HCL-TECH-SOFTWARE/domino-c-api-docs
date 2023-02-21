@@ -104,6 +104,6 @@ NULL, NoteCallback, 0);
    }
 ```
 **See Also :**
-[DBRECOVER_xxx](/reference/Symb/DBRECOVER_xxx)
-[LOGRESTORECALLBACKFUNCTION](/reference/Data/LOGRESTORECALLBACKFUNCTION)
+[DBRECOVER_xxx](/domino-c-api-docs/reference/Symb/DBRECOVER_xxx)
+[LOGRESTORECALLBACKFUNCTION](/domino-c-api-docs/reference/Data/LOGRESTORECALLBACKFUNCTION)
 ---

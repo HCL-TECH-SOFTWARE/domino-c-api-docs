@@ -9,6 +9,6 @@
 Flags for CDEMBEDDEDSCHEDCTL.
 
 **See Also :**
-[CDEMBEDDEDSCHEDCTL](/reference/Data/CDEMBEDDEDSCHEDCTL)
-[CDPLACEHOLDER](/reference/Data/CDPLACEHOLDER)
+[CDEMBEDDEDSCHEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDSCHEDCTL)
+[CDPLACEHOLDER](/domino-c-api-docs/reference/Data/CDPLACEHOLDER)
 ---

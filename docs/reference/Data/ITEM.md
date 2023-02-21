@@ -78,8 +78,8 @@ for (i=0; i < ItemCount; i++)
     }
 ```
 **See Also :**
-[ITEM_TABLE](/reference/Data/ITEM_TABLE)
-[NSFSearch](/reference/Func/NSFSearch)
-[NSFItemScan](/reference/Func/NSFItemScan)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

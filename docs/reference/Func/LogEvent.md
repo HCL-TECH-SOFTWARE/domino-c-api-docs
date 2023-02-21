@@ -75,9 +75,9 @@ if (error_status = LogEvent(MSG_SMKADDN_SHUTDOWN,
    goto Exit;
 ```
 **See Also :**
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[LogCloseEntry](/reference/Func/LogCloseEntry)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
-[LogCreateEntry](/reference/Func/LogCreateEntry)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[LogCloseEntry](/domino-c-api-docs/reference/Func/LogCloseEntry)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
 ---

@@ -40,10 +40,10 @@ Output :
 
 ```
 **See Also :**
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
-[NSFItemScan](/reference/Func/NSFItemScan)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

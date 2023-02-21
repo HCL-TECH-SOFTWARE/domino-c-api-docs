@@ -66,5 +66,5 @@ if (Error = NSFProfileEnum( hDB, MAIL_CALENDAR_PROFILE_FORM,
 }
 ```
 **See Also :**
-[NSFPROFILEENUMPROC](/reference/Data/NSFPROFILEENUMPROC)
+[NSFPROFILEENUMPROC](/domino-c-api-docs/reference/Data/NSFPROFILEENUMPROC)
 ---

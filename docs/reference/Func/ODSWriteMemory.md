@@ -154,9 +154,9 @@ COLLATE_DESCRIPTOR  CollateDesc2;
     OSMemFree( hCollationBuffer );
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[ODSLength](/reference/Func/ODSLength)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[ODSLength](/domino-c-api-docs/reference/Func/ODSLength)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
 ---

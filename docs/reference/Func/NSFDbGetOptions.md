@@ -32,6 +32,6 @@ retDbOptions  -  Option flags for this database are stored at this address.
 
 
 **See Also :**
-[NSFDbSetOptions](/reference/Func/NSFDbSetOptions)
-[DBOPTION_xxx](/reference/Symb/DBOPTION_xxx)
+[NSFDbSetOptions](/domino-c-api-docs/reference/Func/NSFDbSetOptions)
+[DBOPTION_xxx](/domino-c-api-docs/reference/Symb/DBOPTION_xxx)
 ---

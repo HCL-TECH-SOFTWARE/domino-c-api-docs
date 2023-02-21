@@ -53,7 +53,7 @@ Buffer  -  Pointer to the buffer containing the new information.  The buffer mus
 
 
 **See Also :**
-[INFOPARSE_xxx](/reference/Symb/INFOPARSE_xxx)
-[NSFDbInfoGet](/reference/Func/NSFDbInfoGet)
-[NSFDbInfoSet](/reference/Func/NSFDbInfoSet)
+[INFOPARSE_xxx](/domino-c-api-docs/reference/Symb/INFOPARSE_xxx)
+[NSFDbInfoGet](/domino-c-api-docs/reference/Func/NSFDbInfoGet)
+[NSFDbInfoSet](/domino-c-api-docs/reference/Func/NSFDbInfoSet)
 ---

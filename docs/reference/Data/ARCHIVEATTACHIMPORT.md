@@ -19,5 +19,5 @@ name.
 	 NOERROR return status means that it is successful.
 
 **See Also :**
-[ArchiveRestoreDocument](/reference/Func/ArchiveRestoreDocument)
+[ArchiveRestoreDocument](/domino-c-api-docs/reference/Func/ArchiveRestoreDocument)
 ---

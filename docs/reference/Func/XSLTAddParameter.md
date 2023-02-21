@@ -32,7 +32,7 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[XSLTCreateTransform](/reference/Func/XSLTCreateTransform)
-[XSLTRANSFORMHANDLE](/reference/Data/XSLTRANSFORMHANDLE)
-[XSLTTransform](/reference/Func/XSLTTransform)
+[XSLTCreateTransform](/domino-c-api-docs/reference/Func/XSLTCreateTransform)
+[XSLTRANSFORMHANDLE](/domino-c-api-docs/reference/Data/XSLTRANSFORMHANDLE)
+[XSLTTransform](/domino-c-api-docs/reference/Func/XSLTTransform)
 ---

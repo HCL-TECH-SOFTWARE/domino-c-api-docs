@@ -22,5 +22,5 @@ vals  -  The values returned by a previous call to ldap_get_values_len.  If a NU
 
 
 **See Also :**
-[ldap_get_values_len](/reference/Func/ldap_get_values_len)
+[ldap_get_values_len](/domino-c-api-docs/reference/Func/ldap_get_values_len)
 ---

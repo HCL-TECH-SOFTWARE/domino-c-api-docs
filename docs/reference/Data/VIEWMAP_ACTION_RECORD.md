@@ -37,6 +37,6 @@ performed (if any).
 
 
 **See Also :**
-[NOTELINK](/reference/Data/NOTELINK)
-[VM_ACTION_xxx](/reference/Symb/VM_ACTION_xxx)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[VM_ACTION_xxx](/domino-c-api-docs/reference/Symb/VM_ACTION_xxx)
 ---

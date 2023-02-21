@@ -9,5 +9,5 @@
 Platform types to be used by wPlatform in CDEVENTENTRY.
 
 **See Also :**
-[CDEVENTENTRY](/reference/Data/CDEVENTENTRY)
+[CDEVENTENTRY](/domino-c-api-docs/reference/Data/CDEVENTENTRY)
 ---

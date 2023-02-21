@@ -75,7 +75,7 @@ STATUS LNPUBLIC AppendRefItem( NOTEHANDLE hRespNote, OID oidMainNote)
 
 ```
 **See Also :**
-[LIST](/reference/Data/LIST)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
+[LIST](/domino-c-api-docs/reference/Data/LIST)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
 ---

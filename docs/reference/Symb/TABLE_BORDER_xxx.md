@@ -9,6 +9,6 @@
 The border types are stored in the Borders field of the CDTABLECELL record.
 
 **See Also :**
-[CDTABLECELL](/reference/Data/CDTABLECELL)
-[CDTC_xxx](/reference/Symb/CDTC_xxx)
+[CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
+[CDTC_xxx](/domino-c-api-docs/reference/Symb/CDTC_xxx)
 ---

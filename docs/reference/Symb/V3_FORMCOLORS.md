@@ -9,6 +9,6 @@
 Number of colors for Release 3 form background compatablilty.
 
 **See Also :**
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
-[CDDOCUMENT](/reference/Data/CDDOCUMENT)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
+[CDDOCUMENT](/domino-c-api-docs/reference/Data/CDDOCUMENT)
 ---

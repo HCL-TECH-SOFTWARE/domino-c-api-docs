@@ -12,7 +12,7 @@ CDBEGINRECORD and to the Version member within a CDENDRECORD.
 
 
 **See Also :**
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
-[CDMAPELEMENT](/reference/Data/CDMAPELEMENT)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
+[CDMAPELEMENT](/domino-c-api-docs/reference/Data/CDMAPELEMENT)
 ---

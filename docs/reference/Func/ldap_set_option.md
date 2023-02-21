@@ -49,6 +49,6 @@ value of LDAP_OPT_RESULT_CODE fails. When a call to ldap_set_option() fails, it 
     ldap_set_option (NULL, LDAP_OPT_DEBUG_LEVEL, &ldap_debug_level);
 ```
 **See Also :**
-[ldap_get_option](/reference/Func/ldap_get_option)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
+[ldap_get_option](/domino-c-api-docs/reference/Func/ldap_get_option)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
 ---

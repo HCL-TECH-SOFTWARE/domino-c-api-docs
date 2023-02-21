@@ -28,5 +28,5 @@ pGeneralSubject  -  This is a zero terminated string that contains the subject l
 
 
 **See Also :**
-[OOOSetGeneralSubject](/reference/Func/OOOSetGeneralSubject)
+[OOOSetGeneralSubject](/domino-c-api-docs/reference/Func/OOOSetGeneralSubject)
 ---

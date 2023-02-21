@@ -27,5 +27,5 @@ ERR_xxx - There are many possible errors. It is best to use the code in a call t
 
 
 **See Also :**
-[SchContainer_GetRequest](/reference/Func/SchContainer_GetRequest)
+[SchContainer_GetRequest](/domino-c-api-docs/reference/Func/SchContainer_GetRequest)
 ---

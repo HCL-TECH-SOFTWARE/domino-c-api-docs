@@ -28,7 +28,7 @@ Output :
 
 
 **See Also :**
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

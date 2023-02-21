@@ -18,5 +18,5 @@ wFormulaLen  Length of the formula.
 This structure is followed by the formula.
 
 **See Also :**
-[QUERYFORMULA_FLAG_xxx](/reference/Symb/QUERYFORMULA_FLAG_xxx)
+[QUERYFORMULA_FLAG_xxx](/domino-c-api-docs/reference/Symb/QUERYFORMULA_FLAG_xxx)
 ---

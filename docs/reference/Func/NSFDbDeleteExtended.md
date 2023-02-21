@@ -34,8 +34,8 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NSFDbDelete](/reference/Func/NSFDbDelete)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[NSFDbDelete](/domino-c-api-docs/reference/Func/NSFDbDelete)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

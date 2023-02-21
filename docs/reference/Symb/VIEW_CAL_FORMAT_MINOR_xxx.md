@@ -10,5 +10,5 @@ This symbol specifies the minor version number that is stored in the
 MinorVersion member of the VIEW_CALENDAR_FORMAT structure.
 
 **See Also :**
-[VIEW_CALENDAR_FORMAT](/reference/Data/VIEW_CALENDAR_FORMAT)
+[VIEW_CALENDAR_FORMAT](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT)
 ---

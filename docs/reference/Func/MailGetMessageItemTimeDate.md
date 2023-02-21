@@ -37,5 +37,5 @@ retTimeDate  -  Time/date.
 
 ```
 **See Also :**
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
 ---

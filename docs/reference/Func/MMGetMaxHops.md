@@ -30,6 +30,6 @@ wMaxHops = MMGetMaxHops(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetMaxHops](/reference/Func/MMSetMaxHops)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetMaxHops](/domino-c-api-docs/reference/Func/MMSetMaxHops)
 ---

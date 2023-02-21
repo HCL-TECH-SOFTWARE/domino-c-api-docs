@@ -38,5 +38,5 @@ Address books containing a match.
 updated views.
 
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
 ---

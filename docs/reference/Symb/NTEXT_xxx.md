@@ -10,6 +10,6 @@ These symbols specify the possible values for the wFlags parameter of
 NSFNoteExtractFileExt and NSFNoteExtractWithCallback.
 
 **See Also :**
-[NSFNoteExtractFileExt](/reference/Func/NSFNoteExtractFileExt)
-[NSFNoteExtractWithCallback](/reference/Func/NSFNoteExtractWithCallback)
+[NSFNoteExtractFileExt](/domino-c-api-docs/reference/Func/NSFNoteExtractFileExt)
+[NSFNoteExtractWithCallback](/domino-c-api-docs/reference/Func/NSFNoteExtractWithCallback)
 ---

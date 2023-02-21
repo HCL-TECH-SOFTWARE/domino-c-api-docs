@@ -122,9 +122,9 @@ Output :
 
 
 **See Also :**
-[ber_alloc_t](/reference/Func/ber_alloc_t)
-[ber_int_t](/reference/Data/ber_int_t)
-[ber_len_t](/reference/Data/ber_len_t)
-[ber_printf](/reference/Func/ber_printf)
-[ber_tag_t](/reference/Data/ber_tag_t)
+[ber_alloc_t](/domino-c-api-docs/reference/Func/ber_alloc_t)
+[ber_int_t](/domino-c-api-docs/reference/Data/ber_int_t)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
+[ber_printf](/domino-c-api-docs/reference/Func/ber_printf)
+[ber_tag_t](/domino-c-api-docs/reference/Data/ber_tag_t)
 ---

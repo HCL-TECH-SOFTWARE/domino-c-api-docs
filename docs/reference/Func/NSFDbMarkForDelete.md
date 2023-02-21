@@ -78,9 +78,9 @@ continue?");
 
 ```
 **See Also :**
-[DBOPTION_xxx](/reference/Symb/DBOPTION_xxx)
-[DNCanonicalize](/reference/Func/DNCanonicalize)
-[NSFDbMarkInService](/reference/Func/NSFDbMarkInService)
-[NSFDbMarkOutOfService](/reference/Func/NSFDbMarkOutOfService)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[DBOPTION_xxx](/domino-c-api-docs/reference/Symb/DBOPTION_xxx)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
+[NSFDbMarkInService](/domino-c-api-docs/reference/Func/NSFDbMarkInService)
+[NSFDbMarkOutOfService](/domino-c-api-docs/reference/Func/NSFDbMarkOutOfService)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

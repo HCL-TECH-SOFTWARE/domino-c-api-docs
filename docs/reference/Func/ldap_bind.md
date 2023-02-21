@@ -43,5 +43,5 @@ ldap_bind( ld, "cn=manager, o=university of michigan, c=us", "secret",
 LDAP_AUTH_SIMPLE )
 ```
 **See Also :**
-[ldap_bind_s](/reference/Func/ldap_bind_s)
+[ldap_bind_s](/domino-c-api-docs/reference/Func/ldap_bind_s)
 ---

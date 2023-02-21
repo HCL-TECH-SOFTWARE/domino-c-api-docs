@@ -9,5 +9,5 @@
 Mailbox template filename ("mailbox.ntf").
 
 **See Also :**
-[MAILBOX_NAME](/reference/Symb/MAILBOX_NAME)
+[MAILBOX_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_NAME)
 ---

@@ -11,6 +11,6 @@ called by EnumCompositeBuffer and EnumCompositeFile.  The specified callback
 function is called for each CD record found in an item.
 
 **See Also :**
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[EnumCompositeFile](/reference/Func/EnumCompositeFile)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[EnumCompositeFile](/domino-c-api-docs/reference/Func/EnumCompositeFile)
 ---

@@ -10,5 +10,5 @@ This symbol is used in the DocOpenMode member of the NOTES_DOC_INFO_MSG data
 structure to define the modes in which an OLE object may be opened.
 
 **See Also :**
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
 ---

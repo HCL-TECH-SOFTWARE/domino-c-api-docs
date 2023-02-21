@@ -32,5 +32,5 @@ typedef struct {
 
 ```
 **See Also :**
-[CDFACE](/reference/Data/CDFACE)
+[CDFACE](/domino-c-api-docs/reference/Data/CDFACE)
 ---

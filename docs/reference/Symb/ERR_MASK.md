@@ -17,6 +17,6 @@ This mask is used to remove the flag bits, leaving the package code and error
 code.
 
 **See Also :**
-[ERR](/reference/Func/ERR)
-[STATUS](/reference/Data/STATUS)
+[ERR](/domino-c-api-docs/reference/Func/ERR)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

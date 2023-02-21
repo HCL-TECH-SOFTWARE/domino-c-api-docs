@@ -66,6 +66,6 @@ If an API error occurs or no results are returned, *res is set to NULL.
 
 ```
 **See Also :**
-[LDAP_SCOPE_xxx](/reference/Symb/LDAP_SCOPE_xxx)
-[LDAP_xxx_ATTRS](/reference/Symb/LDAP_xxx_ATTRS)
+[LDAP_SCOPE_xxx](/domino-c-api-docs/reference/Symb/LDAP_SCOPE_xxx)
+[LDAP_xxx_ATTRS](/domino-c-api-docs/reference/Symb/LDAP_xxx_ATTRS)
 ---

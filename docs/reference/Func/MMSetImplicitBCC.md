@@ -32,6 +32,6 @@ MMSetImplicitBCC(hCC, FALSE); /* if TRUE, add a BCC for every recipient not
 listed in a To, CC, or Bcc header (default FALSE) */
 ```
 **See Also :**
-[MMGetImplicitBCC](/reference/Func/MMGetImplicitBCC)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetImplicitBCC](/domino-c-api-docs/reference/Func/MMGetImplicitBCC)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

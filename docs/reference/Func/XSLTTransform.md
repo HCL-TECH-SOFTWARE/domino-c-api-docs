@@ -45,8 +45,8 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[XML_READ_FUNCTION](/reference/Data/XML_READ_FUNCTION)
-[XML_WRITE_FUNCTION](/reference/Data/XML_WRITE_FUNCTION)
-[XSLTCreateTransform](/reference/Func/XSLTCreateTransform)
-[XSLTRANSFORMHANDLE](/reference/Data/XSLTRANSFORMHANDLE)
+[XML_READ_FUNCTION](/domino-c-api-docs/reference/Data/XML_READ_FUNCTION)
+[XML_WRITE_FUNCTION](/domino-c-api-docs/reference/Data/XML_WRITE_FUNCTION)
+[XSLTCreateTransform](/domino-c-api-docs/reference/Func/XSLTCreateTransform)
+[XSLTRANSFORMHANDLE](/domino-c-api-docs/reference/Data/XSLTRANSFORMHANDLE)
 ---

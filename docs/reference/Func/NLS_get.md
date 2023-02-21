@@ -35,6 +35,6 @@ pCharacter  -  The character that was read from the string.
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

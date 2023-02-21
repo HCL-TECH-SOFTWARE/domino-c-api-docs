@@ -23,5 +23,5 @@ rethCntnr  -  Returns a handle to the object container.
 
 
 **See Also :**
-[SchContainer_Free](/reference/Func/SchContainer_Free)
+[SchContainer_Free](/domino-c-api-docs/reference/Func/SchContainer_Free)
 ---

@@ -10,6 +10,6 @@ These symobls are used to determine the action that the registration API should
 take when finding a duplicate Mail File or Roaming folder. 
 
 **See Also :**
-[REG_MAIL_INFO_EXT](/reference/Data/REG_MAIL_INFO_EXT)
-[REG_ROAMING_INFO](/reference/Data/REG_ROAMING_INFO)
+[REG_MAIL_INFO_EXT](/domino-c-api-docs/reference/Data/REG_MAIL_INFO_EXT)
+[REG_ROAMING_INFO](/domino-c-api-docs/reference/Data/REG_ROAMING_INFO)
 ---

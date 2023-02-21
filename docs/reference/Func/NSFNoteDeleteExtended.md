@@ -53,8 +53,8 @@ if (error = NSFNoteDeleteExtended (db_handle, note_id, UPDATE_SHARE_SECOND))
 }
 ```
 **See Also :**
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[UPDATE_xxx](/reference/Symb/UPDATE_xxx)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[UPDATE_xxx](/domino-c-api-docs/reference/Symb/UPDATE_xxx)
 ---

@@ -13,6 +13,6 @@ for API users to use a BLOCK data item directly; there are API macros provided
 that abstract the necessary operations to the BLOCKID level.
 
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NULLBLOCK](/reference/Symb/NULLBLOCK)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NULLBLOCK](/domino-c-api-docs/reference/Symb/NULLBLOCK)
 ---

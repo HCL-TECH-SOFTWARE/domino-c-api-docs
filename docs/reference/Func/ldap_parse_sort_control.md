@@ -36,6 +36,6 @@ attribute  -  If an error occured the server may return a string indicating the 
 
 
 **See Also :**
-[ldap_memfree](/reference/Func/ldap_memfree)
-[ldap_parse_result](/reference/Func/ldap_parse_result)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
+[ldap_parse_result](/domino-c-api-docs/reference/Func/ldap_parse_result)
 ---

@@ -122,6 +122,6 @@ Output :
 
 
 **See Also :**
-[HTMLGetProperty](/reference/Func/HTMLGetProperty)
-[HTMLSetHTMLOptions](/reference/Func/HTMLSetHTMLOptions)
+[HTMLGetProperty](/domino-c-api-docs/reference/Func/HTMLGetProperty)
+[HTMLSetHTMLOptions](/domino-c-api-docs/reference/Func/HTMLSetHTMLOptions)
 ---

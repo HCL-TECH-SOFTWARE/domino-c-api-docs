@@ -86,6 +86,6 @@ retParentNoteID  -  Returns the NOTEID of the parent document for this note.
 
 ```
 **See Also :**
-[NSFDbGetNoteInfo](/reference/Func/NSFDbGetNoteInfo)
-[NSFDbGetNoteInfoByUNID](/reference/Func/NSFDbGetNoteInfoByUNID)
+[NSFDbGetNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfo)
+[NSFDbGetNoteInfoByUNID](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfoByUNID)
 ---

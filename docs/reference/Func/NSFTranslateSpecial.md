@@ -72,5 +72,5 @@ retLength  -  Length of the output string
 
 
 **See Also :**
-[INDEXSPECIALINFO](/reference/Data/INDEXSPECIALINFO)
+[INDEXSPECIALINFO](/domino-c-api-docs/reference/Data/INDEXSPECIALINFO)
 ---

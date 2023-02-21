@@ -9,5 +9,5 @@
 Flags to control how databases are recovered using NSFRecoverDatabases.
 
 **See Also :**
-[NSFRecoverDatabases](/reference/Func/NSFRecoverDatabases)
+[NSFRecoverDatabases](/domino-c-api-docs/reference/Func/NSFRecoverDatabases)
 ---

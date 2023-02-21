@@ -11,6 +11,6 @@ rendered.  They are used in the CDDDEBEGIN structure and in the CDOLEBEGIN
 structure.
 
 **See Also :**
-[CDDDEBEGIN](/reference/Data/CDDDEBEGIN)
-[CDOLEBEGIN](/reference/Data/CDOLEBEGIN)
+[CDDDEBEGIN](/domino-c-api-docs/reference/Data/CDDDEBEGIN)
+[CDOLEBEGIN](/domino-c-api-docs/reference/Data/CDOLEBEGIN)
 ---

@@ -15,5 +15,5 @@ If a transparency table is used for a bitmap, it must immediately follow the
 CDBITMAPHEADER.
 
 **See Also :**
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NSFNoteAttachOLE2Object](/reference/Func/NSFNoteAttachOLE2Object)
+[NSFNoteAttachOLE2Object](/domino-c-api-docs/reference/Func/NSFNoteAttachOLE2Object)
 ---

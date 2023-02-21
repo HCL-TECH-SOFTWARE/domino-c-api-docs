@@ -22,5 +22,5 @@ Output :
 
 
 **See Also :**
-[MQHANDLE](/reference/Data/MQHANDLE)
+[MQHANDLE](/domino-c-api-docs/reference/Data/MQHANDLE)
 ---

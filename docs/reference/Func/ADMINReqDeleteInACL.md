@@ -78,12 +78,12 @@ if (error = ADMINReqDeleteInACL (
 }
 ```
 **See Also :**
-[ADMINReqChkAccessMoveReplica](/reference/Func/ADMINReqChkAccessMoveReplica)
-[ADMINReqChkAccessNewReplica](/reference/Func/ADMINReqChkAccessNewReplica)
-[ADMINReqDeleteInNAB](/reference/Func/ADMINReqDeleteInNAB)
-[ADMINReqMoveComplete](/reference/Func/ADMINReqMoveComplete)
-[ADMINReqMoveUserInHier](/reference/Func/ADMINReqMoveUserInHier)
-[ADMINReqParams](/reference/Data/ADMINReqParams)
-[ADMINReqRecertify](/reference/Func/ADMINReqRecertify)
-[ADMINReqRename](/reference/Func/ADMINReqRename)
+[ADMINReqChkAccessMoveReplica](/domino-c-api-docs/reference/Func/ADMINReqChkAccessMoveReplica)
+[ADMINReqChkAccessNewReplica](/domino-c-api-docs/reference/Func/ADMINReqChkAccessNewReplica)
+[ADMINReqDeleteInNAB](/domino-c-api-docs/reference/Func/ADMINReqDeleteInNAB)
+[ADMINReqMoveComplete](/domino-c-api-docs/reference/Func/ADMINReqMoveComplete)
+[ADMINReqMoveUserInHier](/domino-c-api-docs/reference/Func/ADMINReqMoveUserInHier)
+[ADMINReqParams](/domino-c-api-docs/reference/Data/ADMINReqParams)
+[ADMINReqRecertify](/domino-c-api-docs/reference/Func/ADMINReqRecertify)
+[ADMINReqRename](/domino-c-api-docs/reference/Func/ADMINReqRename)
 ---

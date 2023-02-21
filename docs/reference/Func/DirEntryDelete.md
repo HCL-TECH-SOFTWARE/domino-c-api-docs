@@ -25,5 +25,5 @@ An ERR status on failure indicating the problem.
 
 
 **See Also :**
-[DirCtxGetEntryByID](/reference/Func/DirCtxGetEntryByID)
+[DirCtxGetEntryByID](/domino-c-api-docs/reference/Func/DirCtxGetEntryByID)
 ---

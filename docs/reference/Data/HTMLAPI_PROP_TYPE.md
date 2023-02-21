@@ -103,7 +103,7 @@ then this
 }
 ```
 **See Also :**
-[HTMLGetProperty](/reference/Func/HTMLGetProperty)
-[HTMLGetText](/reference/Func/HTMLGetText)
-[HTMLSetProperty](/reference/Func/HTMLSetProperty)
+[HTMLGetProperty](/domino-c-api-docs/reference/Func/HTMLGetProperty)
+[HTMLGetText](/domino-c-api-docs/reference/Func/HTMLGetText)
+[HTMLSetProperty](/domino-c-api-docs/reference/Func/HTMLSetProperty)
 ---

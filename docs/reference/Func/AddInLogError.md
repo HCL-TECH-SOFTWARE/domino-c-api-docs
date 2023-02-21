@@ -71,10 +71,10 @@ if (error = NSFDbOpen (path_name, &db_handle))
 }
 ```
 **See Also :**
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[AddInLogMessage](/reference/Func/AddInLogMessage)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
-[LogEvent](/reference/Func/LogEvent)
-[AddInLogErrorText](/reference/Func/AddInLogErrorText)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[AddInLogMessage](/domino-c-api-docs/reference/Func/AddInLogMessage)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
+[LogEvent](/domino-c-api-docs/reference/Func/LogEvent)
+[AddInLogErrorText](/domino-c-api-docs/reference/Func/AddInLogErrorText)
 ---

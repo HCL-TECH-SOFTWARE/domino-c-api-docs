@@ -13,5 +13,5 @@ the BillingWrite() function, must be assigned values between the range of 32001
 and 65535.
 
 **See Also :**
-[BILLMSG](/reference/Data/BILLMSG)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
 ---

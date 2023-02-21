@@ -28,10 +28,10 @@ host/canonical conversion on CD record sturctures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDAREAELEMENT](/reference/Data/CDAREAELEMENT)
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
-[CDEVENT](/reference/Data/CDEVENT)
-[CDIDNAME](/reference/Data/CDIDNAME)
-[CDMAPELEMENT_VERSIONxxx](/reference/Symb/CDMAPELEMENT_VERSIONxxx)
+[CDAREAELEMENT](/domino-c-api-docs/reference/Data/CDAREAELEMENT)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
+[CDEVENT](/domino-c-api-docs/reference/Data/CDEVENT)
+[CDIDNAME](/domino-c-api-docs/reference/Data/CDIDNAME)
+[CDMAPELEMENT_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDMAPELEMENT_VERSIONxxx)
 ---

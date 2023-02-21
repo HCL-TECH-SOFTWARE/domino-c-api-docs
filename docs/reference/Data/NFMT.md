@@ -26,6 +26,6 @@ NumberFormat.Unused     = 0;
 
 ```
 **See Also :**
-[NATTR_xxx](/reference/Symb/NATTR_xxx)
-[NFMT_xxx](/reference/Symb/NFMT_xxx)
+[NATTR_xxx](/domino-c-api-docs/reference/Symb/NATTR_xxx)
+[NFMT_xxx](/domino-c-api-docs/reference/Symb/NFMT_xxx)
 ---

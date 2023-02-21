@@ -45,7 +45,7 @@ retTableSize  -  Size of the returned statistic table, in bytes.
 
 
 **See Also :**
-[NSFGetServerLatency](/reference/Func/NSFGetServerLatency)
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
-[StatTraverse](/reference/Func/StatTraverse)
+[NSFGetServerLatency](/domino-c-api-docs/reference/Func/NSFGetServerLatency)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
 ---

@@ -124,7 +124,7 @@ information needed
 	DXLDeleteImporter(hDXLImport);
 ```
 **See Also :**
-[DBHANDLE](/reference/Data/DBHANDLE)
-[DXLIMPORTHANDLE](/reference/Data/DXLIMPORTHANDLE)
-[XML_READ_FUNCTION](/reference/Data/XML_READ_FUNCTION)
+[DBHANDLE](/domino-c-api-docs/reference/Data/DBHANDLE)
+[DXLIMPORTHANDLE](/domino-c-api-docs/reference/Data/DXLIMPORTHANDLE)
+[XML_READ_FUNCTION](/domino-c-api-docs/reference/Data/XML_READ_FUNCTION)
 ---

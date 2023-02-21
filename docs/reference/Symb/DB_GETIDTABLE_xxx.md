@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NSFFolderGetIDTable](/reference/Func/NSFFolderGetIDTable)
+[NSFFolderGetIDTable](/domino-c-api-docs/reference/Func/NSFFolderGetIDTable)
 ---

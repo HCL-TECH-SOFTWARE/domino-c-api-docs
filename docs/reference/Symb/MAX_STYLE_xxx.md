@@ -10,5 +10,5 @@ Limits for Paragraph Attribute Block definition record (CDPABDEFINITION)
 attributes.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

@@ -104,9 +104,9 @@ result.
 
 
 **See Also :**
-[EventFlags](/reference/Data/EventFlags)
-[FilterAuthConfigFlags](/reference/Data/FilterAuthConfigFlags)
-[FilterAuthenticationTypes](/reference/Data/FilterAuthenticationTypes)
-[FilterContext](/reference/Data/FilterContext)
-[FilterInitData](/reference/Data/FilterInitData)
+[EventFlags](/domino-c-api-docs/reference/Data/EventFlags)
+[FilterAuthConfigFlags](/domino-c-api-docs/reference/Data/FilterAuthConfigFlags)
+[FilterAuthenticationTypes](/domino-c-api-docs/reference/Data/FilterAuthenticationTypes)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[FilterInitData](/domino-c-api-docs/reference/Data/FilterInitData)
 ---

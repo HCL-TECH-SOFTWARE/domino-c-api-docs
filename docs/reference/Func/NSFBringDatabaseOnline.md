@@ -46,5 +46,5 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 ```
 **See Also :**
-[NSFTakeDatabaseOffline](/reference/Func/NSFTakeDatabaseOffline)
+[NSFTakeDatabaseOffline](/domino-c-api-docs/reference/Func/NSFTakeDatabaseOffline)
 ---

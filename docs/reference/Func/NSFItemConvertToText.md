@@ -85,12 +85,12 @@ text_buf_ptr  -  The address of a text buffer in which the converted text and th
 
 ```
 **See Also :**
-[ConvertItemToText](/reference/Func/ConvertItemToText)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[NSFItemConvertToText](/reference/Func/NSFItemConvertToText)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[ConvertItemToText](/domino-c-api-docs/reference/Func/ConvertItemToText)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[NSFItemConvertToText](/domino-c-api-docs/reference/Func/NSFItemConvertToText)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

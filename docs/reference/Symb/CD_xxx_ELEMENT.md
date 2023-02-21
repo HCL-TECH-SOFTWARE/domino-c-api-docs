@@ -9,5 +9,5 @@
 Value for elemType member of CDDATAFLAGS. 
 
 **See Also :**
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
 ---

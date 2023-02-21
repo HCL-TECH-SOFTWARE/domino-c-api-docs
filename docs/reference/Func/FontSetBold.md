@@ -24,8 +24,8 @@ Output :
 
 
 **See Also :**
-[FontClearBold](/reference/Func/FontClearBold)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontIsBold](/reference/Func/FontIsBold)
+[FontClearBold](/domino-c-api-docs/reference/Func/FontClearBold)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontIsBold](/domino-c-api-docs/reference/Func/FontIsBold)
 ---

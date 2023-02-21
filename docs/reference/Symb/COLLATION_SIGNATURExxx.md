@@ -9,5 +9,5 @@
 Value for the signature member of the COLLATION structure.
 
 **See Also :**
-[COLLATION](/reference/Data/COLLATION)
+[COLLATION](/domino-c-api-docs/reference/Data/COLLATION)
 ---

@@ -19,6 +19,6 @@ bits of the status code.  Newer package codes may use more than 6 bits (leaving
 fewer than 8 bits for the status value).  
 
 **See Also :**
-[PKG](/reference/Func/PKG)
-[STATUS](/reference/Data/STATUS)
+[PKG](/domino-c-api-docs/reference/Func/PKG)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

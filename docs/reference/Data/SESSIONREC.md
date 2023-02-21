@@ -49,13 +49,13 @@ client/server network overhead in addition to the session data.
 NetAdr -  Network IP address of the client that initiated the session. 
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_xxx (actions)](/reference/Symb/BILL_xxx (actions))
-[DBREC](/reference/Data/DBREC)
-[DOCUMENT](/reference/Data/DOCUMENT)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_xxx (actions)](/domino-c-api-docs/reference/Symb/BILL_xxx (actions))
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
 ---

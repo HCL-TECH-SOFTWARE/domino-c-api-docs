@@ -131,9 +131,9 @@ return Status;
 ...
 ```
 **See Also :**
-[NLS_load_charset](/reference/Func/NLS_load_charset)
-[CompoundTextAddParagraphExt](/reference/Func/CompoundTextAddParagraphExt)
-[CompoundTextDefineStyle](/reference/Func/CompoundTextDefineStyle)
-[COMP_xxx](/reference/Symb/COMP_xxx)
-[STYLE_ID_SAMEASPREV](/reference/Symb/STYLE_ID_SAMEASPREV)
+[NLS_load_charset](/domino-c-api-docs/reference/Func/NLS_load_charset)
+[CompoundTextAddParagraphExt](/domino-c-api-docs/reference/Func/CompoundTextAddParagraphExt)
+[CompoundTextDefineStyle](/domino-c-api-docs/reference/Func/CompoundTextDefineStyle)
+[COMP_xxx](/domino-c-api-docs/reference/Symb/COMP_xxx)
+[STYLE_ID_SAMEASPREV](/domino-c-api-docs/reference/Symb/STYLE_ID_SAMEASPREV)
 ---

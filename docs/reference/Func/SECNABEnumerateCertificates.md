@@ -36,7 +36,7 @@ NOERROR - action successful
 
 
 **See Also :**
-[SECNABAddCertificate](/reference/Func/SECNABAddCertificate)
-[SECNABENUMPROC](/reference/Data/SECNABENUMPROC)
-[SECNABRemoveCertificate](/reference/Func/SECNABRemoveCertificate)
+[SECNABAddCertificate](/domino-c-api-docs/reference/Func/SECNABAddCertificate)
+[SECNABENUMPROC](/domino-c-api-docs/reference/Data/SECNABENUMPROC)
+[SECNABRemoveCertificate](/domino-c-api-docs/reference/Func/SECNABRemoveCertificate)
 ---

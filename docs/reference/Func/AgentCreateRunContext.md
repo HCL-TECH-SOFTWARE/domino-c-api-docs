@@ -44,8 +44,8 @@ rethContext  -  Handle to the Agent run-time context.
 
 
 **See Also :**
-[AgentDestroyRunContext](/reference/Func/AgentDestroyRunContext)
-[AgentRun](/reference/Func/AgentRun)
-[HAGENT](/reference/Data/HAGENT)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentDestroyRunContext](/domino-c-api-docs/reference/Func/AgentDestroyRunContext)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
+[HAGENT](/domino-c-api-docs/reference/Data/HAGENT)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

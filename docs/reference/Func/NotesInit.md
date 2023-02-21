@@ -29,10 +29,10 @@ Output :
 
 
 **See Also :**
-[AddInMain](/reference/Func/AddInMain)
-[NotesInitExtended](/reference/Func/NotesInitExtended)
-[NotesInitThread](/reference/Func/NotesInitThread)
-[NotesMain](/reference/Func/NotesMain)
-[NotesTerm](/reference/Func/NotesTerm)
-[NotesTermThread](/reference/Func/NotesTermThread)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
+[NotesInitThread](/domino-c-api-docs/reference/Func/NotesInitThread)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
+[NotesTerm](/domino-c-api-docs/reference/Func/NotesTerm)
+[NotesTermThread](/domino-c-api-docs/reference/Func/NotesTermThread)
 ---

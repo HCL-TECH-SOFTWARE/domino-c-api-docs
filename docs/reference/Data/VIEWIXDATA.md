@@ -50,7 +50,7 @@ while(IDScan(hSelectedList, (FLAG)(notes_scanned++==0L), &note_id))
 }
 ```
 **See Also :**
-[IXENTRYPROC](/reference/Data/IXENTRYPROC)
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[EDITIMPORTDATA](/reference/Data/EDITIMPORTDATA)
+[IXENTRYPROC](/domino-c-api-docs/reference/Data/IXENTRYPROC)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[EDITIMPORTDATA](/domino-c-api-docs/reference/Data/EDITIMPORTDATA)
 ---

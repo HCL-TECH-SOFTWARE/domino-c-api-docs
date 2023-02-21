@@ -24,6 +24,6 @@ of up to 64kB;  each segment must be preceded by a CDWINMETASEG record.
 This header is followed by the segments of metafile data.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDWINMETASEG](/reference/Data/CDWINMETASEG)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDWINMETASEG](/domino-c-api-docs/reference/Data/CDWINMETASEG)
 ---

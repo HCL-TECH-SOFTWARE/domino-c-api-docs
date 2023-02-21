@@ -9,6 +9,6 @@
 These flags apply to the access control list itself.
 
 **See Also :**
-[ACLGetFlags](/reference/Func/ACLGetFlags)
-[ACLSetFlags](/reference/Func/ACLSetFlags)
+[ACLGetFlags](/domino-c-api-docs/reference/Func/ACLGetFlags)
+[ACLSetFlags](/domino-c-api-docs/reference/Func/ACLSetFlags)
 ---

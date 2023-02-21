@@ -49,6 +49,6 @@ rethMoreCtx  -  If not NULLCNTNROBJ, then this is the handle to more busy time i
 	 LAPI_RETURN (ERR(error));
 ```
 **See Also :**
-[Schedule_ExtractFreeTimeRange](/reference/Func/Schedule_ExtractFreeTimeRange)
-[Schedule_ExtractMoreBusyTimeRange](/reference/Func/Schedule_ExtractMoreBusyTimeRange)
+[Schedule_ExtractFreeTimeRange](/domino-c-api-docs/reference/Func/Schedule_ExtractFreeTimeRange)
+[Schedule_ExtractMoreBusyTimeRange](/domino-c-api-docs/reference/Func/Schedule_ExtractMoreBusyTimeRange)
 ---

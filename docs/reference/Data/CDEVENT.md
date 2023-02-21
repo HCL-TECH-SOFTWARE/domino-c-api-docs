@@ -25,9 +25,9 @@ JavaScript code.  Loop through all the CDBLOBPART records to read in the
 complete JavaScript code.
 
 **See Also :**
-[ACTION_TYPE_xxx](/reference/Symb/ACTION_TYPE_xxx)
-[CDBLOBPART](/reference/Data/CDBLOBPART)
-[EVENT_HAS_LIBRARIES](/reference/Symb/EVENT_HAS_LIBRARIES)
-[HTML_EVENT_CLIENT_xxx](/reference/Symb/HTML_EVENT_CLIENT_xxx)
-[HTML_EVENT_xxx](/reference/Symb/HTML_EVENT_xxx)
+[ACTION_TYPE_xxx](/domino-c-api-docs/reference/Symb/ACTION_TYPE_xxx)
+[CDBLOBPART](/domino-c-api-docs/reference/Data/CDBLOBPART)
+[EVENT_HAS_LIBRARIES](/domino-c-api-docs/reference/Symb/EVENT_HAS_LIBRARIES)
+[HTML_EVENT_CLIENT_xxx](/domino-c-api-docs/reference/Symb/HTML_EVENT_CLIENT_xxx)
+[HTML_EVENT_xxx](/domino-c-api-docs/reference/Symb/HTML_EVENT_xxx)
 ---

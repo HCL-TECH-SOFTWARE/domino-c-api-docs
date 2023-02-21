@@ -28,5 +28,5 @@ Output :
 
 
 **See Also :**
-[ldap_get_values](/reference/Func/ldap_get_values)
+[ldap_get_values](/domino-c-api-docs/reference/Func/ldap_get_values)
 ---

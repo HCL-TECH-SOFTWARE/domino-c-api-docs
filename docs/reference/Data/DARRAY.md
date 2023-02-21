@@ -22,10 +22,10 @@ of the element structures.
 The size of the entire dynamic array cannot exceed MAXONESEGSIZE in size.
 
 **See Also :**
-[MAXONESEGSIZE](/reference/Symb/MAXONESEGSIZE)
-[PSTRING](/reference/Data/PSTRING)
-[OSDArray](/reference/Func/OSDArray)
-[OSDArrayAddElement](/reference/Func/OSDArrayAddElement)
-[OSDArrayAlloc](/reference/Func/OSDArrayAlloc)
-[OSDArrayRemoveElement](/reference/Func/OSDArrayRemoveElement)
+[MAXONESEGSIZE](/domino-c-api-docs/reference/Symb/MAXONESEGSIZE)
+[PSTRING](/domino-c-api-docs/reference/Data/PSTRING)
+[OSDArray](/domino-c-api-docs/reference/Func/OSDArray)
+[OSDArrayAddElement](/domino-c-api-docs/reference/Func/OSDArrayAddElement)
+[OSDArrayAlloc](/domino-c-api-docs/reference/Func/OSDArrayAlloc)
+[OSDArrayRemoveElement](/domino-c-api-docs/reference/Func/OSDArrayRemoveElement)
 ---

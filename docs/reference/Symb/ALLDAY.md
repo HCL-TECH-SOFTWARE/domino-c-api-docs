@@ -16,6 +16,6 @@ td1.Time = ALLDAY and td2.Time = 2000.  If you compare them as follows:
 TIMEDATEs are equal.
 
 **See Also :**
-[ANYDAY](/reference/Symb/ANYDAY)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[ANYDAY](/domino-c-api-docs/reference/Symb/ANYDAY)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

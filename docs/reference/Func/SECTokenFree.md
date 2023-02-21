@@ -23,7 +23,7 @@ Output :
 
 
 **See Also :**
-[SECTokenGenerate](/reference/Func/SECTokenGenerate)
-[SECTokenValidate](/reference/Func/SECTokenValidate)
-[SSO_TOKEN](/reference/Data/SSO_TOKEN)
+[SECTokenGenerate](/domino-c-api-docs/reference/Func/SECTokenGenerate)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
+[SSO_TOKEN](/domino-c-api-docs/reference/Data/SSO_TOKEN)
 ---

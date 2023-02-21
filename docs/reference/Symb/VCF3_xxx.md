@@ -13,5 +13,5 @@ specific attribute.
 
 
 **See Also :**
-[VIEW_COLUMN_FORMAT2](/reference/Data/VIEW_COLUMN_FORMAT2)
+[VIEW_COLUMN_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT2)
 ---

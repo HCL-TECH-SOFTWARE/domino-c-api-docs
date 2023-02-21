@@ -26,5 +26,5 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
 ---

@@ -31,6 +31,6 @@ ObjStoreReplicaID  -  If a Note Object Store is associated with this database, t
 
 
 **See Also :**
-[NSFDbCreateObjectStore](/reference/Func/NSFDbCreateObjectStore)
-[NSFDbSetObjectStoreID](/reference/Func/NSFDbSetObjectStoreID)
+[NSFDbCreateObjectStore](/domino-c-api-docs/reference/Func/NSFDbCreateObjectStore)
+[NSFDbSetObjectStoreID](/domino-c-api-docs/reference/Func/NSFDbSetObjectStoreID)
 ---

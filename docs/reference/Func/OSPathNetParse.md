@@ -63,8 +63,8 @@ retFileName  -  Optional;  if not NULL, a pointer to the text buffer that receiv
        goto Exit;
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbPathGet](/reference/Func/NSFDbPathGet)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbPathGet](/domino-c-api-docs/reference/Func/NSFDbPathGet)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

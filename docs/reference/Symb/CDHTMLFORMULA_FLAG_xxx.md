@@ -10,5 +10,5 @@ These flags are stored in the dwFlags field of the CDHTMLFORMULA record, and
 identify the type of formula stored in this record.
 
 **See Also :**
-[CDHTMLFORMULA](/reference/Data/CDHTMLFORMULA)
+[CDHTMLFORMULA](/domino-c-api-docs/reference/Data/CDHTMLFORMULA)
 ---

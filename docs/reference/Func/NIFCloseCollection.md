@@ -23,6 +23,6 @@ Output :
 
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
 ---

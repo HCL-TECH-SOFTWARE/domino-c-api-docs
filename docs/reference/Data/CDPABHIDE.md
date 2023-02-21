@@ -16,5 +16,5 @@ PABID  ID number of the PAB this formula applies to.
 This record is followed by the actual formula.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

@@ -59,7 +59,7 @@ retErrorPathName  -  (Optional).  Pathname of file where file system error occur
 
 
 **See Also :**
-[REG_ID_INFO](/reference/Data/REG_ID_INFO)
-[REG_MISC_INFO](/reference/Data/REG_MISC_INFO)
-[REG_SERVER_INFO](/reference/Data/REG_SERVER_INFO)
+[REG_ID_INFO](/domino-c-api-docs/reference/Data/REG_ID_INFO)
+[REG_MISC_INFO](/domino-c-api-docs/reference/Data/REG_MISC_INFO)
+[REG_SERVER_INFO](/domino-c-api-docs/reference/Data/REG_SERVER_INFO)
 ---

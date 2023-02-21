@@ -41,6 +41,6 @@ rethPubKey  -  The handle to the memory object containing the public key is stor
 
 
 **See Also :**
-[KFM_pubkey_xxx](/reference/Symb/KFM_pubkey_xxx)
-[REGGetIDInfo](/reference/Func/REGGetIDInfo)
+[KFM_pubkey_xxx](/domino-c-api-docs/reference/Symb/KFM_pubkey_xxx)
+[REGGetIDInfo](/domino-c-api-docs/reference/Func/REGGetIDInfo)
 ---

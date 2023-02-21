@@ -36,10 +36,10 @@ Output :
 
 ```
 **See Also :**
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAddText](/reference/Func/ListAddText)
-[ListAllocate](/reference/Func/ListAllocate)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListGetText](/reference/Func/ListGetText)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
 ---

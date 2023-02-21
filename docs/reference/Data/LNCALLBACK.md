@@ -50,7 +50,7 @@ STATUS LNCALLBACK print_fields (
       NULL);          /* returned ending date (unused) */
 ```
 **See Also :**
-[LNCALLBACKPTR](/reference/Data/LNCALLBACKPTR)
-[LNPUBLIC](/reference/Symb/LNPUBLIC)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
+[LNCALLBACKPTR](/domino-c-api-docs/reference/Data/LNCALLBACKPTR)
+[LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
 ---

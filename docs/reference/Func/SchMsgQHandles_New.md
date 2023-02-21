@@ -31,5 +31,5 @@ rethOutputQ  -  Points to where we return the handle to the output queue.
 
 
 **See Also :**
-[SchMsgQHandles_Free](/reference/Func/SchMsgQHandles_Free)
+[SchMsgQHandles_Free](/domino-c-api-docs/reference/Func/SchMsgQHandles_Free)
 ---

@@ -68,8 +68,8 @@ ppRef  -  ppRef - is the address of a pointer.  The pointer will be set to point
 	}
 ```
 **See Also :**
-[HTMLAPIReference](/reference/Data/HTMLAPIReference)
-[HTMLAPI_REF_TYPE](/reference/Data/HTMLAPI_REF_TYPE)
-[HTMLCreateConverter](/reference/Func/HTMLCreateConverter)
-[HTMLGetReference](/reference/Func/HTMLGetReference)
+[HTMLAPIReference](/domino-c-api-docs/reference/Data/HTMLAPIReference)
+[HTMLAPI_REF_TYPE](/domino-c-api-docs/reference/Data/HTMLAPI_REF_TYPE)
+[HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
+[HTMLGetReference](/domino-c-api-docs/reference/Func/HTMLGetReference)
 ---

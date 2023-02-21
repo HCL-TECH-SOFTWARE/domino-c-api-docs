@@ -9,5 +9,5 @@
 This is the data structure that describes an individual schedule entry.
 
 **See Also :**
-[SCHED_LIST](/reference/Data/SCHED_LIST)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
 ---

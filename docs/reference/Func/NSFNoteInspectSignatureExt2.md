@@ -52,5 +52,5 @@ rethItemIDs  -  An array containing the BlockIDs of the items signed.  May be NU
 
 
 **See Also :**
-[SECKFMOpen](/reference/Func/SECKFMOpen)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

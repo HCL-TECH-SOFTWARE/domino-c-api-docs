@@ -29,6 +29,6 @@ wPointSize = MMGetPointSize(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetPointSize](/reference/Func/MMSetPointSize)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetPointSize](/domino-c-api-docs/reference/Func/MMSetPointSize)
 ---

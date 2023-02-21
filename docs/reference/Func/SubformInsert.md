@@ -34,6 +34,6 @@ ERR_xxx - Errors returned by lower level Notes functions.  There are so many pos
 
 
 **See Also :**
-[SubformRemove](/reference/Func/SubformRemove)
-[HOTSPOTREC_RUNFLAG_xxx](/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
+[SubformRemove](/domino-c-api-docs/reference/Func/SubformRemove)
+[HOTSPOTREC_RUNFLAG_xxx](/domino-c-api-docs/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
 ---

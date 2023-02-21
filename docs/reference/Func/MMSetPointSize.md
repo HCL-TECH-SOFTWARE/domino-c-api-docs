@@ -29,6 +29,6 @@ Output :
 MMSetPointSize(hCC, 10); /* one of: 6, 8, 9, 10 (default), 12, 14, 18, 24 */
 ```
 **See Also :**
-[MMGetPointSize](/reference/Func/MMGetPointSize)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetPointSize](/domino-c-api-docs/reference/Func/MMGetPointSize)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

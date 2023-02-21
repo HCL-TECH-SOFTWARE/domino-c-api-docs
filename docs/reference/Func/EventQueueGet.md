@@ -30,10 +30,10 @@ rethEvent  -  A pointer to a handle to the EVENT_DATA structure associated with 
 
 
 **See Also :**
-[EventDeregisterEventRequest](/reference/Func/EventDeregisterEventRequest)
-[EventGetDestName](/reference/Func/EventGetDestName)
-[EventQueueAlloc](/reference/Func/EventQueueAlloc)
-[EventQueueFree](/reference/Func/EventQueueFree)
-[EventQueuePut](/reference/Func/EventQueuePut)
-[EventRegisterEventRequest](/reference/Func/EventRegisterEventRequest)
+[EventDeregisterEventRequest](/domino-c-api-docs/reference/Func/EventDeregisterEventRequest)
+[EventGetDestName](/domino-c-api-docs/reference/Func/EventGetDestName)
+[EventQueueAlloc](/domino-c-api-docs/reference/Func/EventQueueAlloc)
+[EventQueueFree](/domino-c-api-docs/reference/Func/EventQueueFree)
+[EventQueuePut](/domino-c-api-docs/reference/Func/EventQueuePut)
+[EventRegisterEventRequest](/domino-c-api-docs/reference/Func/EventRegisterEventRequest)
 ---

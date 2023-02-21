@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDFRAME](/reference/Data/CDFRAME)
+[CDFRAME](/domino-c-api-docs/reference/Data/CDFRAME)
 ---

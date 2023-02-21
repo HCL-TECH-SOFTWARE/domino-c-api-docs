@@ -9,5 +9,5 @@
 Possible values for HideWhenFlags member of CDDOCAUTOLAUNCH structure.
 
 **See Also :**
-[CDDOCAUTOLAUNCH](/reference/Data/CDDOCAUTOLAUNCH)
+[CDDOCAUTOLAUNCH](/domino-c-api-docs/reference/Data/CDDOCAUTOLAUNCH)
 ---

@@ -27,8 +27,8 @@ Output :
 
 
 **See Also :**
-[FontSetExtrude](/reference/Func/FontSetExtrude)
-[FontIsExtrude](/reference/Func/FontIsExtrude)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontSetExtrude](/domino-c-api-docs/reference/Func/FontSetExtrude)
+[FontIsExtrude](/domino-c-api-docs/reference/Func/FontIsExtrude)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

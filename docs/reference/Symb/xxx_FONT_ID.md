@@ -22,7 +22,7 @@ COMP_PRESERVE_LINES,       /* preserve line breaks */
 NULL);                     /* optional NLS_PINFO */
 ```
 **See Also :**
-[FONTID](/reference/Data/FONTID)
-[FONT_FACE_xxx](/reference/Symb/FONT_FACE_xxx)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONT_FACE_xxx](/domino-c-api-docs/reference/Symb/FONT_FACE_xxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
 ---

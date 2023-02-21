@@ -32,5 +32,5 @@ tdEndAway  -  Pointer to the date and time when Out of office will end.
 
 
 **See Also :**
-[OOOSetAwayPeriod](/reference/Func/OOOSetAwayPeriod)
+[OOOSetAwayPeriod](/domino-c-api-docs/reference/Func/OOOSetAwayPeriod)
 ---

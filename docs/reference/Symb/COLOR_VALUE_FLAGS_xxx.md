@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
 ---

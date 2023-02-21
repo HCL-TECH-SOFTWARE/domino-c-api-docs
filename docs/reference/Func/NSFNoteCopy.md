@@ -81,11 +81,11 @@ note_handle_dst_ptr  -  The address of a NOTEHANDLE  in which the handle to the 
              "process one note",MB_OK);
 ```
 **See Also :**
-[NSFDbCopyNote](/reference/Func/NSFDbCopyNote)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteSetInfo](/reference/Func/NSFNoteSetInfo)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFDbCopyNote](/domino-c-api-docs/reference/Func/NSFDbCopyNote)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteSetInfo](/domino-c-api-docs/reference/Func/NSFNoteSetInfo)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

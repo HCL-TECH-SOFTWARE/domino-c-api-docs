@@ -13,6 +13,6 @@ in bytes, of the item names;  there is one WORD for each item name in the
 table.  The array is followed, in turn, by the item names as packed data.
 
 **See Also :**
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[READ_MASK_xxx](/reference/Symb/READ_MASK_xxx)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[READ_MASK_xxx](/domino-c-api-docs/reference/Symb/READ_MASK_xxx)
 ---

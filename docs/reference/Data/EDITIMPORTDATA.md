@@ -9,6 +9,6 @@
 This structure is passed to all editor imports.
 
 **See Also :**
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[EDITIXDATA](/reference/Data/EDITIXDATA)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[EDITIXDATA](/domino-c-api-docs/reference/Data/EDITIXDATA)
 ---

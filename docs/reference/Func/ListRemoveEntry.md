@@ -54,9 +54,9 @@ pListSize  -  Address of the WORD in which the new size of the text list, includ
 
 ```
 **See Also :**
-[ListAllocate](/reference/Func/ListAllocate)
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAddText](/reference/Func/ListAddText)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
 ---

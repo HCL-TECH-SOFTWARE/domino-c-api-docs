@@ -90,5 +90,5 @@ char FieldName[]="Owner";
 
 ```
 **See Also :**
-[NSFProfileGetField](/reference/Func/NSFProfileGetField)
+[NSFProfileGetField](/domino-c-api-docs/reference/Func/NSFProfileGetField)
 ---

@@ -147,8 +147,8 @@ hNoteIDTable,          (void far*)&IDTableInfo->commonInfo.exportContext))
    NSFDbClose (db_handle) ;
 ```
 **See Also :**
-[DBHANDLE](/reference/Data/DBHANDLE)
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
-[HANDLE](/reference/Data/HANDLE)
-[XML_WRITE_FUNCTION](/reference/Data/XML_WRITE_FUNCTION)
+[DBHANDLE](/domino-c-api-docs/reference/Data/DBHANDLE)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
+[HANDLE](/domino-c-api-docs/reference/Data/HANDLE)
+[XML_WRITE_FUNCTION](/domino-c-api-docs/reference/Data/XML_WRITE_FUNCTION)
 ---

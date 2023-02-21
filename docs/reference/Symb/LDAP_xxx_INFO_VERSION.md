@@ -13,8 +13,8 @@ below, before calling ldap_get_option so that it can be checked for
 consistency.  
 
 **See Also :**
-[LDAPAPIFeatureInfo](/reference/Data/LDAPAPIFeatureInfo)
-[LDAPAPIInfo](/reference/Data/LDAPAPIInfo)
-[ldap_get_option](/reference/Func/ldap_get_option)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
+[LDAPAPIFeatureInfo](/domino-c-api-docs/reference/Data/LDAPAPIFeatureInfo)
+[LDAPAPIInfo](/domino-c-api-docs/reference/Data/LDAPAPIInfo)
+[ldap_get_option](/domino-c-api-docs/reference/Func/ldap_get_option)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
 ---

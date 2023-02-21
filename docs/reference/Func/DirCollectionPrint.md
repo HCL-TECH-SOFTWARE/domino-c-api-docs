@@ -27,9 +27,9 @@ ctx  -  println()-specific context
 
 
 **See Also :**
-[DirCollectionFirstEntry](/reference/Func/DirCollectionFirstEntry)
-[DirCollectionFree](/reference/Func/DirCollectionFree)
-[DirCollectionGetNumEntries](/reference/Func/DirCollectionGetNumEntries)
-[DirCollectionNextEntry](/reference/Func/DirCollectionNextEntry)
-[DirCollectionNthEntry](/reference/Func/DirCollectionNthEntry)
+[DirCollectionFirstEntry](/domino-c-api-docs/reference/Func/DirCollectionFirstEntry)
+[DirCollectionFree](/domino-c-api-docs/reference/Func/DirCollectionFree)
+[DirCollectionGetNumEntries](/domino-c-api-docs/reference/Func/DirCollectionGetNumEntries)
+[DirCollectionNextEntry](/domino-c-api-docs/reference/Func/DirCollectionNextEntry)
+[DirCollectionNthEntry](/domino-c-api-docs/reference/Func/DirCollectionNthEntry)
 ---

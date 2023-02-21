@@ -34,8 +34,8 @@ ERR_xxx - Other errors returned by this function and includes errors returned by
 
 
 **See Also :**
-[DXLGetImporterProperty](/reference/Func/DXLGetImporterProperty)
-[DXLIMPORTHANDLE](/reference/Data/DXLIMPORTHANDLE)
-[DXLIMPORTOPTION](/reference/Data/DXLIMPORTOPTION)
-[DXL_IMPORT_PROPERTY](/reference/Data/DXL_IMPORT_PROPERTY)
+[DXLGetImporterProperty](/domino-c-api-docs/reference/Func/DXLGetImporterProperty)
+[DXLIMPORTHANDLE](/domino-c-api-docs/reference/Data/DXLIMPORTHANDLE)
+[DXLIMPORTOPTION](/domino-c-api-docs/reference/Data/DXLIMPORTOPTION)
+[DXL_IMPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_IMPORT_PROPERTY)
 ---

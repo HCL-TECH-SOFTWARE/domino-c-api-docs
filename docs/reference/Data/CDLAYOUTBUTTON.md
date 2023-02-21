@@ -18,10 +18,10 @@ Flags Flags for this button (no flags are currently defined).
 
 
 **See Also :**
-[CDLAYOUT](/reference/Data/CDLAYOUT)
-[CDLAYOUTEND](/reference/Data/CDLAYOUTEND)
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
-[ELEMENTHEADER](/reference/Data/ELEMENTHEADER)
+[CDLAYOUT](/domino-c-api-docs/reference/Data/CDLAYOUT)
+[CDLAYOUTEND](/domino-c-api-docs/reference/Data/CDLAYOUTEND)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
+[ELEMENTHEADER](/domino-c-api-docs/reference/Data/ELEMENTHEADER)
 ---

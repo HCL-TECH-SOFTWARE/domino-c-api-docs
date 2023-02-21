@@ -9,5 +9,5 @@
 Values for QuotaMethod member of DBQUOTAINFOEXT.
 
 **See Also :**
-[DBQUOTAINFOEXT](/reference/Data/DBQUOTAINFOEXT)
+[DBQUOTAINFOEXT](/domino-c-api-docs/reference/Data/DBQUOTAINFOEXT)
 ---

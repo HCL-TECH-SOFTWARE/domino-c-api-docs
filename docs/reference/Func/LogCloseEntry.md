@@ -31,6 +31,6 @@ Output :
 LogCloseEntry(log_entry);
 ```
 **See Also :**
-[LogCreateEntry](/reference/Func/LogCreateEntry)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
 ---

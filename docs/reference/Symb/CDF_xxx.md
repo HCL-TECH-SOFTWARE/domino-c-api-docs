@@ -10,5 +10,5 @@ Bit field masks used to access components of the Flags field in the
 COLLATE_DESCRIPTOR structure.
 
 **See Also :**
-[COLLATE_DESCRIPTOR](/reference/Data/COLLATE_DESCRIPTOR)
+[COLLATE_DESCRIPTOR](/domino-c-api-docs/reference/Data/COLLATE_DESCRIPTOR)
 ---

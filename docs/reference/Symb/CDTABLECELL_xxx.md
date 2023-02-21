@@ -9,5 +9,5 @@
 Flags that further describe a cell in a table.
 
 **See Also :**
-[CDTABLECELL](/reference/Data/CDTABLECELL)
+[CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
 ---

@@ -33,6 +33,6 @@ Note:  Newsletter formula flags are the same as sendmail flags, so do not use
 the ACTIONSENDMAIL_FLAG_xxx flag values for newsletter flags.
 
 **See Also :**
-[ACTIONNEWSLETTER_FLAG_xxx](/reference/Symb/ACTIONNEWSLETTER_FLAG_xxx)
-[ACTIONSENDMAIL_xxx](/reference/Symb/ACTIONSENDMAIL_xxx)
+[ACTIONNEWSLETTER_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIONNEWSLETTER_FLAG_xxx)
+[ACTIONSENDMAIL_xxx](/domino-c-api-docs/reference/Symb/ACTIONSENDMAIL_xxx)
 ---

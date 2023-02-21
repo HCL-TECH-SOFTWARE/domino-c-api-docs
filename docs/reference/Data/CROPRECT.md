@@ -9,5 +9,5 @@
 Specifies a cropping rectangle for display of graphical data.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
 ---

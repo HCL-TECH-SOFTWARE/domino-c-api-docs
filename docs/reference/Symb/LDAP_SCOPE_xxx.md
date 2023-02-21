@@ -9,9 +9,9 @@
 Scopes for searching an LDAP directory.
 
 **See Also :**
-[ldap_search](/reference/Func/ldap_search)
-[ldap_search_ext](/reference/Func/ldap_search_ext)
-[ldap_search_ext_s](/reference/Func/ldap_search_ext_s)
-[ldap_search_s](/reference/Func/ldap_search_s)
-[ldap_search_st](/reference/Func/ldap_search_st)
+[ldap_search](/domino-c-api-docs/reference/Func/ldap_search)
+[ldap_search_ext](/domino-c-api-docs/reference/Func/ldap_search_ext)
+[ldap_search_ext_s](/domino-c-api-docs/reference/Func/ldap_search_ext_s)
+[ldap_search_s](/domino-c-api-docs/reference/Func/ldap_search_s)
+[ldap_search_st](/domino-c-api-docs/reference/Func/ldap_search_st)
 ---

@@ -92,10 +92,10 @@ retSize  -  receives the value length, in bytes, of the requested item value. Le
 
 
 **See Also :**
-[NAMELocateItem2](/reference/Func/NAMELocateItem2)
-[NAMELocateMatchAndItem](/reference/Func/NAMELocateMatchAndItem)
-[NAMELocateNextMatch2](/reference/Func/NAMELocateNextMatch2)
-[NAMELocateNextName2](/reference/Func/NAMELocateNextName2)
-[NAMELookup2](/reference/Func/NAMELookup2)
-[OSLockObject](/reference/Func/OSLockObject)
+[NAMELocateItem2](/domino-c-api-docs/reference/Func/NAMELocateItem2)
+[NAMELocateMatchAndItem](/domino-c-api-docs/reference/Func/NAMELocateMatchAndItem)
+[NAMELocateNextMatch2](/domino-c-api-docs/reference/Func/NAMELocateNextMatch2)
+[NAMELocateNextName2](/domino-c-api-docs/reference/Func/NAMELocateNextName2)
+[NAMELookup2](/domino-c-api-docs/reference/Func/NAMELookup2)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
 ---

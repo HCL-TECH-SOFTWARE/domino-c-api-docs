@@ -26,8 +26,8 @@ Output :
 
 
 **See Also :**
-[FontClearShadow](/reference/Func/FontClearShadow)
-[FontGetShadowOffset](/reference/Func/FontGetShadowOffset)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontClearShadow](/domino-c-api-docs/reference/Func/FontClearShadow)
+[FontGetShadowOffset](/domino-c-api-docs/reference/Func/FontGetShadowOffset)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

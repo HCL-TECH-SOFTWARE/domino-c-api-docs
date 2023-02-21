@@ -67,10 +67,10 @@ of the FILEOBJECT structure.
 
 ```
 **See Also :**
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteDetachFile](/reference/Func/NSFNoteDetachFile)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteDetachFile](/domino-c-api-docs/reference/Func/NSFNoteDetachFile)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
 ---

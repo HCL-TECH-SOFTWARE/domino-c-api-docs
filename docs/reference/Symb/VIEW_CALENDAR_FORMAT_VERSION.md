@@ -13,5 +13,5 @@ identify changes in the record structure and interpret the data to preserve
 binary compatibility.
 
 **See Also :**
-[VIEW_CALENDAR_FORMAT](/reference/Data/VIEW_CALENDAR_FORMAT)
+[VIEW_CALENDAR_FORMAT](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT)
 ---

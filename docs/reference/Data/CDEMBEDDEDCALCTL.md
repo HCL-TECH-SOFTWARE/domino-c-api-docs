@@ -30,6 +30,6 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[EMBEDDEDCAL_FLAG_xxx](/reference/Symb/EMBEDDEDCAL_FLAG_xxx)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[EMBEDDEDCAL_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDCAL_FLAG_xxx)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

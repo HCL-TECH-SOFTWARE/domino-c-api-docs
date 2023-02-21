@@ -42,6 +42,6 @@ if (error)
   goto Done;
 ```
 **See Also :**
-[NABLookupAuthenticatedUser](/reference/Func/NABLookupAuthenticatedUser)
-[NABLookupClose](/reference/Func/NABLookupClose)
+[NABLookupAuthenticatedUser](/domino-c-api-docs/reference/Func/NABLookupAuthenticatedUser)
+[NABLookupClose](/domino-c-api-docs/reference/Func/NABLookupClose)
 ---

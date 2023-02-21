@@ -24,5 +24,5 @@ This structure is followed by the name and the display label (if any) in packed
 format (no terminating NUL).
 
 **See Also :**
-[VMODSbigobj](/reference/Data/VMODSbigobj)
+[VMODSbigobj](/domino-c-api-docs/reference/Data/VMODSbigobj)
 ---

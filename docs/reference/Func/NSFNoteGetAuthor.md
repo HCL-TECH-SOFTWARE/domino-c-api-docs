@@ -38,5 +38,5 @@ retIsItMe  -  Optional - if this pointer is non-NULL, TRUE is stored if the auth
 
 
 **See Also :**
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

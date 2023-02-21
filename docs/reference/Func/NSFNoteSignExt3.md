@@ -82,6 +82,6 @@ ERR_xxx - STATUS returned from a lower level Notes function.  This value can be 
 
 
 **See Also :**
-[SECKFMOpen](/reference/Func/SECKFMOpen)
-[SIGN_NOTES_IF_MIME_PRESENT](/reference/Symb/SIGN_NOTES_IF_MIME_PRESENT)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
+[SIGN_NOTES_IF_MIME_PRESENT](/domino-c-api-docs/reference/Symb/SIGN_NOTES_IF_MIME_PRESENT)
 ---

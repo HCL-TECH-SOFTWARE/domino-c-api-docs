@@ -10,11 +10,11 @@ Type of signal handler used by OSGetSignalHandler and OSSetSignalHandler to
 obtain address of the function that handles the signal.
 
 **See Also :**
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSSIGMSGPROC](/reference/Data/OSSIGMSGPROC)
-[OSSIGBUSYPROC](/reference/Data/OSSIGBUSYPROC)
-[OSSIGBREAKPROC](/reference/Data/OSSIGBREAKPROC)
-[OSSIGDIALPROC](/reference/Data/OSSIGDIALPROC)
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSSIGMSGPROC](/domino-c-api-docs/reference/Data/OSSIGMSGPROC)
+[OSSIGBUSYPROC](/domino-c-api-docs/reference/Data/OSSIGBUSYPROC)
+[OSSIGBREAKPROC](/domino-c-api-docs/reference/Data/OSSIGBREAKPROC)
+[OSSIGDIALPROC](/domino-c-api-docs/reference/Data/OSSIGDIALPROC)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
 ---

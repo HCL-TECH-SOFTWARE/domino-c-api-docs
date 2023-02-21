@@ -12,6 +12,6 @@ more information.
 
 
 **See Also :**
-[MIMEFreeDirectory](/reference/Func/MIMEFreeDirectory)
-[MIMEOpenDirectory](/reference/Func/MIMEOpenDirectory)
+[MIMEFreeDirectory](/domino-c-api-docs/reference/Func/MIMEFreeDirectory)
+[MIMEOpenDirectory](/domino-c-api-docs/reference/Func/MIMEOpenDirectory)
 ---

@@ -23,5 +23,5 @@ Output :
 
 
 **See Also :**
-[MailGetMessageType](/reference/Func/MailGetMessageType)
+[MailGetMessageType](/domino-c-api-docs/reference/Func/MailGetMessageType)
 ---

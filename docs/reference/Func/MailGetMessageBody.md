@@ -34,6 +34,6 @@ BodyLength  -  Length of text in body (0-64K).
 
 
 **See Also :**
-[MailGetMessageBodyText](/reference/Func/MailGetMessageBodyText)
-[MailGetMessageBodyComposite](/reference/Func/MailGetMessageBodyComposite)
+[MailGetMessageBodyText](/domino-c-api-docs/reference/Func/MailGetMessageBodyText)
+[MailGetMessageBodyComposite](/domino-c-api-docs/reference/Func/MailGetMessageBodyComposite)
 ---

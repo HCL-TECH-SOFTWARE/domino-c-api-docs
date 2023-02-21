@@ -46,7 +46,7 @@ retIntlFormat  -  The address of an INTLFORMAT structure in which the current in
 
 ```
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[INTLFORMAT](/reference/Data/INTLFORMAT)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[INTLFORMAT](/domino-c-api-docs/reference/Data/INTLFORMAT)
 ---

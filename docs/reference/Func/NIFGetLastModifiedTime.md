@@ -27,7 +27,7 @@ retLastModifiedTime  -  Modification sequence number.
 
 
 **See Also :**
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
 ---

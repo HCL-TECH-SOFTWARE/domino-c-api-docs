@@ -36,6 +36,6 @@ retfDeleted  -  The address of a BOOL variable in which the outcome of the call 
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDInsert](/reference/Func/IDInsert)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
 ---

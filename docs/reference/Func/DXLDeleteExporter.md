@@ -22,6 +22,6 @@ Output :
 
 
 **See Also :**
-[DXLCreateExporter](/reference/Func/DXLCreateExporter)
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
+[DXLCreateExporter](/domino-c-api-docs/reference/Func/DXLCreateExporter)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
 ---

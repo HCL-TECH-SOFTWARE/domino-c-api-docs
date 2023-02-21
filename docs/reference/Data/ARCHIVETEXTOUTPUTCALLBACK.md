@@ -16,5 +16,5 @@ data for the current note.
 	 NOERROR return status means that it is successful.
 
 **See Also :**
-[ArchiveDocumentGetText](/reference/Func/ArchiveDocumentGetText)
+[ArchiveDocumentGetText](/domino-c-api-docs/reference/Func/ArchiveDocumentGetText)
 ---

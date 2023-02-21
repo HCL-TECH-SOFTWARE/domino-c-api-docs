@@ -44,6 +44,6 @@ Buffer  -  Pointer to the information to be returned.  The information is return
 
 
 **See Also :**
-[INFOPARSE_xxx](/reference/Symb/INFOPARSE_xxx)
-[NSFDbInfoGet](/reference/Func/NSFDbInfoGet)
+[INFOPARSE_xxx](/domino-c-api-docs/reference/Symb/INFOPARSE_xxx)
+[NSFDbInfoGet](/domino-c-api-docs/reference/Func/NSFDbInfoGet)
 ---

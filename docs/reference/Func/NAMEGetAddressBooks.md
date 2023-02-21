@@ -156,5 +156,5 @@ OSUnlock(hReturn);
 OSMemFree(hReturn);
 ```
 **See Also :**
-[NAME_xxx](/reference/Symb/NAME_xxx)
+[NAME_xxx](/domino-c-api-docs/reference/Symb/NAME_xxx)
 ---

@@ -27,7 +27,7 @@ This structure is followed by a packed string containing the field name and any
 field value.
 
 **See Also :**
-[QUERYBYFIELD_FLAG_xxx](/reference/Symb/QUERYBYFIELD_FLAG_xxx)
-[QUERYBYFIELD_OP_xxx](/reference/Symb/QUERYBYFIELD_OP_xxx)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[QUERYBYFIELD_FLAG_xxx](/domino-c-api-docs/reference/Symb/QUERYBYFIELD_FLAG_xxx)
+[QUERYBYFIELD_OP_xxx](/domino-c-api-docs/reference/Symb/QUERYBYFIELD_OP_xxx)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

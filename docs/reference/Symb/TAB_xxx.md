@@ -11,5 +11,5 @@ which indicates the placement of text within a tab position.  You specify a
 2-bit tab type for each tab.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

@@ -9,5 +9,5 @@
 This is a short-hand definition for ORIGINATORID.
 
 **See Also :**
-[ORIGINATORID](/reference/Data/ORIGINATORID)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
 ---

@@ -10,6 +10,6 @@ The CDACTIONBAR structure contains a BorderStyle member set to one of the
 above. 
 
 **See Also :**
-[CDACTIONBAR](/reference/Data/CDACTIONBAR)
-[ACTION_LINE_xxx](/reference/Symb/ACTION_LINE_xxx)
+[CDACTIONBAR](/domino-c-api-docs/reference/Data/CDACTIONBAR)
+[ACTION_LINE_xxx](/domino-c-api-docs/reference/Symb/ACTION_LINE_xxx)
 ---

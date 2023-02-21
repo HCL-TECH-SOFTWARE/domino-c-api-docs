@@ -76,6 +76,6 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[HMIMEDIRECTORY](/reference/Data/HMIMEDIRECTORY)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[HMIMEDIRECTORY](/domino-c-api-docs/reference/Data/HMIMEDIRECTORY)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

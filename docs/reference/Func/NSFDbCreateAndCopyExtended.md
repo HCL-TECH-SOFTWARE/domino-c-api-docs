@@ -66,6 +66,6 @@ DBHANDLE far *  -  Address of location to store handle to newly created database
 
 
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
-[NSFDbCreateAndCopy](/reference/Func/NSFDbCreateAndCopy)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
+[NSFDbCreateAndCopy](/domino-c-api-docs/reference/Func/NSFDbCreateAndCopy)
 ---

@@ -82,9 +82,9 @@ value_len_ptr  -  Address of the DWORD in which the length of the item value is 
        printf("\tITEM_PROTECTED\n");
 ```
 **See Also :**
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemQueryEx](/reference/Func/NSFItemQueryEx)
-[NSFItemScan](/reference/Func/NSFItemScan)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemQueryEx](/domino-c-api-docs/reference/Func/NSFItemQueryEx)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
 ---

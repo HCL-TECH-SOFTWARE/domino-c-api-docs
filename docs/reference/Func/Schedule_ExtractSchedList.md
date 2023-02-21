@@ -38,5 +38,5 @@ rethMore  -  If not NULLCNTNROBJ then this is the handle to more busytime inform
 
 
 **See Also :**
-[Schedule_ExtractMoreSchedList](/reference/Func/Schedule_ExtractMoreSchedList)
+[Schedule_ExtractMoreSchedList](/domino-c-api-docs/reference/Func/Schedule_ExtractMoreSchedList)
 ---

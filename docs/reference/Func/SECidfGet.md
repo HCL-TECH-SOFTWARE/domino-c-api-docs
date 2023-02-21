@@ -59,5 +59,5 @@ pServerName  -  Name of server to contact - on successful return, name of server
 	  NULL);
 ```
 **See Also :**
-[SECidfPut](/reference/Func/SECidfPut)
+[SECidfPut](/domino-c-api-docs/reference/Func/SECidfPut)
 ---

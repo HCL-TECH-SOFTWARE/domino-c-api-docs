@@ -77,6 +77,6 @@ struct */
 	}
 ```
 **See Also :**
-[NABLookupClose](/reference/Func/NABLookupClose)
-[NABLookupOpen](/reference/Func/NABLookupOpen)
+[NABLookupClose](/domino-c-api-docs/reference/Func/NABLookupClose)
+[NABLookupOpen](/domino-c-api-docs/reference/Func/NABLookupOpen)
 ---

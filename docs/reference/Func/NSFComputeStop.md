@@ -23,6 +23,6 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NSFComputeStart](/reference/Func/NSFComputeStart)
-[NSFComputeEvaluate](/reference/Func/NSFComputeEvaluate)
+[NSFComputeStart](/domino-c-api-docs/reference/Func/NSFComputeStart)
+[NSFComputeEvaluate](/domino-c-api-docs/reference/Func/NSFComputeEvaluate)
 ---

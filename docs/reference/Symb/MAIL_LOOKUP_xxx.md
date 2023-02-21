@@ -9,5 +9,5 @@
 Options for MailFindNextHopToRecipientExt.
 
 **See Also :**
-[MailFindNextHopToRecipientExt](/reference/Func/MailFindNextHopToRecipientExt)
+[MailFindNextHopToRecipientExt](/domino-c-api-docs/reference/Func/MailFindNextHopToRecipientExt)
 ---

@@ -22,5 +22,5 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[SECAttachToID](/reference/Func/SECAttachToID)
+[SECAttachToID](/domino-c-api-docs/reference/Func/SECAttachToID)
 ---

@@ -18,5 +18,5 @@ BerElement value simultaneously.
 A single BerElement value cannot be used for both encoding and decoding.
 
 **See Also :**
-[ldap_first_attribute](/reference/Func/ldap_first_attribute)
+[ldap_first_attribute](/domino-c-api-docs/reference/Func/ldap_first_attribute)
 ---

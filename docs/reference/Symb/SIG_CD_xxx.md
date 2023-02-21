@@ -254,9 +254,9 @@ STATUS LNPUBLIC CDParse(
 }
 ```
 **See Also :**
-[BSIG](/reference/Data/BSIG)
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[FONTID](/reference/Data/FONTID)
-[LSIG](/reference/Data/LSIG)
-[WSIG](/reference/Data/WSIG)
+[BSIG](/domino-c-api-docs/reference/Data/BSIG)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[LSIG](/domino-c-api-docs/reference/Data/LSIG)
+[WSIG](/domino-c-api-docs/reference/Data/WSIG)
 ---

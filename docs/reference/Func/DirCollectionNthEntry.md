@@ -25,8 +25,8 @@ DirEntryFree() may be called on the returned directory entry object to remove it
 
 
 **See Also :**
-[DirCollectionFirstEntry](/reference/Func/DirCollectionFirstEntry)
-[DirCollectionFree](/reference/Func/DirCollectionFree)
-[DirCollectionGetNumEntries](/reference/Func/DirCollectionGetNumEntries)
-[DirCollectionNextEntry](/reference/Func/DirCollectionNextEntry)
+[DirCollectionFirstEntry](/domino-c-api-docs/reference/Func/DirCollectionFirstEntry)
+[DirCollectionFree](/domino-c-api-docs/reference/Func/DirCollectionFree)
+[DirCollectionGetNumEntries](/domino-c-api-docs/reference/Func/DirCollectionGetNumEntries)
+[DirCollectionNextEntry](/domino-c-api-docs/reference/Func/DirCollectionNextEntry)
 ---

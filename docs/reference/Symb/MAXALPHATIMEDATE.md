@@ -13,6 +13,6 @@ will be large enough to hold the worst-case (largest) TIMEDATE character
 string.
 
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
 ---

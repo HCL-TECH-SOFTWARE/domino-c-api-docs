@@ -11,5 +11,5 @@ Maximum size for a filter description.
 kMaxFilterDesc - 255
 
 **See Also :**
-[FilterInitData](/reference/Data/FilterInitData)
+[FilterInitData](/domino-c-api-docs/reference/Data/FilterInitData)
 ---

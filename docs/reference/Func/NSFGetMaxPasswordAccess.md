@@ -26,6 +26,6 @@ retLevel  -  Returns the database's maximum internet name and password access le
 
 
 **See Also :**
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[NSFSetMaxPasswordAccess](/reference/Func/NSFSetMaxPasswordAccess)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[NSFSetMaxPasswordAccess](/domino-c-api-docs/reference/Func/NSFSetMaxPasswordAccess)
 ---

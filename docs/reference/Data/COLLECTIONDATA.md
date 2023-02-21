@@ -62,8 +62,8 @@ pCollData->KeyOffset[PERCENTILE_50];
 	}
 ```
 **See Also :**
-[ITEM_VALUE_TABLE](/reference/Data/ITEM_VALUE_TABLE)
-[NIFGetCollectionData](/reference/Func/NIFGetCollectionData)
-[PERCENTILE_COUNT](/reference/Symb/PERCENTILE_COUNT)
-[PERCENTILE_xxx](/reference/Symb/PERCENTILE_xxx)
+[ITEM_VALUE_TABLE](/domino-c-api-docs/reference/Data/ITEM_VALUE_TABLE)
+[NIFGetCollectionData](/domino-c-api-docs/reference/Func/NIFGetCollectionData)
+[PERCENTILE_COUNT](/domino-c-api-docs/reference/Symb/PERCENTILE_COUNT)
+[PERCENTILE_xxx](/domino-c-api-docs/reference/Symb/PERCENTILE_xxx)
 ---

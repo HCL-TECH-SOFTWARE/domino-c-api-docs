@@ -58,7 +58,7 @@ if (DQNonePending)
 }
 ```
 **See Also :**
-[AddInIdle](/reference/Func/AddInIdle)
-[AddInMain](/reference/Func/AddInMain)
-[AddInShouldTerminate](/reference/Func/AddInShouldTerminate)
+[AddInIdle](/domino-c-api-docs/reference/Func/AddInIdle)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[AddInShouldTerminate](/domino-c-api-docs/reference/Func/AddInShouldTerminate)
 ---

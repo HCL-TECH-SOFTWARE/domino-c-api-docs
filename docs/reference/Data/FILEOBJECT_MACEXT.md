@@ -12,5 +12,5 @@ HOST_MAC, then the FILEOBJECT structure is followed by a FILEOBJECT_MAC
 structure.
 
 **See Also :**
-[FILEOBJECT](/reference/Data/FILEOBJECT)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
 ---

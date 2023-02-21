@@ -11,5 +11,5 @@ FT_SEARCH_RESULT_ENTRY array that is returned by FTSearch when a search is
 performed on a search site database that has a multi-database index.
 
 **See Also :**
-[FT_SEARCH_RESULT_ENTRY](/reference/Data/FT_SEARCH_RESULT_ENTRY)
+[FT_SEARCH_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULT_ENTRY)
 ---

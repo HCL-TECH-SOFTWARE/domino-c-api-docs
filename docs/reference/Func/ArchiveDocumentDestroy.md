@@ -18,6 +18,6 @@ hArchDoc  -  Handle to an archive document.
 
 
 **See Also :**
-[ArchiveDocumentExport](/reference/Func/ArchiveDocumentExport)
-[ArchiveRestoreDocument](/reference/Func/ArchiveRestoreDocument)
+[ArchiveDocumentExport](/domino-c-api-docs/reference/Func/ArchiveDocumentExport)
+[ArchiveRestoreDocument](/domino-c-api-docs/reference/Func/ArchiveRestoreDocument)
 ---

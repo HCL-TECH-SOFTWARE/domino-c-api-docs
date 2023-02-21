@@ -9,6 +9,6 @@
 These values specifiy the view column alignment.
 
 **See Also :**
-[IXCOLDESC](/reference/Data/IXCOLDESC)
-[IXCOLUMNTEXTDESC](/reference/Data/IXCOLUMNTEXTDESC)
+[IXCOLDESC](/domino-c-api-docs/reference/Data/IXCOLDESC)
+[IXCOLUMNTEXTDESC](/domino-c-api-docs/reference/Data/IXCOLUMNTEXTDESC)
 ---

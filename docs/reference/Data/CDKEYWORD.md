@@ -22,7 +22,7 @@ indicating whether or not the corresponding keyword is enabled, '1' for On or
 allowable keywords.
 
 **See Also :**
-[CDFIELD](/reference/Data/CDFIELD)
-[TYPE_xxx [TEXT_LIST]](/reference/Symb/TYPE_xxx [TEXT_LIST])
-[CDKEYWORD_xxx](/reference/Symb/CDKEYWORD_xxx)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
+[TYPE_xxx [TEXT_LIST]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TEXT_LIST])
+[CDKEYWORD_xxx](/domino-c-api-docs/reference/Symb/CDKEYWORD_xxx)
 ---

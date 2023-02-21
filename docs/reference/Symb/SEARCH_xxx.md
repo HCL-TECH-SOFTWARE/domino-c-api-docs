@@ -31,5 +31,5 @@ bitwise-ORed together to combine functionality.
     }
 ```
 **See Also :**
-[NSFSearch](/reference/Func/NSFSearch)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
 ---

@@ -46,9 +46,9 @@ specify the two alternating background colors of the rows.
   
 
 **See Also :**
-[CDPRETABLE_xxx](/reference/Symb/CDPRETABLE_xxx)
-[CDTABLEVIEWER_xxx](/reference/Symb/CDTABLEVIEWER_xxx)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[CDTABLEBEGIN](/reference/Data/CDTABLEBEGIN)
-[CDTABLE_xxx](/reference/Symb/CDTABLE_xxx)
+[CDPRETABLE_xxx](/domino-c-api-docs/reference/Symb/CDPRETABLE_xxx)
+[CDTABLEVIEWER_xxx](/domino-c-api-docs/reference/Symb/CDTABLEVIEWER_xxx)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[CDTABLEBEGIN](/domino-c-api-docs/reference/Data/CDTABLEBEGIN)
+[CDTABLE_xxx](/domino-c-api-docs/reference/Symb/CDTABLE_xxx)
 ---

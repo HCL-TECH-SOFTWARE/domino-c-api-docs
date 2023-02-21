@@ -43,12 +43,12 @@ pdwNumDocs  -  Pointer to the returned number of documents in the folder.
 error = FolderDocCount (hDB, NULLHANDLE, FNoteID, 0L, &DocCount);
 ```
 **See Also :**
-[FolderCopy](/reference/Func/FolderCopy)
-[FolderCreate](/reference/Func/FolderCreate)
-[FolderDelete](/reference/Func/FolderDelete)
-[FolderDocAdd](/reference/Func/FolderDocAdd)
-[FolderDocRemove](/reference/Func/FolderDocRemove)
-[FolderDocRemoveAll](/reference/Func/FolderDocRemoveAll)
-[FolderMove](/reference/Func/FolderMove)
-[FolderRename](/reference/Func/FolderRename)
+[FolderCopy](/domino-c-api-docs/reference/Func/FolderCopy)
+[FolderCreate](/domino-c-api-docs/reference/Func/FolderCreate)
+[FolderDelete](/domino-c-api-docs/reference/Func/FolderDelete)
+[FolderDocAdd](/domino-c-api-docs/reference/Func/FolderDocAdd)
+[FolderDocRemove](/domino-c-api-docs/reference/Func/FolderDocRemove)
+[FolderDocRemoveAll](/domino-c-api-docs/reference/Func/FolderDocRemoveAll)
+[FolderMove](/domino-c-api-docs/reference/Func/FolderMove)
+[FolderRename](/domino-c-api-docs/reference/Func/FolderRename)
 ---

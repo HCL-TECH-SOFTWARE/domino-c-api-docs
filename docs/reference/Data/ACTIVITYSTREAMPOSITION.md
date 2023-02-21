@@ -12,6 +12,6 @@ note item or file, and restore it to resume processing at the previous stopping
 position.
 
 **See Also :**
-[LogEnumActivityStream](/reference/Func/LogEnumActivityStream)
-[LogSetActivityStreamPosition](/reference/Func/LogSetActivityStreamPosition)
+[LogEnumActivityStream](/domino-c-api-docs/reference/Func/LogEnumActivityStream)
+[LogSetActivityStreamPosition](/domino-c-api-docs/reference/Func/LogSetActivityStreamPosition)
 ---

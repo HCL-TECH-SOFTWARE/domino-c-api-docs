@@ -72,8 +72,8 @@ if (!OSLoadString(hModule, PKG_ADDIN+1, Version, sizeof(Version)-1))
  Version[0] = 0;
 ```
 **See Also :**
-[AddInCreateStatusLine](/reference/Func/AddInCreateStatusLine)
-[AddInDeleteStatusLine](/reference/Func/AddInDeleteStatusLine)
-[OSLoadString](/reference/Func/OSLoadString)
-[AddInMain](/reference/Func/AddInMain)
+[AddInCreateStatusLine](/domino-c-api-docs/reference/Func/AddInCreateStatusLine)
+[AddInDeleteStatusLine](/domino-c-api-docs/reference/Func/AddInDeleteStatusLine)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
 ---

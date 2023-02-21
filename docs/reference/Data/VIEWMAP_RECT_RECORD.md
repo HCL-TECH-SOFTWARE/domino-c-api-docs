@@ -24,5 +24,5 @@ This structure is followed by the name and the display label (if any, as
 defined by DRObj) in packed format (no terminating NUL).
 
 **See Also :**
-[VMODSdrobj](/reference/Data/VMODSdrobj)
+[VMODSdrobj](/domino-c-api-docs/reference/Data/VMODSdrobj)
 ---

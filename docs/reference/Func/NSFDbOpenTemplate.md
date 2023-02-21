@@ -64,10 +64,10 @@ rethDB  -  The address of a DBHANDLE in which a handle to the opened template is
 
 
 **See Also :**
-[NSFDbClose](/reference/Func/NSFDbClose)
-[NSFDbCreate](/reference/Func/NSFDbCreate)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenTemplateExtended](/reference/Func/NSFDbOpenTemplateExtended)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[NSFDbClose](/domino-c-api-docs/reference/Func/NSFDbClose)
+[NSFDbCreate](/domino-c-api-docs/reference/Func/NSFDbCreate)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenTemplateExtended](/domino-c-api-docs/reference/Func/NSFDbOpenTemplateExtended)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

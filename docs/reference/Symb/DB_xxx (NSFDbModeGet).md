@@ -10,6 +10,6 @@ The function NSFDbModeGet returns one of these values to indicate whether a
 DBHANDLE is a handle to a database or a handle to a directory.
 
 **See Also :**
-[NSFDbModeGet](/reference/Func/NSFDbModeGet)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
+[NSFDbModeGet](/domino-c-api-docs/reference/Func/NSFDbModeGet)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
 ---

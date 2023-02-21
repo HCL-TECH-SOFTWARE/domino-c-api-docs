@@ -16,5 +16,5 @@ if (error = FolderCreate (hDB2, NULLHANDLE, FormatNoteID, hDB1,
                           0L, &FNoteID))
 ```
 **See Also :**
-[FolderCreate](/reference/Func/FolderCreate)
+[FolderCreate](/domino-c-api-docs/reference/Func/FolderCreate)
 ---

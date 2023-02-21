@@ -12,11 +12,11 @@ cast to a specific signal handler function type, OSSIGMSGPROC, OSSIGBUSYPROC,
 OSSIGBREAKPROC, or OSSIGDIALPROC to call the signal handler.
 
 **See Also :**
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
-[OSSIGMSGPROC](/reference/Data/OSSIGMSGPROC)
-[OSSIGBUSYPROC](/reference/Data/OSSIGBUSYPROC)
-[OSSIGBREAKPROC](/reference/Data/OSSIGBREAKPROC)
-[OSSIGDIALPROC](/reference/Data/OSSIGDIALPROC)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
+[OSSIGMSGPROC](/domino-c-api-docs/reference/Data/OSSIGMSGPROC)
+[OSSIGBUSYPROC](/domino-c-api-docs/reference/Data/OSSIGBUSYPROC)
+[OSSIGBREAKPROC](/domino-c-api-docs/reference/Data/OSSIGBREAKPROC)
+[OSSIGDIALPROC](/domino-c-api-docs/reference/Data/OSSIGDIALPROC)
 ---

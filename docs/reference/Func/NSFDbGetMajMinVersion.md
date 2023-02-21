@@ -54,7 +54,7 @@ bv.QMRNumber, bv.QMUNumber, bv.HotfixNumber, bv.Flags);
   }
 ```
 **See Also :**
-[BLDVERFLAGS_xxx](/reference/Symb/BLDVERFLAGS_xxx)
-[BUILDVERSION](/reference/Data/BUILDVERSION)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
+[BLDVERFLAGS_xxx](/domino-c-api-docs/reference/Symb/BLDVERFLAGS_xxx)
+[BUILDVERSION](/domino-c-api-docs/reference/Data/BUILDVERSION)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
 ---

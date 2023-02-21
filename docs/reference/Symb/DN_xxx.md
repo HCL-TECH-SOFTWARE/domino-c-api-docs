@@ -11,5 +11,5 @@ distinguished name.  A value of 0L means that the distinguished name does not
 have any of the DN_xxx attributes.
 
 **See Also :**
-[DN_COMPONENTS](/reference/Data/DN_COMPONENTS)
+[DN_COMPONENTS](/domino-c-api-docs/reference/Data/DN_COMPONENTS)
 ---

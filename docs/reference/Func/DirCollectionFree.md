@@ -22,10 +22,10 @@ Output :
 
 
 **See Also :**
-[DIRCOLLECTION](/reference/Data/DIRCOLLECTION)
-[DirCollectionFirstEntry](/reference/Func/DirCollectionFirstEntry)
-[DirCollectionGetNumEntries](/reference/Func/DirCollectionGetNumEntries)
-[DirCollectionNextEntry](/reference/Func/DirCollectionNextEntry)
-[DirCollectionNthEntry](/reference/Func/DirCollectionNthEntry)
-[DirCollectionPrint](/reference/Func/DirCollectionPrint)
+[DIRCOLLECTION](/domino-c-api-docs/reference/Data/DIRCOLLECTION)
+[DirCollectionFirstEntry](/domino-c-api-docs/reference/Func/DirCollectionFirstEntry)
+[DirCollectionGetNumEntries](/domino-c-api-docs/reference/Func/DirCollectionGetNumEntries)
+[DirCollectionNextEntry](/domino-c-api-docs/reference/Func/DirCollectionNextEntry)
+[DirCollectionNthEntry](/domino-c-api-docs/reference/Func/DirCollectionNthEntry)
+[DirCollectionPrint](/domino-c-api-docs/reference/Func/DirCollectionPrint)
 ---

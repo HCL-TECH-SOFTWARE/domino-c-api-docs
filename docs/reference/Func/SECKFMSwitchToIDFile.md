@@ -51,5 +51,5 @@ pUserName  -  Points to a buffer where the user name, in the ID file that is to 
 
 
 **See Also :**
-[fKFM_switchid_xxx](/reference/Symb/fKFM_switchid_xxx)
+[fKFM_switchid_xxx](/domino-c-api-docs/reference/Symb/fKFM_switchid_xxx)
 ---

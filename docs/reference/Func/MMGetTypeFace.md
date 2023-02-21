@@ -32,6 +32,6 @@ wTypeFace = MMGetTypeFace(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetTypeFace](/reference/Func/MMSetTypeFace)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetTypeFace](/domino-c-api-docs/reference/Func/MMSetTypeFace)
 ---

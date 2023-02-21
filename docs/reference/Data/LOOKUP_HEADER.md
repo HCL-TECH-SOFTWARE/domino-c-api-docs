@@ -10,6 +10,6 @@ NAMELookup returns a handle to a buffer containing name information. The buffer
 consists of this header followed by a series of data records.
 
 **See Also :**
-[NAMELookup](/reference/Func/NAMELookup)
-[LOOKUP_INFO](/reference/Data/LOOKUP_INFO)
+[NAMELookup](/domino-c-api-docs/reference/Func/NAMELookup)
+[LOOKUP_INFO](/domino-c-api-docs/reference/Data/LOOKUP_INFO)
 ---

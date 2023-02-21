@@ -42,5 +42,5 @@ Output :
     }
 ```
 **See Also :**
-[ldap_simple_bind](/reference/Func/ldap_simple_bind)
+[ldap_simple_bind](/domino-c-api-docs/reference/Func/ldap_simple_bind)
 ---

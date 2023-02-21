@@ -9,5 +9,5 @@
 Flag values stored in the Flags field of the CDHRULE record.
 
 **See Also :**
-[CDHRULE](/reference/Data/CDHRULE)
+[CDHRULE](/domino-c-api-docs/reference/Data/CDHRULE)
 ---

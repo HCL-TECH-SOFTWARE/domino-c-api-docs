@@ -11,7 +11,7 @@ This version number is applied to the Version member within a CDBEGINRECORD and
 to the Version member within a CDENDRECORD.
 
 **See Also :**
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
-[CDINLINE](/reference/Data/CDINLINE)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
+[CDINLINE](/domino-c-api-docs/reference/Data/CDINLINE)
 ---

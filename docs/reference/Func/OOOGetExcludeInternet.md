@@ -28,5 +28,5 @@ bExcludeInternet  -  Pointer to flag that indicates whether to ignore internet e
 
 
 **See Also :**
-[OOOSetExcludeInternet](/reference/Func/OOOSetExcludeInternet)
+[OOOSetExcludeInternet](/domino-c-api-docs/reference/Func/OOOSetExcludeInternet)
 ---

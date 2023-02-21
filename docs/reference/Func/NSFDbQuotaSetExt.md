@@ -59,6 +59,6 @@ if (error)
 }
 ```
 **See Also :**
-[DBQUOTAINFO](/reference/Data/DBQUOTAINFO)
-[NSFDbQuotaGet](/reference/Func/NSFDbQuotaGet)
+[DBQUOTAINFO](/domino-c-api-docs/reference/Data/DBQUOTAINFO)
+[NSFDbQuotaGet](/domino-c-api-docs/reference/Func/NSFDbQuotaGet)
 ---

@@ -38,5 +38,5 @@ hTable  -  Address where the handle for the ID Table will be stored.
 
 
 **See Also :**
-[DB_GETIDTABLE_xxx](/reference/Symb/DB_GETIDTABLE_xxx)
+[DB_GETIDTABLE_xxx](/domino-c-api-docs/reference/Symb/DB_GETIDTABLE_xxx)
 ---

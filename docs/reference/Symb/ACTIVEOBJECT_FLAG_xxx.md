@@ -9,5 +9,5 @@
 Flag settings for the Flags member within an ACTIVEOBJECT record.
 
 **See Also :**
-[ACTIVEOBJECT](/reference/Data/ACTIVEOBJECT)
+[ACTIVEOBJECT](/domino-c-api-docs/reference/Data/ACTIVEOBJECT)
 ---

@@ -114,8 +114,8 @@ retUntil  -  The ending (current) time/date of this search.  Returned so that it
 
 
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[NSFSearch](/reference/Func/NSFSearch)
-[NSFSEARCHPROC](/reference/Data/NSFSEARCHPROC)
-[SEARCH_xxx](/reference/Symb/SEARCH_xxx)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NSFSEARCHPROC](/domino-c-api-docs/reference/Data/NSFSEARCHPROC)
+[SEARCH_xxx](/domino-c-api-docs/reference/Symb/SEARCH_xxx)
 ---

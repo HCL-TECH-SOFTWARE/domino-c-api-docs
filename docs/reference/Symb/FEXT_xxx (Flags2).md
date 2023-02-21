@@ -9,5 +9,5 @@
 These options are stored in the Flags2 field of the CDEXTFIELD record.
 
 **See Also :**
-[CDEXTFIELD](/reference/Data/CDEXTFIELD)
+[CDEXTFIELD](/domino-c-api-docs/reference/Data/CDEXTFIELD)
 ---

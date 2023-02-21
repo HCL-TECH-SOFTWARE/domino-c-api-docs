@@ -38,8 +38,8 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[KFM_PASSWORD](/reference/Data/KFM_PASSWORD)
-[NSFDB2DeleteUsernamePW](/reference/Func/NSFDB2DeleteUsernamePW)
-[NSFDB2GetUsernamePW](/reference/Func/NSFDB2GetUsernamePW)
-[SECKFMCreatePassword](/reference/Func/SECKFMCreatePassword)
+[KFM_PASSWORD](/domino-c-api-docs/reference/Data/KFM_PASSWORD)
+[NSFDB2DeleteUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2DeleteUsernamePW)
+[NSFDB2GetUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2GetUsernamePW)
+[SECKFMCreatePassword](/domino-c-api-docs/reference/Func/SECKFMCreatePassword)
 ---

@@ -35,6 +35,6 @@ retAddressBookModified  -  TRUE if the  Domino Directory (Server's Address book)
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
 ---

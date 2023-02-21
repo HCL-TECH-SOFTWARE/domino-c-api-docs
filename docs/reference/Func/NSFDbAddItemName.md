@@ -40,5 +40,5 @@ rtnItemNumber  -  The item number of the item added to the Item Definition Table
 
 
 **See Also :**
-[NSFDbItemDefTable](/reference/Func/NSFDbItemDefTable)
+[NSFDbItemDefTable](/domino-c-api-docs/reference/Func/NSFDbItemDefTable)
 ---

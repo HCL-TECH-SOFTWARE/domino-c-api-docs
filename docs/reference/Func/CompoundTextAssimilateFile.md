@@ -82,6 +82,6 @@ return Status;
 ...
 ```
 **See Also :**
-[CompoundTextAssimilateItem](/reference/Func/CompoundTextAssimilateItem)
-[CompoundTextClose](/reference/Func/CompoundTextClose)
+[CompoundTextAssimilateItem](/domino-c-api-docs/reference/Func/CompoundTextAssimilateItem)
+[CompoundTextClose](/domino-c-api-docs/reference/Func/CompoundTextClose)
 ---

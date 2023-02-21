@@ -12,5 +12,5 @@ This set of paragraph attribute flags are used in the Flags member of the
 CDPABDEFINITION record to describe the paragraph attributes in a table cell.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

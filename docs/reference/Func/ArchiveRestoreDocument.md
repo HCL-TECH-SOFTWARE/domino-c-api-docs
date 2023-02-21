@@ -38,7 +38,7 @@ hNote  -  Handle to note created from export stream.
 
 
 **See Also :**
-[ARCHIVEATTACHIMPORT](/reference/Data/ARCHIVEATTACHIMPORT)
-[ArchiveDocumentImport](/reference/Func/ArchiveDocumentImport)
-[HARCHIVEDOCUMENT](/reference/Data/HARCHIVEDOCUMENT)
+[ARCHIVEATTACHIMPORT](/domino-c-api-docs/reference/Data/ARCHIVEATTACHIMPORT)
+[ArchiveDocumentImport](/domino-c-api-docs/reference/Func/ArchiveDocumentImport)
+[HARCHIVEDOCUMENT](/domino-c-api-docs/reference/Data/HARCHIVEDOCUMENT)
 ---

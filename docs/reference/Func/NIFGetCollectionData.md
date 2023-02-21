@@ -40,6 +40,6 @@ rethCollData  -  Handle to memory containing the COLLECTIONDATA structure.
 
 
 **See Also :**
-[COLLECTIONDATA](/reference/Data/COLLECTIONDATA)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
+[COLLECTIONDATA](/domino-c-api-docs/reference/Data/COLLECTIONDATA)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
 ---

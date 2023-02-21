@@ -10,5 +10,5 @@ These values represent the dwDeleteInNABType member of an ADMINReqParams
 structure.
 
 **See Also :**
-[ADMINReqParams](/reference/Data/ADMINReqParams)
+[ADMINReqParams](/domino-c-api-docs/reference/Data/ADMINReqParams)
 ---

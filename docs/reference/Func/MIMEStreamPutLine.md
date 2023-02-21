@@ -45,7 +45,7 @@ if ((iReturn = MIMEStreamPutLine(pszLine, hMIMEStream)) == MIME_STREAM_IO) {
 
 ```
 **See Also :**
-[MIMEStreamGetLine](/reference/Func/MIMEStreamGetLine)
-[MIMEStreamItemize](/reference/Func/MIMEStreamItemize)
-[MIME_STREAM_xxx](/reference/Symb/MIME_STREAM_xxx)
+[MIMEStreamGetLine](/domino-c-api-docs/reference/Func/MIMEStreamGetLine)
+[MIMEStreamItemize](/domino-c-api-docs/reference/Func/MIMEStreamItemize)
+[MIME_STREAM_xxx](/domino-c-api-docs/reference/Symb/MIME_STREAM_xxx)
 ---

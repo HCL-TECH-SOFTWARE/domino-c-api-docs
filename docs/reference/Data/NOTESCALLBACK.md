@@ -59,9 +59,9 @@ STATUS NOTESCALLBACK print_fields (
         NULL);          /* returned ending date (unused) */
 ```
 **See Also :**
-[LNCALLBACK](/reference/Data/LNCALLBACK)
-[NOTESAPI](/reference/Data/NOTESAPI)
-[NOTESAPICDECL](/reference/Data/NOTESAPICDECL)
-[NOTESCALLBACKPTR](/reference/Data/NOTESCALLBACKPTR)
-[NotesMain](/reference/Func/NotesMain)
+[LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
+[NOTESAPI](/domino-c-api-docs/reference/Data/NOTESAPI)
+[NOTESAPICDECL](/domino-c-api-docs/reference/Data/NOTESAPICDECL)
+[NOTESCALLBACKPTR](/domino-c-api-docs/reference/Data/NOTESCALLBACKPTR)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
 ---

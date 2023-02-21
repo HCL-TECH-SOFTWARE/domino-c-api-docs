@@ -34,9 +34,9 @@ Output :
 
 
 **See Also :**
-[OSLoadString](/reference/Func/OSLoadString)
-[STATUS](/reference/Data/STATUS)
-[ERRNUM_MASK](/reference/Symb/ERRNUM_MASK)
-[ERR](/reference/Func/ERR)
-[PKG](/reference/Func/PKG)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
+[ERRNUM_MASK](/domino-c-api-docs/reference/Symb/ERRNUM_MASK)
+[ERR](/domino-c-api-docs/reference/Func/ERR)
+[PKG](/domino-c-api-docs/reference/Func/PKG)
 ---

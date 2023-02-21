@@ -14,5 +14,5 @@ kUserPassword - asking for the web user's password.
 kUserGroupList - asking for the user's group list.
 
 **See Also :**
-[FilterAuthenticatedUser](/reference/Data/FilterAuthenticatedUser)
+[FilterAuthenticatedUser](/domino-c-api-docs/reference/Data/FilterAuthenticatedUser)
 ---

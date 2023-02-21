@@ -32,11 +32,11 @@ typedef VARARG_PTR * VARARG_PTR_P;
 #endif
 
 **See Also :**
-[VARARG_ADDR](/reference/Func/VARARG_ADDR)
-[VARARG_COPY](/reference/Func/VARARG_COPY)
-[VARARG_DEREF](/reference/Func/VARARG_DEREF)
-[VARARG_GET](/reference/Func/VARARG_GET)
-[VARARG_PEEK](/reference/Func/VARARG_PEEK)
-[VARARG_PTR](/reference/Data/VARARG_PTR)
-[VARARG_START](/reference/Func/VARARG_START)
+[VARARG_ADDR](/domino-c-api-docs/reference/Func/VARARG_ADDR)
+[VARARG_COPY](/domino-c-api-docs/reference/Func/VARARG_COPY)
+[VARARG_DEREF](/domino-c-api-docs/reference/Func/VARARG_DEREF)
+[VARARG_GET](/domino-c-api-docs/reference/Func/VARARG_GET)
+[VARARG_PEEK](/domino-c-api-docs/reference/Func/VARARG_PEEK)
+[VARARG_PTR](/domino-c-api-docs/reference/Data/VARARG_PTR)
+[VARARG_START](/domino-c-api-docs/reference/Func/VARARG_START)
 ---

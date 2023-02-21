@@ -40,8 +40,8 @@ is to be placed.
             May be NULL if this information is not needed.
 
 **See Also :**
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

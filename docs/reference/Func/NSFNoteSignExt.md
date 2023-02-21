@@ -126,7 +126,7 @@ if (error = NSFNoteSignExt( hNote,
 OSMemFree(hItemBLOCKIDs);
 ```
 **See Also :**
-[NSFNoteSign](/reference/Func/NSFNoteSign)
-[NSFNoteVerifySignature](/reference/Func/NSFNoteVerifySignature)
-[NSFNoteUnsign](/reference/Func/NSFNoteUnsign)
+[NSFNoteSign](/domino-c-api-docs/reference/Func/NSFNoteSign)
+[NSFNoteVerifySignature](/domino-c-api-docs/reference/Func/NSFNoteVerifySignature)
+[NSFNoteUnsign](/domino-c-api-docs/reference/Func/NSFNoteUnsign)
 ---

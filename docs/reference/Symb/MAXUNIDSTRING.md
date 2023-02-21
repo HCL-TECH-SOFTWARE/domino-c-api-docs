@@ -9,5 +9,5 @@
 Maximum length of UNID string.
 
 **See Also :**
-[UNID](/reference/Data/UNID)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
 ---

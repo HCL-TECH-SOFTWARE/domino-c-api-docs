@@ -22,8 +22,8 @@ structure you've defined. This function will fill in the remaining integer
 members of the TIME structure with the time in GMT.
 
 **See Also :**
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[TimeGMToLocalZone](/reference/Func/TimeGMToLocalZone)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[TimeGMToLocalZone](/domino-c-api-docs/reference/Func/TimeGMToLocalZone)
 ---

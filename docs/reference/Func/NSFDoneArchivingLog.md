@@ -39,6 +39,6 @@ ERR_xxx - Errors returned by lower level functions.  Call to OSLoadString to int
 
 ```
 **See Also :**
-[NSFGetFirstLogToArchive](/reference/Func/NSFGetFirstLogToArchive)
-[NSFGetNextLogToArchive](/reference/Func/NSFGetNextLogToArchive)
+[NSFGetFirstLogToArchive](/domino-c-api-docs/reference/Func/NSFGetFirstLogToArchive)
+[NSFGetNextLogToArchive](/domino-c-api-docs/reference/Func/NSFGetNextLogToArchive)
 ---

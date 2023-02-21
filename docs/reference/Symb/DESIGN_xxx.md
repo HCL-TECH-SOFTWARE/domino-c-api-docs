@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[DesignRefresh](/reference/Func/DesignRefresh)
+[DesignRefresh](/domino-c-api-docs/reference/Func/DesignRefresh)
 ---

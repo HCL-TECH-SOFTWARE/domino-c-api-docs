@@ -44,10 +44,10 @@ applets.  This is incorrect.  The object name is for OLE objects.
 The ACTIVEOBJECTSTORAGELINK and ACTIVEOBJECTPARAM records follow the strings.
 
 **See Also :**
-[ACTIVEOBJECT_TYPE_xxx](/reference/Symb/ACTIVEOBJECT_TYPE_xxx)
-[ACTIVEOBJECT_VERSIONxxx](/reference/Symb/ACTIVEOBJECT_VERSIONxxx)
-[ACTIVEOBJECT_UNIT_xxx](/reference/Symb/ACTIVEOBJECT_UNIT_xxx)
-[ACTIVEOBJECT_FLAG_xxx](/reference/Symb/ACTIVEOBJECT_FLAG_xxx)
-[ACTIVEOBJECTPARAM](/reference/Data/ACTIVEOBJECTPARAM)
-[ACTIVEOBJECTSTORAGELINK](/reference/Data/ACTIVEOBJECTSTORAGELINK)
+[ACTIVEOBJECT_TYPE_xxx](/domino-c-api-docs/reference/Symb/ACTIVEOBJECT_TYPE_xxx)
+[ACTIVEOBJECT_VERSIONxxx](/domino-c-api-docs/reference/Symb/ACTIVEOBJECT_VERSIONxxx)
+[ACTIVEOBJECT_UNIT_xxx](/domino-c-api-docs/reference/Symb/ACTIVEOBJECT_UNIT_xxx)
+[ACTIVEOBJECT_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIVEOBJECT_FLAG_xxx)
+[ACTIVEOBJECTPARAM](/domino-c-api-docs/reference/Data/ACTIVEOBJECTPARAM)
+[ACTIVEOBJECTSTORAGELINK](/domino-c-api-docs/reference/Data/ACTIVEOBJECTSTORAGELINK)
 ---

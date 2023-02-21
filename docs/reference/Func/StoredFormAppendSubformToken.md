@@ -27,6 +27,6 @@ Output :
 
 
 **See Also :**
-[StoredFormAddItems](/reference/Func/StoredFormAddItems)
-[StoredFormRemoveItems](/reference/Func/StoredFormRemoveItems)
+[StoredFormAddItems](/domino-c-api-docs/reference/Func/StoredFormAddItems)
+[StoredFormRemoveItems](/domino-c-api-docs/reference/Func/StoredFormRemoveItems)
 ---

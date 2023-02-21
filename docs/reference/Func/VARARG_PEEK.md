@@ -54,9 +54,9 @@ temp2 = VARARG_GET(ap,WORD);
 
 ```
 **See Also :**
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EMRECORD](/reference/Data/EMRECORD)
-[VARARG_GET](/reference/Func/VARARG_GET)
-[VARARG_PTR](/reference/Data/VARARG_PTR)
-[VARARG_START](/reference/Func/VARARG_START)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
+[VARARG_GET](/domino-c-api-docs/reference/Func/VARARG_GET)
+[VARARG_PTR](/domino-c-api-docs/reference/Data/VARARG_PTR)
+[VARARG_START](/domino-c-api-docs/reference/Func/VARARG_START)
 ---

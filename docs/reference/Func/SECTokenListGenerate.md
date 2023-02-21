@@ -101,9 +101,9 @@ if( error = SECTokenListGenerate( NULL,
 SECTokenListFree( &pTokenList, 0, NULL );
 ```
 **See Also :**
-[SECCreateTokenListEntry](/reference/Func/SECCreateTokenListEntry)
-[SECTokenListFree](/reference/Func/SECTokenListFree)
-[SSO_LTPA_TOKEN_LIST](/reference/Data/SSO_LTPA_TOKEN_LIST)
-[SSO_TOKEN](/reference/Data/SSO_TOKEN)
-[SSO_TOKEN_INFO_DESC](/reference/Data/SSO_TOKEN_INFO_DESC)
+[SECCreateTokenListEntry](/domino-c-api-docs/reference/Func/SECCreateTokenListEntry)
+[SECTokenListFree](/domino-c-api-docs/reference/Func/SECTokenListFree)
+[SSO_LTPA_TOKEN_LIST](/domino-c-api-docs/reference/Data/SSO_LTPA_TOKEN_LIST)
+[SSO_TOKEN](/domino-c-api-docs/reference/Data/SSO_TOKEN)
+[SSO_TOKEN_INFO_DESC](/domino-c-api-docs/reference/Data/SSO_TOKEN_INFO_DESC)
 ---

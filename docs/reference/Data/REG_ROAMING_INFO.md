@@ -28,9 +28,9 @@ pReserved  Reserved - must be NULL.
 
 
 **See Also :**
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAllocate](/reference/Func/ListAllocate)
-[REGNewPerson](/reference/Func/REGNewPerson)
-[REG_FILE_DUP_xxx](/reference/Symb/REG_FILE_DUP_xxx)
-[REG_ROAMING_CLEANUP_xxx](/reference/Symb/REG_ROAMING_CLEANUP_xxx)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[REGNewPerson](/domino-c-api-docs/reference/Func/REGNewPerson)
+[REG_FILE_DUP_xxx](/domino-c-api-docs/reference/Symb/REG_FILE_DUP_xxx)
+[REG_ROAMING_CLEANUP_xxx](/domino-c-api-docs/reference/Symb/REG_ROAMING_CLEANUP_xxx)
 ---

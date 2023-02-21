@@ -9,6 +9,6 @@
 Options for merging keys and certifications into an ID file.
 
 **See Also :**
-[PKCS12_ImportFileToIDFile](/reference/Func/PKCS12_ImportFileToIDFile)
-[PKCS12_ExportIDFileToFile](/reference/Func/PKCS12_ExportIDFileToFile)
+[PKCS12_ImportFileToIDFile](/domino-c-api-docs/reference/Func/PKCS12_ImportFileToIDFile)
+[PKCS12_ExportIDFileToFile](/domino-c-api-docs/reference/Func/PKCS12_ExportIDFileToFile)
 ---

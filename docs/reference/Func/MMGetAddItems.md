@@ -29,6 +29,6 @@ pszAddItems = MMGetAddItems(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetAddItems](/reference/Func/MMSetAddItems)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetAddItems](/domino-c-api-docs/reference/Func/MMSetAddItems)
 ---

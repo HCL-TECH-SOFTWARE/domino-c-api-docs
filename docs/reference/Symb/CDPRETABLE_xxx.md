@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDPRETABLEBEGIN](/reference/Data/CDPRETABLEBEGIN)
+[CDPRETABLEBEGIN](/domino-c-api-docs/reference/Data/CDPRETABLEBEGIN)
 ---

@@ -10,5 +10,5 @@ These values are optional values for the encoding_type parameter of
 NSFNoteAttachFile.  It specifies the file type of a file attachment.  
 
 **See Also :**
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
 ---

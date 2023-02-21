@@ -9,5 +9,5 @@
 This symbol is used to define the type of access user has to a data object.
 
 **See Also :**
-[NOTES_DOC_INFO_MSG](/reference/Data/NOTES_DOC_INFO_MSG)
+[NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)
 ---

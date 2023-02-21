@@ -48,13 +48,13 @@ rethandle  -  MEMHANDLE to newly allocated object
 
 
 **See Also :**
-[MEMHANDLE](/reference/Data/MEMHANDLE)
-[MEM_xxx](/reference/Symb/MEM_xxx)
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemoryFree](/reference/Func/OSMemoryFree)
-[OSMemoryGetSize](/reference/Func/OSMemoryGetSize)
-[OSMemoryLock](/reference/Func/OSMemoryLock)
-[OSMemoryReallocate](/reference/Func/OSMemoryReallocate)
-[OSMemoryUnlock](/reference/Func/OSMemoryUnlock)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
+[MEMHANDLE](/domino-c-api-docs/reference/Data/MEMHANDLE)
+[MEM_xxx](/domino-c-api-docs/reference/Symb/MEM_xxx)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemoryFree](/domino-c-api-docs/reference/Func/OSMemoryFree)
+[OSMemoryGetSize](/domino-c-api-docs/reference/Func/OSMemoryGetSize)
+[OSMemoryLock](/domino-c-api-docs/reference/Func/OSMemoryLock)
+[OSMemoryReallocate](/domino-c-api-docs/reference/Func/OSMemoryReallocate)
+[OSMemoryUnlock](/domino-c-api-docs/reference/Func/OSMemoryUnlock)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
 ---

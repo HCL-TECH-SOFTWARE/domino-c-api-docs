@@ -9,5 +9,5 @@
 Maximum size of LangName member of CDTEXTPROPERTY.
 
 **See Also :**
-[CDTEXTPROPERTY](/reference/Data/CDTEXTPROPERTY)
+[CDTEXTPROPERTY](/domino-c-api-docs/reference/Data/CDTEXTPROPERTY)
 ---

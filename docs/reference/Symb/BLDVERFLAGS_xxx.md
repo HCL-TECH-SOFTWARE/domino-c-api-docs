@@ -9,5 +9,5 @@
 Flags returned in the 'Flags' section of the BUILDVERSION structure.
 
 **See Also :**
-[BUILDVERSION](/reference/Data/BUILDVERSION)
+[BUILDVERSION](/domino-c-api-docs/reference/Data/BUILDVERSION)
 ---

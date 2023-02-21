@@ -22,6 +22,6 @@ Output :
 
 
 **See Also :**
-[MailOpenMessage](/reference/Func/MailOpenMessage)
-[MAIL_xxx_ITEM_NUM(2)](/reference/Symb/MAIL_xxx_ITEM_NUM(2))
+[MailOpenMessage](/domino-c-api-docs/reference/Func/MailOpenMessage)
+[MAIL_xxx_ITEM_NUM(2)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(2))
 ---

@@ -47,6 +47,6 @@ msgidp  -  Pointer to the message id of the request if the call succeeds. The va
 
 
 **See Also :**
-[ldap_sasl_bind_s](/reference/Func/ldap_sasl_bind_s)
-[LDAP_SASL_xxx](/reference/Symb/LDAP_SASL_xxx)
+[ldap_sasl_bind_s](/domino-c-api-docs/reference/Func/ldap_sasl_bind_s)
+[LDAP_SASL_xxx](/domino-c-api-docs/reference/Symb/LDAP_SASL_xxx)
 ---

@@ -9,5 +9,5 @@
 A Domino database driver session handle.
 
 **See Also :**
-[DBVEC](/reference/Data/DBVEC)
+[DBVEC](/domino-c-api-docs/reference/Data/DBVEC)
 ---

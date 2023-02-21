@@ -61,9 +61,9 @@ FileSizeHigh  -  Pointer to a DWORD that will be set to the high-order 32 bits o
 
 ```
 **See Also :**
-[NSFBackupEnd](/reference/Func/NSFBackupEnd)
-[NSFBackupGetChangeInfoSize](/reference/Func/NSFBackupGetChangeInfoSize)
-[NSFBackupGetNextChangeInfo](/reference/Func/NSFBackupGetNextChangeInfo)
-[NSFBackupSetHighWaterMark](/reference/Func/NSFBackupSetHighWaterMark)
-[NSFBackupStop](/reference/Func/NSFBackupStop)
+[NSFBackupEnd](/domino-c-api-docs/reference/Func/NSFBackupEnd)
+[NSFBackupGetChangeInfoSize](/domino-c-api-docs/reference/Func/NSFBackupGetChangeInfoSize)
+[NSFBackupGetNextChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupGetNextChangeInfo)
+[NSFBackupSetHighWaterMark](/domino-c-api-docs/reference/Func/NSFBackupSetHighWaterMark)
+[NSFBackupStop](/domino-c-api-docs/reference/Func/NSFBackupStop)
 ---

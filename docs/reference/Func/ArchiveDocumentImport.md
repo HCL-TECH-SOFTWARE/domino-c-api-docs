@@ -30,7 +30,7 @@ phArchDoc  -  Pointer to created ArchiveDocument. Callers should free the create
 
 
 **See Also :**
-[ArchiveRestoreDocument](/reference/Func/ArchiveRestoreDocument)
-[ArchiveRestoreDocumentToNote](/reference/Func/ArchiveRestoreDocumentToNote)
-[NOTEIMPORTCALLBACK](/reference/Data/NOTEIMPORTCALLBACK)
+[ArchiveRestoreDocument](/domino-c-api-docs/reference/Func/ArchiveRestoreDocument)
+[ArchiveRestoreDocumentToNote](/domino-c-api-docs/reference/Func/ArchiveRestoreDocumentToNote)
+[NOTEIMPORTCALLBACK](/domino-c-api-docs/reference/Data/NOTEIMPORTCALLBACK)
 ---

@@ -108,8 +108,8 @@ retNoteModified  -  (Optional) TRUE if the note was modified by the formula.
 
 ```
 **See Also :**
-[NSFComputeStart](/reference/Func/NSFComputeStart)
-[NSFComputeStop](/reference/Func/NSFComputeStop)
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[OSMemFree](/reference/Func/OSMemFree)
+[NSFComputeStart](/domino-c-api-docs/reference/Func/NSFComputeStart)
+[NSFComputeStop](/domino-c-api-docs/reference/Func/NSFComputeStop)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

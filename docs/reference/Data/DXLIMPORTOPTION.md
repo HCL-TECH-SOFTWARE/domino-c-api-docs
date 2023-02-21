@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[DXLGetImporterProperty](/reference/Func/DXLGetImporterProperty)
-[DXLSetImporterProperty](/reference/Func/DXLSetImporterProperty)
-[DXL_IMPORT_PROPERTY](/reference/Data/DXL_IMPORT_PROPERTY)
+[DXLGetImporterProperty](/domino-c-api-docs/reference/Func/DXLGetImporterProperty)
+[DXLSetImporterProperty](/domino-c-api-docs/reference/Func/DXLSetImporterProperty)
+[DXL_IMPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_IMPORT_PROPERTY)
 ---

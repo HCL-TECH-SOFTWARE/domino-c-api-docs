@@ -39,7 +39,7 @@ Output :
 eCount = ldap_count_entries(Id, chain);
 ```
 **See Also :**
-[ldap_first_entry](/reference/Func/ldap_first_entry)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_first_entry](/domino-c-api-docs/reference/Func/ldap_first_entry)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

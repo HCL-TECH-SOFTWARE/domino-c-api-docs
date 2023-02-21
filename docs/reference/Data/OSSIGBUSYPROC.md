@@ -17,9 +17,9 @@ This signal handler requires a single parameter:
 BUSY_SIGNAL_xxx Symbolic Values.
 
 **See Also :**
-[BUSY_SIGNAL_xxx](/reference/Symb/BUSY_SIGNAL_xxx)
-[IXPostMessage](/reference/Func/IXPostMessage)
-[OSGetSignalHandler](/reference/Func/OSGetSignalHandler)
-[OSSetSignalHandler](/reference/Func/OSSetSignalHandler)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[BUSY_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/BUSY_SIGNAL_xxx)
+[IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)
+[OSGetSignalHandler](/domino-c-api-docs/reference/Func/OSGetSignalHandler)
+[OSSetSignalHandler](/domino-c-api-docs/reference/Func/OSSetSignalHandler)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

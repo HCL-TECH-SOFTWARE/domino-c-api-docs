@@ -12,5 +12,5 @@ corresponding to this structure in ReplicateWithServerExt(), ExtendedOptions,
 may be set to NULL as a shorthand for passing a completely zeroed structure.
 
 **See Also :**
-[ReplicateWithServerExt](/reference/Func/ReplicateWithServerExt)
+[ReplicateWithServerExt](/domino-c-api-docs/reference/Func/ReplicateWithServerExt)
 ---

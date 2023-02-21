@@ -44,6 +44,6 @@ Use DirEntryFree() when done with this entry.
 
 
 **See Also :**
-[DirEntryDelete](/reference/Func/DirEntryDelete)
-[DirEntryFree](/reference/Func/DirEntryFree)
+[DirEntryDelete](/domino-c-api-docs/reference/Func/DirEntryDelete)
+[DirEntryFree](/domino-c-api-docs/reference/Func/DirEntryFree)
 ---

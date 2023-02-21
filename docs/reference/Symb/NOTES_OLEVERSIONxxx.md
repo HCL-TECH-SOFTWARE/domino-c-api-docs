@@ -10,5 +10,5 @@ The symbols defined below specify which implementation of OLE was in use when
 the OLE object was created.
 
 **See Also :**
-[CDOLEBEGIN](/reference/Data/CDOLEBEGIN)
+[CDOLEBEGIN](/domino-c-api-docs/reference/Data/CDOLEBEGIN)
 ---

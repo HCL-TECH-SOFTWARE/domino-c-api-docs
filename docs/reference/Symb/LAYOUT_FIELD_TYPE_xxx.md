@@ -10,5 +10,5 @@ The bFieldType member of a CDLAYOUTFIELD record specifies the user interface
 for a field.
 
 **See Also :**
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
 ---

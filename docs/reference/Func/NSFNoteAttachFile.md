@@ -53,10 +53,10 @@ error = NSFNoteAttachFile (hMessage,
     filename, pathname, COMPRESS_HUFF);
 ```
 **See Also :**
-[COMPRESS_xxx](/reference/Symb/COMPRESS_xxx)
-[HOST_xxx](/reference/Symb/HOST_xxx)
-[EFLAGS_xxx](/reference/Symb/EFLAGS_xxx)
-[NTATT_xxx](/reference/Symb/NTATT_xxx)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
-[NSFNoteExtractFileExt](/reference/Func/NSFNoteExtractFileExt)
+[COMPRESS_xxx](/domino-c-api-docs/reference/Symb/COMPRESS_xxx)
+[HOST_xxx](/domino-c-api-docs/reference/Symb/HOST_xxx)
+[EFLAGS_xxx](/domino-c-api-docs/reference/Symb/EFLAGS_xxx)
+[NTATT_xxx](/domino-c-api-docs/reference/Symb/NTATT_xxx)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
+[NSFNoteExtractFileExt](/domino-c-api-docs/reference/Func/NSFNoteExtractFileExt)
 ---

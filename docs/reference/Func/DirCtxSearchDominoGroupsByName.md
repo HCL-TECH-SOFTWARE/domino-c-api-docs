@@ -47,8 +47,8 @@ Callers should not call DirEntryFree() on the returned directory entry objects! 
 
 
 **See Also :**
-[DirCtxSearchByName](/reference/Func/DirCtxSearchByName)
-[DirCtxSearchDominoPersonsByName](/reference/Func/DirCtxSearchDominoPersonsByName)
-[DirCtxSearchGroupsByName](/reference/Func/DirCtxSearchGroupsByName)
-[DirCtxSearchPersonsByName](/reference/Func/DirCtxSearchPersonsByName)
+[DirCtxSearchByName](/domino-c-api-docs/reference/Func/DirCtxSearchByName)
+[DirCtxSearchDominoPersonsByName](/domino-c-api-docs/reference/Func/DirCtxSearchDominoPersonsByName)
+[DirCtxSearchGroupsByName](/domino-c-api-docs/reference/Func/DirCtxSearchGroupsByName)
+[DirCtxSearchPersonsByName](/domino-c-api-docs/reference/Func/DirCtxSearchPersonsByName)
 ---

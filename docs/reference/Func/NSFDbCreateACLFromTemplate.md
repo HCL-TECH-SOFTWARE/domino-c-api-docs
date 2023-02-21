@@ -45,5 +45,5 @@ rethACL  -  The handle for the newly-created ACL is stored at this address.
 
 
 **See Also :**
-[NSFDbStoreACL](/reference/Func/NSFDbStoreACL)
+[NSFDbStoreACL](/domino-c-api-docs/reference/Func/NSFDbStoreACL)
 ---

@@ -16,5 +16,5 @@ second parameter is the current note ID.  If this routine returns an error,
 IDEnumerate will halt and return that error.
 
 **See Also :**
-[IDEnumerate](/reference/Func/IDEnumerate)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
 ---

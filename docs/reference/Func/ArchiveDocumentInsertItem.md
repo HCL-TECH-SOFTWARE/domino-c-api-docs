@@ -28,5 +28,5 @@ Output :
 
 
 **See Also :**
-[ITEMINSERTCALLBACK](/reference/Data/ITEMINSERTCALLBACK)
+[ITEMINSERTCALLBACK](/domino-c-api-docs/reference/Data/ITEMINSERTCALLBACK)
 ---

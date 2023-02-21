@@ -71,11 +71,11 @@ ERR_xxx - Errors returned by lower level functions.   Use OSLoadString to displa
 
 
 **See Also :**
-[DBCLASS_xxx](/reference/Symb/DBCLASS_xxx)
-[DBCREATE_ENCRYPT_xxx](/reference/Symb/DBCREATE_ENCRYPT_xxx)
-[DBCREATE_xxx](/reference/Symb/DBCREATE_xxx)
-[DBCREATE_xxx(2)](/reference/Symb/DBCREATE_xxx(2))
-[NSFDbCreate](/reference/Func/NSFDbCreate)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
+[DBCLASS_xxx](/domino-c-api-docs/reference/Symb/DBCLASS_xxx)
+[DBCREATE_ENCRYPT_xxx](/domino-c-api-docs/reference/Symb/DBCREATE_ENCRYPT_xxx)
+[DBCREATE_xxx](/domino-c-api-docs/reference/Symb/DBCREATE_xxx)
+[DBCREATE_xxx(2)](/domino-c-api-docs/reference/Symb/DBCREATE_xxx(2))
+[NSFDbCreate](/domino-c-api-docs/reference/Func/NSFDbCreate)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
 ---

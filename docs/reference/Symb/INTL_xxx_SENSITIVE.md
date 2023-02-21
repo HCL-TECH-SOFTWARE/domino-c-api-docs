@@ -10,5 +10,5 @@ These options are used with international character string functions to specify
 collation options.
 
 **See Also :**
-[IntlTextCompare](/reference/Func/IntlTextCompare)
+[IntlTextCompare](/domino-c-api-docs/reference/Func/IntlTextCompare)
 ---

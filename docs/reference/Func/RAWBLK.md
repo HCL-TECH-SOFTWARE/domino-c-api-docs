@@ -26,7 +26,7 @@ Output :
 
 
 **See Also :**
-[NOBLK](/reference/Func/NOBLK)
-[STATUS](/reference/Data/STATUS)
-[STS_xxx](/reference/Symb/STS_xxx)
+[NOBLK](/domino-c-api-docs/reference/Func/NOBLK)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
+[STS_xxx](/domino-c-api-docs/reference/Symb/STS_xxx)
 ---

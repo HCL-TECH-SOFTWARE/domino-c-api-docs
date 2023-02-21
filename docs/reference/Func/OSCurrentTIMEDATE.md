@@ -29,5 +29,5 @@ retTimeDate  -  The address of a TIMEDATE structure in which the current time an
 
 ```
 **See Also :**
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
 ---

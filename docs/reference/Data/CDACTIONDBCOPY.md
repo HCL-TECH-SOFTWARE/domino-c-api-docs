@@ -20,5 +20,5 @@ This structure is followed by packed strings containing the server name and
 database name.
 
 **See Also :**
-[ACTIONDBCOPY_FLAG_xxx](/reference/Symb/ACTIONDBCOPY_FLAG_xxx)
+[ACTIONDBCOPY_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIONDBCOPY_FLAG_xxx)
 ---

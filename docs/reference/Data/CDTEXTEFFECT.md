@@ -14,6 +14,6 @@ FontEffectID Font ID of the special effect font (see FONTID).
 
 
 **See Also :**
-[CDTEXT](/reference/Data/CDTEXT)
-[FONTID](/reference/Data/FONTID)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
 ---

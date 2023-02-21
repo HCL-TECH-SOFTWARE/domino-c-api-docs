@@ -22,13 +22,13 @@ Output :
 
 
 **See Also :**
-[MQClose](/reference/Func/MQClose)
-[MQCreate](/reference/Func/MQCreate)
-[MQGet](/reference/Func/MQGet)
-[MQHANDLE](/reference/Data/MQHANDLE)
-[MQOpen](/reference/Func/MQOpen)
-[MQPut](/reference/Func/MQPut)
-[MQPutQuitMsg](/reference/Func/MQPutQuitMsg)
-[MQScan](/reference/Func/MQScan)
-[MQSCAN_CALLBACK](/reference/Data/MQSCAN_CALLBACK)
+[MQClose](/domino-c-api-docs/reference/Func/MQClose)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQHANDLE](/domino-c-api-docs/reference/Data/MQHANDLE)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[MQPutQuitMsg](/domino-c-api-docs/reference/Func/MQPutQuitMsg)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
+[MQSCAN_CALLBACK](/domino-c-api-docs/reference/Data/MQSCAN_CALLBACK)
 ---

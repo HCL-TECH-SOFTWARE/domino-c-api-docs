@@ -9,5 +9,5 @@
 The number of bits in one byte.
 
 **See Also :**
-[BYTE](/reference/Data/BYTE)
+[BYTE](/domino-c-api-docs/reference/Data/BYTE)
 ---

@@ -32,6 +32,6 @@ Output :
 
 
 **See Also :**
-[MailGetMessageRecipient](/reference/Func/MailGetMessageRecipient)
-[MailPurgeMessage](/reference/Func/MailPurgeMessage)
+[MailGetMessageRecipient](/domino-c-api-docs/reference/Func/MailGetMessageRecipient)
+[MailPurgeMessage](/domino-c-api-docs/reference/Func/MailPurgeMessage)
 ---

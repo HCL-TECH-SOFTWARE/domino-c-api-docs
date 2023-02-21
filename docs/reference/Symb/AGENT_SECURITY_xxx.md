@@ -11,5 +11,5 @@ to the run context when it runs an agent, whether to check the privileges of
 the signer and apply them.
 
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
 ---

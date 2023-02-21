@@ -40,14 +40,14 @@ rethTable  -  The address of a HANDLE variable in which the handle to an ID Tabl
 
 ```
 **See Also :**
-[IDDelete](/reference/Func/IDDelete)
-[IDDeleteAll](/reference/Func/IDDeleteAll)
-[IDEntries](/reference/Func/IDEntries)
-[IDEnumerate](/reference/Func/IDEnumerate)
-[IDInsert](/reference/Func/IDInsert)
-[IDIsPresent](/reference/Func/IDIsPresent)
-[IDScan](/reference/Func/IDScan)
-[IDTableCopy](/reference/Func/IDTableCopy)
-[IDTableSize](/reference/Func/IDTableSize)
-[IDDestroyTable](/reference/Func/IDDestroyTable)
+[IDDelete](/domino-c-api-docs/reference/Func/IDDelete)
+[IDDeleteAll](/domino-c-api-docs/reference/Func/IDDeleteAll)
+[IDEntries](/domino-c-api-docs/reference/Func/IDEntries)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
+[IDIsPresent](/domino-c-api-docs/reference/Func/IDIsPresent)
+[IDScan](/domino-c-api-docs/reference/Func/IDScan)
+[IDTableCopy](/domino-c-api-docs/reference/Func/IDTableCopy)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
+[IDDestroyTable](/domino-c-api-docs/reference/Func/IDDestroyTable)
 ---

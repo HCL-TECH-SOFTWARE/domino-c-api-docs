@@ -59,7 +59,7 @@ ERR_xxx - Errors returned by lower level functions.  Call to OSLoadString to int
 
 ```
 **See Also :**
-[NSFBackupEndApplyChangeInfo](/reference/Func/NSFBackupEndApplyChangeInfo)
-[NSFBackupGetNextChangeInfo](/reference/Func/NSFBackupGetNextChangeInfo)
-[NSFBackupStartApplyChangeInfo](/reference/Func/NSFBackupStartApplyChangeInfo)
+[NSFBackupEndApplyChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupEndApplyChangeInfo)
+[NSFBackupGetNextChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupGetNextChangeInfo)
+[NSFBackupStartApplyChangeInfo](/domino-c-api-docs/reference/Func/NSFBackupStartApplyChangeInfo)
 ---

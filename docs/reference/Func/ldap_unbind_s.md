@@ -31,9 +31,9 @@ Output :
 ldap_unbind_s( ld );
 ```
 **See Also :**
-[ldap_bind_s](/reference/Func/ldap_bind_s)
-[ldap_sasl_bind_s](/reference/Func/ldap_sasl_bind_s)
-[ldap_simple_bind_s](/reference/Func/ldap_simple_bind_s)
-[ldap_unbind](/reference/Func/ldap_unbind)
-[ldap_unbind_ext](/reference/Func/ldap_unbind_ext)
+[ldap_bind_s](/domino-c-api-docs/reference/Func/ldap_bind_s)
+[ldap_sasl_bind_s](/domino-c-api-docs/reference/Func/ldap_sasl_bind_s)
+[ldap_simple_bind_s](/domino-c-api-docs/reference/Func/ldap_simple_bind_s)
+[ldap_unbind](/domino-c-api-docs/reference/Func/ldap_unbind)
+[ldap_unbind_ext](/domino-c-api-docs/reference/Func/ldap_unbind_ext)
 ---

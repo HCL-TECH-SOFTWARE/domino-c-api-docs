@@ -50,9 +50,9 @@ retKeyForAttachments  -  Optional.  Pointer to a returned ENCRYPTION_KEY structu
 
 
 **See Also :**
-[DECRYPT_xxx](/reference/Symb/DECRYPT_xxx)
-[NSFNoteCopyAndEncrypt](/reference/Func/NSFNoteCopyAndEncrypt)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
-[NSFNoteExtractFileExt](/reference/Func/NSFNoteExtractFileExt)
-[SECKFMOpen](/reference/Func/SECKFMOpen)
+[DECRYPT_xxx](/domino-c-api-docs/reference/Symb/DECRYPT_xxx)
+[NSFNoteCopyAndEncrypt](/domino-c-api-docs/reference/Func/NSFNoteCopyAndEncrypt)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
+[NSFNoteExtractFileExt](/domino-c-api-docs/reference/Func/NSFNoteExtractFileExt)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

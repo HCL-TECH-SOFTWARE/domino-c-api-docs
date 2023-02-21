@@ -19,5 +19,5 @@ This structure is followed by the formula.
 
 
 **See Also :**
-[ACTIONFORMULA_FLAG_xxx](/reference/Symb/ACTIONFORMULA_FLAG_xxx)
+[ACTIONFORMULA_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIONFORMULA_FLAG_xxx)
 ---

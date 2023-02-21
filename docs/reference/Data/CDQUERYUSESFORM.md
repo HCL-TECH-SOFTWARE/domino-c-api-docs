@@ -16,5 +16,5 @@ dwFlags  Reserved;  must be 0.
 This structure is followed by LIST structure containing the form names.
 
 **See Also :**
-[LIST](/reference/Data/LIST)
+[LIST](/domino-c-api-docs/reference/Data/LIST)
 ---

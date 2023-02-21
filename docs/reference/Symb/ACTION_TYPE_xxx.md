@@ -9,5 +9,5 @@
 These constants identify the type of action within a CDEVENT record.
 
 **See Also :**
-[CDEVENT](/reference/Data/CDEVENT)
+[CDEVENT](/domino-c-api-docs/reference/Data/CDEVENT)
 ---

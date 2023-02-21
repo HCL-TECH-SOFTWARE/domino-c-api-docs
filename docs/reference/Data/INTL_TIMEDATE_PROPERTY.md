@@ -10,7 +10,7 @@ Either an AMStringProperty value or a PMStringProperty value can be set using
 the function IntlTIMEDATESetValue(..)
 
 **See Also :**
-[IntlTIMEDATEConvertToText](/reference/Func/IntlTIMEDATEConvertToText)
-[IntlTIMEDATEGetValue](/reference/Func/IntlTIMEDATEGetValue)
-[IntlTIMEDATESetValue](/reference/Func/IntlTIMEDATESetValue)
+[IntlTIMEDATEConvertToText](/domino-c-api-docs/reference/Func/IntlTIMEDATEConvertToText)
+[IntlTIMEDATEGetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATEGetValue)
+[IntlTIMEDATESetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATESetValue)
 ---

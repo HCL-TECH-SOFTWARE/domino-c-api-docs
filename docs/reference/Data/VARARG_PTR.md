@@ -36,7 +36,7 @@ void far cdecl SampleRoutine (
 }
 ```
 **See Also :**
-[VARARG_GET](/reference/Func/VARARG_GET)
-[VARARG_PEEK](/reference/Func/VARARG_PEEK)
-[VARARG_START](/reference/Func/VARARG_START)
+[VARARG_GET](/domino-c-api-docs/reference/Func/VARARG_GET)
+[VARARG_PEEK](/domino-c-api-docs/reference/Func/VARARG_PEEK)
+[VARARG_START](/domino-c-api-docs/reference/Func/VARARG_START)
 ---

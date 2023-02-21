@@ -9,5 +9,5 @@
 Value for Flags member of CDFIELDHINT.
 
 **See Also :**
-[CDFIELDHINT](/reference/Data/CDFIELDHINT)
+[CDFIELDHINT](/domino-c-api-docs/reference/Data/CDFIELDHINT)
 ---

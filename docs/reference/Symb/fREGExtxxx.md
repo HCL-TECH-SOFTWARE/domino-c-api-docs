@@ -9,6 +9,6 @@
 These values specify options for the FLAGS parameter of REGNewUser.
 
 **See Also :**
-[REGNewUser](/reference/Func/REGNewUser)
-[REGNewPerson](/reference/Func/REGNewPerson)
+[REGNewUser](/domino-c-api-docs/reference/Func/REGNewUser)
+[REGNewPerson](/domino-c-api-docs/reference/Func/REGNewPerson)
 ---

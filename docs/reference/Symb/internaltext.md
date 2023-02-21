@@ -32,13 +32,13 @@ is followed by another #define.
  internaltext(ERR_QUEUE_EMPTY,  "No more entries to dequeue")
 ```
 **See Also :**
-[errortext](/reference/Symb/errortext)
-[helptext](/reference/Symb/helptext)
-[debugtext](/reference/Symb/debugtext)
-[stringtext](/reference/Symb/stringtext)
-[apitext](/reference/Symb/apitext)
-[blocktext](/reference/Symb/blocktext)
-[semtext](/reference/Symb/semtext)
-[donottranslatetext](/reference/Symb/donottranslatetext)
-[limitedasciitext](/reference/Symb/limitedasciitext)
+[errortext](/domino-c-api-docs/reference/Symb/errortext)
+[helptext](/domino-c-api-docs/reference/Symb/helptext)
+[debugtext](/domino-c-api-docs/reference/Symb/debugtext)
+[stringtext](/domino-c-api-docs/reference/Symb/stringtext)
+[apitext](/domino-c-api-docs/reference/Symb/apitext)
+[blocktext](/domino-c-api-docs/reference/Symb/blocktext)
+[semtext](/domino-c-api-docs/reference/Symb/semtext)
+[donottranslatetext](/domino-c-api-docs/reference/Symb/donottranslatetext)
+[limitedasciitext](/domino-c-api-docs/reference/Symb/limitedasciitext)
 ---

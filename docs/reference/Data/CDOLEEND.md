@@ -14,5 +14,5 @@ host/canonical conversion on CD record structures such as this when accessing
 rich text item data in a note.
 
 **See Also :**
-[CDOLEBEGIN](/reference/Data/CDOLEBEGIN)
+[CDOLEBEGIN](/domino-c-api-docs/reference/Data/CDOLEBEGIN)
 ---

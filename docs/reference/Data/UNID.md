@@ -9,5 +9,5 @@
 This is a short-hand definition for UNIVERSALNOTEID.
 
 **See Also :**
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
 ---

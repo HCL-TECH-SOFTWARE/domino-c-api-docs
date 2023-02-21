@@ -36,8 +36,8 @@ ERR_xxx - STATUS returned from a lower-level C API function.  This value can be 
 
 
 **See Also :**
-[NetLink](/reference/Func/NetLink)
-[NetSetSessionMode](/reference/Func/NetSetSessionMode)
-[NetReceive](/reference/Func/NetReceive)
-[NetCloseSession](/reference/Func/NetCloseSession)
+[NetLink](/domino-c-api-docs/reference/Func/NetLink)
+[NetSetSessionMode](/domino-c-api-docs/reference/Func/NetSetSessionMode)
+[NetReceive](/domino-c-api-docs/reference/Func/NetReceive)
+[NetCloseSession](/domino-c-api-docs/reference/Func/NetCloseSession)
 ---

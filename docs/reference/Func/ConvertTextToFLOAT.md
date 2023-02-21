@@ -91,6 +91,6 @@ retNumber  -  The address of a NUMBER variable in which to store the returned FL
 
 ```
 **See Also :**
-[ConvertFLOATToText](/reference/Func/ConvertFLOATToText)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
+[ConvertFLOATToText](/domino-c-api-docs/reference/Func/ConvertFLOATToText)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
 ---

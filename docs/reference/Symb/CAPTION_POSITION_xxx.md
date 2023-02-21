@@ -9,5 +9,5 @@
 These symbols are used to define the Position variable within a CDCAPTION.
 
 **See Also :**
-[CDCAPTION](/reference/Data/CDCAPTION)
+[CDCAPTION](/domino-c-api-docs/reference/Data/CDCAPTION)
 ---

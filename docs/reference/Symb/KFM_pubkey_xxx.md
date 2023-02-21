@@ -14,5 +14,5 @@ International user.  The Primary key is used if both the encryptor and
 decryptor are North American users.
 
 **See Also :**
-[SECKFMGetPublicKey](/reference/Func/SECKFMGetPublicKey)
+[SECKFMGetPublicKey](/domino-c-api-docs/reference/Func/SECKFMGetPublicKey)
 ---

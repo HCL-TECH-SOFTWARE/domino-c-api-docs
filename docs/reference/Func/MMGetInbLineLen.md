@@ -29,6 +29,6 @@ wInbLineLength = MMGetInbLineLen(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetInbLineLen](/reference/Func/MMSetInbLineLen)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetInbLineLen](/domino-c-api-docs/reference/Func/MMSetInbLineLen)
 ---

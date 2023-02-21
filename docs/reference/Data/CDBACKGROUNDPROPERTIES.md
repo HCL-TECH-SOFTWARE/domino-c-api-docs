@@ -19,9 +19,9 @@ dwReserved Not Used.
 
 
 **See Also :**
-[CDBACKGROUNDPROPERTIES_VERSION1](/reference/Symb/CDBACKGROUNDPROPERTIES_VERSION1)
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDBOXSIZE](/reference/Data/CDBOXSIZE)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDBACKGROUNDPROPERTIES_VERSION1](/domino-c-api-docs/reference/Symb/CDBACKGROUNDPROPERTIES_VERSION1)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDBOXSIZE](/domino-c-api-docs/reference/Data/CDBOXSIZE)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

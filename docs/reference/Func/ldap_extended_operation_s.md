@@ -47,6 +47,6 @@ retdatap  -  Pointer to a berval structure pointer that will be set to an alloca
 
 
 **See Also :**
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ldap_memfree](/reference/Func/ldap_memfree)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
 ---

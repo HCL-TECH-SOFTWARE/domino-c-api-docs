@@ -24,5 +24,5 @@ values is to be placed.
 
 
 **See Also :**
-[NSFTranslateSpecial](/reference/Func/NSFTranslateSpecial)
+[NSFTranslateSpecial](/domino-c-api-docs/reference/Func/NSFTranslateSpecial)
 ---

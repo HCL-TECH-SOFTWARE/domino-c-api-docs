@@ -24,7 +24,7 @@ phDefaultFilters  -  Allocated by the DUS, this is a list containing default fil
 
 
 **See Also :**
-[DUSStart](/reference/Func/DUSStart)
-[DUSStop](/reference/Func/DUSStop)
-[DUSTerm](/reference/Func/DUSTerm)
+[DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
+[DUSStop](/domino-c-api-docs/reference/Func/DUSStop)
+[DUSTerm](/domino-c-api-docs/reference/Func/DUSTerm)
 ---

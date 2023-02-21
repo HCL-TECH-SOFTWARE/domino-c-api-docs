@@ -10,5 +10,5 @@ These symbols define possible values for the StorageFormat member of the
 CDOLEOBJ_INFO structure.
 
 **See Also :**
-[CDOLEOBJ_INFO](/reference/Data/CDOLEOBJ_INFO)
+[CDOLEOBJ_INFO](/domino-c-api-docs/reference/Data/CDOLEOBJ_INFO)
 ---

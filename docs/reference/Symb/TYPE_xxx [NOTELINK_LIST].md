@@ -107,10 +107,10 @@ void  LNPUBLIC  DumpNotelinkList (PCHAR pData, WORD length)
 }
 ```
 **See Also :**
-[CDLINK2](/reference/Data/CDLINK2)
-[CDLINKEXPORT2](/reference/Data/CDLINKEXPORT2)
-[LIST](/reference/Data/LIST)
-[NOTELINK](/reference/Data/NOTELINK)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
-[TYPE_xxx [NOTEREF_LIST]](/reference/Symb/TYPE_xxx [NOTEREF_LIST])
+[CDLINK2](/domino-c-api-docs/reference/Data/CDLINK2)
+[CDLINKEXPORT2](/domino-c-api-docs/reference/Data/CDLINKEXPORT2)
+[LIST](/domino-c-api-docs/reference/Data/LIST)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
+[TYPE_xxx [NOTEREF_LIST]](/domino-c-api-docs/reference/Symb/TYPE_xxx [NOTEREF_LIST])
 ---

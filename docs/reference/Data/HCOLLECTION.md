@@ -9,6 +9,6 @@
 This data type is a handle for an open collection of notes.
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

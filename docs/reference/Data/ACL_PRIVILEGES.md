@@ -14,16 +14,16 @@ role name.  Roles are assigned to an access control list entry by setting the
 appropriate bits in the prviliege bit mask.
 
 **See Also :**
-[ACLAddEntry](/reference/Func/ACLAddEntry)
-[ACLClearPriv](/reference/Func/ACLClearPriv)
-[ACLEnumEntries](/reference/Func/ACLEnumEntries)
-[ACLGetPrivName](/reference/Func/ACLGetPrivName)
-[ACLInvertPriv](/reference/Func/ACLInvertPriv)
-[ACLIsPrivSet](/reference/Func/ACLIsPrivSet)
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
-[ACLSetPriv](/reference/Func/ACLSetPriv)
-[ACLSetPrivName](/reference/Func/ACLSetPrivName)
-[ACLUpdateEntry](/reference/Func/ACLUpdateEntry)
-[ACL_BITPRIVxxx](/reference/Symb/ACL_BITPRIVxxx)
-[ACL_PRIVCOUNT](/reference/Symb/ACL_PRIVCOUNT)
+[ACLAddEntry](/domino-c-api-docs/reference/Func/ACLAddEntry)
+[ACLClearPriv](/domino-c-api-docs/reference/Func/ACLClearPriv)
+[ACLEnumEntries](/domino-c-api-docs/reference/Func/ACLEnumEntries)
+[ACLGetPrivName](/domino-c-api-docs/reference/Func/ACLGetPrivName)
+[ACLInvertPriv](/domino-c-api-docs/reference/Func/ACLInvertPriv)
+[ACLIsPrivSet](/domino-c-api-docs/reference/Func/ACLIsPrivSet)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
+[ACLSetPriv](/domino-c-api-docs/reference/Func/ACLSetPriv)
+[ACLSetPrivName](/domino-c-api-docs/reference/Func/ACLSetPrivName)
+[ACLUpdateEntry](/domino-c-api-docs/reference/Func/ACLUpdateEntry)
+[ACL_BITPRIVxxx](/domino-c-api-docs/reference/Symb/ACL_BITPRIVxxx)
+[ACL_PRIVCOUNT](/domino-c-api-docs/reference/Symb/ACL_PRIVCOUNT)
 ---

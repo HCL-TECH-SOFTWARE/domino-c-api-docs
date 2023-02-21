@@ -71,6 +71,6 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[MIMESYMBOL](/reference/Data/MIMESYMBOL)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[MIMESYMBOL](/domino-c-api-docs/reference/Data/MIMESYMBOL)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

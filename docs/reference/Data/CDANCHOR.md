@@ -19,5 +19,5 @@ Reserved Must be set to 0.
 This record is followed by the anchor text string.
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
 ---

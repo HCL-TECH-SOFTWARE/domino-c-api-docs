@@ -27,12 +27,12 @@ ElapsedRunTime -- Elapsed runtime for the agent
 Flags -- Agent flags
 
 **See Also :**
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_xxx (actions)](/reference/Symb/BILL_xxx (actions))
-[DBREC](/reference/Data/DBREC)
-[DOCUMENT](/reference/Data/DOCUMENT)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_xxx (actions)](/domino-c-api-docs/reference/Symb/BILL_xxx (actions))
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
 ---

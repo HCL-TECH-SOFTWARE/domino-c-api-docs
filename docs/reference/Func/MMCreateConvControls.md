@@ -36,7 +36,7 @@ if (err = MMCreateConvControls(&hCC)) {
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMDestroyConvControls](/reference/Func/MMDestroyConvControls)
-[MMConvDefaults](/reference/Func/MMConvDefaults)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMDestroyConvControls](/domino-c-api-docs/reference/Func/MMDestroyConvControls)
+[MMConvDefaults](/domino-c-api-docs/reference/Func/MMConvDefaults)
 ---

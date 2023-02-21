@@ -30,5 +30,5 @@ Output :
 
 
 **See Also :**
-[AddInIdle](/reference/Func/AddInIdle)
+[AddInIdle](/domino-c-api-docs/reference/Func/AddInIdle)
 ---

@@ -11,6 +11,6 @@ may be preceded by a CDBEGINRECORD and followed by a CDRESOURCE and then a
 CDENDRECORD.  
 
 **See Also :**
-[CDINLINE](/reference/Data/CDINLINE)
-[CDRESOURCE](/reference/Data/CDRESOURCE)
+[CDINLINE](/domino-c-api-docs/reference/Data/CDINLINE)
+[CDRESOURCE](/domino-c-api-docs/reference/Data/CDRESOURCE)
 ---

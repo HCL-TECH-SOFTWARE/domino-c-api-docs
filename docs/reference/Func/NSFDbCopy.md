@@ -60,11 +60,11 @@ ERR_NO_MODIFIED_NOTES
 
 ```
 **See Also :**
-[NSFDbCopyACL](/reference/Func/NSFDbCopyACL)
-[NSFDbCopyTemplateACL](/reference/Func/NSFDbCopyTemplateACL)
-[NSFDbInfoGet](/reference/Func/NSFDbInfoGet)
-[NSFDbInfoSet](/reference/Func/NSFDbInfoSet)
-[NSFDbReplicaInfoGet](/reference/Func/NSFDbReplicaInfoGet)
-[NSFDbReplicaInfoSet](/reference/Func/NSFDbReplicaInfoSet)
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
+[NSFDbCopyACL](/domino-c-api-docs/reference/Func/NSFDbCopyACL)
+[NSFDbCopyTemplateACL](/domino-c-api-docs/reference/Func/NSFDbCopyTemplateACL)
+[NSFDbInfoGet](/domino-c-api-docs/reference/Func/NSFDbInfoGet)
+[NSFDbInfoSet](/domino-c-api-docs/reference/Func/NSFDbInfoSet)
+[NSFDbReplicaInfoGet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoGet)
+[NSFDbReplicaInfoSet](/domino-c-api-docs/reference/Func/NSFDbReplicaInfoSet)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
 ---

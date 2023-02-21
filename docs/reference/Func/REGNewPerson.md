@@ -76,8 +76,8 @@ error = REGNewPerson(hCertCtx, NULL,&UserInfo,SetupSignalStatus,
 	 error = NOERROR;
 ```
 **See Also :**
-[REG_ID_INFO](/reference/Data/REG_ID_INFO)
-[REG_MAIL_INFO_EXT](/reference/Data/REG_MAIL_INFO_EXT)
-[REG_MISC_INFO](/reference/Data/REG_MISC_INFO)
-[REG_PERSON_INFO](/reference/Data/REG_PERSON_INFO)
+[REG_ID_INFO](/domino-c-api-docs/reference/Data/REG_ID_INFO)
+[REG_MAIL_INFO_EXT](/domino-c-api-docs/reference/Data/REG_MAIL_INFO_EXT)
+[REG_MISC_INFO](/domino-c-api-docs/reference/Data/REG_MISC_INFO)
+[REG_PERSON_INFO](/domino-c-api-docs/reference/Data/REG_PERSON_INFO)
 ---

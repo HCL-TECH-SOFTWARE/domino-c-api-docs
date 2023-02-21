@@ -29,8 +29,8 @@ Output :
 
 
 **See Also :**
-[FontGetFaceID](/reference/Func/FontGetFaceID)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FONT_FACE_xxx](/reference/Symb/FONT_FACE_xxx)
+[FontGetFaceID](/domino-c-api-docs/reference/Func/FontGetFaceID)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FONT_FACE_xxx](/domino-c-api-docs/reference/Symb/FONT_FACE_xxx)
 ---

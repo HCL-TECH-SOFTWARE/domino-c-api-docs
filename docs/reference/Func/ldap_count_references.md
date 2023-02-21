@@ -40,7 +40,7 @@ Output :
 rCount = ldap_count_references(Id, chain);
 ```
 **See Also :**
-[ldap_first_reference](/reference/Func/ldap_first_reference)
-[ldap_next_message](/reference/Func/ldap_next_message)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_first_reference](/domino-c-api-docs/reference/Func/ldap_first_reference)
+[ldap_next_message](/domino-c-api-docs/reference/Func/ldap_next_message)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

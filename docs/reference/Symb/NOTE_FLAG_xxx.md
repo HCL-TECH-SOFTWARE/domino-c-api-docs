@@ -44,6 +44,6 @@ if (NoteFlags & NOTE_FLAG_ABSTRACTED)
 }
 ```
 **See Also :**
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

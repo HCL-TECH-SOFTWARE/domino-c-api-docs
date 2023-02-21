@@ -31,6 +31,6 @@ REPL_SIGNAL_DONEFILE	pLocalFile	pReplFileStats
 
 
 **See Also :**
-[OSSIGPROC](/reference/Data/OSSIGPROC)
-[REPL_SIGNAL_xxx](/reference/Symb/REPL_SIGNAL_xxx)
+[OSSIGPROC](/domino-c-api-docs/reference/Data/OSSIGPROC)
+[REPL_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/REPL_SIGNAL_xxx)
 ---

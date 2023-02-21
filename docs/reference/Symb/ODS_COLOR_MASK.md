@@ -9,5 +9,5 @@
 Palette color is an index into a 240 entry table
 
 **See Also :**
-[CDDOCUMENT](/reference/Data/CDDOCUMENT)
+[CDDOCUMENT](/domino-c-api-docs/reference/Data/CDDOCUMENT)
 ---

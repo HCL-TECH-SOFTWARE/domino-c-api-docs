@@ -34,6 +34,6 @@ preserve in msgs as they are exported (default is "") */
 
 ```
 **See Also :**
-[MMGetAddItems](/reference/Func/MMGetAddItems)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetAddItems](/domino-c-api-docs/reference/Func/MMGetAddItems)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

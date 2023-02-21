@@ -9,6 +9,6 @@
 Scheduling Reply/Request object.
 
 **See Also :**
-[SCHRQST_xxx](/reference/Symb/SCHRQST_xxx)
-[SchContainer_GetRequest](/reference/Func/SchContainer_GetRequest)
+[SCHRQST_xxx](/domino-c-api-docs/reference/Symb/SCHRQST_xxx)
+[SchContainer_GetRequest](/domino-c-api-docs/reference/Func/SchContainer_GetRequest)
 ---

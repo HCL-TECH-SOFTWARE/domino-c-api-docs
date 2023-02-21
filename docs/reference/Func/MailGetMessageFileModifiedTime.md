@@ -26,6 +26,6 @@ retModifiedTime  -  Time/date of last modification of message file (e.g. time/da
 
 
 **See Also :**
-[NSFDbModifiedTime](/reference/Func/NSFDbModifiedTime)
-[MailGetMessageItemTimeDate](/reference/Func/MailGetMessageItemTimeDate)
+[NSFDbModifiedTime](/domino-c-api-docs/reference/Func/NSFDbModifiedTime)
+[MailGetMessageItemTimeDate](/domino-c-api-docs/reference/Func/MailGetMessageItemTimeDate)
 ---

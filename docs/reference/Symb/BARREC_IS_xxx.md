@@ -9,5 +9,5 @@
 On-disk flags for CDBAR (Collapsible Sections)
 
 **See Also :**
-[CDBAR](/reference/Data/CDBAR)
+[CDBAR](/domino-c-api-docs/reference/Data/CDBAR)
 ---

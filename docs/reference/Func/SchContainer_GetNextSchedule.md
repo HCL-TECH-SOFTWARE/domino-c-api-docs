@@ -32,5 +32,5 @@ retpNextSchedule  -  Points to where we return the pointer to the actual data.
 
 
 **See Also :**
-[SchContainer_GetFirstSchedule](/reference/Func/SchContainer_GetFirstSchedule)
+[SchContainer_GetFirstSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetFirstSchedule)
 ---

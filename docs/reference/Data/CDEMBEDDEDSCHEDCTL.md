@@ -45,8 +45,8 @@ These fields may be followed by optional items. If you plan to use them, you
 will need to declare the variables and assign values to their lengths.
 
 **See Also :**
-[CDEMBEDDEDSCHEDCTLEXTRA](/reference/Data/CDEMBEDDEDSCHEDCTLEXTRA)
-[CDPLACEHOLDER](/reference/Data/CDPLACEHOLDER)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[EMBEDDEDSCHED_FLAG_xxx](/reference/Symb/EMBEDDEDSCHED_FLAG_xxx)
+[CDEMBEDDEDSCHEDCTLEXTRA](/domino-c-api-docs/reference/Data/CDEMBEDDEDSCHEDCTLEXTRA)
+[CDPLACEHOLDER](/domino-c-api-docs/reference/Data/CDPLACEHOLDER)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[EMBEDDEDSCHED_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDSCHED_FLAG_xxx)
 ---

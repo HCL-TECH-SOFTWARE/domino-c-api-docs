@@ -17,7 +17,7 @@ COLOR_VALUE  FontColor RGB font color information
 BYTE  Reserved[11]
 
 **See Also :**
-[CAPTION_POSITION_xxx](/reference/Symb/CAPTION_POSITION_xxx)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[FONTID](/reference/Data/FONTID)
+[CAPTION_POSITION_xxx](/domino-c-api-docs/reference/Symb/CAPTION_POSITION_xxx)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
 ---

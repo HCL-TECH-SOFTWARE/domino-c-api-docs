@@ -9,5 +9,5 @@
 Table flags.
 
 **See Also :**
-[CDTABLE_xxx](/reference/Symb/CDTABLE_xxx)
+[CDTABLE_xxx](/domino-c-api-docs/reference/Symb/CDTABLE_xxx)
 ---

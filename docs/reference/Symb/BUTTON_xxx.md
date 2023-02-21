@@ -9,5 +9,5 @@
 Possible values for the Flags member of the CDBUTTON structure.
 
 **See Also :**
-[CDBUTTON](/reference/Data/CDBUTTON)
+[CDBUTTON](/domino-c-api-docs/reference/Data/CDBUTTON)
 ---

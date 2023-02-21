@@ -36,5 +36,5 @@ retUserName  -  The address of a text buffer in which a null-terminated user nam
     }
 ```
 **See Also :**
-[SECKFMUserInfo](/reference/Func/SECKFMUserInfo)
+[SECKFMUserInfo](/domino-c-api-docs/reference/Func/SECKFMUserInfo)
 ---

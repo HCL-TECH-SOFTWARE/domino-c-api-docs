@@ -9,5 +9,5 @@
 NUMBER. 64-bit IEEE floating point number.
 
 **See Also :**
-[NUMBER](/reference/Data/NUMBER)
+[NUMBER](/domino-c-api-docs/reference/Data/NUMBER)
 ---

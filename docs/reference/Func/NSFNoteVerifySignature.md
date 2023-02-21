@@ -45,6 +45,6 @@ retCertifier  -  Optional.  Pointer to the returned common certifier.  The calle
 
 
 **See Also :**
-[NSFNoteSign](/reference/Func/NSFNoteSign)
-[NSFNoteSignExt](/reference/Func/NSFNoteSignExt)
+[NSFNoteSign](/domino-c-api-docs/reference/Func/NSFNoteSign)
+[NSFNoteSignExt](/domino-c-api-docs/reference/Func/NSFNoteSignExt)
 ---

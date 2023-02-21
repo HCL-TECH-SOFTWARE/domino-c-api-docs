@@ -76,8 +76,8 @@ if (error = EditorAppendBitmapToNote(EPBContext.hBitmap,
 
 ```
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[EditorPrintNoteToBitmap](/reference/Func/EditorPrintNoteToBitmap)
-[EPBCONTEXT](/reference/Data/EPBCONTEXT)
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[EditorPrintNoteToBitmap](/domino-c-api-docs/reference/Func/EditorPrintNoteToBitmap)
+[EPBCONTEXT](/domino-c-api-docs/reference/Data/EPBCONTEXT)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 ---

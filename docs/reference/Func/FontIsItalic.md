@@ -26,8 +26,8 @@ Output :
 
 
 **See Also :**
-[FontClearItalic](/reference/Func/FontClearItalic)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontSetItalic](/reference/Func/FontSetItalic)
+[FontClearItalic](/domino-c-api-docs/reference/Func/FontClearItalic)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontSetItalic](/domino-c-api-docs/reference/Func/FontSetItalic)
 ---

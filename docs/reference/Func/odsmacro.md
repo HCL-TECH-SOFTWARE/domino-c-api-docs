@@ -28,8 +28,8 @@ size  -  Size of the object in bytes.
 
 
 **See Also :**
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSLength](/reference/Func/ODSLength)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSLength](/domino-c-api-docs/reference/Func/ODSLength)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
 ---

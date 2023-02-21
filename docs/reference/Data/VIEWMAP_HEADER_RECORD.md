@@ -15,5 +15,5 @@ Version  Version number of Navigator record formats.  Use VIEWMAP_VERSION value.
 NameLen Reserved for future use.   Set to 0. 
 
 **See Also :**
-[VIEWMAP_VERSION](/reference/Symb/VIEWMAP_VERSION)
+[VIEWMAP_VERSION](/domino-c-api-docs/reference/Symb/VIEWMAP_VERSION)
 ---

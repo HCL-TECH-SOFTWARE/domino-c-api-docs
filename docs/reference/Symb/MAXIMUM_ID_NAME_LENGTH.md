@@ -11,5 +11,5 @@ more information.
 
 
 **See Also :**
-[SCRIPTCONTEXTDESCR](/reference/Data/SCRIPTCONTEXTDESCR)
+[SCRIPTCONTEXTDESCR](/domino-c-api-docs/reference/Data/SCRIPTCONTEXTDESCR)
 ---

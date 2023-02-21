@@ -35,6 +35,6 @@ phHTML  -  the handle to the newly created converter.
 	}
 ```
 **See Also :**
-[HTMLDestroyConverter](/reference/Func/HTMLDestroyConverter)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
+[HTMLDestroyConverter](/domino-c-api-docs/reference/Func/HTMLDestroyConverter)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
 ---

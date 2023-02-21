@@ -15,5 +15,5 @@ dwFlags  Reserved;  must be 0.
 
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

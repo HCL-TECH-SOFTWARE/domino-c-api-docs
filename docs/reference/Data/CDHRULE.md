@@ -22,9 +22,9 @@ symbolic values for NOTES_COLOR_xxx for more information).
 
 
 **See Also :**
-[CDHORIZONTALRULE_VERSIONxxx](/reference/Symb/CDHORIZONTALRULE_VERSIONxxx)
-[DEFAULTHRULExxx](/reference/Symb/DEFAULTHRULExxx)
-[HRULE_FLAG_xxx](/reference/Symb/HRULE_FLAG_xxx)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
-[ONEINCH](/reference/Symb/ONEINCH)
+[CDHORIZONTALRULE_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDHORIZONTALRULE_VERSIONxxx)
+[DEFAULTHRULExxx](/domino-c-api-docs/reference/Symb/DEFAULTHRULExxx)
+[HRULE_FLAG_xxx](/domino-c-api-docs/reference/Symb/HRULE_FLAG_xxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
+[ONEINCH](/domino-c-api-docs/reference/Symb/ONEINCH)
 ---

@@ -11,5 +11,5 @@ value tells the callback whether this call is before or after Domino or Notes
 has performed the core processing for this operation.
 
 **See Also :**
-[EMRECORD](/reference/Data/EMRECORD)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
 ---

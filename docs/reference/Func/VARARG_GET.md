@@ -69,9 +69,9 @@ parameters first.
   VARARG_GET( argPtr, TIMEDATE FAR * );
 ```
 **See Also :**
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EMRECORD](/reference/Data/EMRECORD)
-[VARARG_PEEK](/reference/Func/VARARG_PEEK)
-[VARARG_PTR](/reference/Data/VARARG_PTR)
-[VARARG_START](/reference/Func/VARARG_START)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
+[VARARG_PEEK](/domino-c-api-docs/reference/Func/VARARG_PEEK)
+[VARARG_PTR](/domino-c-api-docs/reference/Data/VARARG_PTR)
+[VARARG_START](/domino-c-api-docs/reference/Func/VARARG_START)
 ---

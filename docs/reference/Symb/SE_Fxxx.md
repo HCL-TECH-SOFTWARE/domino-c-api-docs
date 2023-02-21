@@ -18,5 +18,5 @@ For V4 -
    2) if (!(SearchMatch.SERetFlags & SE_FMATCH))
 
 **See Also :**
-[SEARCH_MATCH](/reference/Data/SEARCH_MATCH)
+[SEARCH_MATCH](/domino-c-api-docs/reference/Data/SEARCH_MATCH)
 ---

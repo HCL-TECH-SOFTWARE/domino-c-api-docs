@@ -55,14 +55,14 @@ retID  -  The address of a DWORD in which the NOTEID obtained from the ID Table 
     }
 ```
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDInsert](/reference/Func/IDInsert)
-[IDDelete](/reference/Func/IDDelete)
-[IDDeleteAll](/reference/Func/IDDeleteAll)
-[IDEnumerate](/reference/Func/IDEnumerate)
-[IDEntries](/reference/Func/IDEntries)
-[IDIsPresent](/reference/Func/IDIsPresent)
-[IDTableSize](/reference/Func/IDTableSize)
-[IDTableCopy](/reference/Func/IDTableCopy)
-[IDTableSize](/reference/Func/IDTableSize)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
+[IDDelete](/domino-c-api-docs/reference/Func/IDDelete)
+[IDDeleteAll](/domino-c-api-docs/reference/Func/IDDeleteAll)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[IDEntries](/domino-c-api-docs/reference/Func/IDEntries)
+[IDIsPresent](/domino-c-api-docs/reference/Func/IDIsPresent)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
+[IDTableCopy](/domino-c-api-docs/reference/Func/IDTableCopy)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
 ---

@@ -48,7 +48,7 @@ retwFileVersion  -  Pointer to the returned version of the certifier.
 
 
 **See Also :**
-[REGNewCertifier](/reference/Func/REGNewCertifier)
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[SECKFMCreatePassword](/reference/Func/SECKFMCreatePassword)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[SECKFMCreatePassword](/domino-c-api-docs/reference/Func/SECKFMCreatePassword)
 ---

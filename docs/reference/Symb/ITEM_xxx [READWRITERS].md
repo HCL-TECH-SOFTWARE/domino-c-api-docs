@@ -70,7 +70,7 @@ STATUS  LNPUBLIC  AppendEditorsItem (NOTEHANDLE  hNote)
 }
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[ITEM_xxx [NAMES]](/reference/Symb/ITEM_xxx [NAMES])
-[ITEM_xxx [READERS]](/reference/Symb/ITEM_xxx [READERS])
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[ITEM_xxx [NAMES]](/domino-c-api-docs/reference/Symb/ITEM_xxx [NAMES])
+[ITEM_xxx [READERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READERS])
 ---

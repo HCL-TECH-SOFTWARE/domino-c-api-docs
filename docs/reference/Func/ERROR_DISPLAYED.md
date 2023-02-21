@@ -24,6 +24,6 @@ Output :
 
 
 **See Also :**
-[STATUS](/reference/Data/STATUS)
-[STS_xxx](/reference/Symb/STS_xxx)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
+[STS_xxx](/domino-c-api-docs/reference/Symb/STS_xxx)
 ---

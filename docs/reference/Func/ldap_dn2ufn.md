@@ -26,6 +26,6 @@ Output :
 
 
 **See Also :**
-[ldap_get_dn](/reference/Func/ldap_get_dn)
-[ldap_memfree](/reference/Func/ldap_memfree)
+[ldap_get_dn](/domino-c-api-docs/reference/Func/ldap_get_dn)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
 ---

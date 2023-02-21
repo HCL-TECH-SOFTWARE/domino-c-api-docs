@@ -48,8 +48,8 @@ Rec -- Billing record structure that contains information about the specified
 StructType record
 
 **See Also :**
-[BillingWrite](/reference/Func/BillingWrite)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_CLASS_xxx](/reference/Symb/BILL_CLASS_xxx)
-[BILL_xxx (structure types)](/reference/Symb/BILL_xxx (structure types))
+[BillingWrite](/domino-c-api-docs/reference/Func/BillingWrite)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_CLASS_xxx](/domino-c-api-docs/reference/Symb/BILL_CLASS_xxx)
+[BILL_xxx (structure types)](/domino-c-api-docs/reference/Symb/BILL_xxx (structure types))
 ---

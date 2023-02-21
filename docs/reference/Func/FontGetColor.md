@@ -24,8 +24,8 @@ Output :
 
 
 **See Also :**
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontSetColor](/reference/Func/FontSetColor)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontSetColor](/domino-c-api-docs/reference/Func/FontSetColor)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
 ---

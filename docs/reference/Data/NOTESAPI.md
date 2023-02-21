@@ -21,8 +21,8 @@ special calling convention is used.
 STATUS NOTESAPI NotesInitExtended (int argc, char NOTESPTR NOTESPTR argv);
 ```
 **See Also :**
-[LNPUBLIC](/reference/Symb/LNPUBLIC)
-[NOTESAPICDECL](/reference/Data/NOTESAPICDECL)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
-[NotesMain](/reference/Func/NotesMain)
+[LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)
+[NOTESAPICDECL](/domino-c-api-docs/reference/Data/NOTESAPICDECL)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
 ---

@@ -11,6 +11,6 @@ the Agent.  Each object is preceded with a record containing the length of the
 object.
 
 **See Also :**
-[ODS_ASSISTRUNOBJECTHEADER](/reference/Data/ODS_ASSISTRUNOBJECTHEADER)
-[ODS_ASSISTSTRUCT](/reference/Data/ODS_ASSISTSTRUCT)
+[ODS_ASSISTRUNOBJECTHEADER](/domino-c-api-docs/reference/Data/ODS_ASSISTRUNOBJECTHEADER)
+[ODS_ASSISTSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTSTRUCT)
 ---

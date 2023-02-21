@@ -99,6 +99,6 @@ based on the authenticated user name).
 
 
 **See Also :**
-[FilterContext](/reference/Data/FilterContext)
-[FilterInitData](/reference/Data/FilterInitData)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[FilterInitData](/domino-c-api-docs/reference/Data/FilterInitData)
 ---

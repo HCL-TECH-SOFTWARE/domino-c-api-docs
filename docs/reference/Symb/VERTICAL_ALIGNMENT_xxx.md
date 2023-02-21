@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDVERTICALALIGN](/reference/Data/CDVERTICALALIGN)
+[CDVERTICALALIGN](/domino-c-api-docs/reference/Data/CDVERTICALALIGN)
 ---

@@ -55,9 +55,9 @@ result  -  A result parameter that will contain the result(s) of the operation. 
 
 
 **See Also :**
-[ldap_msgfree](/reference/Func/ldap_msgfree)
-[ldap_msgid](/reference/Func/ldap_msgid)
-[ldap_msgtype](/reference/Func/ldap_msgtype)
-[LDAP_MSG_xxx](/reference/Symb/LDAP_MSG_xxx)
-[LDAP_RES_xxx](/reference/Symb/LDAP_RES_xxx)
+[ldap_msgfree](/domino-c-api-docs/reference/Func/ldap_msgfree)
+[ldap_msgid](/domino-c-api-docs/reference/Func/ldap_msgid)
+[ldap_msgtype](/domino-c-api-docs/reference/Func/ldap_msgtype)
+[LDAP_MSG_xxx](/domino-c-api-docs/reference/Symb/LDAP_MSG_xxx)
+[LDAP_RES_xxx](/domino-c-api-docs/reference/Symb/LDAP_RES_xxx)
 ---

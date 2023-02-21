@@ -10,7 +10,7 @@ Each time an Agent is run, a record is written containing information about
 that execution.
 
 **See Also :**
-[ODS_ASSISTRUNOBJECTENTRY](/reference/Data/ODS_ASSISTRUNOBJECTENTRY)
-[ODS_ASSISTRUNOBJECTHEADER](/reference/Data/ODS_ASSISTRUNOBJECTHEADER)
-[ODS_ASSISTSTRUCT](/reference/Data/ODS_ASSISTSTRUCT)
+[ODS_ASSISTRUNOBJECTENTRY](/domino-c-api-docs/reference/Data/ODS_ASSISTRUNOBJECTENTRY)
+[ODS_ASSISTRUNOBJECTHEADER](/domino-c-api-docs/reference/Data/ODS_ASSISTRUNOBJECTHEADER)
+[ODS_ASSISTSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTSTRUCT)
 ---

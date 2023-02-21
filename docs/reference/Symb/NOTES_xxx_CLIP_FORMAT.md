@@ -11,7 +11,7 @@ Notes workstation for the NOTES_HNOTE_MSG, NOTES_EXECUTE_DOCACTION_MSG and
 NOTES_DOCACTION_DONE_MSG request data/GetData message.
 
 **See Also :**
-[NOTES_HNOTE_MSG](/reference/Data/NOTES_HNOTE_MSG)
-[NOTES_EXECUTE_DOCACTION_MSG](/reference/Data/NOTES_EXECUTE_DOCACTION_MSG)
-[NOTES_DOCACTION_DONE_MSG](/reference/Data/NOTES_DOCACTION_DONE_MSG)
+[NOTES_HNOTE_MSG](/domino-c-api-docs/reference/Data/NOTES_HNOTE_MSG)
+[NOTES_EXECUTE_DOCACTION_MSG](/domino-c-api-docs/reference/Data/NOTES_EXECUTE_DOCACTION_MSG)
+[NOTES_DOCACTION_DONE_MSG](/domino-c-api-docs/reference/Data/NOTES_DOCACTION_DONE_MSG)
 ---

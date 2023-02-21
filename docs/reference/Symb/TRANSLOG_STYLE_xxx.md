@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NSFGetTransLogStyle](/reference/Func/NSFGetTransLogStyle)
+[NSFGetTransLogStyle](/domino-c-api-docs/reference/Func/NSFGetTransLogStyle)
 ---

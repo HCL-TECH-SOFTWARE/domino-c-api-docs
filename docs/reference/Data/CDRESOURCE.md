@@ -21,7 +21,7 @@ BYTE Reserved
 
 
 **See Also :**
-[CDRESOURCE_CLASS_xxx](/reference/Symb/CDRESOURCE_CLASS_xxx)
-[CDRESOURCE_FLAGS_xxx](/reference/Symb/CDRESOURCE_FLAGS_xxx)
-[CDRESOURCE_TYPE_xxx](/reference/Symb/CDRESOURCE_TYPE_xxx)
+[CDRESOURCE_CLASS_xxx](/domino-c-api-docs/reference/Symb/CDRESOURCE_CLASS_xxx)
+[CDRESOURCE_FLAGS_xxx](/domino-c-api-docs/reference/Symb/CDRESOURCE_FLAGS_xxx)
+[CDRESOURCE_TYPE_xxx](/domino-c-api-docs/reference/Symb/CDRESOURCE_TYPE_xxx)
 ---

@@ -11,5 +11,5 @@ periodically check it's queue in order to receive these and do the appropriate
 tasks.
 
 **See Also :**
-[ALARM_MSG_xxx](/reference/Symb/ALARM_MSG_xxx)
+[ALARM_MSG_xxx](/domino-c-api-docs/reference/Symb/ALARM_MSG_xxx)
 ---

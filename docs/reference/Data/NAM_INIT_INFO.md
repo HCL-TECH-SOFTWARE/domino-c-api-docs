@@ -23,5 +23,5 @@ The menu add-in receives this information when processing the NAMM_INIT message
 from Notes.
 
 **See Also :**
-[NAMM_xxx](/reference/Symb/NAMM_xxx)
+[NAMM_xxx](/domino-c-api-docs/reference/Symb/NAMM_xxx)
 ---

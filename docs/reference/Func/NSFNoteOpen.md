@@ -57,9 +57,9 @@ note_handle  -  The address of a NOTEHANDLE in which the handle of the opened no
 
 ```
 **See Also :**
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteCreate](/reference/Func/NSFNoteCreate)
-[NSFNoteOpenByUNID](/reference/Func/NSFNoteOpenByUNID)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[OPEN_xxx (note)](/reference/Symb/OPEN_xxx (note))
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteCreate](/domino-c-api-docs/reference/Func/NSFNoteCreate)
+[NSFNoteOpenByUNID](/domino-c-api-docs/reference/Func/NSFNoteOpenByUNID)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[OPEN_xxx (note)](/domino-c-api-docs/reference/Symb/OPEN_xxx (note))
 ---

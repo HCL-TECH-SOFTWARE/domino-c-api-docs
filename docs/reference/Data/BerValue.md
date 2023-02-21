@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[Berval](/reference/Data/Berval)
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ber_len_t](/reference/Data/ber_len_t)
+[Berval](/domino-c-api-docs/reference/Data/Berval)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ber_len_t](/domino-c-api-docs/reference/Data/ber_len_t)
 ---

@@ -33,12 +33,12 @@ Signature Defines the CD Signature the CDENDRECORD is for.
 
 
 **See Also :**
-[BAR_VERSIONxxx](/reference/Symb/BAR_VERSIONxxx)
-[CDAREAELEMENT_VERSIONxxx](/reference/Symb/CDAREAELEMENT_VERSIONxxx)
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDGRAPHIC_VERSIONxxx](/reference/Symb/CDGRAPHIC_VERSIONxxx)
-[CDHORIZONTALRULE_VERSIONxxx](/reference/Symb/CDHORIZONTALRULE_VERSIONxxx)
-[CDMAPELEMENT_VERSIONxxx](/reference/Symb/CDMAPELEMENT_VERSIONxxx)
-[EMBEDDEDCTL_VERSIONxxx](/reference/Symb/EMBEDDEDCTL_VERSIONxxx)
-[LINK_VERSIONxxx](/reference/Symb/LINK_VERSIONxxx)
+[BAR_VERSIONxxx](/domino-c-api-docs/reference/Symb/BAR_VERSIONxxx)
+[CDAREAELEMENT_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDAREAELEMENT_VERSIONxxx)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDGRAPHIC_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDGRAPHIC_VERSIONxxx)
+[CDHORIZONTALRULE_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDHORIZONTALRULE_VERSIONxxx)
+[CDMAPELEMENT_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDMAPELEMENT_VERSIONxxx)
+[EMBEDDEDCTL_VERSIONxxx](/domino-c-api-docs/reference/Symb/EMBEDDEDCTL_VERSIONxxx)
+[LINK_VERSIONxxx](/domino-c-api-docs/reference/Symb/LINK_VERSIONxxx)
 ---

@@ -21,5 +21,5 @@ Output :
 
 
 **See Also :**
-[SECKFMGetCertifierCtx](/reference/Func/SECKFMGetCertifierCtx)
+[SECKFMGetCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
 ---

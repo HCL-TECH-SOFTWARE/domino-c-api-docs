@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[NABLookupAuthenticatedUser](/reference/Func/NABLookupAuthenticatedUser)
+[NABLookupAuthenticatedUser](/domino-c-api-docs/reference/Func/NABLookupAuthenticatedUser)
 ---

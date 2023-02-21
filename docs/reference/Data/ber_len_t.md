@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[Berval](/reference/Data/Berval)
-[ber_slen_t](/reference/Data/ber_slen_t)
+[Berval](/domino-c-api-docs/reference/Data/Berval)
+[ber_slen_t](/domino-c-api-docs/reference/Data/ber_slen_t)
 ---

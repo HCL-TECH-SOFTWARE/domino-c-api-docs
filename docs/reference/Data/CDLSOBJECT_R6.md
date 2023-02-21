@@ -14,6 +14,6 @@ Flags  Lotus Script Object Flags for Notes/Domino 6.
 Reserved Reserved for future use.
 
 **See Also :**
-[CDLSOBJECT](/reference/Data/CDLSOBJECT)
-[CDLSOBJECT_R6_TYPE](/reference/Symb/CDLSOBJECT_R6_TYPE)
+[CDLSOBJECT](/domino-c-api-docs/reference/Data/CDLSOBJECT)
+[CDLSOBJECT_R6_TYPE](/domino-c-api-docs/reference/Symb/CDLSOBJECT_R6_TYPE)
 ---

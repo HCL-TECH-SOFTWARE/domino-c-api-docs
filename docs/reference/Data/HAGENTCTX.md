@@ -12,7 +12,7 @@ agent runtime context is created with the function AgentCreateRunContext(), and
 must be freed with the function AgentDestroyRunContext().
 
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[AgentDestroyRunContext](/reference/Func/AgentDestroyRunContext)
-[AgentRun](/reference/Func/AgentRun)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[AgentDestroyRunContext](/domino-c-api-docs/reference/Func/AgentDestroyRunContext)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
 ---

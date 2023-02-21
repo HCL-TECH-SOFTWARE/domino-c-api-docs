@@ -59,8 +59,8 @@ msgidp  -  Pointer to the message id of the request if the ldap_search_ext call 
 
 
 **See Also :**
-[LDAP_NO_LIMIT](/reference/Symb/LDAP_NO_LIMIT)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
-[LDAP_SCOPE_xxx](/reference/Symb/LDAP_SCOPE_xxx)
-[LDAP_xxx_ATTRS](/reference/Symb/LDAP_xxx_ATTRS)
+[LDAP_NO_LIMIT](/domino-c-api-docs/reference/Symb/LDAP_NO_LIMIT)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
+[LDAP_SCOPE_xxx](/domino-c-api-docs/reference/Symb/LDAP_SCOPE_xxx)
+[LDAP_xxx_ATTRS](/domino-c-api-docs/reference/Symb/LDAP_xxx_ATTRS)
 ---

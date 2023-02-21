@@ -11,5 +11,5 @@ CDTARGET record.  If not specified, the data following the CDTARGET record is a
 character string that specifies the name of the target frame.
 
 **See Also :**
-[CDTARGET](/reference/Data/CDTARGET)
+[CDTARGET](/domino-c-api-docs/reference/Data/CDTARGET)
 ---

@@ -15,5 +15,5 @@ NOTE:  W4W and WMF are not to be ported to the Mac, therefore no offsets are
 provided for them.
 
 **See Also :**
-[EXPKG_xxx](/reference/Symb/EXPKG_xxx)
+[EXPKG_xxx](/domino-c-api-docs/reference/Symb/EXPKG_xxx)
 ---

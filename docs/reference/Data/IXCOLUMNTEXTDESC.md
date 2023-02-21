@@ -10,5 +10,5 @@ This is a data structure used to store text information extracted from the NIF
 Summary information for exports of view data into text.
 
 **See Also :**
-[IXCOLDESC](/reference/Data/IXCOLDESC)
+[IXCOLDESC](/domino-c-api-docs/reference/Data/IXCOLDESC)
 ---

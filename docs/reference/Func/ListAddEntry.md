@@ -76,10 +76,10 @@ OSUnlockObject(hList);
 OSMemFree (hList);
 ```
 **See Also :**
-[ListAddText](/reference/Func/ListAddText)
-[ListAllocate](/reference/Func/ListAllocate)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListRemoveAllEntries](/reference/Func/ListRemoveAllEntries)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListRemoveAllEntries](/domino-c-api-docs/reference/Func/ListRemoveAllEntries)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
 ---

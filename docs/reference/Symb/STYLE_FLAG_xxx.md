@@ -9,5 +9,5 @@
 Optional values for the Flags member of the CDSTYLENAME structure.
 
 **See Also :**
-[CDSTYLENAME](/reference/Data/CDSTYLENAME)
+[CDSTYLENAME](/domino-c-api-docs/reference/Data/CDSTYLENAME)
 ---

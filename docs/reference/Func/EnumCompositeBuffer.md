@@ -87,10 +87,10 @@ ERR_xxx - STATUS returned from a lower-level Domino function called in the actio
 }
 ```
 **See Also :**
-[ConvertItemToCompositeExt](/reference/Func/ConvertItemToCompositeExt)
-[NSFItemConvertToText](/reference/Func/NSFItemConvertToText)
-[NSFItemConvertValueToText](/reference/Func/NSFItemConvertValueToText)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[ConvertItemToCompositeExt](/domino-c-api-docs/reference/Func/ConvertItemToCompositeExt)
+[NSFItemConvertToText](/domino-c-api-docs/reference/Func/NSFItemConvertToText)
+[NSFItemConvertValueToText](/domino-c-api-docs/reference/Func/NSFItemConvertValueToText)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

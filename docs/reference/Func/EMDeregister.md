@@ -24,5 +24,5 @@ ERR_ILLEGALEXT
 
 
 **See Also :**
-[EMRegister](/reference/Func/EMRegister)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
 ---

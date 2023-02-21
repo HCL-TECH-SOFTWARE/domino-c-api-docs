@@ -13,8 +13,8 @@ database information buffer contains one or more of the following pieces of
 information:  database title, categories, class, and design class.
 
 **See Also :**
-[NSFDbInfoGet](/reference/Func/NSFDbInfoGet)
-[NSFDbInfoModify](/reference/Func/NSFDbInfoModify)
-[NSFDbInfoParse](/reference/Func/NSFDbInfoParse)
-[NSFDbInfoSet](/reference/Func/NSFDbInfoSet)
+[NSFDbInfoGet](/domino-c-api-docs/reference/Func/NSFDbInfoGet)
+[NSFDbInfoModify](/domino-c-api-docs/reference/Func/NSFDbInfoModify)
+[NSFDbInfoParse](/domino-c-api-docs/reference/Func/NSFDbInfoParse)
+[NSFDbInfoSet](/domino-c-api-docs/reference/Func/NSFDbInfoSet)
 ---

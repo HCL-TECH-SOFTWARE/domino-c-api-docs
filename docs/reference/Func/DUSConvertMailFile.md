@@ -38,6 +38,6 @@ Output :
 
 
 **See Also :**
-[fDUSxxx](/reference/Symb/fDUSxxx)
-[REGSIGNALPROC](/reference/Data/REGSIGNALPROC)
+[fDUSxxx](/domino-c-api-docs/reference/Symb/fDUSxxx)
+[REGSIGNALPROC](/domino-c-api-docs/reference/Data/REGSIGNALPROC)
 ---

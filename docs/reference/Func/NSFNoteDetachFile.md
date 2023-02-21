@@ -27,7 +27,7 @@ Output :
 
 
 **See Also :**
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
 ---

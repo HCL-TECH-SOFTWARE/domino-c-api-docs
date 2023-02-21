@@ -59,8 +59,8 @@ retNoteID  -  The address of a NOTEID in which the Note ID of the special note/d
 
 ```
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFSearch](/reference/Func/NSFSearch)
-[SPECIAL_ID_NOTE](/reference/Symb/SPECIAL_ID_NOTE)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[SPECIAL_ID_NOTE](/domino-c-api-docs/reference/Symb/SPECIAL_ID_NOTE)
 ---

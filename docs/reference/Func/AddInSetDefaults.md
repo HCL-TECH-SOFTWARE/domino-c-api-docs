@@ -80,11 +80,11 @@ AddInSetDefaults (hMod, hStatusDescriptor);
 AddInSetStatusText ("Initializing");
 ```
 **See Also :**
-[AddInQueryDefaults](/reference/Func/AddInQueryDefaults)
-[AddInDeleteStatusLine](/reference/Func/AddInDeleteStatusLine)
-[AddInCreateStatusLine](/reference/Func/AddInCreateStatusLine)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[AddInSetStatusText](/reference/Func/AddInSetStatusText)
-[AddInMain](/reference/Func/AddInMain)
+[AddInQueryDefaults](/domino-c-api-docs/reference/Func/AddInQueryDefaults)
+[AddInDeleteStatusLine](/domino-c-api-docs/reference/Func/AddInDeleteStatusLine)
+[AddInCreateStatusLine](/domino-c-api-docs/reference/Func/AddInCreateStatusLine)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[AddInSetStatusText](/domino-c-api-docs/reference/Func/AddInSetStatusText)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
 ---

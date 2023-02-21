@@ -23,5 +23,5 @@ STATUS - Status of the call: NOERROR. Any other status indicates an error
 condition.
 
 **See Also :**
-[NSFDbGetNotes](/reference/Func/NSFDbGetNotes)
+[NSFDbGetNotes](/domino-c-api-docs/reference/Func/NSFDbGetNotes)
 ---

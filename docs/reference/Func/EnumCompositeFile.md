@@ -84,6 +84,6 @@ ERR_xxx - STATUS returned from a lower-level Domino function called in the actio
 }
 ```
 **See Also :**
-[ConvertItemToCompositeExt](/reference/Func/ConvertItemToCompositeExt)
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
+[ConvertItemToCompositeExt](/domino-c-api-docs/reference/Func/ConvertItemToCompositeExt)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
 ---

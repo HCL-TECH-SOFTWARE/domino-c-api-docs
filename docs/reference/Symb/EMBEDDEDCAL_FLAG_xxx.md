@@ -9,5 +9,5 @@
 Values for Flags member of CDEMBEDDEDCALCTL
 
 **See Also :**
-[CDEMBEDDEDCALCTL](/reference/Data/CDEMBEDDEDCALCTL)
+[CDEMBEDDEDCALCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDCALCTL)
 ---

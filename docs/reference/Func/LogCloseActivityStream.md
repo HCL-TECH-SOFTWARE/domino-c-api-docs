@@ -26,5 +26,5 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[LogOpenActivityStream](/reference/Func/LogOpenActivityStream)
+[LogOpenActivityStream](/domino-c-api-docs/reference/Func/LogOpenActivityStream)
 ---

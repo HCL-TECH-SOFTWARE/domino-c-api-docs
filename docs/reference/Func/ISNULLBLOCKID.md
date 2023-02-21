@@ -24,8 +24,8 @@ Output :
 
 
 **See Also :**
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemDeleteByBLOCKID](/reference/Func/NSFItemDeleteByBLOCKID)
-[OSLockBlock](/reference/Func/OSLockBlock)
-[OSUnlockBlock](/reference/Func/OSUnlockBlock)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemDeleteByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemDeleteByBLOCKID)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[OSUnlockBlock](/domino-c-api-docs/reference/Func/OSUnlockBlock)
 ---

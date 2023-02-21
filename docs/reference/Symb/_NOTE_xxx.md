@@ -123,11 +123,11 @@ otherwise, a value of NULLHANDLE is returned.
 
 ```
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
-[NOTE_FLAG_xxx](/reference/Symb/NOTE_FLAG_xxx)
-[NSFDbGenerateOID](/reference/Func/NSFDbGenerateOID)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteSetInfo](/reference/Func/NSFNoteSetInfo)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
+[NOTE_FLAG_xxx](/domino-c-api-docs/reference/Symb/NOTE_FLAG_xxx)
+[NSFDbGenerateOID](/domino-c-api-docs/reference/Func/NSFDbGenerateOID)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteSetInfo](/domino-c-api-docs/reference/Func/NSFNoteSetInfo)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
 ---

@@ -40,7 +40,7 @@ ppString  -  A pointer to a pointer to the substring within the original string.
 
 
 **See Also :**
-[NLS_find](/reference/Func/NLS_find)
-[NLS_INFO](/reference/Data/NLS_INFO)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_find](/domino-c-api-docs/reference/Func/NLS_find)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

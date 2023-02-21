@@ -9,5 +9,5 @@
 These flags are stored in the dwFlags field of the CDQUERYHEADER record.
 
 **See Also :**
-[CDQUERYHEADER](/reference/Data/CDQUERYHEADER)
+[CDQUERYHEADER](/domino-c-api-docs/reference/Data/CDQUERYHEADER)
 ---

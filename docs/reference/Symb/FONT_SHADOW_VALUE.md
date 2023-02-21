@@ -10,5 +10,5 @@ This constant is used by FontGetShadowOffset to determine the offset value of
 shadowed text.  This value depends upon the font size.
 
 **See Also :**
-[FontGetShadowOffset](/reference/Func/FontGetShadowOffset)
+[FontGetShadowOffset](/domino-c-api-docs/reference/Func/FontGetShadowOffset)
 ---

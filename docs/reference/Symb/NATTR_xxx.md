@@ -27,5 +27,5 @@ NumberFormat.Unused     = 0;
 
 ```
 **See Also :**
-[NFMT](/reference/Data/NFMT)
+[NFMT](/domino-c-api-docs/reference/Data/NFMT)
 ---

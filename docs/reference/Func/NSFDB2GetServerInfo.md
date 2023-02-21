@@ -38,9 +38,9 @@ size  -  The size, in bytes, of the data returned.  If STATUS is ERR_DB2NSF_BUF_
 
 
 **See Also :**
-[DB2NSF_SERVINFO_xxx](/reference/Symb/DB2NSF_SERVINFO_xxx)
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
-[NSFDB2ListNSFDB2Databases](/reference/Func/NSFDB2ListNSFDB2Databases)
-[NSFDB2ReconnectNotesDatabase](/reference/Func/NSFDB2ReconnectNotesDatabase)
-[NSFDB2RegenerateLinks](/reference/Func/NSFDB2RegenerateLinks)
+[DB2NSF_SERVINFO_xxx](/domino-c-api-docs/reference/Symb/DB2NSF_SERVINFO_xxx)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
+[NSFDB2ListNSFDB2Databases](/domino-c-api-docs/reference/Func/NSFDB2ListNSFDB2Databases)
+[NSFDB2ReconnectNotesDatabase](/domino-c-api-docs/reference/Func/NSFDB2ReconnectNotesDatabase)
+[NSFDB2RegenerateLinks](/domino-c-api-docs/reference/Func/NSFDB2RegenerateLinks)
 ---

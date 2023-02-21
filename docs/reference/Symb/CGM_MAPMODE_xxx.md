@@ -9,5 +9,5 @@
 The CGM mapping mode is stored in the mm field of the CDCGMMETA record.
 
 **See Also :**
-[CDCGMMETA](/reference/Data/CDCGMMETA)
+[CDCGMMETA](/domino-c-api-docs/reference/Data/CDCGMMETA)
 ---

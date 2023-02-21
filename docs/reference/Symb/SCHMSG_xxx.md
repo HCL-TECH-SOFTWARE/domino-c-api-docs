@@ -9,5 +9,5 @@
 Possible values of the dwFlags member of the SCHMSG structure.
 
 **See Also :**
-[SCHMSG](/reference/Data/SCHMSG)
+[SCHMSG](/domino-c-api-docs/reference/Data/SCHMSG)
 ---

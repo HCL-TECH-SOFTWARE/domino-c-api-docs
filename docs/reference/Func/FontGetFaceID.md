@@ -25,9 +25,9 @@ Output :
 
 
 **See Also :**
-[CDFONTTABLE](/reference/Data/CDFONTTABLE)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontSetFaceID](/reference/Func/FontSetFaceID)
-[FONT_FACE_xxx](/reference/Symb/FONT_FACE_xxx)
+[CDFONTTABLE](/domino-c-api-docs/reference/Data/CDFONTTABLE)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontSetFaceID](/domino-c-api-docs/reference/Func/FontSetFaceID)
+[FONT_FACE_xxx](/domino-c-api-docs/reference/Symb/FONT_FACE_xxx)
 ---

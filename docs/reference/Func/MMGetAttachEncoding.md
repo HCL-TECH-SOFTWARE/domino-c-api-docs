@@ -32,6 +32,6 @@ wAttachEncoding = MMGetAttachEncoding(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetAttachEncoding](/reference/Func/MMSetAttachEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetAttachEncoding](/domino-c-api-docs/reference/Func/MMSetAttachEncoding)
 ---

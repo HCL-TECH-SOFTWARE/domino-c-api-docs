@@ -24,5 +24,5 @@ Output :
 
 
 **See Also :**
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
 ---

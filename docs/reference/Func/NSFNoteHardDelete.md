@@ -37,6 +37,6 @@ ERR_xxx - STATUS returned from a lower level Notes function.  This value can be 
 
 
 **See Also :**
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpenSoftDelete](/reference/Func/NSFNoteOpenSoftDelete)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpenSoftDelete](/domino-c-api-docs/reference/Func/NSFNoteOpenSoftDelete)
 ---

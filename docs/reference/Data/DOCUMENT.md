@@ -36,13 +36,13 @@ Universal Note ID (UNID).
 Charge:  Cost value of the $ChargeRead or $ChargeWrite field.
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BILLCHARGExxx](/reference/Symb/BILLCHARGExxx)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[DBREC](/reference/Data/DBREC)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BILLCHARGExxx](/domino-c-api-docs/reference/Symb/BILLCHARGExxx)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

@@ -37,7 +37,7 @@ case the error parameters in the session handle ld will be set to indicate the e
 msg = ldap_first_message(ld, res);
 ```
 **See Also :**
-[ldap_count_messages](/reference/Func/ldap_count_messages)
-[ldap_next_message](/reference/Func/ldap_next_message)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_count_messages](/domino-c-api-docs/reference/Func/ldap_count_messages)
+[ldap_next_message](/domino-c-api-docs/reference/Func/ldap_next_message)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

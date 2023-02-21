@@ -39,5 +39,5 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 ```
 **See Also :**
-[NSFBackupStart](/reference/Func/NSFBackupStart)
+[NSFBackupStart](/domino-c-api-docs/reference/Func/NSFBackupStart)
 ---

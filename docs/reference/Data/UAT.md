@@ -15,5 +15,5 @@ information, please refer the samples released with the C API toolkit
 see sample html/convattach
 ```
 **See Also :**
-[HTMLAPI_URLTargetComponent](/reference/Data/HTMLAPI_URLTargetComponent)
+[HTMLAPI_URLTargetComponent](/domino-c-api-docs/reference/Data/HTMLAPI_URLTargetComponent)
 ---

@@ -12,5 +12,5 @@ attribute.  The Mask flags specify the bit mask (which bits are used) for a
 specific attribute.
 
 **See Also :**
-[VIEW_COLUMN_FORMAT5](/reference/Data/VIEW_COLUMN_FORMAT5)
+[VIEW_COLUMN_FORMAT5](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT5)
 ---

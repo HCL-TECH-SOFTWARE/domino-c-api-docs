@@ -15,6 +15,6 @@ NAMEGetAddresssBooks, then the buffer returned contains a list of Address Book
 database file paths.
 
 **See Also :**
-[NAMEGetAddressBooks](/reference/Func/NAMEGetAddressBooks)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[NAMEGetAddressBooks](/domino-c-api-docs/reference/Func/NAMEGetAddressBooks)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

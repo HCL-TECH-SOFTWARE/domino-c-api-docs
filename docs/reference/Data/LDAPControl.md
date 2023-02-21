@@ -36,6 +36,6 @@ critical when used with these two operations.
 
 
 **See Also :**
-[LDAP_CHASE_xxx](/reference/Symb/LDAP_CHASE_xxx)
-[LDAP_CONTROL_xxx](/reference/Symb/LDAP_CONTROL_xxx)
+[LDAP_CHASE_xxx](/domino-c-api-docs/reference/Symb/LDAP_CHASE_xxx)
+[LDAP_CONTROL_xxx](/domino-c-api-docs/reference/Symb/LDAP_CONTROL_xxx)
 ---

@@ -33,9 +33,9 @@ is followed by another #define.
  debugtext(ERR_TOO_MANY_LOCKS,  "Too many locks on pool")
 ```
 **See Also :**
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[PKG_xxx](/reference/Symb/PKG_xxx)
-[OSLoadString](/reference/Func/OSLoadString)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[PKG_xxx](/domino-c-api-docs/reference/Symb/PKG_xxx)
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
 ---

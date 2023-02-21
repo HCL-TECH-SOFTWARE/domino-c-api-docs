@@ -54,5 +54,5 @@ DBHANDLE    db_handle;         /* handle of source database */
 
 ```
 **See Also :**
-[NSFDbGetReplHistorySummary](/reference/Func/NSFDbGetReplHistorySummary)
+[NSFDbGetReplHistorySummary](/domino-c-api-docs/reference/Func/NSFDbGetReplHistorySummary)
 ---

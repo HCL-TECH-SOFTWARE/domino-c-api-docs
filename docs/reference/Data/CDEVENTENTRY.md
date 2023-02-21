@@ -56,8 +56,8 @@ perform host/canonical conversion on structures of this type when accessing
 these records in an item in a note.
 
 **See Also :**
-[CDEVENT](/reference/Data/CDEVENT)
-[HTML_EVENT_CLIENT_xxx](/reference/Symb/HTML_EVENT_CLIENT_xxx)
-[HTML_EVENT_xxx](/reference/Symb/HTML_EVENT_xxx)
-[PLATFORM_TYPE_xxx](/reference/Symb/PLATFORM_TYPE_xxx)
+[CDEVENT](/domino-c-api-docs/reference/Data/CDEVENT)
+[HTML_EVENT_CLIENT_xxx](/domino-c-api-docs/reference/Symb/HTML_EVENT_CLIENT_xxx)
+[HTML_EVENT_xxx](/domino-c-api-docs/reference/Symb/HTML_EVENT_xxx)
+[PLATFORM_TYPE_xxx](/domino-c-api-docs/reference/Symb/PLATFORM_TYPE_xxx)
 ---

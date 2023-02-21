@@ -11,5 +11,5 @@ database. These flags are stored in the "FileAttributes" field of the
 FILEOBJECT record.
 
 **See Also :**
-[FILEOBJECT](/reference/Data/FILEOBJECT)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
 ---

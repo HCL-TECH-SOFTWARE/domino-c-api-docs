@@ -50,7 +50,7 @@ ITEMDEFTABLEHANDLE    table_handle;
 
 ```
 **See Also :**
-[ITEM_DEFINITION](/reference/Data/ITEM_DEFINITION)
-[ITEM_DEFINITION_TABLE](/reference/Data/ITEM_DEFINITION_TABLE)
-[NSFDbAddItemName](/reference/Func/NSFDbAddItemName)
+[ITEM_DEFINITION](/domino-c-api-docs/reference/Data/ITEM_DEFINITION)
+[ITEM_DEFINITION_TABLE](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE)
+[NSFDbAddItemName](/domino-c-api-docs/reference/Func/NSFDbAddItemName)
 ---

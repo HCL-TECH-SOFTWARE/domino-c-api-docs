@@ -37,7 +37,7 @@ if(error = IntlTIMEDATECreateHandle( &hTimeDate ))
 IntlTIMEDATEDeleteHandle(hTimeDate);
 ```
 **See Also :**
-[IntlTIMEDATECreateHandle](/reference/Func/IntlTIMEDATECreateHandle)
-[INTLTIMEDATEHANDLE](/reference/Data/INTLTIMEDATEHANDLE)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[IntlTIMEDATECreateHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATECreateHandle)
+[INTLTIMEDATEHANDLE](/domino-c-api-docs/reference/Data/INTLTIMEDATEHANDLE)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

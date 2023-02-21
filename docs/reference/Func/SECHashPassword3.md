@@ -66,7 +66,7 @@ retDigest  -  Buffer filled in with digest
 
 
 **See Also :**
-[SECHashPassword](/reference/Func/SECHashPassword)
-[SEC_ai_HMAC_SHA1](/reference/Symb/SEC_ai_HMAC_SHA1)
-[SEC_xxx](/reference/Symb/SEC_xxx)
+[SECHashPassword](/domino-c-api-docs/reference/Func/SECHashPassword)
+[SEC_ai_HMAC_SHA1](/domino-c-api-docs/reference/Symb/SEC_ai_HMAC_SHA1)
+[SEC_xxx](/domino-c-api-docs/reference/Symb/SEC_xxx)
 ---

@@ -9,5 +9,5 @@
 These flags are set in the dwFlags field of the ODS_ASSISTSTRUCT record.
 
 **See Also :**
-[ODS_ASSISTSTRUCT](/reference/Data/ODS_ASSISTSTRUCT)
+[ODS_ASSISTSTRUCT](/domino-c-api-docs/reference/Data/ODS_ASSISTSTRUCT)
 ---

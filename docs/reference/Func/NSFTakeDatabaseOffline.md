@@ -51,6 +51,6 @@ ERR_xxx - Errors returned by lower level Notes functions.  Call to OSLoadString 
 
 ```
 **See Also :**
-[NSFBringDatabaseOnline](/reference/Func/NSFBringDatabaseOnline)
-[OFFLINE_xxx](/reference/Symb/OFFLINE_xxx)
+[NSFBringDatabaseOnline](/domino-c-api-docs/reference/Func/NSFBringDatabaseOnline)
+[OFFLINE_xxx](/domino-c-api-docs/reference/Symb/OFFLINE_xxx)
 ---

@@ -9,5 +9,5 @@
 These symbols are used for a mail address NULL list entry.
 
 **See Also :**
-[MAIL_xxx_ITEM_NUM(2)](/reference/Symb/MAIL_xxx_ITEM_NUM(2))
+[MAIL_xxx_ITEM_NUM(2)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(2))
 ---

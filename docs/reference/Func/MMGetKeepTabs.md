@@ -29,6 +29,6 @@ bKeepTabs = MMGetKeepTabs(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetKeepTabs](/reference/Func/MMSetKeepTabs)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetKeepTabs](/domino-c-api-docs/reference/Func/MMSetKeepTabs)
 ---

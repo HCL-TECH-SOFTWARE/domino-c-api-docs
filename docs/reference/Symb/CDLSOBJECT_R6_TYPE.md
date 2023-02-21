@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDLSOBJECT_R6](/reference/Data/CDLSOBJECT_R6)
+[CDLSOBJECT_R6](/domino-c-api-docs/reference/Data/CDLSOBJECT_R6)
 ---

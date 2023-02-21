@@ -147,10 +147,10 @@ the notes in a view, given the view's name. */
 
 ```
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[NSFDbGetUnreadNoteTable](/reference/Func/NSFDbGetUnreadNoteTable)
-[NSFDbSetUnreadNoteTable](/reference/Func/NSFDbSetUnreadNoteTable)
-[OPEN_xxx (collection)](/reference/Symb/OPEN_xxx (collection))
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[NSFDbGetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetUnreadNoteTable)
+[NSFDbSetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbSetUnreadNoteTable)
+[OPEN_xxx (collection)](/domino-c-api-docs/reference/Symb/OPEN_xxx (collection))
 ---

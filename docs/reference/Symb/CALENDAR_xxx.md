@@ -9,5 +9,5 @@
 CalendarType
 
 **See Also :**
-[OSGetExtIntlFormat](/reference/Func/OSGetExtIntlFormat)
+[OSGetExtIntlFormat](/domino-c-api-docs/reference/Func/OSGetExtIntlFormat)
 ---

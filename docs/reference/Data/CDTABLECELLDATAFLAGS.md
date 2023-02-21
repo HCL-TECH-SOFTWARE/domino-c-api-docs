@@ -14,14 +14,14 @@ For a detailed description of the structure members, please see the CDDATAFLAGS
 reference entry.
 
 **See Also :**
-[BARREC_DATA_BORDER_xxx](/reference/Symb/BARREC_DATA_BORDER_xxx)
-[BUTTON_TYPE_xxx](/reference/Symb/BUTTON_TYPE_xxx)
-[CDBAR](/reference/Data/CDBAR)
-[CDBUTTON](/reference/Data/CDBUTTON)
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
-[CDFIELDHINT](/reference/Data/CDFIELDHINT)
-[CD_xxx_ELEMENT](/reference/Symb/CD_xxx_ELEMENT)
-[GETDATABORDERTYPE](/reference/Func/GETDATABORDERTYPE)
-[SETDATABORDERTYPE](/reference/Func/SETDATABORDERTYPE)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[BARREC_DATA_BORDER_xxx](/domino-c-api-docs/reference/Symb/BARREC_DATA_BORDER_xxx)
+[BUTTON_TYPE_xxx](/domino-c-api-docs/reference/Symb/BUTTON_TYPE_xxx)
+[CDBAR](/domino-c-api-docs/reference/Data/CDBAR)
+[CDBUTTON](/domino-c-api-docs/reference/Data/CDBUTTON)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
+[CDFIELDHINT](/domino-c-api-docs/reference/Data/CDFIELDHINT)
+[CD_xxx_ELEMENT](/domino-c-api-docs/reference/Symb/CD_xxx_ELEMENT)
+[GETDATABORDERTYPE](/domino-c-api-docs/reference/Func/GETDATABORDERTYPE)
+[SETDATABORDERTYPE](/domino-c-api-docs/reference/Func/SETDATABORDERTYPE)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

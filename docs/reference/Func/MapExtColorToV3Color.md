@@ -24,8 +24,8 @@ Output :
 
 
 **See Also :**
-[CDDOCUMENT](/reference/Data/CDDOCUMENT)
-[VIEW_TABLE_FORMAT2](/reference/Data/VIEW_TABLE_FORMAT2)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
-[MapV3ColorToExtColor](/reference/Func/MapV3ColorToExtColor)
+[CDDOCUMENT](/domino-c-api-docs/reference/Data/CDDOCUMENT)
+[VIEW_TABLE_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT2)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
+[MapV3ColorToExtColor](/domino-c-api-docs/reference/Func/MapV3ColorToExtColor)
 ---

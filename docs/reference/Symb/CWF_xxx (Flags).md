@@ -11,6 +11,6 @@ NSFNoteComputeWithForm function, then error processing is ignored for the
 fields will be skipped and the error callback function will not be called.
 
 **See Also :**
-[CWF_ERROR_PROC](/reference/Data/CWF_ERROR_PROC)
-[NSFNoteComputeWithForm](/reference/Func/NSFNoteComputeWithForm)
+[CWF_ERROR_PROC](/domino-c-api-docs/reference/Data/CWF_ERROR_PROC)
+[NSFNoteComputeWithForm](/domino-c-api-docs/reference/Func/NSFNoteComputeWithForm)
 ---

@@ -54,8 +54,8 @@ resultdata  -  A pointer to a struct berval containing the data in the extended 
 
 
 **See Also :**
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ldap_memfree](/reference/Func/ldap_memfree)
-[ldap_parse_result](/reference/Func/ldap_parse_result)
-[ldap_parse_sasl_bind_result](/reference/Func/ldap_parse_sasl_bind_result)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ldap_memfree](/domino-c-api-docs/reference/Func/ldap_memfree)
+[ldap_parse_result](/domino-c-api-docs/reference/Func/ldap_parse_result)
+[ldap_parse_sasl_bind_result](/domino-c-api-docs/reference/Func/ldap_parse_sasl_bind_result)
 ---

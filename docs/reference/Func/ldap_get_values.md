@@ -66,13 +66,13 @@ NULL - If no values are found or if an error occurs.
 
 ```
 **See Also :**
-[ldap_count_values](/reference/Func/ldap_count_values)
-[ldap_count_values_len](/reference/Func/ldap_count_values_len)
-[ldap_first_attribute](/reference/Func/ldap_first_attribute)
-[ldap_first_entry](/reference/Func/ldap_first_entry)
-[ldap_get_values_len](/reference/Func/ldap_get_values_len)
-[ldap_next_attribute](/reference/Func/ldap_next_attribute)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
-[ldap_value_free](/reference/Func/ldap_value_free)
-[ldap_value_free_len](/reference/Func/ldap_value_free_len)
+[ldap_count_values](/domino-c-api-docs/reference/Func/ldap_count_values)
+[ldap_count_values_len](/domino-c-api-docs/reference/Func/ldap_count_values_len)
+[ldap_first_attribute](/domino-c-api-docs/reference/Func/ldap_first_attribute)
+[ldap_first_entry](/domino-c-api-docs/reference/Func/ldap_first_entry)
+[ldap_get_values_len](/domino-c-api-docs/reference/Func/ldap_get_values_len)
+[ldap_next_attribute](/domino-c-api-docs/reference/Func/ldap_next_attribute)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
+[ldap_value_free](/domino-c-api-docs/reference/Func/ldap_value_free)
+[ldap_value_free_len](/domino-c-api-docs/reference/Func/ldap_value_free_len)
 ---

@@ -10,5 +10,5 @@ This is the datatype of the Action routine passed to
 NSFNoteExtractWithCallback.
 
 **See Also :**
-[NSFNoteExtractWithCallback](/reference/Func/NSFNoteExtractWithCallback)
+[NSFNoteExtractWithCallback](/domino-c-api-docs/reference/Func/NSFNoteExtractWithCallback)
 ---

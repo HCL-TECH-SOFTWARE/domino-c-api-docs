@@ -45,13 +45,13 @@ rethTables  -  Handle to the memory block containing the mail routing tables.  T
 
 
 **See Also :**
-[MailFindNextHopToDomain](/reference/Func/MailFindNextHopToDomain)
-[MailFindNextHopToRecipient](/reference/Func/MailFindNextHopToRecipient)
-[MailFindNextHopToServer](/reference/Func/MailFindNextHopToServer)
-[MailFindNextHopViaRules](/reference/Func/MailFindNextHopViaRules)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailResetAllDynamicCosts](/reference/Func/MailResetAllDynamicCosts)
-[MailSetDynamicCost](/reference/Func/MailSetDynamicCost)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
-[MailLoadRoutingTablesExt](/reference/Func/MailLoadRoutingTablesExt)
+[MailFindNextHopToDomain](/domino-c-api-docs/reference/Func/MailFindNextHopToDomain)
+[MailFindNextHopToRecipient](/domino-c-api-docs/reference/Func/MailFindNextHopToRecipient)
+[MailFindNextHopToServer](/domino-c-api-docs/reference/Func/MailFindNextHopToServer)
+[MailFindNextHopViaRules](/domino-c-api-docs/reference/Func/MailFindNextHopViaRules)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailResetAllDynamicCosts](/domino-c-api-docs/reference/Func/MailResetAllDynamicCosts)
+[MailSetDynamicCost](/domino-c-api-docs/reference/Func/MailSetDynamicCost)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
+[MailLoadRoutingTablesExt](/domino-c-api-docs/reference/Func/MailLoadRoutingTablesExt)
 ---

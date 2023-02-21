@@ -85,10 +85,10 @@ if (error) goto Close;
 hRecipientsItem = NULLHANDLE;
 ```
 **See Also :**
-[ListAddText](/reference/Func/ListAddText)
-[ListGetText](/reference/Func/ListGetText)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
 ---

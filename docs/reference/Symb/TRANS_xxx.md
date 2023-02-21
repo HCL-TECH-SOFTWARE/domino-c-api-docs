@@ -9,5 +9,5 @@
 Transition Types
 
 **See Also :**
-[CDTRANSITION](/reference/Data/CDTRANSITION)
+[CDTRANSITION](/domino-c-api-docs/reference/Data/CDTRANSITION)
 ---

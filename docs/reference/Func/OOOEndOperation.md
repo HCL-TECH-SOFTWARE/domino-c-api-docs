@@ -27,5 +27,5 @@ This function can return Domino errors.
 
 
 **See Also :**
-[OOOStartOperation](/reference/Func/OOOStartOperation)
+[OOOStartOperation](/domino-c-api-docs/reference/Func/OOOStartOperation)
 ---

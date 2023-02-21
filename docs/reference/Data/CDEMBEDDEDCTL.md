@@ -23,10 +23,10 @@ Spare[3]
 
 
 **See Also :**
-[EC_DIALOGUNITS](/reference/Func/EC_DIALOGUNITS)
-[EC_FITTOCONTENTS](/reference/Func/EC_FITTOCONTENTS)
-[EC_FLAG_xxx](/reference/Symb/EC_FLAG_xxx)
-[EC_STYLE_xxx](/reference/Symb/EC_STYLE_xxx)
-[EMBEDDEDCTL_VERSIONxxx](/reference/Symb/EMBEDDEDCTL_VERSIONxxx)
-[EMBEDDEDCTL_xxx](/reference/Symb/EMBEDDEDCTL_xxx)
+[EC_DIALOGUNITS](/domino-c-api-docs/reference/Func/EC_DIALOGUNITS)
+[EC_FITTOCONTENTS](/domino-c-api-docs/reference/Func/EC_FITTOCONTENTS)
+[EC_FLAG_xxx](/domino-c-api-docs/reference/Symb/EC_FLAG_xxx)
+[EC_STYLE_xxx](/domino-c-api-docs/reference/Symb/EC_STYLE_xxx)
+[EMBEDDEDCTL_VERSIONxxx](/domino-c-api-docs/reference/Symb/EMBEDDEDCTL_VERSIONxxx)
+[EMBEDDEDCTL_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDCTL_xxx)
 ---

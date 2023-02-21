@@ -28,13 +28,13 @@ agent -- Agent billing record specified by BILL_AGENTREC
 HttpRequest --  Http request billing record specified by BILL_HTTPREQREC
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BillingWrite](/reference/Func/BillingWrite)
-[BILLMSG](/reference/Data/BILLMSG)
-[DBREC](/reference/Data/DBREC)
-[DOCUMENT](/reference/Data/DOCUMENT)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BillingWrite](/domino-c-api-docs/reference/Func/BillingWrite)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

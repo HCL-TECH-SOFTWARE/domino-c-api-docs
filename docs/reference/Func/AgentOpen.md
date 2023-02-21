@@ -32,8 +32,8 @@ rethAgent  -  Handle to the open agent.
 
 
 **See Also :**
-[AgentClose](/reference/Func/AgentClose)
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[AgentRun](/reference/Func/AgentRun)
-[HAGENT](/reference/Data/HAGENT)
+[AgentClose](/domino-c-api-docs/reference/Func/AgentClose)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
+[HAGENT](/domino-c-api-docs/reference/Data/HAGENT)
 ---

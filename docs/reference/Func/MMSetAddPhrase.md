@@ -34,6 +34,6 @@ MMSetAddPhrase(hCC, 0);  /* 0/1 - no phrase added or removed,
 
 ```
 **See Also :**
-[MMGetAddPhrase](/reference/Func/MMGetAddPhrase)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetAddPhrase](/domino-c-api-docs/reference/Func/MMGetAddPhrase)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

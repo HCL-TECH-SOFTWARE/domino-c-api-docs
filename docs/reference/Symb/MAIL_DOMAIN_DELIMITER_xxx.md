@@ -9,5 +9,5 @@
 These are the delimiters used to specify a domain name.
 
 **See Also :**
-[MAIL_SERVER_DELIMITER_CHAR](/reference/Symb/MAIL_SERVER_DELIMITER_CHAR)
+[MAIL_SERVER_DELIMITER_CHAR](/domino-c-api-docs/reference/Symb/MAIL_SERVER_DELIMITER_CHAR)
 ---

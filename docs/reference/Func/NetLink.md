@@ -46,8 +46,8 @@ pRetSessionId  -  Pointer to the returned SESSIONID used to identify the link to
 
 
 **See Also :**
-[NetSetSessionMode](/reference/Func/NetSetSessionMode)
-[NetSend](/reference/Func/NetSend)
-[NetReceive](/reference/Func/NetReceive)
-[NetCloseSession](/reference/Func/NetCloseSession)
+[NetSetSessionMode](/domino-c-api-docs/reference/Func/NetSetSessionMode)
+[NetSend](/domino-c-api-docs/reference/Func/NetSend)
+[NetReceive](/domino-c-api-docs/reference/Func/NetReceive)
+[NetCloseSession](/domino-c-api-docs/reference/Func/NetCloseSession)
 ---

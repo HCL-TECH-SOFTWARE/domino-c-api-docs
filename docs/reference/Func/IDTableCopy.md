@@ -40,15 +40,15 @@ rethTable  -  The address of a HANDLE in which the handle to the newly copied ID
      
 ```
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDDelete](/reference/Func/IDDelete)
-[IDDeleteAll](/reference/Func/IDDeleteAll)
-[IDDestroyTable](/reference/Func/IDDestroyTable)
-[IDEntries](/reference/Func/IDEntries)
-[IDEnumerate](/reference/Func/IDEnumerate)
-[IDInsert](/reference/Func/IDInsert)
-[IDIsPresent](/reference/Func/IDIsPresent)
-[IDScan](/reference/Func/IDScan)
-[IDTableCopy](/reference/Func/IDTableCopy)
-[IDTableSize](/reference/Func/IDTableSize)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDDelete](/domino-c-api-docs/reference/Func/IDDelete)
+[IDDeleteAll](/domino-c-api-docs/reference/Func/IDDeleteAll)
+[IDDestroyTable](/domino-c-api-docs/reference/Func/IDDestroyTable)
+[IDEntries](/domino-c-api-docs/reference/Func/IDEntries)
+[IDEnumerate](/domino-c-api-docs/reference/Func/IDEnumerate)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
+[IDIsPresent](/domino-c-api-docs/reference/Func/IDIsPresent)
+[IDScan](/domino-c-api-docs/reference/Func/IDScan)
+[IDTableCopy](/domino-c-api-docs/reference/Func/IDTableCopy)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
 ---

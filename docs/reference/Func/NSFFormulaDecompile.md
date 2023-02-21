@@ -72,5 +72,5 @@ retFormulaTextLength  -  The specified variable receives the length of the formu
 
 ```
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
 ---

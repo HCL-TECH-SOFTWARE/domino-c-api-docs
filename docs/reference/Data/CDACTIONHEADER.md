@@ -14,5 +14,5 @@ Header  Defines this composite data item as a CDACTIONHEADER item.
 
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

@@ -32,6 +32,6 @@ rethCompute  -  A far pointer to an HCOMPUTE variable.  The HCOMPUTE variable is
 
 
 **See Also :**
-[NSFComputeEvaluate](/reference/Func/NSFComputeEvaluate)
-[NSFComputeStop](/reference/Func/NSFComputeStop)
+[NSFComputeEvaluate](/domino-c-api-docs/reference/Func/NSFComputeEvaluate)
+[NSFComputeStop](/domino-c-api-docs/reference/Func/NSFComputeStop)
 ---

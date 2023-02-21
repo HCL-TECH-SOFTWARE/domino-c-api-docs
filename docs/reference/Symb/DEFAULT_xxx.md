@@ -10,7 +10,7 @@ Various default settings for Paragraph Attribute Blocks, table cells, and
 layout regions.
 
 **See Also :**
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDTABLEBEGIN](/reference/Data/CDTABLEBEGIN)
-[ELEMENTHEADER](/reference/Data/ELEMENTHEADER)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDTABLEBEGIN](/domino-c-api-docs/reference/Data/CDTABLEBEGIN)
+[ELEMENTHEADER](/domino-c-api-docs/reference/Data/ELEMENTHEADER)
 ---

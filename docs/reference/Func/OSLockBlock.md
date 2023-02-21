@@ -50,8 +50,8 @@ Output :
 
 ```
 **See Also :**
-[ISNULLBLOCKID](/reference/Func/ISNULLBLOCKID)
-[OSUnlockBlock](/reference/Func/OSUnlockBlock)
-[OSLock](/reference/Func/OSLock)
-[OSUnlock](/reference/Func/OSUnlock)
+[ISNULLBLOCKID](/domino-c-api-docs/reference/Func/ISNULLBLOCKID)
+[OSUnlockBlock](/domino-c-api-docs/reference/Func/OSUnlockBlock)
+[OSLock](/domino-c-api-docs/reference/Func/OSLock)
+[OSUnlock](/domino-c-api-docs/reference/Func/OSUnlock)
 ---

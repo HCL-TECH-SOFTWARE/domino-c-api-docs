@@ -35,7 +35,7 @@ Output :
 
 
 **See Also :**
-[NSFDbGetReplHistorySummary](/reference/Func/NSFDbGetReplHistorySummary)
-[NSFGetSummaryFileNamePtr](/reference/Func/NSFGetSummaryFileNamePtr)
-[REPLHIST_SUMMARY](/reference/Data/REPLHIST_SUMMARY)
+[NSFDbGetReplHistorySummary](/domino-c-api-docs/reference/Func/NSFDbGetReplHistorySummary)
+[NSFGetSummaryFileNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryFileNamePtr)
+[REPLHIST_SUMMARY](/domino-c-api-docs/reference/Data/REPLHIST_SUMMARY)
 ---

@@ -29,6 +29,6 @@ wOutbLineLength = MMGetOutbLineLen(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetOutbLineLen](/reference/Func/MMSetOutbLineLen)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetOutbLineLen](/domino-c-api-docs/reference/Func/MMSetOutbLineLen)
 ---

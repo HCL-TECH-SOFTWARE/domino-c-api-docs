@@ -12,5 +12,5 @@ for the SetOpenContext function.  This function is reserved for use by Domino
 and Notes.
 
 **See Also :**
-[DBVEC](/reference/Data/DBVEC)
+[DBVEC](/domino-c-api-docs/reference/Data/DBVEC)
 ---

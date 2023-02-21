@@ -93,5 +93,5 @@ if( error = NSFProfileUpdate( note_handle, ProfileName,
 NSFNoteClose( note_handle );
 ```
 **See Also :**
-[NSFProfileOpen](/reference/Func/NSFProfileOpen)
+[NSFProfileOpen](/domino-c-api-docs/reference/Func/NSFProfileOpen)
 ---

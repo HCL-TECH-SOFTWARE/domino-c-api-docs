@@ -18,5 +18,5 @@ to maintain context to account for this.
 	 Bytes written to Buffer.
 
 **See Also :**
-[ArchiveDocumentImport](/reference/Func/ArchiveDocumentImport)
+[ArchiveDocumentImport](/domino-c-api-docs/reference/Func/ArchiveDocumentImport)
 ---

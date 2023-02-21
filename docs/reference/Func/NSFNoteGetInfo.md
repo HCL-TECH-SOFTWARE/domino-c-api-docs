@@ -40,10 +40,10 @@ value_ptr  -  The address of an existing variable or Domino memory object in whi
 
 ```
 **See Also :**
-[NSFDbGenerateOID](/reference/Func/NSFDbGenerateOID)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteSetInfo](/reference/Func/NSFNoteSetInfo)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFDbGenerateOID](/domino-c-api-docs/reference/Func/NSFDbGenerateOID)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteSetInfo](/domino-c-api-docs/reference/Func/NSFNoteSetInfo)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

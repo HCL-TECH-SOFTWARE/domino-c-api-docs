@@ -24,9 +24,9 @@ The Header field contains a BYTE length subfield.  Some Navigator CD records
 use VMODSbigobj, which contains a WORD length subfield.
 
 **See Also :**
-[VMODSbigobj](/reference/Data/VMODSbigobj)
-[VMODSrect](/reference/Data/VMODSrect)
-[VIEWMAP_RECT_RECORD](/reference/Data/VIEWMAP_RECT_RECORD)
-[VIEWMAP_BITMAP_RECORD](/reference/Data/VIEWMAP_BITMAP_RECORD)
-[VIEWMAP_REGION_RECORD](/reference/Data/VIEWMAP_REGION_RECORD)
+[VMODSbigobj](/domino-c-api-docs/reference/Data/VMODSbigobj)
+[VMODSrect](/domino-c-api-docs/reference/Data/VMODSrect)
+[VIEWMAP_RECT_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_RECT_RECORD)
+[VIEWMAP_BITMAP_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_BITMAP_RECORD)
+[VIEWMAP_REGION_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_REGION_RECORD)
 ---

@@ -9,5 +9,5 @@
 Maximum number of EVT_xxx event types.
 
 **See Also :**
-[EVT_xxx](/reference/Symb/EVT_xxx)
+[EVT_xxx](/domino-c-api-docs/reference/Symb/EVT_xxx)
 ---

@@ -45,8 +45,8 @@ ERR_xxx - STATUS returned from a lower-level function call.
 
 
 **See Also :**
-[AgentQueryStdoutBuffer](/reference/Func/AgentQueryStdoutBuffer)
-[AgentRun](/reference/Func/AgentRun)
-[AGENT_REDIR_xxx](/reference/Symb/AGENT_REDIR_xxx)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentQueryStdoutBuffer](/domino-c-api-docs/reference/Func/AgentQueryStdoutBuffer)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
+[AGENT_REDIR_xxx](/domino-c-api-docs/reference/Symb/AGENT_REDIR_xxx)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDEMBEDDEDCTL](/reference/Data/CDEMBEDDEDCTL)
+[CDEMBEDDEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDCTL)
 ---

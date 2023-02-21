@@ -13,6 +13,6 @@ information can be returned by application specific gateways.  If you need an
 ID, please register it with Lotus.
 
 **See Also :**
-[SCHED_LIST](/reference/Data/SCHED_LIST)
-[SCHED_ENTRY](/reference/Data/SCHED_ENTRY)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
+[SCHED_ENTRY](/domino-c-api-docs/reference/Data/SCHED_ENTRY)
 ---

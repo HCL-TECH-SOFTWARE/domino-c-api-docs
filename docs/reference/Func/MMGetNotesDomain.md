@@ -29,6 +29,6 @@ pszNotesDomain = MMGetNotesDomain(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetNotesDomain](/reference/Func/MMSetNotesDomain)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetNotesDomain](/domino-c-api-docs/reference/Func/MMSetNotesDomain)
 ---

@@ -45,6 +45,6 @@ MIME_STREAM_IO) {
 
 ```
 **See Also :**
-[MIMEHANDLE](/reference/Data/MIMEHANDLE)
-[MIMEStreamRead](/reference/Func/MIMEStreamRead)
+[MIMEHANDLE](/domino-c-api-docs/reference/Data/MIMEHANDLE)
+[MIMEStreamRead](/domino-c-api-docs/reference/Func/MIMEStreamRead)
 ---

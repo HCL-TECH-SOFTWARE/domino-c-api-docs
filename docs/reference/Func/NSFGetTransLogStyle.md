@@ -38,5 +38,5 @@ LogType  -  When Status returns NOERROR, LogType will be one of the following: T
 
 ```
 **See Also :**
-[TRANSLOG_STYLE_xxx](/reference/Symb/TRANSLOG_STYLE_xxx)
+[TRANSLOG_STYLE_xxx](/domino-c-api-docs/reference/Symb/TRANSLOG_STYLE_xxx)
 ---

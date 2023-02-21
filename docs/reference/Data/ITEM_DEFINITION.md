@@ -68,6 +68,6 @@ int GetItemDef (
 }
 ```
 **See Also :**
-[ITEM_DEFINITION_TABLE](/reference/Data/ITEM_DEFINITION_TABLE)
-[NSFDbItemDefTable](/reference/Func/NSFDbItemDefTable)
+[ITEM_DEFINITION_TABLE](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE)
+[NSFDbItemDefTable](/domino-c-api-docs/reference/Func/NSFDbItemDefTable)
 ---

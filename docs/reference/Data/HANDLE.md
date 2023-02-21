@@ -10,6 +10,6 @@ This datatype is the base type for various kinds of handles used by Domino and
 Notes.
 
 **See Also :**
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemFree](/reference/Func/OSMemFree)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

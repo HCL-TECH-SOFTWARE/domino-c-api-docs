@@ -10,6 +10,6 @@ This is the extended data structure that describes an individual schedule
 entry.
 
 **See Also :**
-[SCHED_ENTRY](/reference/Data/SCHED_ENTRY)
-[SCHED_LIST](/reference/Data/SCHED_LIST)
+[SCHED_ENTRY](/domino-c-api-docs/reference/Data/SCHED_ENTRY)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
 ---

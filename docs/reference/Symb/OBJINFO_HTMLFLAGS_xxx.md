@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[OLEOBJHTMLDATA](/reference/Data/OLEOBJHTMLDATA)
+[OLEOBJHTMLDATA](/domino-c-api-docs/reference/Data/OLEOBJHTMLDATA)
 ---

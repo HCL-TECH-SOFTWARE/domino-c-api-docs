@@ -31,9 +31,9 @@ Output :
 ~BYTEMASK(FONT_COLOR_SHIFT)) | ((DWORD)(colorid)<<FONT_COLOR_SHIFT))
 ```
 **See Also :**
-[FontSetColor](/reference/Func/FontSetColor)
-[FontSetFaceID](/reference/Func/FontSetFaceID)
-[FontSetSize](/reference/Func/FontSetSize)
-[FontSetStyle](/reference/Func/FontSetStyle)
-[FONT_xxx_SHIFT](/reference/Symb/FONT_xxx_SHIFT)
+[FontSetColor](/domino-c-api-docs/reference/Func/FontSetColor)
+[FontSetFaceID](/domino-c-api-docs/reference/Func/FontSetFaceID)
+[FontSetSize](/domino-c-api-docs/reference/Func/FontSetSize)
+[FontSetStyle](/domino-c-api-docs/reference/Func/FontSetStyle)
+[FONT_xxx_SHIFT](/domino-c-api-docs/reference/Symb/FONT_xxx_SHIFT)
 ---

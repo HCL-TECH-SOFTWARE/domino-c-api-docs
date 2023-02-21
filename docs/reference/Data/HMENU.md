@@ -12,5 +12,5 @@ Type definition for hmenu member of  NAM_INITMENU_INFO for OS/2 and UNIX
 platforms.
 
 **See Also :**
-[NAM_INITMENU_INFO](/reference/Data/NAM_INITMENU_INFO)
+[NAM_INITMENU_INFO](/domino-c-api-docs/reference/Data/NAM_INITMENU_INFO)
 ---

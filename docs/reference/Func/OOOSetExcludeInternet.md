@@ -28,5 +28,5 @@ NOERROR - Successfully performed this operation
 
 
 **See Also :**
-[OOOGetExcludeInternet](/reference/Func/OOOGetExcludeInternet)
+[OOOGetExcludeInternet](/domino-c-api-docs/reference/Func/OOOGetExcludeInternet)
 ---

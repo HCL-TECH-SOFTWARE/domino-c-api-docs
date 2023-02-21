@@ -151,7 +151,7 @@ STATUS LNPUBLIC TrackerInit(DBHOOKVEC * pDBHooks)
 }
 ```
 **See Also :**
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[NSFDbStampNotes](/reference/Func/NSFDbStampNotes)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[NSFDbStampNotes](/domino-c-api-docs/reference/Func/NSFDbStampNotes)
 ---

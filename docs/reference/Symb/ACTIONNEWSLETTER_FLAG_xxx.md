@@ -11,5 +11,5 @@ item.  These flags are stored in the dwFlags field of the CDACTIONNEWSLETTER
 structure.
 
 **See Also :**
-[CDACTIONNEWSLETTER](/reference/Data/CDACTIONNEWSLETTER)
+[CDACTIONNEWSLETTER](/domino-c-api-docs/reference/Data/CDACTIONNEWSLETTER)
 ---

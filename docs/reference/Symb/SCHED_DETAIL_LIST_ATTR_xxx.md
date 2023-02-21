@@ -9,5 +9,5 @@
 Possible values for the Attr member of the SCHED_DETAIL_LIST
 
 **See Also :**
-[SCHED_DETAIL_LIST](/reference/Data/SCHED_DETAIL_LIST)
+[SCHED_DETAIL_LIST](/domino-c-api-docs/reference/Data/SCHED_DETAIL_LIST)
 ---

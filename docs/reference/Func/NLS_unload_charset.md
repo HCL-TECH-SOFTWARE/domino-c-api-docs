@@ -22,5 +22,5 @@ Output :
 
 
 **See Also :**
-[NLS_load_charset](/reference/Func/NLS_load_charset)
+[NLS_load_charset](/domino-c-api-docs/reference/Func/NLS_load_charset)
 ---

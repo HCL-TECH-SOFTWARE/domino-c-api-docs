@@ -410,6 +410,6 @@ function has been effectively deprecated in favor of
                                 SC_manip_LockIDWithKeyRO. 
 
 **See Also :**
-[SC_MANIP_IMPORTABLE_CERT](/reference/Data/SC_MANIP_IMPORTABLE_CERT)
-[SECManipulateSC](/reference/Func/SECManipulateSC)
+[SC_MANIP_IMPORTABLE_CERT](/domino-c-api-docs/reference/Data/SC_MANIP_IMPORTABLE_CERT)
+[SECManipulateSC](/domino-c-api-docs/reference/Func/SECManipulateSC)
 ---

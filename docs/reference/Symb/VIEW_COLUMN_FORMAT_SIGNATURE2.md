@@ -11,5 +11,5 @@ the record.  This symbol specifies the signature of the VIEW_COLUMN_FORMAT2
 record.  
 
 **See Also :**
-[VIEW_COLUMN_FORMAT2](/reference/Data/VIEW_COLUMN_FORMAT2)
+[VIEW_COLUMN_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT2)
 ---

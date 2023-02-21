@@ -37,8 +37,8 @@ controls its position in relation to other layers (in front of or behind them).
 
 
 **See Also :**
-[CDBACKGROUNDPROPERTIES](/reference/Data/CDBACKGROUNDPROPERTIES)
-[CDBOXSIZE](/reference/Data/CDBOXSIZE)
-[CDLAYER_VERSIONxxx](/reference/Symb/CDLAYER_VERSIONxxx)
-[CDPOSITIONING](/reference/Data/CDPOSITIONING)
+[CDBACKGROUNDPROPERTIES](/domino-c-api-docs/reference/Data/CDBACKGROUNDPROPERTIES)
+[CDBOXSIZE](/domino-c-api-docs/reference/Data/CDBOXSIZE)
+[CDLAYER_VERSIONxxx](/domino-c-api-docs/reference/Symb/CDLAYER_VERSIONxxx)
+[CDPOSITIONING](/domino-c-api-docs/reference/Data/CDPOSITIONING)
 ---

@@ -24,5 +24,5 @@ Output :
 
 
 **See Also :**
-[MailCreateMessageList](/reference/Func/MailCreateMessageList)
+[MailCreateMessageList](/domino-c-api-docs/reference/Func/MailCreateMessageList)
 ---

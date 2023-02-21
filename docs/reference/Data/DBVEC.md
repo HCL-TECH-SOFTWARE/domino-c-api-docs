@@ -15,5 +15,5 @@ See the chapter on external database drivers in the Lotus C API User Guide for
 more information.
 
 **See Also :**
-[HDBDSESSION](/reference/Data/HDBDSESSION)
+[HDBDSESSION](/domino-c-api-docs/reference/Data/HDBDSESSION)
 ---

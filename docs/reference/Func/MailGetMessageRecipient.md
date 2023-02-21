@@ -75,6 +75,6 @@ RecipientNameLength  -  Recipient's address string length (not including '\0').
         }   /* end of loop over recipients */
 ```
 **See Also :**
-[MailParseMailAddress](/reference/Func/MailParseMailAddress)
-[MailDeleteMessageRecipient](/reference/Func/MailDeleteMessageRecipient)
+[MailParseMailAddress](/domino-c-api-docs/reference/Func/MailParseMailAddress)
+[MailDeleteMessageRecipient](/domino-c-api-docs/reference/Func/MailDeleteMessageRecipient)
 ---

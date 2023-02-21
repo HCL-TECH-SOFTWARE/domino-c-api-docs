@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[CDIMAGEHEADER](/reference/Data/CDIMAGEHEADER)
+[CDIMAGEHEADER](/domino-c-api-docs/reference/Data/CDIMAGEHEADER)
 ---

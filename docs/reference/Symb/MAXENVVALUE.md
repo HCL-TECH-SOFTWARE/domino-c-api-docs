@@ -12,5 +12,5 @@ assured that the array will be large enough to hold the worst-case (largest)
 environment variable string.  This size includes the terminating null.
 
 **See Also :**
-[OSGetEnvironmentString](/reference/Func/OSGetEnvironmentString)
+[OSGetEnvironmentString](/domino-c-api-docs/reference/Func/OSGetEnvironmentString)
 ---

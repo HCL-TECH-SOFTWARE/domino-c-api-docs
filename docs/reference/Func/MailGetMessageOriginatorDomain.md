@@ -35,5 +35,5 @@ OriginatorNameLength  -  Pointer to returned string lengh of the originator doma
 
 
 **See Also :**
-[MailGetMessageOriginator](/reference/Func/MailGetMessageOriginator)
+[MailGetMessageOriginator](/domino-c-api-docs/reference/Func/MailGetMessageOriginator)
 ---

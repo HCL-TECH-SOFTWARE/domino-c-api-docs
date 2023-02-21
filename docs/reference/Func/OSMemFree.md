@@ -77,9 +77,9 @@ Output :
 
 ```
 **See Also :**
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemRealloc](/reference/Func/OSMemRealloc)
-[OSMemGetSize](/reference/Func/OSMemGetSize)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemRealloc](/domino-c-api-docs/reference/Func/OSMemRealloc)
+[OSMemGetSize](/domino-c-api-docs/reference/Func/OSMemGetSize)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

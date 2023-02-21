@@ -27,8 +27,8 @@ interpreted;  please see the reference entry for ASSISTINTERVAL_TYPE_xxx for
 details.
 
 **See Also :**
-[ASSISTODS_FLAG_xxx](/reference/Symb/ASSISTODS_FLAG_xxx)
-[ASSISTSEARCH_TYPE_xxx](/reference/Symb/ASSISTSEARCH_TYPE_xxx)
-[ASSISTTRIGGER_TYPE_xxx](/reference/Symb/ASSISTTRIGGER_TYPE_xxx)
-[ASSISTINTERVAL_TYPE_xxx](/reference/Symb/ASSISTINTERVAL_TYPE_xxx)
+[ASSISTODS_FLAG_xxx](/domino-c-api-docs/reference/Symb/ASSISTODS_FLAG_xxx)
+[ASSISTSEARCH_TYPE_xxx](/domino-c-api-docs/reference/Symb/ASSISTSEARCH_TYPE_xxx)
+[ASSISTTRIGGER_TYPE_xxx](/domino-c-api-docs/reference/Symb/ASSISTTRIGGER_TYPE_xxx)
+[ASSISTINTERVAL_TYPE_xxx](/domino-c-api-docs/reference/Symb/ASSISTINTERVAL_TYPE_xxx)
 ---

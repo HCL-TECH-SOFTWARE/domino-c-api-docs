@@ -24,6 +24,6 @@ Output :
 
 
 **See Also :**
-[CDEMBEDDEDCTL](/reference/Data/CDEMBEDDEDCTL)
-[EC_FLAG_xxx](/reference/Symb/EC_FLAG_xxx)
+[CDEMBEDDEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDCTL)
+[EC_FLAG_xxx](/domino-c-api-docs/reference/Symb/EC_FLAG_xxx)
 ---

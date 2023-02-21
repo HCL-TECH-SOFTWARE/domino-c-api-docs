@@ -40,5 +40,5 @@ retpNS  -  Points to name of Lotus Domino Server to chain to.
 
 
 **See Also :**
-[SchContainer_FreeRequest](/reference/Func/SchContainer_FreeRequest)
+[SchContainer_FreeRequest](/domino-c-api-docs/reference/Func/SchContainer_FreeRequest)
 ---

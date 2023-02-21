@@ -31,6 +31,6 @@ MMSetStripGroups(hCC, TRUE); /* if TRUE strip groups from all addresses when
 importing (default is FALSE) */
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMGetStripGroups](/reference/Func/MMGetStripGroups)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMGetStripGroups](/domino-c-api-docs/reference/Func/MMGetStripGroups)
 ---

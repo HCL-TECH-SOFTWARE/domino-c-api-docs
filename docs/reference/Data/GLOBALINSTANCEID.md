@@ -11,5 +11,5 @@ we are doing a SEARCH_ALL_VERSIONS, the note with the latest modification date
 is the one that is the "most recent" instance.
 
 **See Also :**
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
 ---

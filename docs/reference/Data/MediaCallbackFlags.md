@@ -39,6 +39,6 @@ switch (state_flags)
 }
 ```
 **See Also :**
-[NOTERESTORECALLBACKFUNCTION](/reference/Data/NOTERESTORECALLBACKFUNCTION)
-[NSFRecoverDatabasesWithCallback](/reference/Func/NSFRecoverDatabasesWithCallback)
+[NOTERESTORECALLBACKFUNCTION](/domino-c-api-docs/reference/Data/NOTERESTORECALLBACKFUNCTION)
+[NSFRecoverDatabasesWithCallback](/domino-c-api-docs/reference/Func/NSFRecoverDatabasesWithCallback)
 ---

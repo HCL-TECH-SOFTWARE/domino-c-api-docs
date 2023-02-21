@@ -28,6 +28,6 @@ Output :
 
 
 **See Also :**
-[ldap_get_dn](/reference/Func/ldap_get_dn)
-[ldap_value_free](/reference/Func/ldap_value_free)
+[ldap_get_dn](/domino-c-api-docs/reference/Func/ldap_get_dn)
+[ldap_value_free](/domino-c-api-docs/reference/Func/ldap_value_free)
 ---

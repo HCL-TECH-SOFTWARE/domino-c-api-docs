@@ -23,7 +23,7 @@ modify the individual bits of a FONTID, thereby controlling how text will be
 displayed.
 
 **See Also :**
-[CDTEXT](/reference/Data/CDTEXT)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[xxx_FONT_ID](/reference/Symb/xxx_FONT_ID)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[xxx_FONT_ID](/domino-c-api-docs/reference/Symb/xxx_FONT_ID)
 ---

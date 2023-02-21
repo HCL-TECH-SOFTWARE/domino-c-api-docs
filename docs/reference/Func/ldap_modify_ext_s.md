@@ -39,6 +39,6 @@ Output :
 
 
 **See Also :**
-[LDAPMod](/reference/Data/LDAPMod)
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
+[LDAPMod](/domino-c-api-docs/reference/Data/LDAPMod)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
 ---

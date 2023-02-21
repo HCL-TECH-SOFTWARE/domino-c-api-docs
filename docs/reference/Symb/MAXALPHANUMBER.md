@@ -12,6 +12,6 @@ ConvertTextToFLOAT() or ConvertFLOATToText() are assured that the array will be
 large enough to hold the worst-case (largest) NUMBER character string.
 
 **See Also :**
-[ConvertFLOATToText](/reference/Func/ConvertFLOATToText)
-[ConvertTextToFLOAT](/reference/Func/ConvertTextToFLOAT)
+[ConvertFLOATToText](/domino-c-api-docs/reference/Func/ConvertFLOATToText)
+[ConvertTextToFLOAT](/domino-c-api-docs/reference/Func/ConvertTextToFLOAT)
 ---

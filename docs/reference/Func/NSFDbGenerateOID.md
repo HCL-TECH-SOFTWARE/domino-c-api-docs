@@ -47,8 +47,8 @@ retOID  -  The address of an OID structure in which the new OID will be returned
 
 ```
 **See Also :**
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteSetInfo](/reference/Func/NSFNoteSetInfo)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteSetInfo](/domino-c-api-docs/reference/Func/NSFNoteSetInfo)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

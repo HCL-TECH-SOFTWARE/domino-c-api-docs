@@ -56,7 +56,7 @@ StatTraverse(FacilTable[i],        /* name of facility */
 
 ```
 **See Also :**
-[STATPKG_xxx](/reference/Symb/STATPKG_xxx)
-[StatQuery](/reference/Func/StatQuery)
-[StatToText](/reference/Func/StatToText)
+[STATPKG_xxx](/domino-c-api-docs/reference/Symb/STATPKG_xxx)
+[StatQuery](/domino-c-api-docs/reference/Func/StatQuery)
+[StatToText](/domino-c-api-docs/reference/Func/StatToText)
 ---

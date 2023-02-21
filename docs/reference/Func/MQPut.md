@@ -42,15 +42,15 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[MQClose](/reference/Func/MQClose)
-[MQCreate](/reference/Func/MQCreate)
-[MQGet](/reference/Func/MQGet)
-[MQHANDLE](/reference/Data/MQHANDLE)
-[MQIsQuitPending](/reference/Func/MQIsQuitPending)
-[MQOpen](/reference/Func/MQOpen)
-[MQPutQuitMsg](/reference/Func/MQPutQuitMsg)
-[MQScan](/reference/Func/MQScan)
-[MQ_MAX_MSGSIZE](/reference/Symb/MQ_MAX_MSGSIZE)
-[MQ_xxx (Get)](/reference/Symb/MQ_xxx (Get))
-[MQ_xxx (Open)](/reference/Symb/MQ_xxx (Open))
+[MQClose](/domino-c-api-docs/reference/Func/MQClose)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQHANDLE](/domino-c-api-docs/reference/Data/MQHANDLE)
+[MQIsQuitPending](/domino-c-api-docs/reference/Func/MQIsQuitPending)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
+[MQPutQuitMsg](/domino-c-api-docs/reference/Func/MQPutQuitMsg)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
+[MQ_MAX_MSGSIZE](/domino-c-api-docs/reference/Symb/MQ_MAX_MSGSIZE)
+[MQ_xxx (Get)](/domino-c-api-docs/reference/Symb/MQ_xxx (Get))
+[MQ_xxx (Open)](/domino-c-api-docs/reference/Symb/MQ_xxx (Open))
 ---

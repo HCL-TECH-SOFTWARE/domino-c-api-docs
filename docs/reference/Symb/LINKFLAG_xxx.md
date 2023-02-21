@@ -11,7 +11,7 @@ is stored as tagged text.  These flags may be returned by NSFNoteLinkFromText
 and may be passed into NSFNoteLinkToText.
 
 **See Also :**
-[NSFNoteLinkFromText](/reference/Func/NSFNoteLinkFromText)
-[NSFNoteLinkToText](/reference/Func/NSFNoteLinkToText)
-[NOTELINK](/reference/Data/NOTELINK)
+[NSFNoteLinkFromText](/domino-c-api-docs/reference/Func/NSFNoteLinkFromText)
+[NSFNoteLinkToText](/domino-c-api-docs/reference/Func/NSFNoteLinkToText)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
 ---

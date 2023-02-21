@@ -15,5 +15,5 @@ NOTE:  TARGA, and WMF are not to be ported to the Mac, therefore no offsets are
 provided for them.
 
 **See Also :**
-[IMPKG_xxx](/reference/Symb/IMPKG_xxx)
+[IMPKG_xxx](/domino-c-api-docs/reference/Symb/IMPKG_xxx)
 ---

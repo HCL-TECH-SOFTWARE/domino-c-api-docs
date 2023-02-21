@@ -11,9 +11,9 @@ Flags member of an INTLFORMAT structure. The flag settings can be determined by
 bitwise ANDing the WORD with each define in a conditional expression.
 
 **See Also :**
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
 ---

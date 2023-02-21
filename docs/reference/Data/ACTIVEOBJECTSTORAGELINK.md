@@ -19,6 +19,6 @@ This record is followed by the name of the $FILE attachment, in LMBCS format
 with no NULL delimiter.
 
 **See Also :**
-[ACTIVEOBJECT](/reference/Data/ACTIVEOBJECT)
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
+[ACTIVEOBJECT](/domino-c-api-docs/reference/Data/ACTIVEOBJECT)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
 ---

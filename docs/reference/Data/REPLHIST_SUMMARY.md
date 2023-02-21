@@ -15,7 +15,7 @@ NSFGetSummaryFileNamePtr() macros for accessing the packed data following the
 REPLHISTORY_SUMMARY array.  
 
 **See Also :**
-[NSFGetSummaryFileNamePtr](/reference/Func/NSFGetSummaryFileNamePtr)
-[NSFGetSummaryServerNamePtr](/reference/Func/NSFGetSummaryServerNamePtr)
-[NSFDbGetReplHistorySummary](/reference/Func/NSFDbGetReplHistorySummary)
+[NSFGetSummaryFileNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryFileNamePtr)
+[NSFGetSummaryServerNamePtr](/domino-c-api-docs/reference/Func/NSFGetSummaryServerNamePtr)
+[NSFDbGetReplHistorySummary](/domino-c-api-docs/reference/Func/NSFDbGetReplHistorySummary)
 ---

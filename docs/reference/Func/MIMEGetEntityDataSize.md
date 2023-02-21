@@ -41,8 +41,8 @@ pdwDataLen  -  pointer to location for number of bytes in requested MIME entity 
 
 
 **See Also :**
-[MIMEGetEntityData](/reference/Func/MIMEGetEntityData)
-[MIME_ENTITY_DATA_xxx](/reference/Symb/MIME_ENTITY_DATA_xxx)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[MIMEGetEntityData](/domino-c-api-docs/reference/Func/MIMEGetEntityData)
+[MIME_ENTITY_DATA_xxx](/domino-c-api-docs/reference/Symb/MIME_ENTITY_DATA_xxx)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

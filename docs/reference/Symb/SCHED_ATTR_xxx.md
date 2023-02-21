@@ -14,5 +14,5 @@ NOTE:  The upper two bits of the Attr field is reserved for future use (bit 6 -
 7).
 
 **See Also :**
-[SCHED_ENTRY](/reference/Data/SCHED_ENTRY)
+[SCHED_ENTRY](/domino-c-api-docs/reference/Data/SCHED_ENTRY)
 ---

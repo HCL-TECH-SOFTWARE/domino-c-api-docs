@@ -49,6 +49,6 @@ void  LNPUBLIC   DumpCDTablecell( char * RecordPtr, DWORD RecordLength )
 }
 ```
 **See Also :**
-[CDTABLECELL](/reference/Data/CDTABLECELL)
-[TABLE_BORDER_xxx](/reference/Symb/TABLE_BORDER_xxx)
+[CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
+[TABLE_BORDER_xxx](/domino-c-api-docs/reference/Symb/TABLE_BORDER_xxx)
 ---

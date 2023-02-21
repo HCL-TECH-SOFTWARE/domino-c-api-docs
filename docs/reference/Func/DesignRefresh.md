@@ -40,7 +40,7 @@ ERR_xxx - Errors returned by lower level functions.  Call to OSLoadString to int
 
 
 **See Also :**
-[ABORTCHECKPROC](/reference/Data/ABORTCHECKPROC)
-[DESIGN_xxx](/reference/Symb/DESIGN_xxx)
-[OSSIGMSGPROC](/reference/Data/OSSIGMSGPROC)
+[ABORTCHECKPROC](/domino-c-api-docs/reference/Data/ABORTCHECKPROC)
+[DESIGN_xxx](/domino-c-api-docs/reference/Symb/DESIGN_xxx)
+[OSSIGMSGPROC](/domino-c-api-docs/reference/Data/OSSIGMSGPROC)
 ---

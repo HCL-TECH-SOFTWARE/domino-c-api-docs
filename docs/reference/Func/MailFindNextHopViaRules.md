@@ -36,7 +36,7 @@ retDestDomain  -  If the destination is a domain, the null-terminated name of th
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
 ---

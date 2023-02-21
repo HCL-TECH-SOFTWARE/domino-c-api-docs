@@ -91,7 +91,7 @@ together:
     }
 ```
 **See Also :**
-[ODSReadMemory](/reference/Func/ODSReadMemory)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
+[ODSReadMemory](/domino-c-api-docs/reference/Func/ODSReadMemory)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
 ---

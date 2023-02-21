@@ -120,10 +120,10 @@ while (!AddInIdle())
 }
 ```
 **See Also :**
-[AddInDayHasElapsed](/reference/Func/AddInDayHasElapsed)
-[AddInMain](/reference/Func/AddInMain)
-[AddInMinutesHaveElapsed](/reference/Func/AddInMinutesHaveElapsed)
-[AddInSecondsHaveElapsed](/reference/Func/AddInSecondsHaveElapsed)
-[AddInShouldTerminate](/reference/Func/AddInShouldTerminate)
-[AddInIdleDelay](/reference/Func/AddInIdleDelay)
+[AddInDayHasElapsed](/domino-c-api-docs/reference/Func/AddInDayHasElapsed)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[AddInMinutesHaveElapsed](/domino-c-api-docs/reference/Func/AddInMinutesHaveElapsed)
+[AddInSecondsHaveElapsed](/domino-c-api-docs/reference/Func/AddInSecondsHaveElapsed)
+[AddInShouldTerminate](/domino-c-api-docs/reference/Func/AddInShouldTerminate)
+[AddInIdleDelay](/domino-c-api-docs/reference/Func/AddInIdleDelay)
 ---

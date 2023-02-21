@@ -46,8 +46,8 @@ retNoteID  -  Pointer to the returned NOTEID.
 
 
 **See Also :**
-[NIFFindDesignNote](/reference/Func/NIFFindDesignNote)
-[NIFFindDesignNoteByName](/reference/Func/NIFFindDesignNoteByName)
-[NIFFindPrivateDesignNote](/reference/Func/NIFFindPrivateDesignNote)
-[NIFFindView](/reference/Func/NIFFindView)
+[NIFFindDesignNote](/domino-c-api-docs/reference/Func/NIFFindDesignNote)
+[NIFFindDesignNoteByName](/domino-c-api-docs/reference/Func/NIFFindDesignNoteByName)
+[NIFFindPrivateDesignNote](/domino-c-api-docs/reference/Func/NIFFindPrivateDesignNote)
+[NIFFindView](/domino-c-api-docs/reference/Func/NIFFindView)
 ---

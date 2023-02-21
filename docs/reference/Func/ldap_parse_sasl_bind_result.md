@@ -48,9 +48,9 @@ servercredp  -  The credentials passed back by the server for mutual authenticat
 
 
 **See Also :**
-[ber_bvfree](/reference/Func/ber_bvfree)
-[ldap_msgfree](/reference/Func/ldap_msgfree)
-[ldap_parse_extended_result](/reference/Func/ldap_parse_extended_result)
-[ldap_parse_result](/reference/Func/ldap_parse_result)
-[LDAP_RES_xxx](/reference/Symb/LDAP_RES_xxx)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
+[ldap_msgfree](/domino-c-api-docs/reference/Func/ldap_msgfree)
+[ldap_parse_extended_result](/domino-c-api-docs/reference/Func/ldap_parse_extended_result)
+[ldap_parse_result](/domino-c-api-docs/reference/Func/ldap_parse_result)
+[LDAP_RES_xxx](/domino-c-api-docs/reference/Symb/LDAP_RES_xxx)
 ---

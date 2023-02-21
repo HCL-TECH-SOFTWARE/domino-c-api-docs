@@ -24,5 +24,5 @@ Output :
 
 
 **See Also :**
-[IDTableSize](/reference/Func/IDTableSize)
+[IDTableSize](/domino-c-api-docs/reference/Func/IDTableSize)
 ---

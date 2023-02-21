@@ -56,5 +56,5 @@ int main (int argc, char *argv[])
 #endif
 ```
 **See Also :**
-[EXPORTED_LIBRARY_PROC](/reference/Data/EXPORTED_LIBRARY_PROC)
+[EXPORTED_LIBRARY_PROC](/domino-c-api-docs/reference/Data/EXPORTED_LIBRARY_PROC)
 ---

@@ -58,10 +58,10 @@ if (error_status = NSFItemSetNumber(note1_handle, FLOAT_ITEM, &num))
   goto Exit;
 ```
 **See Also :**
-[NSFItemGetLong](/reference/Func/NSFItemGetLong)
-[NSFItemGetNumber](/reference/Func/NSFItemGetNumber)
-[NSFItemLongCompare](/reference/Func/NSFItemLongCompare)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
+[NSFItemGetLong](/domino-c-api-docs/reference/Func/NSFItemGetLong)
+[NSFItemGetNumber](/domino-c-api-docs/reference/Func/NSFItemGetNumber)
+[NSFItemLongCompare](/domino-c-api-docs/reference/Func/NSFItemLongCompare)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
 ---

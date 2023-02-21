@@ -9,5 +9,5 @@
 An attached file associated with an embedded OLE 2 object.
 
 **See Also :**
-[ASSOCIATEDFILESDATA](/reference/Data/ASSOCIATEDFILESDATA)
+[ASSOCIATEDFILESDATA](/domino-c-api-docs/reference/Data/ASSOCIATEDFILESDATA)
 ---

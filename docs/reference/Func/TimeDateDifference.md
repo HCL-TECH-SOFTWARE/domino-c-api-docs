@@ -36,10 +36,10 @@ Output :
 
 ```
 **See Also :**
-[TimeDateAdjust](/reference/Func/TimeDateAdjust)
-[TimeDateCompare](/reference/Func/TimeDateCompare)
-[TimeDateDifferenceFloat](/reference/Func/TimeDateDifferenceFloat)
-[TimeDateIncrement](/reference/Func/TimeDateIncrement)
-[TimeDateEqual](/reference/Func/TimeDateEqual)
-[TimeDateCollate](/reference/Func/TimeDateCollate)
+[TimeDateAdjust](/domino-c-api-docs/reference/Func/TimeDateAdjust)
+[TimeDateCompare](/domino-c-api-docs/reference/Func/TimeDateCompare)
+[TimeDateDifferenceFloat](/domino-c-api-docs/reference/Func/TimeDateDifferenceFloat)
+[TimeDateIncrement](/domino-c-api-docs/reference/Func/TimeDateIncrement)
+[TimeDateEqual](/domino-c-api-docs/reference/Func/TimeDateEqual)
+[TimeDateCollate](/domino-c-api-docs/reference/Func/TimeDateCollate)
 ---

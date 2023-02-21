@@ -53,6 +53,6 @@ printf("File Name not present.\n");
 } } 
 ```
 **See Also :**
-[CalCreateEntry](/reference/Func/CalCreateEntry)
-[CalReadEntry](/reference/Func/CalReadEntry)
+[CalCreateEntry](/domino-c-api-docs/reference/Func/CalCreateEntry)
+[CalReadEntry](/domino-c-api-docs/reference/Func/CalReadEntry)
 ---

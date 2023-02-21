@@ -12,5 +12,5 @@ collection before reading any notes, and navigates the collection while it is
 being read.
 
 **See Also :**
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

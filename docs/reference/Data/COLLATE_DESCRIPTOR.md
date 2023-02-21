@@ -141,8 +141,8 @@ OSUnlockObject( hCollationBuffer);
 OSMemFree( hCollationBuffer );
 ```
 **See Also :**
-[COLLATION](/reference/Data/COLLATION)
-[ODSWriteMemory](/reference/Func/ODSWriteMemory)
-[_xxx (ODS Types)](/reference/Symb/_xxx (ODS Types))
-[CDF_xxx](/reference/Symb/CDF_xxx)
+[COLLATION](/domino-c-api-docs/reference/Data/COLLATION)
+[ODSWriteMemory](/domino-c-api-docs/reference/Func/ODSWriteMemory)
+[_xxx (ODS Types)](/domino-c-api-docs/reference/Symb/_xxx (ODS Types))
+[CDF_xxx](/domino-c-api-docs/reference/Symb/CDF_xxx)
 ---

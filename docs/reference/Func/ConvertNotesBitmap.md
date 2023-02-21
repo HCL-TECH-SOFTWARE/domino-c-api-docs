@@ -37,9 +37,9 @@ Output :
 
 
 **See Also :**
-[ConvertNotesBitmapFree](/reference/Func/ConvertNotesBitmapFree)
-[ConvertNotesBitmapRead](/reference/Func/ConvertNotesBitmapRead)
-[CONVERT_NOTESBITMAP_TO_GIF](/reference/Symb/CONVERT_NOTESBITMAP_TO_GIF)
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[pConvertNBmpWriter](/reference/Data/pConvertNBmpWriter)
+[ConvertNotesBitmapFree](/domino-c-api-docs/reference/Func/ConvertNotesBitmapFree)
+[ConvertNotesBitmapRead](/domino-c-api-docs/reference/Func/ConvertNotesBitmapRead)
+[CONVERT_NOTESBITMAP_TO_GIF](/domino-c-api-docs/reference/Symb/CONVERT_NOTESBITMAP_TO_GIF)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[pConvertNBmpWriter](/domino-c-api-docs/reference/Data/pConvertNBmpWriter)
 ---

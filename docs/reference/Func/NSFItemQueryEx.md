@@ -89,9 +89,9 @@ retDupItemID  -  Duplicate item ID.
        printf("\tITEM_PROTECTED\n");
 ```
 **See Also :**
-[NSFItemAppendByBLOCKID](/reference/Func/NSFItemAppendByBLOCKID)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
-[NSFItemScan](/reference/Func/NSFItemScan)
+[NSFItemAppendByBLOCKID](/domino-c-api-docs/reference/Func/NSFItemAppendByBLOCKID)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
 ---

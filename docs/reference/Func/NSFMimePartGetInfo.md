@@ -68,8 +68,8 @@ if (error = NSFMimePartGetInfo(hNote,
 
 ```
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[NSFMimePartGetInfoByBLOCKID](/reference/Func/NSFMimePartGetInfoByBLOCKID)
-[NSFMimePartGetInfoNext](/reference/Func/NSFMimePartGetInfoNext)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[NSFMimePartGetInfoByBLOCKID](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoByBLOCKID)
+[NSFMimePartGetInfoNext](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoNext)
 ---

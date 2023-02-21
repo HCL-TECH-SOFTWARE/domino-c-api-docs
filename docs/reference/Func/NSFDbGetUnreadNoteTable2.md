@@ -71,8 +71,8 @@ rethUnreadList  -  Address where the handle for the ID Table will be stored.  Th
 
 
 **See Also :**
-[DNCanonicalize](/reference/Func/DNCanonicalize)
-[NSFDbGetUnreadNoteTable](/reference/Func/NSFDbGetUnreadNoteTable)
-[NSFDbSetUnreadNoteTable](/reference/Func/NSFDbSetUnreadNoteTable)
-[NSFDbUpdateUnread](/reference/Func/NSFDbUpdateUnread)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
+[NSFDbGetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetUnreadNoteTable)
+[NSFDbSetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbSetUnreadNoteTable)
+[NSFDbUpdateUnread](/domino-c-api-docs/reference/Func/NSFDbUpdateUnread)
 ---

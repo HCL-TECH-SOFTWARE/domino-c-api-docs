@@ -10,5 +10,5 @@ These values may be used in the Flags member of the FILEOBJECT structure.
 
 
 **See Also :**
-[FILEOBJECT](/reference/Data/FILEOBJECT)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
 ---

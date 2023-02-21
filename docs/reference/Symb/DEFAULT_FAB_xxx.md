@@ -9,5 +9,5 @@
 Default settings for the field attributes in the CDFIELD structure.
 
 **See Also :**
-[CDFIELD](/reference/Data/CDFIELD)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
 ---

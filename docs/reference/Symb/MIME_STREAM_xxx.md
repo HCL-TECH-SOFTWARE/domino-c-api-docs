@@ -9,9 +9,9 @@
 flags and return values used by MIMEStreamxxx APIs.
 
 **See Also :**
-[MIMEStreamClose](/reference/Func/MIMEStreamClose)
-[MIMEStreamGetLine](/reference/Func/MIMEStreamGetLine)
-[MIMEStreamItemize](/reference/Func/MIMEStreamItemize)
-[MIMEStreamOpen](/reference/Func/MIMEStreamOpen)
-[MIMEStreamPutLine](/reference/Func/MIMEStreamPutLine)
+[MIMEStreamClose](/domino-c-api-docs/reference/Func/MIMEStreamClose)
+[MIMEStreamGetLine](/domino-c-api-docs/reference/Func/MIMEStreamGetLine)
+[MIMEStreamItemize](/domino-c-api-docs/reference/Func/MIMEStreamItemize)
+[MIMEStreamOpen](/domino-c-api-docs/reference/Func/MIMEStreamOpen)
+[MIMEStreamPutLine](/domino-c-api-docs/reference/Func/MIMEStreamPutLine)
 ---

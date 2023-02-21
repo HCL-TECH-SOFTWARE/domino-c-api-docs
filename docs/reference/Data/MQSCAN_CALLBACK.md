@@ -36,5 +36,5 @@ application's .DEF file.
 
 
 **See Also :**
-[MQScan](/reference/Func/MQScan)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
 ---

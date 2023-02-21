@@ -35,6 +35,6 @@ ERR_xxx - STATUS returned from a lower level Notes function call.  Use OSLoadStr
 
 
 **See Also :**
-[NSFNoteOLEAssociateFileToObject](/reference/Func/NSFNoteOLEAssociateFileToObject)
-[NSFNoteOLEGetAssociateFileOnObject](/reference/Func/NSFNoteOLEGetAssociateFileOnObject)
+[NSFNoteOLEAssociateFileToObject](/domino-c-api-docs/reference/Func/NSFNoteOLEAssociateFileToObject)
+[NSFNoteOLEGetAssociateFileOnObject](/domino-c-api-docs/reference/Func/NSFNoteOLEGetAssociateFileOnObject)
 ---

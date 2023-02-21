@@ -27,7 +27,7 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[XSLTRANSFORMHANDLE](/reference/Data/XSLTRANSFORMHANDLE)
-[XSLTTransformDeleteTransform](/reference/Func/XSLTTransformDeleteTransform)
-[XSLT_PROPERTY](/reference/Data/XSLT_PROPERTY)
+[XSLTRANSFORMHANDLE](/domino-c-api-docs/reference/Data/XSLTRANSFORMHANDLE)
+[XSLTTransformDeleteTransform](/domino-c-api-docs/reference/Func/XSLTTransformDeleteTransform)
+[XSLT_PROPERTY](/domino-c-api-docs/reference/Data/XSLT_PROPERTY)
 ---

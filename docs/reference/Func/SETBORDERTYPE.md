@@ -34,7 +34,7 @@ a  -  The Flags member of the CDBAR structure that has the border type set to th
 SETBORDERTYPE(pcdBar.Flags, BARREC_BORDER_NONE);
 ```
 **See Also :**
-[CDBAR](/reference/Data/CDBAR)
-[BARREC_xxx](/reference/Symb/BARREC_xxx)
-[GETBORDERTYPE](/reference/Func/GETBORDERTYPE)
+[CDBAR](/domino-c-api-docs/reference/Data/CDBAR)
+[BARREC_xxx](/domino-c-api-docs/reference/Symb/BARREC_xxx)
+[GETBORDERTYPE](/domino-c-api-docs/reference/Func/GETBORDERTYPE)
 ---

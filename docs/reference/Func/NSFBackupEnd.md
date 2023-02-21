@@ -43,7 +43,7 @@ ERR_xxx - Errors returned by lower level functions.  Call OSLoadString to interp
 
 ```
 **See Also :**
-[BACKUPEND_xxx](/reference/Symb/BACKUPEND_xxx)
-[NSFBackupStart](/reference/Func/NSFBackupStart)
-[NSFBackupStop](/reference/Func/NSFBackupStop)
+[BACKUPEND_xxx](/domino-c-api-docs/reference/Symb/BACKUPEND_xxx)
+[NSFBackupStart](/domino-c-api-docs/reference/Func/NSFBackupStart)
+[NSFBackupStop](/domino-c-api-docs/reference/Func/NSFBackupStop)
 ---

@@ -45,7 +45,7 @@ Output :
 
 ```
 **See Also :**
-[OSUnlockObject](/reference/Func/OSUnlockObject)
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSMemFree](/reference/Func/OSMemFree)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

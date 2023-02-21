@@ -31,6 +31,6 @@ MMSetSkipX(hCC, TRUE); /* if TRUE, don't export any headers named x-notes-item
 (default FALSE) */
 ```
 **See Also :**
-[MMGetSkipX](/reference/Func/MMGetSkipX)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetSkipX](/domino-c-api-docs/reference/Func/MMGetSkipX)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

@@ -36,5 +36,5 @@ ctrlp  -  Returns a pointer to the LDAPControl created.  This control SHOULD be 
 
 
 **See Also :**
-[ldap_control_free](/reference/Func/ldap_control_free)
+[ldap_control_free](/domino-c-api-docs/reference/Func/ldap_control_free)
 ---

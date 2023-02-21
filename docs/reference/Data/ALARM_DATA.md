@@ -10,5 +10,5 @@ Message structure sent TO THE CLIENT, one per alarm.  There is an array of
 these structures pointed to by ALARM_MSG.
 
 **See Also :**
-[ALARM_DATA_FLAG_xxx](/reference/Symb/ALARM_DATA_FLAG_xxx)
+[ALARM_DATA_FLAG_xxx](/domino-c-api-docs/reference/Symb/ALARM_DATA_FLAG_xxx)
 ---

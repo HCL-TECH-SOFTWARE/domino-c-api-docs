@@ -17,9 +17,9 @@ dwReserved[4] - Reserved for future use.
 
 
 **See Also :**
-[CDBEGINRECORD](/reference/Data/CDBEGINRECORD)
-[CDENDRECORD](/reference/Data/CDENDRECORD)
-[CDRESOURCE](/reference/Data/CDRESOURCE)
-[INLINE_FLAG_xxx](/reference/Symb/INLINE_FLAG_xxx)
-[INLINE_VERSION1](/reference/Symb/INLINE_VERSION1)
+[CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)
+[CDENDRECORD](/domino-c-api-docs/reference/Data/CDENDRECORD)
+[CDRESOURCE](/domino-c-api-docs/reference/Data/CDRESOURCE)
+[INLINE_FLAG_xxx](/domino-c-api-docs/reference/Symb/INLINE_FLAG_xxx)
+[INLINE_VERSION1](/domino-c-api-docs/reference/Symb/INLINE_VERSION1)
 ---

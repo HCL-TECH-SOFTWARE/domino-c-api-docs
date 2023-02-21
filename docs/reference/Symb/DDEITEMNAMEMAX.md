@@ -9,5 +9,5 @@
 This symbol defines the maximum length of a DDE topic name.
 
 **See Also :**
-[CDDDEBEGIN](/reference/Data/CDDDEBEGIN)
+[CDDDEBEGIN](/domino-c-api-docs/reference/Data/CDDDEBEGIN)
 ---

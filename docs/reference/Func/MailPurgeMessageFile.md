@@ -22,5 +22,5 @@ Output :
 
 
 **See Also :**
-[MailPurgeMessage](/reference/Func/MailPurgeMessage)
+[MailPurgeMessage](/domino-c-api-docs/reference/Func/MailPurgeMessage)
 ---

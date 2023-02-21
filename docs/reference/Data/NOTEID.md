@@ -16,7 +16,7 @@ copies of the same note, in two separate replica databases, will most likely
 have different NOTEIDs.
 
 **See Also :**
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[ORIGINATORID](/reference/Data/ORIGINATORID)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
 ---

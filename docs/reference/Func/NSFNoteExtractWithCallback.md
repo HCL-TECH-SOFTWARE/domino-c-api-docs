@@ -173,9 +173,9 @@ Exit0:
 }
 ```
 **See Also :**
-[NOTEEXTRACTCALLBACK](/reference/Data/NOTEEXTRACTCALLBACK)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
-[NSFNoteDetachFile](/reference/Func/NSFNoteDetachFile)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
+[NOTEEXTRACTCALLBACK](/domino-c-api-docs/reference/Data/NOTEEXTRACTCALLBACK)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
+[NSFNoteDetachFile](/domino-c-api-docs/reference/Func/NSFNoteDetachFile)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
 ---

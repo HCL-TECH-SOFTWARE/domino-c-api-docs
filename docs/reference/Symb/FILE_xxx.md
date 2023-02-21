@@ -94,5 +94,5 @@ call an action routine. */
   return (ERR(error));
 ```
 **See Also :**
-[NSFSearch](/reference/Func/NSFSearch)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
 ---

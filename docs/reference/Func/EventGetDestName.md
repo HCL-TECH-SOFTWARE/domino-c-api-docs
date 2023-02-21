@@ -37,10 +37,10 @@ DestName  -  A string containing the name of a person or database to be associat
 
 
 **See Also :**
-[EventQueueAlloc](/reference/Func/EventQueueAlloc)
-[EventQueueFree](/reference/Func/EventQueueFree)
-[EventQueuePut](/reference/Func/EventQueuePut)
-[EventQueueGet](/reference/Func/EventQueueGet)
-[EventRegisterEventRequest](/reference/Func/EventRegisterEventRequest)
-[EventDeregisterEventRequest](/reference/Func/EventDeregisterEventRequest)
+[EventQueueAlloc](/domino-c-api-docs/reference/Func/EventQueueAlloc)
+[EventQueueFree](/domino-c-api-docs/reference/Func/EventQueueFree)
+[EventQueuePut](/domino-c-api-docs/reference/Func/EventQueuePut)
+[EventQueueGet](/domino-c-api-docs/reference/Func/EventQueueGet)
+[EventRegisterEventRequest](/domino-c-api-docs/reference/Func/EventRegisterEventRequest)
+[EventDeregisterEventRequest](/domino-c-api-docs/reference/Func/EventDeregisterEventRequest)
 ---

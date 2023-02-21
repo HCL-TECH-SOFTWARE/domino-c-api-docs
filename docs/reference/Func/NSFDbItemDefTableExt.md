@@ -144,12 +144,12 @@ Exit0:
 
 ```
 **See Also :**
-[ITEM_DEFINITION_EXT](/reference/Data/ITEM_DEFINITION_EXT)
-[ITEM_DEFINITION_TABLE_EXT](/reference/Data/ITEM_DEFINITION_TABLE_EXT)
-[ITEM_DEFINITION_TABLE_LOCK](/reference/Data/ITEM_DEFINITION_TABLE_LOCK)
-[NSFItemDefExtEntries](/reference/Func/NSFItemDefExtEntries)
-[NSFItemDefExtFree](/reference/Func/NSFItemDefExtFree)
-[NSFItemDefExtGetEntry](/reference/Func/NSFItemDefExtGetEntry)
-[NSFItemDefExtLock](/reference/Func/NSFItemDefExtLock)
-[NSFItemDefExtUnlock](/reference/Func/NSFItemDefExtUnlock)
+[ITEM_DEFINITION_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_EXT)
+[ITEM_DEFINITION_TABLE_EXT](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE_EXT)
+[ITEM_DEFINITION_TABLE_LOCK](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE_LOCK)
+[NSFItemDefExtEntries](/domino-c-api-docs/reference/Func/NSFItemDefExtEntries)
+[NSFItemDefExtFree](/domino-c-api-docs/reference/Func/NSFItemDefExtFree)
+[NSFItemDefExtGetEntry](/domino-c-api-docs/reference/Func/NSFItemDefExtGetEntry)
+[NSFItemDefExtLock](/domino-c-api-docs/reference/Func/NSFItemDefExtLock)
+[NSFItemDefExtUnlock](/domino-c-api-docs/reference/Func/NSFItemDefExtUnlock)
 ---

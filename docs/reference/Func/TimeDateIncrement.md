@@ -42,5 +42,5 @@ Time  -  The address of  the TIMEDATE structure in which the original value, plu
 
 ```
 **See Also :**
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
 ---

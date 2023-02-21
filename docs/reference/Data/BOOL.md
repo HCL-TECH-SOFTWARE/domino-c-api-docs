@@ -9,5 +9,5 @@
 A variable of type BOOL may be set to either TRUE or FALSE.
 
 **See Also :**
-[BOOLBYTE](/reference/Data/BOOLBYTE)
+[BOOLBYTE](/domino-c-api-docs/reference/Data/BOOLBYTE)
 ---

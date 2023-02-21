@@ -38,8 +38,8 @@ the design collection.
 
 ```
 **See Also :**
-[NSFDbCopy](/reference/Func/NSFDbCopy)
-[NSFSearch](/reference/Func/NSFSearch)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NSFDbGetSpecialNoteID](/reference/Func/NSFDbGetSpecialNoteID)
+[NSFDbCopy](/domino-c-api-docs/reference/Func/NSFDbCopy)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NSFDbGetSpecialNoteID](/domino-c-api-docs/reference/Func/NSFDbGetSpecialNoteID)
 ---

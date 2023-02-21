@@ -9,5 +9,5 @@
 These values are referenced in the CDEXT2FIELD data structure.
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
 ---

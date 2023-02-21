@@ -30,6 +30,6 @@ rethACL  -  Pointer to returned handle to an access control list.  Use OSMemFree
 
 
 **See Also :**
-[NSFDbReadACL](./reference/Func/NSFDbReadACL)
-[NSFDbStoreACL](./reference/Func/NSFDbStoreACL)
+[NSFDbReadACL](/domino-c-api-docs/reference/Func/NSFDbReadACL)
+[NSFDbStoreACL](/domino-c-api-docs/reference/Func/NSFDbStoreACL)
 ---

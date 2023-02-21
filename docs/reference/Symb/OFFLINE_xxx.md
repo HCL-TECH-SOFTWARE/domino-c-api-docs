@@ -10,5 +10,5 @@ This option is used when the database is not to be automatically deleted when
 taken offline.
 
 **See Also :**
-[NSFTakeDatabaseOffline](/reference/Func/NSFTakeDatabaseOffline)
+[NSFTakeDatabaseOffline](/domino-c-api-docs/reference/Func/NSFTakeDatabaseOffline)
 ---

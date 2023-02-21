@@ -12,5 +12,5 @@ parameter.
 It is defined as (HCOLLECTION) 0.
 
 **See Also :**
-[HCOLLECTION](/reference/Data/HCOLLECTION)
+[HCOLLECTION](/domino-c-api-docs/reference/Data/HCOLLECTION)
 ---

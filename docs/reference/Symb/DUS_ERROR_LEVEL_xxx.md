@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[DUSExtendedErrorText](/reference/Func/DUSExtendedErrorText)
+[DUSExtendedErrorText](/domino-c-api-docs/reference/Func/DUSExtendedErrorText)
 ---

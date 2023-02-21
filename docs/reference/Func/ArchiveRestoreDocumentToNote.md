@@ -34,6 +34,6 @@ Output :
 
 
 **See Also :**
-[ArchiveDocumentImport](/reference/Func/ArchiveDocumentImport)
-[HARCHIVEDOCUMENT](/reference/Data/HARCHIVEDOCUMENT)
+[ArchiveDocumentImport](/domino-c-api-docs/reference/Func/ArchiveDocumentImport)
+[HARCHIVEDOCUMENT](/domino-c-api-docs/reference/Data/HARCHIVEDOCUMENT)
 ---

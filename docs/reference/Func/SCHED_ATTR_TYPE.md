@@ -23,5 +23,5 @@ Output :
 
 
 **See Also :**
-[SCHED_ENTRY](/reference/Data/SCHED_ENTRY)
+[SCHED_ENTRY](/domino-c-api-docs/reference/Data/SCHED_ENTRY)
 ---

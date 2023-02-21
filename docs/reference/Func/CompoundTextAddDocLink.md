@@ -40,7 +40,7 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[CDLINK2](/reference/Data/CDLINK2)
-[CDLINKEXPORT2](/reference/Data/CDLINKEXPORT2)
-[NOTELINK](/reference/Data/NOTELINK)
+[CDLINK2](/domino-c-api-docs/reference/Data/CDLINK2)
+[CDLINKEXPORT2](/domino-c-api-docs/reference/Data/CDLINKEXPORT2)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
 ---

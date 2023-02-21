@@ -23,5 +23,5 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[SECReattachToRootID](/reference/Func/SECReattachToRootID)
+[SECReattachToRootID](/domino-c-api-docs/reference/Func/SECReattachToRootID)
 ---

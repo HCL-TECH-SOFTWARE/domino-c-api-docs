@@ -66,6 +66,6 @@ retTextLength  -  The address of a WORD containing the length of the resulting t
 
 ```
 **See Also :**
-[ConvertTextToFLOAT](/reference/Func/ConvertTextToFLOAT)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
+[ConvertTextToFLOAT](/domino-c-api-docs/reference/Func/ConvertTextToFLOAT)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
 ---

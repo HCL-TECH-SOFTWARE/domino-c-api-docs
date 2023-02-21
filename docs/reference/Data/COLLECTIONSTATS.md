@@ -11,7 +11,7 @@ returned information buffer.  The structure describes statistics about the
 overall collection.
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[OPEN_xxx (collection)](/reference/Symb/OPEN_xxx (collection))
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[OPEN_xxx (collection)](/domino-c-api-docs/reference/Symb/OPEN_xxx (collection))
 ---

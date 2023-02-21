@@ -53,5 +53,5 @@ pItemValLen  -  The size of the value(s) for itemName in bytes.
 
 
 **See Also :**
-[DirEntryGetItem](/reference/Func/DirEntryGetItem)
+[DirEntryGetItem](/domino-c-api-docs/reference/Func/DirEntryGetItem)
 ---

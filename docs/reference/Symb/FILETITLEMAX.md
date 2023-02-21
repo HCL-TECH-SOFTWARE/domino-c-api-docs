@@ -10,5 +10,5 @@ Maximum number of characters in a database title string.  This size includes
 the terminating NULL character.
 
 **See Also :**
-[OLDFILETITLEMAX](/reference/Symb/OLDFILETITLEMAX)
+[OLDFILETITLEMAX](/domino-c-api-docs/reference/Symb/OLDFILETITLEMAX)
 ---

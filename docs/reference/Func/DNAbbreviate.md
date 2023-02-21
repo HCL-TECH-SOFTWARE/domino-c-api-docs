@@ -63,7 +63,7 @@ error = DNAbbreviate (0L,
                       &retLen);            /* returned output len */ 
 ```
 **See Also :**
-[DNCanonicalize](/reference/Func/DNCanonicalize)
-[DNParse](/reference/Func/DNParse)
-[DN_ABBREV_xxx](/reference/Symb/DN_ABBREV_xxx)
+[DNCanonicalize](/domino-c-api-docs/reference/Func/DNCanonicalize)
+[DNParse](/domino-c-api-docs/reference/Func/DNParse)
+[DN_ABBREV_xxx](/domino-c-api-docs/reference/Symb/DN_ABBREV_xxx)
 ---

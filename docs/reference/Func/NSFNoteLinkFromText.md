@@ -57,7 +57,7 @@ retFlags  -  Link flag bits are stored at this address (see the entry for LINKFL
 
 
 **See Also :**
-[LINKFLAG_xxx](/reference/Symb/LINKFLAG_xxx)
-[NOTELINK](/reference/Data/NOTELINK)
-[NSFNoteLinkToText](/reference/Func/NSFNoteLinkToText)
+[LINKFLAG_xxx](/domino-c-api-docs/reference/Symb/LINKFLAG_xxx)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[NSFNoteLinkToText](/domino-c-api-docs/reference/Func/NSFNoteLinkToText)
 ---

@@ -38,8 +38,8 @@ retPassword  -  Pointer to a null-terminated character string containing the pas
 
 
 **See Also :**
-[KFM_PASSWORD](/reference/Data/KFM_PASSWORD)
-[NSFDB2DeleteUsernamePW](/reference/Func/NSFDB2DeleteUsernamePW)
-[NSFDB2PutUsernamePW](/reference/Func/NSFDB2PutUsernamePW)
-[SECKFMCreatePassword](/reference/Func/SECKFMCreatePassword)
+[KFM_PASSWORD](/domino-c-api-docs/reference/Data/KFM_PASSWORD)
+[NSFDB2DeleteUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2DeleteUsernamePW)
+[NSFDB2PutUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2PutUsernamePW)
+[SECKFMCreatePassword](/domino-c-api-docs/reference/Func/SECKFMCreatePassword)
 ---

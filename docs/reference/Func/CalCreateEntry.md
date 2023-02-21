@@ -51,5 +51,5 @@ hRetUID  -  If non-null, the UID of the created iCalendar will be placed here
 
 
 **See Also :**
-[CalReadEntry](/reference/Func/CalReadEntry)
+[CalReadEntry](/domino-c-api-docs/reference/Func/CalReadEntry)
 ---

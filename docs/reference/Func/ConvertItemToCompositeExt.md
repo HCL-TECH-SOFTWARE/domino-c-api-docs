@@ -91,14 +91,14 @@ else
 
 ```
 **See Also :**
-[EnumCompositeBuffer](/reference/Func/EnumCompositeBuffer)
-[ConvertItemToText](/reference/Func/ConvertItemToText)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFItemConvertToText](/reference/Func/NSFItemConvertToText)
-[NSFItemConvertValueToText](/reference/Func/NSFItemConvertValueToText)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[OSMemFree](/reference/Func/OSMemFree)
+[EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)
+[ConvertItemToText](/domino-c-api-docs/reference/Func/ConvertItemToText)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFItemConvertToText](/domino-c-api-docs/reference/Func/NSFItemConvertToText)
+[NSFItemConvertValueToText](/domino-c-api-docs/reference/Func/NSFItemConvertValueToText)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
 ---

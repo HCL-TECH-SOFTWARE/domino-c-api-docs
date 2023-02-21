@@ -70,8 +70,8 @@ the Agent.*/
 
 ```
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[AgentOpen](/reference/Func/AgentOpen)
-[HAGENT](/reference/Data/HAGENT)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[AgentOpen](/domino-c-api-docs/reference/Func/AgentOpen)
+[HAGENT](/domino-c-api-docs/reference/Data/HAGENT)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

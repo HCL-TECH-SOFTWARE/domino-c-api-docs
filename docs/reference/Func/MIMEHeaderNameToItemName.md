@@ -106,9 +106,9 @@ MIME_HEADER_FORMAT_XXXX
 
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[MIMEItemNameToHeaderName](/reference/Func/MIMEItemNameToHeaderName)
-[MIME_HEADER_FORMAT_xxx](/reference/Symb/MIME_HEADER_FORMAT_xxx)
-[MIME_HEADER_MAP_xxx](/reference/Symb/MIME_HEADER_MAP_xxx)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[MIMEItemNameToHeaderName](/domino-c-api-docs/reference/Func/MIMEItemNameToHeaderName)
+[MIME_HEADER_FORMAT_xxx](/domino-c-api-docs/reference/Symb/MIME_HEADER_FORMAT_xxx)
+[MIME_HEADER_MAP_xxx](/domino-c-api-docs/reference/Symb/MIME_HEADER_MAP_xxx)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

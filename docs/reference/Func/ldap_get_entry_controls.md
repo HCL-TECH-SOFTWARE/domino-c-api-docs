@@ -32,7 +32,7 @@ ctrls  -  An allocated array of controls copied out of the entry. The control ar
 
 
 **See Also :**
-[ldap_control_free](/reference/Func/ldap_control_free)
-[ldap_first_entry](/reference/Func/ldap_first_entry)
-[ldap_next_entry](/reference/Func/ldap_next_entry)
+[ldap_control_free](/domino-c-api-docs/reference/Func/ldap_control_free)
+[ldap_first_entry](/domino-c-api-docs/reference/Func/ldap_first_entry)
+[ldap_next_entry](/domino-c-api-docs/reference/Func/ldap_next_entry)
 ---

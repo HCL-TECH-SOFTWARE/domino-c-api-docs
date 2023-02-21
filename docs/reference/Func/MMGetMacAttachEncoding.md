@@ -30,6 +30,6 @@ wMacAttachEncoding = MMGetMacAttachEncoding(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetMacAttachEncoding](/reference/Func/MMSetMacAttachEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetMacAttachEncoding](/domino-c-api-docs/reference/Func/MMSetMacAttachEncoding)
 ---

@@ -74,7 +74,7 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[MIME_PART_xxx](/reference/Symb/MIME_PART_xxx)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[MIME_PART_xxx](/domino-c-api-docs/reference/Symb/MIME_PART_xxx)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

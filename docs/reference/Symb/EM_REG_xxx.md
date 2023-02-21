@@ -12,5 +12,5 @@ processing for this operation.  These two flags may be combined to indicate
 that the callback should be called both before and after core processing.
 
 **See Also :**
-[EMRegister](/reference/Func/EMRegister)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
 ---

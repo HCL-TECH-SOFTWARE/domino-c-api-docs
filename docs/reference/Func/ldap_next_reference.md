@@ -37,7 +37,7 @@ case the error parameters in the session handle ld will be set to indicate the e
 nref = ldap_next_reference(ld, chain);
 ```
 **See Also :**
-[ldap_count_references](/reference/Func/ldap_count_references)
-[ldap_first_reference](/reference/Func/ldap_first_reference)
-[ldap_result](/reference/Func/ldap_result)
+[ldap_count_references](/domino-c-api-docs/reference/Func/ldap_count_references)
+[ldap_first_reference](/domino-c-api-docs/reference/Func/ldap_first_reference)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

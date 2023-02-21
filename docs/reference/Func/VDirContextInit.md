@@ -109,5 +109,5 @@ OSMemFree(hLookup);
 	VDirContextDestroy();  /* Free the thread-static memory */
 ```
 **See Also :**
-[VDirContextDestroy](/reference/Func/VDirContextDestroy)
+[VDirContextDestroy](/domino-c-api-docs/reference/Func/VDirContextDestroy)
 ---

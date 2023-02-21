@@ -9,5 +9,5 @@
 Maximum size of a console command string.
 
 **See Also :**
-[NSFRemoteConsole](/reference/Func/NSFRemoteConsole)
+[NSFRemoteConsole](/domino-c-api-docs/reference/Func/NSFRemoteConsole)
 ---

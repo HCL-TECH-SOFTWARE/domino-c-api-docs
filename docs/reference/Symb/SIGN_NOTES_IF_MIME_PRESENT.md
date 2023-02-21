@@ -9,5 +9,5 @@
  If the note has MIME parts, this Flag will allow it to be Notes signed.
 
 **See Also :**
-[NSFNoteSignExt3](/reference/Func/NSFNoteSignExt3)
+[NSFNoteSignExt3](/domino-c-api-docs/reference/Func/NSFNoteSignExt3)
 ---

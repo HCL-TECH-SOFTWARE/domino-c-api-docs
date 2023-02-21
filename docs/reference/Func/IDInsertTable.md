@@ -43,7 +43,7 @@ hTable  -  The resulting table.  The source ID Table is replaced by the resultin
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[IDDeleteTable](/reference/Func/IDDeleteTable)
-[IDInsert](/reference/Func/IDInsert)
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[IDDeleteTable](/domino-c-api-docs/reference/Func/IDDeleteTable)
+[IDInsert](/domino-c-api-docs/reference/Func/IDInsert)
 ---

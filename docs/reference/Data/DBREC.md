@@ -52,13 +52,13 @@ recorded for the session.
 ReplicaID -- Unique replica ID of the open database.
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
-[BILLMSG](/reference/Data/BILLMSG)
-[BILLREC](/reference/Data/BILLREC)
-[BILL_xxx (actions)](/reference/Symb/BILL_xxx (actions))
-[DOCUMENT](/reference/Data/DOCUMENT)
-[HTTPREQREC](/reference/Data/HTTPREQREC)
-[MAILREC](/reference/Data/MAILREC)
-[REPLREC](/reference/Data/REPLREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
+[BILLMSG](/domino-c-api-docs/reference/Data/BILLMSG)
+[BILLREC](/domino-c-api-docs/reference/Data/BILLREC)
+[BILL_xxx (actions)](/domino-c-api-docs/reference/Symb/BILL_xxx (actions))
+[DOCUMENT](/domino-c-api-docs/reference/Data/DOCUMENT)
+[HTTPREQREC](/domino-c-api-docs/reference/Data/HTTPREQREC)
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[REPLREC](/domino-c-api-docs/reference/Data/REPLREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

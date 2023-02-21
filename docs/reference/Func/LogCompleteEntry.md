@@ -47,6 +47,6 @@ else
    cleanup_state -= COMPLETE_LOG_ENTRY;
 ```
 **See Also :**
-[LogCloseEntry](/reference/Func/LogCloseEntry)
-[LogCreateEntry](/reference/Func/LogCreateEntry)
+[LogCloseEntry](/domino-c-api-docs/reference/Func/LogCloseEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
 ---

@@ -9,8 +9,8 @@
 These values specify facility names for the statistics reporting routines.
 
 **See Also :**
-[StatUpdate](/reference/Func/StatUpdate)
-[StatDelete](/reference/Func/StatDelete)
-[StatTraverse](/reference/Func/StatTraverse)
-[StatToText](/reference/Func/StatToText)
+[StatUpdate](/domino-c-api-docs/reference/Func/StatUpdate)
+[StatDelete](/domino-c-api-docs/reference/Func/StatDelete)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
+[StatToText](/domino-c-api-docs/reference/Func/StatToText)
 ---

@@ -23,10 +23,10 @@ STATUS NOTESMAIN NotesMain (int argc, char * argv[])
 }
 ```
 **See Also :**
-[AddInMain](/reference/Func/AddInMain)
-[LNPUBLIC](/reference/Symb/LNPUBLIC)
-[NOTESAPI](/reference/Data/NOTESAPI)
-[NOTESAPICDECL](/reference/Data/NOTESAPICDECL)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
-[NotesMain](/reference/Func/NotesMain)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)
+[NOTESAPI](/domino-c-api-docs/reference/Data/NOTESAPI)
+[NOTESAPICDECL](/domino-c-api-docs/reference/Data/NOTESAPICDECL)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
 ---

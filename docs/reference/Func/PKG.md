@@ -37,9 +37,9 @@ Output :
 
 
 **See Also :**
-[STATUS](/reference/Data/STATUS)
-[STS_xxx](/reference/Symb/STS_xxx)
-[ERR](/reference/Func/ERR)
-[ERRNUM](/reference/Func/ERRNUM)
-[PKG_MASK](/reference/Symb/PKG_MASK)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
+[STS_xxx](/domino-c-api-docs/reference/Symb/STS_xxx)
+[ERR](/domino-c-api-docs/reference/Func/ERR)
+[ERRNUM](/domino-c-api-docs/reference/Func/ERRNUM)
+[PKG_MASK](/domino-c-api-docs/reference/Symb/PKG_MASK)
 ---

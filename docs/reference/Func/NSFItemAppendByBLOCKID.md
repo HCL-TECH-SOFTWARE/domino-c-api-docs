@@ -108,14 +108,14 @@ item_bid_ptr  -  The specified location gets the item BLOCKID of the newly appen
 
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemQuery](/reference/Func/NSFItemQuery)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[OSLockBlock](/reference/Func/OSLockBlock)
-[OSMemAlloc](/reference/Func/OSMemAlloc)
-[OSUnlockBlock](/reference/Func/OSUnlockBlock)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemQuery](/domino-c-api-docs/reference/Func/NSFItemQuery)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[OSMemAlloc](/domino-c-api-docs/reference/Func/OSMemAlloc)
+[OSUnlockBlock](/domino-c-api-docs/reference/Func/OSUnlockBlock)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

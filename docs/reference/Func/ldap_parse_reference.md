@@ -40,10 +40,10 @@ serverctrls  -  An allocated array of controls copied out of the entry. The cont
 
 
 **See Also :**
-[ldap_controls_free](/reference/Func/ldap_controls_free)
-[ldap_first_reference](/reference/Func/ldap_first_reference)
-[ldap_msgfree](/reference/Func/ldap_msgfree)
-[ldap_next_reference](/reference/Func/ldap_next_reference)
-[ldap_result](/reference/Func/ldap_result)
-[ldap_value_free](/reference/Func/ldap_value_free)
+[ldap_controls_free](/domino-c-api-docs/reference/Func/ldap_controls_free)
+[ldap_first_reference](/domino-c-api-docs/reference/Func/ldap_first_reference)
+[ldap_msgfree](/domino-c-api-docs/reference/Func/ldap_msgfree)
+[ldap_next_reference](/domino-c-api-docs/reference/Func/ldap_next_reference)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
+[ldap_value_free](/domino-c-api-docs/reference/Func/ldap_value_free)
 ---

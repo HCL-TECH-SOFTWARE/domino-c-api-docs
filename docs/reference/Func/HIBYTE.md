@@ -21,6 +21,6 @@ Output :
 
 
 **See Also :**
-[LOBYTE](/reference/Func/LOBYTE)
-[HIWORD](/reference/Func/HIWORD)
+[LOBYTE](/domino-c-api-docs/reference/Func/LOBYTE)
+[HIWORD](/domino-c-api-docs/reference/Func/HIWORD)
 ---

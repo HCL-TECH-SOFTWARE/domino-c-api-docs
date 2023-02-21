@@ -18,8 +18,8 @@ hCntnr  -  The container to free
 
 
 **See Also :**
-[SchContainer_New](/reference/Func/SchContainer_New)
-[SchRetrieve](/reference/Func/SchRetrieve)
-[SchSrvRetrieve](/reference/Func/SchSrvRetrieve)
-[SchContainer_DupHandle](/reference/Func/SchContainer_DupHandle)
+[SchContainer_New](/domino-c-api-docs/reference/Func/SchContainer_New)
+[SchRetrieve](/domino-c-api-docs/reference/Func/SchRetrieve)
+[SchSrvRetrieve](/domino-c-api-docs/reference/Func/SchSrvRetrieve)
+[SchContainer_DupHandle](/domino-c-api-docs/reference/Func/SchContainer_DupHandle)
 ---

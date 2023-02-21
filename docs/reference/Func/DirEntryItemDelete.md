@@ -31,6 +31,6 @@ An ERR status on failure indicating the problem.
 
 
 **See Also :**
-[DirEntryItemAdd](/reference/Func/DirEntryItemAdd)
-[DirEntryUpdate](/reference/Func/DirEntryUpdate)
+[DirEntryItemAdd](/domino-c-api-docs/reference/Func/DirEntryItemAdd)
+[DirEntryUpdate](/domino-c-api-docs/reference/Func/DirEntryUpdate)
 ---

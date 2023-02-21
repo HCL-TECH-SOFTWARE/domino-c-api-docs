@@ -19,7 +19,7 @@ hAgent  -  Handle to an open Agent.
 
 
 **See Also :**
-[AgentOpen](/reference/Func/AgentOpen)
-[AgentRun](/reference/Func/AgentRun)
-[HAGENT](/reference/Data/HAGENT)
+[AgentOpen](/domino-c-api-docs/reference/Func/AgentOpen)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
+[HAGENT](/domino-c-api-docs/reference/Data/HAGENT)
 ---

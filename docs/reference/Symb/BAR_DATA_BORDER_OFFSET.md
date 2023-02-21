@@ -9,5 +9,5 @@
 Used by SETDATABORDERTYPE to set flags of CDDATAFLAGS.
 
 **See Also :**
-[SETDATABORDERTYPE](/reference/Func/SETDATABORDERTYPE)
+[SETDATABORDERTYPE](/domino-c-api-docs/reference/Func/SETDATABORDERTYPE)
 ---

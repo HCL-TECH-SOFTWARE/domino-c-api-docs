@@ -95,8 +95,8 @@ while (!ISNULLBLOCKID(bhItem)) {
 
 ```
 **See Also :**
-[BLOCKID](/reference/Data/BLOCKID)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[NSFMimePartGetInfo](/reference/Func/NSFMimePartGetInfo)
-[NSFMimePartGetInfoByBLOCKID](/reference/Func/NSFMimePartGetInfoByBLOCKID)
+[BLOCKID](/domino-c-api-docs/reference/Data/BLOCKID)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[NSFMimePartGetInfo](/domino-c-api-docs/reference/Func/NSFMimePartGetInfo)
+[NSFMimePartGetInfoByBLOCKID](/domino-c-api-docs/reference/Func/NSFMimePartGetInfoByBLOCKID)
 ---

@@ -9,5 +9,5 @@
 Maximum value for data of type WORD.
 
 **See Also :**
-[WORD](/reference/Data/WORD)
+[WORD](/domino-c-api-docs/reference/Data/WORD)
 ---

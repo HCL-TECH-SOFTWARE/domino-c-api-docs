@@ -19,5 +19,5 @@ Output :
 
 
 **See Also :**
-[VDirContextInit](/reference/Func/VDirContextInit)
+[VDirContextInit](/domino-c-api-docs/reference/Func/VDirContextInit)
 ---

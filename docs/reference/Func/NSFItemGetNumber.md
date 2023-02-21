@@ -36,9 +36,9 @@ if (NSFItemGetNumber (note1_handle, FLOAT_ITEM, &num))
   printf("%s: %le\n", FLOAT_ITEM, num);
 ```
 **See Also :**
-[NSFItemGetLong](/reference/Func/NSFItemGetLong)
-[NSFItemLongCompare](/reference/Func/NSFItemLongCompare)
-[NSFItemSetNumber](/reference/Func/NSFItemSetNumber)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemGetLong](/domino-c-api-docs/reference/Func/NSFItemGetLong)
+[NSFItemLongCompare](/domino-c-api-docs/reference/Func/NSFItemLongCompare)
+[NSFItemSetNumber](/domino-c-api-docs/reference/Func/NSFItemSetNumber)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

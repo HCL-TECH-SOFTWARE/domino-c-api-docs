@@ -10,6 +10,6 @@ These are the permissible values for the LoadType member of the CDSTORAGELINK
 data structure.  It describes how to load the object (deferred or on demand).
 
 **See Also :**
-[CDSTORAGELINK](/reference/Data/CDSTORAGELINK)
-[STORAGE_LINK_TYPE_xxx](/reference/Symb/STORAGE_LINK_TYPE_xxx)
+[CDSTORAGELINK](/domino-c-api-docs/reference/Data/CDSTORAGELINK)
+[STORAGE_LINK_TYPE_xxx](/domino-c-api-docs/reference/Symb/STORAGE_LINK_TYPE_xxx)
 ---

@@ -10,5 +10,5 @@ These flags are used to specify whether NLS_find is to find characters that are
 in the set or not in the set.
 
 **See Also :**
-[NLS_find](/reference/Func/NLS_find)
+[NLS_find](/domino-c-api-docs/reference/Func/NLS_find)
 ---

@@ -63,9 +63,9 @@ ACL_LEVEL_NOACCESS	ACL_FLAG_PUBLICREADER
 
 
 **See Also :**
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
-[ACLAddEntry](/reference/Func/ACLAddEntry)
-[ACLUpdateEntry](/reference/Func/ACLUpdateEntry)
-[ACLEnumEntries](/reference/Func/ACLEnumEntries)
-[NSFDbAccessGet](/reference/Func/NSFDbAccessGet)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
+[ACLAddEntry](/domino-c-api-docs/reference/Func/ACLAddEntry)
+[ACLUpdateEntry](/domino-c-api-docs/reference/Func/ACLUpdateEntry)
+[ACLEnumEntries](/domino-c-api-docs/reference/Func/ACLEnumEntries)
+[NSFDbAccessGet](/domino-c-api-docs/reference/Func/NSFDbAccessGet)
 ---

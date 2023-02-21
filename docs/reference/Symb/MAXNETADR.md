@@ -11,5 +11,5 @@ record).  This is the maximum size for a Network IP address.  This size
 includes the terminating null.
 
 **See Also :**
-[SESSIONREC](/reference/Data/SESSIONREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

@@ -112,10 +112,10 @@ NumViews = NUM_NAME_SPACES;
 OSMemFree(hLookup);
 ```
 **See Also :**
-[NAMEGetTextItem2](/reference/Func/NAMEGetTextItem2)
-[NAMELocateItem2](/reference/Func/NAMELocateItem2)
-[NAMELocateNextMatch2](/reference/Func/NAMELocateNextMatch2)
-[NAMELocateNextName](/reference/Func/NAMELocateNextName)
-[NAMELookup2](/reference/Func/NAMELookup2)
-[OSLockObject](/reference/Func/OSLockObject)
+[NAMEGetTextItem2](/domino-c-api-docs/reference/Func/NAMEGetTextItem2)
+[NAMELocateItem2](/domino-c-api-docs/reference/Func/NAMELocateItem2)
+[NAMELocateNextMatch2](/domino-c-api-docs/reference/Func/NAMELocateNextMatch2)
+[NAMELocateNextName](/domino-c-api-docs/reference/Func/NAMELocateNextName)
+[NAMELookup2](/domino-c-api-docs/reference/Func/NAMELookup2)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
 ---

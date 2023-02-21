@@ -14,6 +14,6 @@ Reserved Reserved;  must be 0.
 
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
-[CDLSOBJECT_R6](/reference/Data/CDLSOBJECT_R6)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
+[CDLSOBJECT_R6](/domino-c-api-docs/reference/Data/CDLSOBJECT_R6)
 ---

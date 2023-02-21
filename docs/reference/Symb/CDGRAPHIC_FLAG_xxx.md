@@ -9,5 +9,5 @@
 Possible optional value for the bFlags member of the CDGRAPHIC structure.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
 ---

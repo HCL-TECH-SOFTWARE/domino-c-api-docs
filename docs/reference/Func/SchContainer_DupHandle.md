@@ -31,8 +31,8 @@ phDup  -  Pointer to the newly duplicated container handle.
 
 
 **See Also :**
-[SchContainer_Free](/reference/Func/SchContainer_Free)
-[SchContainer_New](/reference/Func/SchContainer_New)
-[SchRetrieve](/reference/Func/SchRetrieve)
-[SchSrvRetrieve](/reference/Func/SchSrvRetrieve)
+[SchContainer_Free](/domino-c-api-docs/reference/Func/SchContainer_Free)
+[SchContainer_New](/domino-c-api-docs/reference/Func/SchContainer_New)
+[SchRetrieve](/domino-c-api-docs/reference/Func/SchRetrieve)
+[SchSrvRetrieve](/domino-c-api-docs/reference/Func/SchSrvRetrieve)
 ---

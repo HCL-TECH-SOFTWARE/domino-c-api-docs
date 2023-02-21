@@ -43,5 +43,5 @@ if (error = NSFMimePartDelete(hNote, MAIL_BODY_ITEM, sizeof(MAIL_BODY_ITEM)-1))
 
 ```
 **See Also :**
-[NSFMimePartAppend](/reference/Func/NSFMimePartAppend)
+[NSFMimePartAppend](/domino-c-api-docs/reference/Func/NSFMimePartAppend)
 ---

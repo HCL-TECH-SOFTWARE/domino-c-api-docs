@@ -69,9 +69,9 @@ retNoteClass  -  Returns  pointer to NOTE_CLASS_xxx in a WORD, value indicates t
 
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[NSFDbGetSpecialNoteID](/reference/Func/NSFDbGetSpecialNoteID)
-[NSFDbGetNoteInfoByUNID](/reference/Func/NSFDbGetNoteInfoByUNID)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[NSFDbGetSpecialNoteID](/domino-c-api-docs/reference/Func/NSFDbGetSpecialNoteID)
+[NSFDbGetNoteInfoByUNID](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfoByUNID)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
 ---

@@ -68,6 +68,6 @@ if (error = NSFMimePartCloseStream(hCtx, TRUE)) {
 
 ```
 **See Also :**
-[NSFMimePartAppendStream](/reference/Func/NSFMimePartAppendStream)
-[NSFMimePartCreateStream](/reference/Func/NSFMimePartCreateStream)
+[NSFMimePartAppendStream](/domino-c-api-docs/reference/Func/NSFMimePartAppendStream)
+[NSFMimePartCreateStream](/domino-c-api-docs/reference/Func/NSFMimePartCreateStream)
 ---

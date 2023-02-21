@@ -21,5 +21,5 @@ Output :
 
 
 **See Also :**
-[DirCtxGetEntryByID](/reference/Func/DirCtxGetEntryByID)
+[DirCtxGetEntryByID](/domino-c-api-docs/reference/Func/DirCtxGetEntryByID)
 ---

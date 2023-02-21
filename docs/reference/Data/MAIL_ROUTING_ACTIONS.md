@@ -18,5 +18,5 @@ MAIL_DELIVER -- This server is the recipient's mail server.
 MAIL_FORWARD -- Recipient has a forwarding address.
 
 **See Also :**
-[MailFindNextHopToRecipient](/reference/Func/MailFindNextHopToRecipient)
+[MailFindNextHopToRecipient](/domino-c-api-docs/reference/Func/MailFindNextHopToRecipient)
 ---

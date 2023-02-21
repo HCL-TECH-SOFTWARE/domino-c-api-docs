@@ -53,10 +53,10 @@ xxx_BACK_COLOR
 
 
 **See Also :**
-[ALIGNMENT_xxx](/reference/Symb/ALIGNMENT_xxx)
-[CDPLACEHOLDER](/reference/Data/CDPLACEHOLDER)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[EMBEDDEDOUTLINE_FLAG_xxx](/reference/Symb/EMBEDDEDOUTLINE_FLAG_xxx)
-[FONTID](/reference/Data/FONTID)
-[xxx_BACK_COLOR_OFFSET](/reference/Symb/xxx_BACK_COLOR_OFFSET)
+[ALIGNMENT_xxx](/domino-c-api-docs/reference/Symb/ALIGNMENT_xxx)
+[CDPLACEHOLDER](/domino-c-api-docs/reference/Data/CDPLACEHOLDER)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[EMBEDDEDOUTLINE_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDOUTLINE_FLAG_xxx)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[xxx_BACK_COLOR_OFFSET](/domino-c-api-docs/reference/Symb/xxx_BACK_COLOR_OFFSET)
 ---

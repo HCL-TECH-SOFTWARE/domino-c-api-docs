@@ -13,5 +13,5 @@ Use it for backward-compatibility.  This size includes the terminating NULL
 character.
 
 **See Also :**
-[FILETITLEMAX](/reference/Symb/FILETITLEMAX)
+[FILETITLEMAX](/domino-c-api-docs/reference/Symb/FILETITLEMAX)
 ---

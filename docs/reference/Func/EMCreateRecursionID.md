@@ -36,6 +36,6 @@ retRecursionID  -  Returns recursion ID to be passed to EMRegister.
 
 
 **See Also :**
-[EMRegister](/reference/Func/EMRegister)
-[EMHANDLER](/reference/Data/EMHANDLER)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
 ---

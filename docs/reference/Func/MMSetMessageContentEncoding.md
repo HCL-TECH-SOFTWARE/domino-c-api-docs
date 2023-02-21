@@ -38,6 +38,6 @@ attachments) */
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMGetMessageContentEncoding](/reference/Func/MMGetMessageContentEncoding)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMGetMessageContentEncoding](/domino-c-api-docs/reference/Func/MMGetMessageContentEncoding)
 ---

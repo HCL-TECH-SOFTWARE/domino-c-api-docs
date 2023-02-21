@@ -9,5 +9,5 @@
 List of attached files associated with an embedded OLE 2 object.
 
 **See Also :**
-[ASSOCIATEDFILE](/reference/Data/ASSOCIATEDFILE)
+[ASSOCIATEDFILE](/domino-c-api-docs/reference/Data/ASSOCIATEDFILE)
 ---

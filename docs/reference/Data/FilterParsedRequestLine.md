@@ -29,6 +29,6 @@ used for the request.
 
 
 **See Also :**
-[FilterContext](/reference/Data/FilterContext)
-[ServerSupportTypes](/reference/Data/ServerSupportTypes)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
+[ServerSupportTypes](/domino-c-api-docs/reference/Data/ServerSupportTypes)
 ---

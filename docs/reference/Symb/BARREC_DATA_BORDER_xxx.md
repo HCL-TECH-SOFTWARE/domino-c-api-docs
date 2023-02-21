@@ -13,5 +13,5 @@ member set to BARREC_DATA_BORDER_TAB (for tab) or BARREC_DATA_BORDER_DIAG (for
 diagonal).
 
 **See Also :**
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
 ---

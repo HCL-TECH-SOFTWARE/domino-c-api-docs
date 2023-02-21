@@ -84,8 +84,8 @@ Output :
 	   free(pszBinaryText);
 ```
 **See Also :**
-[HTMLAPIReference](/reference/Data/HTMLAPIReference)
-[HTMLGetReference](/reference/Func/HTMLGetReference)
-[HTMLGetText](/reference/Func/HTMLGetText)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
+[HTMLAPIReference](/domino-c-api-docs/reference/Data/HTMLAPIReference)
+[HTMLGetReference](/domino-c-api-docs/reference/Func/HTMLGetReference)
+[HTMLGetText](/domino-c-api-docs/reference/Func/HTMLGetText)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
 ---

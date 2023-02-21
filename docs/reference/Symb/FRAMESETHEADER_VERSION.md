@@ -9,5 +9,5 @@
 Value for the Version member of CDFRAMESETHEADER.
 
 **See Also :**
-[CDFRAMESETHEADER](/reference/Data/CDFRAMESETHEADER)
+[CDFRAMESETHEADER](/domino-c-api-docs/reference/Data/CDFRAMESETHEADER)
 ---

@@ -10,6 +10,6 @@ These symbolic constants define the type of the dialog box to be displayed when
 a message signal handler function (OS_SIGNAL_MESSAGE) is called.
 
 **See Also :**
-[OSSIGMSGPROC](/reference/Data/OSSIGMSGPROC)
-[OS_SIGNAL_xxx](/reference/Symb/OS_SIGNAL_xxx)
+[OSSIGMSGPROC](/domino-c-api-docs/reference/Data/OSSIGMSGPROC)
+[OS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/OS_SIGNAL_xxx)
 ---

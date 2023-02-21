@@ -12,6 +12,6 @@ to that registration context is returned from EMRegister().  This handle must
 be used when calling EMDeregister() to remove the extension.
 
 **See Also :**
-[EMDeregister](/reference/Func/EMDeregister)
-[EMRegister](/reference/Func/EMRegister)
+[EMDeregister](/domino-c-api-docs/reference/Func/EMDeregister)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
 ---

@@ -11,6 +11,6 @@ ReplicateWithServerExt.  They may be bitwise or'ed together for combined
 functionality.   Note: these options are now 32-bits.
 
 **See Also :**
-[ReplicateWithServer](/reference/Func/ReplicateWithServer)
-[ReplicateWithServerExt](/reference/Func/ReplicateWithServerExt)
+[ReplicateWithServer](/domino-c-api-docs/reference/Func/ReplicateWithServer)
+[ReplicateWithServerExt](/domino-c-api-docs/reference/Func/ReplicateWithServerExt)
 ---

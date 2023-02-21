@@ -46,6 +46,6 @@ ERR_xxx - Errors returned by lower level Notes functions.  There are so many pos
 
 
 **See Also :**
-[NSFDbGetModifiedNoteTable](/reference/Func/NSFDbGetModifiedNoteTable)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
+[NSFDbGetModifiedNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetModifiedNoteTable)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
 ---

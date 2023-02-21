@@ -76,7 +76,7 @@ Output :
     }
 ```
 **See Also :**
-[NotesTerm](/reference/Func/NotesTerm)
-[NotesInitThread](/reference/Func/NotesInitThread)
-[NotesTermThread](/reference/Func/NotesTermThread)
+[NotesTerm](/domino-c-api-docs/reference/Func/NotesTerm)
+[NotesInitThread](/domino-c-api-docs/reference/Func/NotesInitThread)
+[NotesTermThread](/domino-c-api-docs/reference/Func/NotesTermThread)
 ---

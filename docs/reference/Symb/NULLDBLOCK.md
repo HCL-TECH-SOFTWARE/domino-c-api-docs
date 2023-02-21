@@ -9,5 +9,5 @@
 This symbol defines an empty (non-existent) DBLOCK.
 
 **See Also :**
-[DBLOCK](/reference/Data/DBLOCK)
+[DBLOCK](/domino-c-api-docs/reference/Data/DBLOCK)
 ---

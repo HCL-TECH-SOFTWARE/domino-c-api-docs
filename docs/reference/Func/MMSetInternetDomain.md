@@ -33,6 +33,6 @@ in Message-ID, 821 addresses (default is NULL) */
 
 ```
 **See Also :**
-[MMGetInternetDomain](/reference/Func/MMGetInternetDomain)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetInternetDomain](/domino-c-api-docs/reference/Func/MMGetInternetDomain)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

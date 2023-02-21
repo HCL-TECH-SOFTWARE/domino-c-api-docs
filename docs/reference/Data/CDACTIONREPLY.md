@@ -19,5 +19,5 @@ This structure is followed by the body text.
 
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

@@ -9,5 +9,5 @@
 Smartcard memory context.
 
 **See Also :**
-[SECManipulateSC](/reference/Func/SECManipulateSC)
+[SECManipulateSC](/domino-c-api-docs/reference/Func/SECManipulateSC)
 ---

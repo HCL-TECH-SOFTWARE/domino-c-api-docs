@@ -55,9 +55,9 @@ retNoteID  -  Pointer to the returned NOTEID.
 
 
 **See Also :**
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFFindDesignNoteExt](/reference/Func/NIFFindDesignNoteExt)
-[NIFFindView](/reference/Func/NIFFindView)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFFindDesignNoteExt](/domino-c-api-docs/reference/Func/NIFFindDesignNoteExt)
+[NIFFindView](/domino-c-api-docs/reference/Func/NIFFindView)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
 ---

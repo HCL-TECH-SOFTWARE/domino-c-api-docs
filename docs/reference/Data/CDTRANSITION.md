@@ -9,5 +9,5 @@
 WORD Type  see TRANS_xxx
 
 **See Also :**
-[TRANS_xxx](/reference/Symb/TRANS_xxx)
+[TRANS_xxx](/domino-c-api-docs/reference/Symb/TRANS_xxx)
 ---

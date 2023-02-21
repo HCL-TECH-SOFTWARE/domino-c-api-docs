@@ -10,5 +10,5 @@ These option flags may be specified in the dwFlags field of a CDQUERYTEXTTERM
 record.
 
 **See Also :**
-[CDQUERYTEXTTERM](/reference/Data/CDQUERYTEXTTERM)
+[CDQUERYTEXTTERM](/domino-c-api-docs/reference/Data/CDQUERYTEXTTERM)
 ---

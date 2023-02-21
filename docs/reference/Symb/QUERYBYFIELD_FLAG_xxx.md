@@ -9,5 +9,5 @@
 These options are specified in the dwFlags field of a CDQUERYBYFIELD record.
 
 **See Also :**
-[CDQUERYBYFIELD](/reference/Data/CDQUERYBYFIELD)
+[CDQUERYBYFIELD](/domino-c-api-docs/reference/Data/CDQUERYBYFIELD)
 ---

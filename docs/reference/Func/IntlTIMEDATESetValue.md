@@ -47,8 +47,8 @@ if(error = IntlTIMEDATESetValue(hTimeDate, propValue, UserDefinedString))
 }
 ```
 **See Also :**
-[IntlTIMEDATECreateHandle](/reference/Func/IntlTIMEDATECreateHandle)
-[IntlTIMEDATEGetValue](/reference/Func/IntlTIMEDATEGetValue)
-[INTL_TIMEDATE_PROPERTY](/reference/Data/INTL_TIMEDATE_PROPERTY)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[IntlTIMEDATECreateHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATECreateHandle)
+[IntlTIMEDATEGetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATEGetValue)
+[INTL_TIMEDATE_PROPERTY](/domino-c-api-docs/reference/Data/INTL_TIMEDATE_PROPERTY)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

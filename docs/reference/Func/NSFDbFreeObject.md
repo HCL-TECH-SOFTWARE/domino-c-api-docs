@@ -43,11 +43,11 @@ ERR_xxx - Errors returned by lower level functions. Call OSLoadString to obtain 
 
 
 **See Also :**
-[NSFDbAllocObject](/reference/Func/NSFDbAllocObject)
-[NSFDbGetObjectSize](/reference/Func/NSFDbGetObjectSize)
-[NSFDbReadObject](/reference/Func/NSFDbReadObject)
-[NSFDbReallocObject](/reference/Func/NSFDbReallocObject)
-[NSFDbWriteObject](/reference/Func/NSFDbWriteObject)
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
+[NSFDbAllocObject](/domino-c-api-docs/reference/Func/NSFDbAllocObject)
+[NSFDbGetObjectSize](/domino-c-api-docs/reference/Func/NSFDbGetObjectSize)
+[NSFDbReadObject](/domino-c-api-docs/reference/Func/NSFDbReadObject)
+[NSFDbReallocObject](/domino-c-api-docs/reference/Func/NSFDbReallocObject)
+[NSFDbWriteObject](/domino-c-api-docs/reference/Func/NSFDbWriteObject)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
 ---

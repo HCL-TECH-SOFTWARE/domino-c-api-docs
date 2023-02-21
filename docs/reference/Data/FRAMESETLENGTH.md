@@ -9,5 +9,5 @@
 One structure for each row or column.
 
 **See Also :**
-[CDFRAMESET](/reference/Data/CDFRAMESET)
+[CDFRAMESET](/domino-c-api-docs/reference/Data/CDFRAMESET)
 ---

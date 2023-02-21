@@ -10,6 +10,6 @@ Flags that can be used in MailLogEvent and MailLogEventText to control mail
 logging.
 
 **See Also :**
-[MailLogEvent](/reference/Func/MailLogEvent)
-[MailLogEventText](/reference/Func/MailLogEventText)
+[MailLogEvent](/domino-c-api-docs/reference/Func/MailLogEvent)
+[MailLogEventText](/domino-c-api-docs/reference/Func/MailLogEventText)
 ---

@@ -9,5 +9,5 @@
 This vendor information is used at compile time.
 
 **See Also :**
-[LDAPAPIInfo](/reference/Data/LDAPAPIInfo)
+[LDAPAPIInfo](/domino-c-api-docs/reference/Data/LDAPAPIInfo)
 ---

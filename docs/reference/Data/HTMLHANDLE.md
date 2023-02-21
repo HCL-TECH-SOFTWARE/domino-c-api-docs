@@ -16,6 +16,6 @@ rslt = HTMLCreateConverter(&cvtr);
 rslt = HTMLDestroyConverter(cvtr)
 ```
 **See Also :**
-[HTMLCreateConverter](/reference/Func/HTMLCreateConverter)
-[HTMLDestroyConverter](/reference/Func/HTMLDestroyConverter)
+[HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
+[HTMLDestroyConverter](/domino-c-api-docs/reference/Func/HTMLDestroyConverter)
 ---

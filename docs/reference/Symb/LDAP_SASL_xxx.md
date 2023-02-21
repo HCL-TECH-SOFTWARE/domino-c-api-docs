@@ -9,8 +9,8 @@
 
 
 **See Also :**
-[ldap_sasl_bind](/reference/Func/ldap_sasl_bind)
-[ldap_sasl_bind_s](/reference/Func/ldap_sasl_bind_s)
-[ldap_simple_bind](/reference/Func/ldap_simple_bind)
-[ldap_simple_bind_s](/reference/Func/ldap_simple_bind_s)
+[ldap_sasl_bind](/domino-c-api-docs/reference/Func/ldap_sasl_bind)
+[ldap_sasl_bind_s](/domino-c-api-docs/reference/Func/ldap_sasl_bind_s)
+[ldap_simple_bind](/domino-c-api-docs/reference/Func/ldap_simple_bind)
+[ldap_simple_bind_s](/domino-c-api-docs/reference/Func/ldap_simple_bind_s)
 ---

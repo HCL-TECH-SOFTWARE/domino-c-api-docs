@@ -23,11 +23,11 @@ containing the text and graphical elements associated with this text element.
 
 
 **See Also :**
-[CDLAYOUT](/reference/Data/CDLAYOUT)
-[CDLAYOUTBUTTON](/reference/Data/CDLAYOUTBUTTON)
-[CDLAYOUTEND](/reference/Data/CDLAYOUTEND)
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[ELEMENTHEADER](/reference/Data/ELEMENTHEADER)
-[LAYOUT_TEXT_FLAG_xxx](/reference/Symb/LAYOUT_TEXT_FLAG_xxx)
+[CDLAYOUT](/domino-c-api-docs/reference/Data/CDLAYOUT)
+[CDLAYOUTBUTTON](/domino-c-api-docs/reference/Data/CDLAYOUTBUTTON)
+[CDLAYOUTEND](/domino-c-api-docs/reference/Data/CDLAYOUTEND)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[ELEMENTHEADER](/domino-c-api-docs/reference/Data/ELEMENTHEADER)
+[LAYOUT_TEXT_FLAG_xxx](/domino-c-api-docs/reference/Symb/LAYOUT_TEXT_FLAG_xxx)
 ---

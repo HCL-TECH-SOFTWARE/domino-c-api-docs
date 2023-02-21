@@ -59,5 +59,5 @@ error = REGGetIDInfo ("my.id", REGIDGetName, nameBuffer,
 
 ```
 **See Also :**
-[REGIDGetxxx](/reference/Symb/REGIDGetxxx)
+[REGIDGetxxx](/domino-c-api-docs/reference/Symb/REGIDGetxxx)
 ---

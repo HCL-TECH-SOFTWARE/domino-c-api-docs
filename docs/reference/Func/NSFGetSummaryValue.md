@@ -46,8 +46,8 @@ text_item_value  -  The address of text buffer in which the null-terminated stri
 
 
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFLocateSummaryValue](/reference/Func/NSFLocateSummaryValue)
-[NSFSearch](/reference/Func/NSFSearch)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFLocateSummaryValue](/domino-c-api-docs/reference/Func/NSFLocateSummaryValue)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
 ---

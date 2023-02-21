@@ -35,6 +35,6 @@ NOERROR - action successful
 
 
 **See Also :**
-[SECKFMOpen](/reference/Func/SECKFMOpen)
-[SECKFM_xxx](/reference/Symb/SECKFM_xxx)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
+[SECKFM_xxx](/domino-c-api-docs/reference/Symb/SECKFM_xxx)
 ---

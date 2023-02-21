@@ -37,6 +37,6 @@ vpReserved  -  Reserved for future use.
 
 
 **See Also :**
-[SECTokenGenerate](/reference/Func/SECTokenGenerate)
-[SSO_TOKEN](/reference/Data/SSO_TOKEN)
+[SECTokenGenerate](/domino-c-api-docs/reference/Func/SECTokenGenerate)
+[SSO_TOKEN](/domino-c-api-docs/reference/Data/SSO_TOKEN)
 ---

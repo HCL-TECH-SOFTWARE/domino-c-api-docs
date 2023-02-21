@@ -9,5 +9,5 @@
 Flag settings for CDEMBEDDEDVIEW.
 
 **See Also :**
-[CDEMBEDDEDVIEW](/reference/Data/CDEMBEDDEDVIEW)
+[CDEMBEDDEDVIEW](/domino-c-api-docs/reference/Data/CDEMBEDDEDVIEW)
 ---

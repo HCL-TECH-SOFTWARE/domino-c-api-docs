@@ -29,6 +29,6 @@ bCharSetDetect = MMGetCharSetDetect(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetCharSetDetect](/reference/Func/MMSetCharSetDetect)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetCharSetDetect](/domino-c-api-docs/reference/Func/MMSetCharSetDetect)
 ---

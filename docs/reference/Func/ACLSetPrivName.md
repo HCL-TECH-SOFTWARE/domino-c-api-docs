@@ -34,5 +34,5 @@ Output :
 
 
 **See Also :**
-[ACLGetPrivName](/reference/Func/ACLGetPrivName)
+[ACLGetPrivName](/domino-c-api-docs/reference/Func/ACLGetPrivName)
 ---

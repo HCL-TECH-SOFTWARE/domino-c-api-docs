@@ -32,5 +32,5 @@ retPrivName  -  Pointer to returned privilege or role name.  The buffer that hol
 
 
 **See Also :**
-[ACLSetPrivName](/reference/Func/ACLSetPrivName)
+[ACLSetPrivName](/domino-c-api-docs/reference/Func/ACLSetPrivName)
 ---

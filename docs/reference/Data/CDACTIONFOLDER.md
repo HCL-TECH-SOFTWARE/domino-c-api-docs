@@ -23,5 +23,5 @@ wSpare   Reserved;  must be 0.
 This structure is followed by a packed string containing the folder name.
 
 **See Also :**
-[ACTIONFOLDER_FLAG_xxx](/reference/Symb/ACTIONFOLDER_FLAG_xxx)
+[ACTIONFOLDER_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIONFOLDER_FLAG_xxx)
 ---

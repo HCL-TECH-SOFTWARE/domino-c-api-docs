@@ -9,5 +9,5 @@
 Flags for CDEMBEDDEDEDITCTL
 
 **See Also :**
-[CDEMBEDDEDEDITCTL](/reference/Data/CDEMBEDDEDEDITCTL)
+[CDEMBEDDEDEDITCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDEDITCTL)
 ---

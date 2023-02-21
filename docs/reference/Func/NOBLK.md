@@ -26,6 +26,6 @@ Output :
 
 
 **See Also :**
-[RAWBLK](/reference/Func/RAWBLK)
-[STS_xxx](/reference/Symb/STS_xxx)
+[RAWBLK](/domino-c-api-docs/reference/Func/RAWBLK)
+[STS_xxx](/domino-c-api-docs/reference/Symb/STS_xxx)
 ---

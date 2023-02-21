@@ -59,12 +59,12 @@ if (error_status = NSFNoteUpdate(note_handle, 0))
            goto Exit;
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[UPDATE_xxx](/reference/Symb/UPDATE_xxx)
-[NSFNoteUpdateExtended](/reference/Func/NSFNoteUpdateExtended)
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[UPDATE_xxx](/domino-c-api-docs/reference/Symb/UPDATE_xxx)
+[NSFNoteUpdateExtended](/domino-c-api-docs/reference/Func/NSFNoteUpdateExtended)
 ---

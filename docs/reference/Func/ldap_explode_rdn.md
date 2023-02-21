@@ -29,6 +29,6 @@ Output :
 
 
 **See Also :**
-[ldap_explode_dn](/reference/Func/ldap_explode_dn)
-[ldap_value_free](/reference/Func/ldap_value_free)
+[ldap_explode_dn](/domino-c-api-docs/reference/Func/ldap_explode_dn)
+[ldap_value_free](/domino-c-api-docs/reference/Func/ldap_value_free)
 ---

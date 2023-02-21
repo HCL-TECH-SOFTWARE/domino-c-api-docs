@@ -156,12 +156,12 @@ void PrintAPIError(STATUS err)
 }
 ```
 **See Also :**
-[HTMLConvertElement](/reference/Func/HTMLConvertElement)
-[HTMLConvertImage](/reference/Func/HTMLConvertImage)
-[HTMLConvertItem](/reference/Func/HTMLConvertItem)
-[HTMLConvertNote](/reference/Func/HTMLConvertNote)
-[HTMLCreateConverter](/reference/Func/HTMLCreateConverter)
-[HTMLGetReference](/reference/Func/HTMLGetReference)
-[HTMLGetText](/reference/Func/HTMLGetText)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
+[HTMLConvertElement](/domino-c-api-docs/reference/Func/HTMLConvertElement)
+[HTMLConvertImage](/domino-c-api-docs/reference/Func/HTMLConvertImage)
+[HTMLConvertItem](/domino-c-api-docs/reference/Func/HTMLConvertItem)
+[HTMLConvertNote](/domino-c-api-docs/reference/Func/HTMLConvertNote)
+[HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
+[HTMLGetReference](/domino-c-api-docs/reference/Func/HTMLGetReference)
+[HTMLGetText](/domino-c-api-docs/reference/Func/HTMLGetText)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
 ---

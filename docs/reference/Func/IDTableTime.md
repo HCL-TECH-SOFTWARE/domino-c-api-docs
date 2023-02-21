@@ -27,7 +27,7 @@ Output :
 idtable_td = IDTableTime(idtable_ptr);
 ```
 **See Also :**
-[IDTableFlags](/reference/Func/IDTableFlags)
-[IDTableSetFlags](/reference/Func/IDTableSetFlags)
-[IDTableSetTime](/reference/Func/IDTableSetTime)
+[IDTableFlags](/domino-c-api-docs/reference/Func/IDTableFlags)
+[IDTableSetFlags](/domino-c-api-docs/reference/Func/IDTableSetFlags)
+[IDTableSetTime](/domino-c-api-docs/reference/Func/IDTableSetTime)
 ---

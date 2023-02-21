@@ -21,7 +21,7 @@ Lotus C API for Domino and Notes will expand the validation phases to include
 the pass that the error occurred in.
 
 **See Also :**
-[CWF_ERROR_PROC](/reference/Data/CWF_ERROR_PROC)
-[CWF_xxx (Return Codes)](/reference/Symb/CWF_xxx (Return Codes))
-[NSFNoteComputeWithForm](/reference/Func/NSFNoteComputeWithForm)
+[CWF_ERROR_PROC](/domino-c-api-docs/reference/Data/CWF_ERROR_PROC)
+[CWF_xxx (Return Codes)](/domino-c-api-docs/reference/Symb/CWF_xxx (Return Codes))
+[NSFNoteComputeWithForm](/domino-c-api-docs/reference/Func/NSFNoteComputeWithForm)
 ---

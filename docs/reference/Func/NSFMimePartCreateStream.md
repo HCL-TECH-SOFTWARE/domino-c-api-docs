@@ -58,9 +58,9 @@ if (err = NSFMimePartCreateStream(hNote,
 
 ```
 **See Also :**
-[MIMEPARTTYPE](/reference/Data/MIMEPARTTYPE)
-[MIME_PART_xxx](/reference/Symb/MIME_PART_xxx)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[NSFMimePartAppendStream](/reference/Func/NSFMimePartAppendStream)
-[NSFMimePartCloseStream](/reference/Func/NSFMimePartCloseStream)
+[MIMEPARTTYPE](/domino-c-api-docs/reference/Data/MIMEPARTTYPE)
+[MIME_PART_xxx](/domino-c-api-docs/reference/Symb/MIME_PART_xxx)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[NSFMimePartAppendStream](/domino-c-api-docs/reference/Func/NSFMimePartAppendStream)
+[NSFMimePartCloseStream](/domino-c-api-docs/reference/Func/NSFMimePartCloseStream)
 ---

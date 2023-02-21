@@ -53,5 +53,5 @@ fFindFirstFit, wDuration, &pInterval, &retdwSize, &rethRange))
         LAPI_RETURN (ERR(error));
 ```
 **See Also :**
-[SchFreeTimeSearch](/reference/Func/SchFreeTimeSearch)
+[SchFreeTimeSearch](/domino-c-api-docs/reference/Func/SchFreeTimeSearch)
 ---

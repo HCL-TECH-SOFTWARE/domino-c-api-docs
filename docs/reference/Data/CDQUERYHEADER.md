@@ -16,5 +16,5 @@ dwFlags Query flags (see QUERY_FLAG_xxx).
 
 
 **See Also :**
-[QUERY_FLAG_xxx](/reference/Symb/QUERY_FLAG_xxx)
+[QUERY_FLAG_xxx](/domino-c-api-docs/reference/Symb/QUERY_FLAG_xxx)
 ---

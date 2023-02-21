@@ -23,5 +23,5 @@ known as a "View Table Format" item), which is an item in all view notes.
     ViewTableFormat.Header.ViewStyle = VIEW_STYLE_TABLE;
 ```
 **See Also :**
-[VIEW_TABLE_FORMAT](/reference/Data/VIEW_TABLE_FORMAT)
+[VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
 ---

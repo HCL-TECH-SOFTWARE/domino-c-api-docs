@@ -48,6 +48,6 @@ pSize  -  The actual number of bytes written to the output buffer.
 
 
 **See Also :**
-[NLS_load_charset](/reference/Func/NLS_load_charset)
-[NLS_xxx (TRANSLATE)](/reference/Symb/NLS_xxx (TRANSLATE))
+[NLS_load_charset](/domino-c-api-docs/reference/Func/NLS_load_charset)
+[NLS_xxx (TRANSLATE)](/domino-c-api-docs/reference/Symb/NLS_xxx (TRANSLATE))
 ---

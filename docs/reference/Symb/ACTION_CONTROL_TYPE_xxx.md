@@ -9,5 +9,5 @@
 CDACTIONEXT Control Types.
 
 **See Also :**
-[CDACTIONEXT](/reference/Data/CDACTIONEXT)
+[CDACTIONEXT](/domino-c-api-docs/reference/Data/CDACTIONEXT)
 ---

@@ -51,6 +51,6 @@ NIFReadEntries  again to retrieve an additional buffer of information.
    }  while (SignalFlag & SIGNAL_MORE_TO_DO);
 ```
 **See Also :**
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
 ---

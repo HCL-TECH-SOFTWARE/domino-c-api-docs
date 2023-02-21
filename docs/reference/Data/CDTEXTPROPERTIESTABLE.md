@@ -22,6 +22,6 @@ Header -     Signature and Length of this CD record.
 NumberOfEntries - Number of CDTEXTPROPERTY records to follow. 
 
 **See Also :**
-[CDSPANRECORD](/reference/Data/CDSPANRECORD)
-[CDTEXTPROPERTY](/reference/Data/CDTEXTPROPERTY)
+[CDSPANRECORD](/domino-c-api-docs/reference/Data/CDSPANRECORD)
+[CDTEXTPROPERTY](/domino-c-api-docs/reference/Data/CDTEXTPROPERTY)
 ---

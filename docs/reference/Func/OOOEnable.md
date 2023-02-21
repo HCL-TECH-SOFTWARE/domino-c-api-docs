@@ -49,6 +49,6 @@ ERR_AGENT_SEC_CONFIGURATION Error in agent configuration. This message is suitab
 
 
 **See Also :**
-[OOOStartOperation](/reference/Func/OOOStartOperation)
-[OOOEndOperation](/reference/Func/OOOEndOperation)
+[OOOStartOperation](/domino-c-api-docs/reference/Func/OOOStartOperation)
+[OOOEndOperation](/domino-c-api-docs/reference/Func/OOOEndOperation)
 ---

@@ -9,5 +9,5 @@
 Values for dwFlags member of CDACTIONBAREXT.
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

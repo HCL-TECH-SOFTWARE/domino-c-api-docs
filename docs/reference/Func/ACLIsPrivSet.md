@@ -25,8 +25,8 @@ Output :
 
 
 **See Also :**
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACLClearPriv](/reference/Func/ACLClearPriv)
-[ACLSetPriv](/reference/Func/ACLSetPriv)
-[ACLInvertPriv](/reference/Func/ACLInvertPriv)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACLClearPriv](/domino-c-api-docs/reference/Func/ACLClearPriv)
+[ACLSetPriv](/domino-c-api-docs/reference/Func/ACLSetPriv)
+[ACLInvertPriv](/domino-c-api-docs/reference/Func/ACLInvertPriv)
 ---

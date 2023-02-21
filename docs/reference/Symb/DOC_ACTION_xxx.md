@@ -11,5 +11,5 @@ that all actions in the negative number range are "reserved" actions which have
 specified semantics.
 
 **See Also :**
-[DOC_ACTION_INFO](/reference/Data/DOC_ACTION_INFO)
+[DOC_ACTION_INFO](/domino-c-api-docs/reference/Data/DOC_ACTION_INFO)
 ---

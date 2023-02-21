@@ -38,8 +38,8 @@ ppString  -  A  pointer to a pointer to the first character in the next word.
 
 
 **See Also :**
-[NLS_goto_next_word_end](/reference/Func/NLS_goto_next_word_end)
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_goto_next_word_end](/domino-c-api-docs/reference/Func/NLS_goto_next_word_end)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

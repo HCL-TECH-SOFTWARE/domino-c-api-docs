@@ -33,9 +33,9 @@ Output :
 
 
 **See Also :**
-[ACL_LEVEL_xxx](/reference/Symb/ACL_LEVEL_xxx)
-[ACL_PRIVILEGES](/reference/Data/ACL_PRIVILEGES)
-[ACL_FLAG_xxx](/reference/Symb/ACL_FLAG_xxx)
-[ACLCreate](/reference/Func/ACLCreate)
-[ACLDeleteEntry](/reference/Func/ACLDeleteEntry)
+[ACL_LEVEL_xxx](/domino-c-api-docs/reference/Symb/ACL_LEVEL_xxx)
+[ACL_PRIVILEGES](/domino-c-api-docs/reference/Data/ACL_PRIVILEGES)
+[ACL_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACL_FLAG_xxx)
+[ACLCreate](/domino-c-api-docs/reference/Func/ACLCreate)
+[ACLDeleteEntry](/domino-c-api-docs/reference/Func/ACLDeleteEntry)
 ---

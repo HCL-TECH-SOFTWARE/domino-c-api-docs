@@ -38,8 +38,8 @@ difference  -  Address where the floating-point result is to be stored.  The dif
 
 ```
 **See Also :**
-[TimeDateAdjust](/reference/Func/TimeDateAdjust)
-[TimeDateCompare](/reference/Func/TimeDateCompare)
-[TimeDateDifference](/reference/Func/TimeDateDifference)
-[TimeDateIncrement](/reference/Func/TimeDateIncrement)
+[TimeDateAdjust](/domino-c-api-docs/reference/Func/TimeDateAdjust)
+[TimeDateCompare](/domino-c-api-docs/reference/Func/TimeDateCompare)
+[TimeDateDifference](/domino-c-api-docs/reference/Func/TimeDateDifference)
+[TimeDateIncrement](/domino-c-api-docs/reference/Func/TimeDateIncrement)
 ---

@@ -85,8 +85,8 @@ if (error) {
 
 ```
 **See Also :**
-[MIMEPARTTYPE](/reference/Data/MIMEPARTTYPE)
-[MIME_PART_xxx](/reference/Symb/MIME_PART_xxx)
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[NSFMimePartDelete](/reference/Func/NSFMimePartDelete)
+[MIMEPARTTYPE](/domino-c-api-docs/reference/Data/MIMEPARTTYPE)
+[MIME_PART_xxx](/domino-c-api-docs/reference/Symb/MIME_PART_xxx)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[NSFMimePartDelete](/domino-c-api-docs/reference/Func/NSFMimePartDelete)
 ---

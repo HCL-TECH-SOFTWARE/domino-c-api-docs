@@ -62,7 +62,7 @@ dwSigLength  -  Length of the memory that contains the signature.
 
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
-[HOTSPOTREC_RUNFLAG_xxx](/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
-[NSFNoteSignHotspots](/reference/Func/NSFNoteSignHotspots)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
+[HOTSPOTREC_RUNFLAG_xxx](/domino-c-api-docs/reference/Symb/HOTSPOTREC_RUNFLAG_xxx)
+[NSFNoteSignHotspots](/domino-c-api-docs/reference/Func/NSFNoteSignHotspots)
 ---

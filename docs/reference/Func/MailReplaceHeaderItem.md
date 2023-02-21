@@ -36,6 +36,6 @@ Output :
 
 
 **See Also :**
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
-[MAIL_xxx_ITEM_NUM(2)](/reference/Symb/MAIL_xxx_ITEM_NUM(2))
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MAIL_xxx_ITEM_NUM(2)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(2))
 ---

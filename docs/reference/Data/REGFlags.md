@@ -10,5 +10,5 @@ This is the datatype for the fREGxxx set of flags used in the registration
 functions
 
 **See Also :**
-[fREGxxx](/reference/Symb/fREGxxx)
+[fREGxxx](/domino-c-api-docs/reference/Symb/fREGxxx)
 ---

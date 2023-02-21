@@ -11,5 +11,5 @@ text.  These flags may be specified in the dwFlags field of a CDACTIONFORMULA
 record.
 
 **See Also :**
-[CDACTIONFORMULA](/reference/Data/CDACTIONFORMULA)
+[CDACTIONFORMULA](/domino-c-api-docs/reference/Data/CDACTIONFORMULA)
 ---

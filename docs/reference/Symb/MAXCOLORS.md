@@ -9,5 +9,5 @@
 Maximum number of colors in a color table (8 bit mapped color).
 
 **See Also :**
-[CDCOLORTABLE](/reference/Data/CDCOLORTABLE)
+[CDCOLORTABLE](/domino-c-api-docs/reference/Data/CDCOLORTABLE)
 ---

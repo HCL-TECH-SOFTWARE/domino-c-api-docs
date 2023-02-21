@@ -33,5 +33,5 @@ retTime  -  Pointer to returned TimeDate of last index operation.
 
 
 **See Also :**
-[FTIndex](/reference/Func/FTIndex)
+[FTIndex](/domino-c-api-docs/reference/Func/FTIndex)
 ---

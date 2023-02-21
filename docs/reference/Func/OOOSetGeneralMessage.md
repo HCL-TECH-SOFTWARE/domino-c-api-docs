@@ -34,5 +34,5 @@ NOERROR - Successfully performed this operation
 
 
 **See Also :**
-[OOOGetGeneralMessage](/reference/Func/OOOGetGeneralMessage)
+[OOOGetGeneralMessage](/domino-c-api-docs/reference/Func/OOOGetGeneralMessage)
 ---

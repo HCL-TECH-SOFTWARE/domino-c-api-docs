@@ -12,5 +12,5 @@ flags are represented in the high order WORD of the Sequence member.  Use these
 symbols to access the Sequence flags. 
 
 **See Also :**
-[ORIGINATORID](/reference/Data/ORIGINATORID)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
 ---

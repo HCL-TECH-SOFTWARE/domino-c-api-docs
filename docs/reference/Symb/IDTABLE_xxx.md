@@ -19,6 +19,6 @@ These defines are used in conjunction with IDTableFlags and IDTableSetFlags.
 
 ```
 **See Also :**
-[IDTableFlags](/reference/Func/IDTableFlags)
-[IDTableSetFlags](/reference/Func/IDTableSetFlags)
+[IDTableFlags](/domino-c-api-docs/reference/Func/IDTableFlags)
+[IDTableSetFlags](/domino-c-api-docs/reference/Func/IDTableSetFlags)
 ---

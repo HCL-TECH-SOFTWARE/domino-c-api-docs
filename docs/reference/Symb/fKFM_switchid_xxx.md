@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[SECKFMSwitchToIDFile](/reference/Func/SECKFMSwitchToIDFile)
+[SECKFMSwitchToIDFile](/domino-c-api-docs/reference/Func/SECKFMSwitchToIDFile)
 ---

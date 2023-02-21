@@ -124,7 +124,7 @@ Output :
 
 ```
 **See Also :**
-[EditorAppendBitmapToNote](/reference/Func/EditorAppendBitmapToNote)
-[EPBCONTEXT](/reference/Data/EPBCONTEXT)
-[EPBPROC](/reference/Data/EPBPROC)
+[EditorAppendBitmapToNote](/domino-c-api-docs/reference/Func/EditorAppendBitmapToNote)
+[EPBCONTEXT](/domino-c-api-docs/reference/Data/EPBCONTEXT)
+[EPBPROC](/domino-c-api-docs/reference/Data/EPBPROC)
 ---

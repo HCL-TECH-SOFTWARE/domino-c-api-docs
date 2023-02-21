@@ -45,9 +45,9 @@ if (error_status = LogAddTimeItem(log_entry, LOG_LEAVE_LOCKED,
    goto Exit;
 ```
 **See Also :**
-[LogCreateEntry](/reference/Func/LogCreateEntry)
-[LogAddNumberItem](/reference/Func/LogAddNumberItem)
-[LogAddText](/reference/Func/LogAddText)
-[LogAddTextlistItem](/reference/Func/LogAddTextlistItem)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
+[LogAddNumberItem](/domino-c-api-docs/reference/Func/LogAddNumberItem)
+[LogAddText](/domino-c-api-docs/reference/Func/LogAddText)
+[LogAddTextlistItem](/domino-c-api-docs/reference/Func/LogAddTextlistItem)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
 ---

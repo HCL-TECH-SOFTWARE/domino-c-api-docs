@@ -25,6 +25,6 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[ACLGetFlags](/reference/Func/ACLGetFlags)
-[ACL_xxx](/reference/Symb/ACL_xxx)
+[ACLGetFlags](/domino-c-api-docs/reference/Func/ACLGetFlags)
+[ACL_xxx](/domino-c-api-docs/reference/Symb/ACL_xxx)
 ---

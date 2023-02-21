@@ -31,6 +31,6 @@ Output :
 
 
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[NULLBER](/reference/Symb/NULLBER)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[NULLBER](/domino-c-api-docs/reference/Symb/NULLBER)
 ---

@@ -40,10 +40,10 @@ if(error = IntlTIMEDATECreateHandle( &hTimeDate ))
 }
 ```
 **See Also :**
-[IntlTIMEDATEConvertToText](/reference/Func/IntlTIMEDATEConvertToText)
-[IntlTIMEDATEDeleteHandle](/reference/Func/IntlTIMEDATEDeleteHandle)
-[IntlTIMEDATEGetValue](/reference/Func/IntlTIMEDATEGetValue)
-[INTLTIMEDATEHANDLE](/reference/Data/INTLTIMEDATEHANDLE)
-[IntlTIMEDATESetValue](/reference/Func/IntlTIMEDATESetValue)
-[TIMEDATE](/reference/Data/TIMEDATE)
+[IntlTIMEDATEConvertToText](/domino-c-api-docs/reference/Func/IntlTIMEDATEConvertToText)
+[IntlTIMEDATEDeleteHandle](/domino-c-api-docs/reference/Func/IntlTIMEDATEDeleteHandle)
+[IntlTIMEDATEGetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATEGetValue)
+[INTLTIMEDATEHANDLE](/domino-c-api-docs/reference/Data/INTLTIMEDATEHANDLE)
+[IntlTIMEDATESetValue](/domino-c-api-docs/reference/Func/IntlTIMEDATESetValue)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
 ---

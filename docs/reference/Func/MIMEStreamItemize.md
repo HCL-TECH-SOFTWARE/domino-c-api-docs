@@ -63,6 +63,6 @@ MIME_STREAM_ITEMIZE_FULL, hMIMEStream)) {
 
 ```
 **See Also :**
-[MIMEStreamPutLine](/reference/Func/MIMEStreamPutLine)
-[MIME_STREAM_xxx](/reference/Symb/MIME_STREAM_xxx)
+[MIMEStreamPutLine](/domino-c-api-docs/reference/Func/MIMEStreamPutLine)
+[MIME_STREAM_xxx](/domino-c-api-docs/reference/Symb/MIME_STREAM_xxx)
 ---

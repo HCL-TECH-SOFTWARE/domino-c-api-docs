@@ -41,7 +41,7 @@ note_handle  -  The address of a NOTEHANDLE in which handle of the new empty not
 
 ```
 **See Also :**
-[NSFItemAppend](/reference/Func/NSFItemAppend)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
 ---

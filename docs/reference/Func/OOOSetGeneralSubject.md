@@ -32,5 +32,5 @@ Output :
 
 
 **See Also :**
-[OOOGetGeneralSubject](/reference/Func/OOOGetGeneralSubject)
+[OOOGetGeneralSubject](/domino-c-api-docs/reference/Func/OOOGetGeneralSubject)
 ---

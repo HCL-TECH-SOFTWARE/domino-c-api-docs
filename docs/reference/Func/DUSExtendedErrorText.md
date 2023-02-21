@@ -53,5 +53,5 @@ shutdown */
 	return(error);
 ```
 **See Also :**
-[DUS_ERROR_LEVEL_xxx](/reference/Symb/DUS_ERROR_LEVEL_xxx)
+[DUS_ERROR_LEVEL_xxx](/domino-c-api-docs/reference/Symb/DUS_ERROR_LEVEL_xxx)
 ---

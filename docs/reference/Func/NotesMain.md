@@ -61,7 +61,7 @@ STATUS LNPUBLIC NotesMain (int argc, char *argv[])
 }
 ```
 **See Also :**
-[AddInMain](/reference/Func/AddInMain)
-[NotesInitExtended](/reference/Func/NotesInitExtended)
-[NotesTerm](/reference/Func/NotesTerm)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
+[NotesTerm](/domino-c-api-docs/reference/Func/NotesTerm)
 ---

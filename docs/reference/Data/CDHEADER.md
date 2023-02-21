@@ -19,5 +19,5 @@ the data
 This header structure is followed by the string for the header or footer.
 
 **See Also :**
-[CDDOCUMENT](/reference/Data/CDDOCUMENT)
+[CDDOCUMENT](/domino-c-api-docs/reference/Data/CDDOCUMENT)
 ---

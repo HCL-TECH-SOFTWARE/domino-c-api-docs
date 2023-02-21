@@ -12,6 +12,6 @@ the SESSIONREC and DBREC billing records, as appropriate.
 
 
 **See Also :**
-[DBREC](/reference/Data/DBREC)
-[SESSIONREC](/reference/Data/SESSIONREC)
+[DBREC](/domino-c-api-docs/reference/Data/DBREC)
+[SESSIONREC](/domino-c-api-docs/reference/Data/SESSIONREC)
 ---

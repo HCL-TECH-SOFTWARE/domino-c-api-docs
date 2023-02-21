@@ -115,12 +115,12 @@ pabdef.Flags2 = DEFAULT_FLAGS2;
 ODSWriteMemory( &buff_ptr, _CDPABDEFINITION, &pabdef, 1 );
 ```
 **See Also :**
-[CDPABREFERENCE](/reference/Data/CDPABREFERENCE)
-[CDPARAGRAPH](/reference/Data/CDPARAGRAPH)
-[CDTEXT](/reference/Data/CDTEXT)
-[EXTENDEDPABFLAGS3](/reference/Symb/EXTENDEDPABFLAGS3)
-[PABFLAG2_xxx](/reference/Symb/PABFLAG2_xxx)
-[PABFLAG3_xxx](/reference/Symb/PABFLAG3_xxx)
-[PABFLAG_xxx](/reference/Symb/PABFLAG_xxx)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
+[CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)
+[CDPARAGRAPH](/domino-c-api-docs/reference/Data/CDPARAGRAPH)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[EXTENDEDPABFLAGS3](/domino-c-api-docs/reference/Symb/EXTENDEDPABFLAGS3)
+[PABFLAG2_xxx](/domino-c-api-docs/reference/Symb/PABFLAG2_xxx)
+[PABFLAG3_xxx](/domino-c-api-docs/reference/Symb/PABFLAG3_xxx)
+[PABFLAG_xxx](/domino-c-api-docs/reference/Symb/PABFLAG_xxx)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
 ---

@@ -56,7 +56,7 @@ rethCntnr  -  Handle of schedule container results are returned in. If *rethCntn
 
 
 **See Also :**
-[SchContainer_Free](/reference/Func/SchContainer_Free)
-[SchSrvRetrieve](/reference/Func/SchSrvRetrieve)
-[SCHRQST_xxx](/reference/Symb/SCHRQST_xxx)
+[SchContainer_Free](/domino-c-api-docs/reference/Func/SchContainer_Free)
+[SchSrvRetrieve](/domino-c-api-docs/reference/Func/SchSrvRetrieve)
+[SCHRQST_xxx](/domino-c-api-docs/reference/Symb/SCHRQST_xxx)
 ---

@@ -22,5 +22,5 @@ data for the current note.
 otherwise.
 
 **See Also :**
-[ArchiveDocumentExport](/reference/Func/ArchiveDocumentExport)
+[ArchiveDocumentExport](/domino-c-api-docs/reference/Func/ArchiveDocumentExport)
 ---

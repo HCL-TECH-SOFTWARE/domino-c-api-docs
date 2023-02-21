@@ -11,6 +11,6 @@ flags are stored in the flags field of the common record headers (VMODSdrobj
 and VMODSbigobj) in the Navigator records (VIEWMAP_xxx_RECORD).
 
 **See Also :**
-[VMODSbigobj](/reference/Data/VMODSbigobj)
-[VMODSdrobj](/reference/Data/VMODSdrobj)
+[VMODSbigobj](/domino-c-api-docs/reference/Data/VMODSbigobj)
+[VMODSdrobj](/domino-c-api-docs/reference/Data/VMODSdrobj)
 ---

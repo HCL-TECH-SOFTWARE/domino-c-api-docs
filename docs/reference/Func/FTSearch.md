@@ -120,8 +120,8 @@ If FTSearch returns a non-NULLHANDLE in *rethResults, then use OSLock to obtain 
 
 
 **See Also :**
-[FTCloseSearch](/reference/Func/FTCloseSearch)
-[FTOpenSearch](/reference/Func/FTOpenSearch)
-[FT_SEARCH_RESULTS](/reference/Data/FT_SEARCH_RESULTS)
-[FT_SEARCH_RESULT_ENTRY](/reference/Data/FT_SEARCH_RESULT_ENTRY)
+[FTCloseSearch](/domino-c-api-docs/reference/Func/FTCloseSearch)
+[FTOpenSearch](/domino-c-api-docs/reference/Func/FTOpenSearch)
+[FT_SEARCH_RESULTS](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULTS)
+[FT_SEARCH_RESULT_ENTRY](/domino-c-api-docs/reference/Data/FT_SEARCH_RESULT_ENTRY)
 ---

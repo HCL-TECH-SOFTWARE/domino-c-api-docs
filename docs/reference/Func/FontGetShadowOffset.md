@@ -29,8 +29,8 @@ Output :
 
 
 **See Also :**
-[FontClearShadow](/reference/Func/FontClearShadow)
-[FontSetShadow](/reference/Func/FontSetShadow)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[FontClearShadow](/domino-c-api-docs/reference/Func/FontClearShadow)
+[FontSetShadow](/domino-c-api-docs/reference/Func/FontSetShadow)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

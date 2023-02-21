@@ -9,12 +9,12 @@
 Signatures for CDQUERYxxx records in items of type TYPE_QUERY.
 
 **See Also :**
-[CDQUERYHEADER](/reference/Data/CDQUERYHEADER)
-[CDQUERYTEXTTERM](/reference/Data/CDQUERYTEXTTERM)
-[CDQUERYBYFIELD](/reference/Data/CDQUERYBYFIELD)
-[CDQUERYFORMULA](/reference/Data/CDQUERYFORMULA)
-[CDQUERYBYFORM](/reference/Data/CDQUERYBYFORM)
-[CDQUERYBYFOLDER](/reference/Data/CDQUERYBYFOLDER)
-[CDQUERYUSESFORM](/reference/Data/CDQUERYUSESFORM)
-[CDQUERYTOPIC](/reference/Data/CDQUERYTOPIC)
+[CDQUERYHEADER](/domino-c-api-docs/reference/Data/CDQUERYHEADER)
+[CDQUERYTEXTTERM](/domino-c-api-docs/reference/Data/CDQUERYTEXTTERM)
+[CDQUERYBYFIELD](/domino-c-api-docs/reference/Data/CDQUERYBYFIELD)
+[CDQUERYFORMULA](/domino-c-api-docs/reference/Data/CDQUERYFORMULA)
+[CDQUERYBYFORM](/domino-c-api-docs/reference/Data/CDQUERYBYFORM)
+[CDQUERYBYFOLDER](/domino-c-api-docs/reference/Data/CDQUERYBYFOLDER)
+[CDQUERYUSESFORM](/domino-c-api-docs/reference/Data/CDQUERYUSESFORM)
+[CDQUERYTOPIC](/domino-c-api-docs/reference/Data/CDQUERYTOPIC)
 ---

@@ -21,11 +21,11 @@ Output :
 
 
 **See Also :**
-[MQClose](/reference/Func/MQClose)
-[MQCreate](/reference/Func/MQCreate)
-[MQGet](/reference/Func/MQGet)
-[MQOpen](/reference/Func/MQOpen)
-[MQPut](/reference/Func/MQPut)
-[MQScan](/reference/Func/MQScan)
-[MQ_MAX_MSGSIZE](/reference/Symb/MQ_MAX_MSGSIZE)
+[MQClose](/domino-c-api-docs/reference/Func/MQClose)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
+[MQ_MAX_MSGSIZE](/domino-c-api-docs/reference/Symb/MQ_MAX_MSGSIZE)
 ---

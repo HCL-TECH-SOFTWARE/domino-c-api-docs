@@ -22,6 +22,6 @@ DWORD Spare[3]
 
 
 **See Also :**
-[CDPLACEHOLDER](/reference/Data/CDPLACEHOLDER)
-[EMBEDDEDVIEW_FLAG_xxx](/reference/Symb/EMBEDDEDVIEW_FLAG_xxx)
+[CDPLACEHOLDER](/domino-c-api-docs/reference/Data/CDPLACEHOLDER)
+[EMBEDDEDVIEW_FLAG_xxx](/domino-c-api-docs/reference/Symb/EMBEDDEDVIEW_FLAG_xxx)
 ---

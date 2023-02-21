@@ -13,5 +13,5 @@ Options/Preferences/Colors dialog, these color definitions will no longer map
 properly.
 
 **See Also :**
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
 ---

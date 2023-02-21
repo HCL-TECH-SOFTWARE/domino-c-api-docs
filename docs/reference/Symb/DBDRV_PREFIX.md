@@ -14,5 +14,5 @@ See the chapter on external database drivers in the Lotus C API User Guide for
 more information.
 
 **See Also :**
-[DBVEC](/reference/Data/DBVEC)
+[DBVEC](/domino-c-api-docs/reference/Data/DBVEC)
 ---

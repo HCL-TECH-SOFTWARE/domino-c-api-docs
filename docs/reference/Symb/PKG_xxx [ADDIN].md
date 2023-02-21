@@ -43,9 +43,9 @@ HISTORY_VERSION, "Version 1.0"
 DEFAULT_HISTORY_DBFILENAME, "history"
 ```
 **See Also :**
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[AddInCreateStatusLine](/reference/Func/AddInCreateStatusLine)
-[STATUS](/reference/Data/STATUS)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[AddInCreateStatusLine](/domino-c-api-docs/reference/Func/AddInCreateStatusLine)
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

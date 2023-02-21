@@ -29,7 +29,7 @@ ERR_xxx  -  Various OS, and KFM errors.
 
 
 **See Also :**
-[REGNewCertifier](/reference/Func/REGNewCertifier)
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[SECKFMGetCertifierCtx](/reference/Func/SECKFMGetCertifierCtx)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[SECKFMGetCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
 ---

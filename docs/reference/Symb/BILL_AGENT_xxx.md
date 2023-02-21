@@ -11,5 +11,5 @@ generated an agent billing flag.  They are the possible values for the Flags
 member of the AGENTREC structure.
 
 **See Also :**
-[AGENTREC](/reference/Data/AGENTREC)
+[AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)
 ---

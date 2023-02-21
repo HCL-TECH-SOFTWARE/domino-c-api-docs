@@ -12,5 +12,5 @@ However, FT_INDEX_AUTOOPTIONS will ignore all other indexing options and
 therefore should not be OR-ed with any of the other indexing options.
 
 **See Also :**
-[FTIndex](/reference/Func/FTIndex)
+[FTIndex](/domino-c-api-docs/reference/Func/FTIndex)
 ---

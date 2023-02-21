@@ -120,6 +120,6 @@ control settings */
 
 ```
 **See Also :**
-[MIMEConvertMIMEPartsCC](/reference/Func/MIMEConvertMIMEPartsCC)
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
+[MIMEConvertMIMEPartsCC](/domino-c-api-docs/reference/Func/MIMEConvertMIMEPartsCC)
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
 ---

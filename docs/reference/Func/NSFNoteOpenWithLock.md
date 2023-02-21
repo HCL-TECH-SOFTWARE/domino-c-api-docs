@@ -56,10 +56,10 @@ rethNote  -  The address of a NOTEHANDLE in which the handle of the opened note 
 
 
 **See Also :**
-[NSFDbNoteLock](/reference/Func/NSFDbNoteLock)
-[NSFDbNoteUnlock](/reference/Func/NSFDbNoteUnlock)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpenExt](/reference/Func/NSFNoteOpenExt)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[OPEN_xxx (note)](/reference/Symb/OPEN_xxx (note))
+[NSFDbNoteLock](/domino-c-api-docs/reference/Func/NSFDbNoteLock)
+[NSFDbNoteUnlock](/domino-c-api-docs/reference/Func/NSFDbNoteUnlock)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpenExt](/domino-c-api-docs/reference/Func/NSFNoteOpenExt)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[OPEN_xxx (note)](/domino-c-api-docs/reference/Symb/OPEN_xxx (note))
 ---

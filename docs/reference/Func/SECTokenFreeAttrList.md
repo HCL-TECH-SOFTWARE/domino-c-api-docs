@@ -74,7 +74,7 @@ attribute list a little longer.  Free the username but keep the attribute list.
 SECTokenFreeAttrList (  &pMyAttrList, 0, NULL );    
 ```
 **See Also :**
-[SECTokenListGenerate](/reference/Func/SECTokenListGenerate)
-[SECTokenListValidate](/reference/Func/SECTokenListValidate)
-[SSO_LTPA2_ATTR](/reference/Data/SSO_LTPA2_ATTR)
+[SECTokenListGenerate](/domino-c-api-docs/reference/Func/SECTokenListGenerate)
+[SECTokenListValidate](/domino-c-api-docs/reference/Func/SECTokenListValidate)
+[SSO_LTPA2_ATTR](/domino-c-api-docs/reference/Data/SSO_LTPA2_ATTR)
 ---

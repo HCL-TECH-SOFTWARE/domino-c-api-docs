@@ -34,6 +34,6 @@ remove from msgs as they are exported (default is NULL) */
 
 ```
 **See Also :**
-[MMGetDropItems](/reference/Func/MMGetDropItems)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetDropItems](/domino-c-api-docs/reference/Func/MMGetDropItems)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

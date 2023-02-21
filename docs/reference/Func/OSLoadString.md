@@ -75,7 +75,7 @@ if (nError != NOERROR)
 } 
 ```
 **See Also :**
-[OSTranslate](/reference/Func/OSTranslate)
-[PKG_xxx [ADDIN]](/reference/Symb/PKG_xxx [ADDIN])
-[STATUS](/reference/Data/STATUS)
+[OSTranslate](/domino-c-api-docs/reference/Func/OSTranslate)
+[PKG_xxx [ADDIN]](/domino-c-api-docs/reference/Symb/PKG_xxx [ADDIN])
+[STATUS](/domino-c-api-docs/reference/Data/STATUS)
 ---

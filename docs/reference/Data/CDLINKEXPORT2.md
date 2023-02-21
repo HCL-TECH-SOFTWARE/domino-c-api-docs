@@ -109,8 +109,8 @@ STATUS AddDocLink (DBHANDLE hDB, NOTEID IDNote,
 }
 ```
 **See Also :**
-[CompoundTextAddDocLink](/reference/Func/CompoundTextAddDocLink)
-[NOTELINK](/reference/Data/NOTELINK)
-[CDLINK2](/reference/Data/CDLINK2)
-[CDANCHOR](/reference/Data/CDANCHOR)
+[CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
+[NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)
+[CDLINK2](/domino-c-api-docs/reference/Data/CDLINK2)
+[CDANCHOR](/domino-c-api-docs/reference/Data/CDANCHOR)
 ---

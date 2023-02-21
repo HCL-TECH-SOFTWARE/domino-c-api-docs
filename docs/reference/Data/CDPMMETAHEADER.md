@@ -24,6 +24,6 @@ must be preceded by a CDPMMETASEG record.
 This header is followed by the segments of metafile data.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDPMMETASEG](/reference/Data/CDPMMETASEG)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDPMMETASEG](/domino-c-api-docs/reference/Data/CDPMMETASEG)
 ---

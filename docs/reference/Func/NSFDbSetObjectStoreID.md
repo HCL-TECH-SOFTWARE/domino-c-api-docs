@@ -29,6 +29,6 @@ ERR_IS_OBJSTORE - The replica ID for a Domino Object Store cannot be written int
 
 
 **See Also :**
-[NSFDbCreateObjectStore](/reference/Func/NSFDbCreateObjectStore)
-[NSFDbGetObjectStoreID](/reference/Func/NSFDbGetObjectStoreID)
+[NSFDbCreateObjectStore](/domino-c-api-docs/reference/Func/NSFDbCreateObjectStore)
+[NSFDbGetObjectStoreID](/domino-c-api-docs/reference/Func/NSFDbGetObjectStoreID)
 ---

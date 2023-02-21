@@ -10,6 +10,6 @@ This value is the maximum size that Domino and Notes will allow for a privilege
 name in an ACL.
 
 **See Also :**
-[ACLGetPrivName](/reference/Func/ACLGetPrivName)
-[ACLSetPrivName](/reference/Func/ACLSetPrivName)
+[ACLGetPrivName](/domino-c-api-docs/reference/Func/ACLGetPrivName)
+[ACLSetPrivName](/domino-c-api-docs/reference/Func/ACLSetPrivName)
 ---

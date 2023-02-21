@@ -10,10 +10,10 @@ These symbolic constants define additional codes (indexes) associated with mail
 note item names.
 
 **See Also :**
-[MailAddHeaderItem](/reference/Func/MailAddHeaderItem)
-[MailAddHeaderItemByHandle](/reference/Func/MailAddHeaderItemByHandle)
-[MailGetMessageItem](/reference/Func/MailGetMessageItem)
-[MailGetMessageItemHandle](/reference/Func/MailGetMessageItemHandle)
-[MailReplaceHeaderItem](/reference/Func/MailReplaceHeaderItem)
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MailAddHeaderItem](/domino-c-api-docs/reference/Func/MailAddHeaderItem)
+[MailAddHeaderItemByHandle](/domino-c-api-docs/reference/Func/MailAddHeaderItemByHandle)
+[MailGetMessageItem](/domino-c-api-docs/reference/Func/MailGetMessageItem)
+[MailGetMessageItemHandle](/domino-c-api-docs/reference/Func/MailGetMessageItemHandle)
+[MailReplaceHeaderItem](/domino-c-api-docs/reference/Func/MailReplaceHeaderItem)
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
 ---

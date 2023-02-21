@@ -58,7 +58,7 @@ vpReserved  -  If not NULL (see dwReserved), then the routine will write to a TI
 
 
 **See Also :**
-[SECTokenFree](/reference/Func/SECTokenFree)
-[SECTokenGenerate](/reference/Func/SECTokenGenerate)
-[SSO_TOKEN](/reference/Data/SSO_TOKEN)
+[SECTokenFree](/domino-c-api-docs/reference/Func/SECTokenFree)
+[SECTokenGenerate](/domino-c-api-docs/reference/Func/SECTokenGenerate)
+[SSO_TOKEN](/domino-c-api-docs/reference/Data/SSO_TOKEN)
 ---

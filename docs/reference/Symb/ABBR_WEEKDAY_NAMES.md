@@ -9,5 +9,5 @@
 Request for abbreviated weekday names
 
 **See Also :**
-[OSGetExtIntlFormat](/reference/Func/OSGetExtIntlFormat)
+[OSGetExtIntlFormat](/domino-c-api-docs/reference/Func/OSGetExtIntlFormat)
 ---

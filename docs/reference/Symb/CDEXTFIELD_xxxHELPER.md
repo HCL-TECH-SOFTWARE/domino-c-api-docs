@@ -9,5 +9,5 @@
 These values identify the type of helper used for this field.
 
 **See Also :**
-[CDEXTFIELD](/reference/Data/CDEXTFIELD)
+[CDEXTFIELD](/domino-c-api-docs/reference/Data/CDEXTFIELD)
 ---

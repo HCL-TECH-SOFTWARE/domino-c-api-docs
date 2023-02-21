@@ -12,5 +12,5 @@ identifies the field type of the field containing the cursor when the Add-In's
 menu item was chosen.
 
 **See Also :**
-[EDITIXDATA](/reference/Data/EDITIXDATA)
+[EDITIXDATA](/domino-c-api-docs/reference/Data/EDITIXDATA)
 ---

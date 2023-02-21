@@ -33,7 +33,7 @@ Output :
 
 
 **See Also :**
-[NSFDbGetUserActivity](/reference/Func/NSFDbGetUserActivity)
-[DBACTIVITY](/reference/Data/DBACTIVITY)
-[DBACTIVITY_ENTRY](/reference/Data/DBACTIVITY_ENTRY)
+[NSFDbGetUserActivity](/domino-c-api-docs/reference/Func/NSFDbGetUserActivity)
+[DBACTIVITY](/domino-c-api-docs/reference/Data/DBACTIVITY)
+[DBACTIVITY_ENTRY](/domino-c-api-docs/reference/Data/DBACTIVITY_ENTRY)
 ---

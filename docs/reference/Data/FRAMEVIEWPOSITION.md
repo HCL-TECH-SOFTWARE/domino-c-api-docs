@@ -13,7 +13,7 @@ for the current position in the outline for that frame if there is one.  If
 not, the UNID is null.
 
 **See Also :**
-[CDFRAME](/reference/Data/CDFRAME)
-[CDFRAMESET](/reference/Data/CDFRAMESET)
-[MAXUNIDSTRING](/reference/Symb/MAXUNIDSTRING)
+[CDFRAME](/domino-c-api-docs/reference/Data/CDFRAME)
+[CDFRAMESET](/domino-c-api-docs/reference/Data/CDFRAMESET)
+[MAXUNIDSTRING](/domino-c-api-docs/reference/Symb/MAXUNIDSTRING)
 ---

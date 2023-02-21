@@ -9,6 +9,6 @@
 
 
 **See Also :**
-[CDREGIONBEGIN](/reference/Data/CDREGIONBEGIN)
-[CDREGIONEND](/reference/Data/CDREGIONEND)
+[CDREGIONBEGIN](/domino-c-api-docs/reference/Data/CDREGIONBEGIN)
+[CDREGIONEND](/domino-c-api-docs/reference/Data/CDREGIONEND)
 ---

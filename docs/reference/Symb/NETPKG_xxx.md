@@ -12,5 +12,5 @@ unique IDs.  There is a separate package for all drivers which are optional and
 each optional driver package has its own offsets for first string.
 
 **See Also :**
-[PKG_xxx](/reference/Symb/PKG_xxx)
+[PKG_xxx](/domino-c-api-docs/reference/Symb/PKG_xxx)
 ---

@@ -40,9 +40,9 @@ specify the target ("linked-to") document.
     memmove(&pCDLink->NoteLink.Note, &NoteUNID, sizeof(UNID));
 ```
 **See Also :**
-[CompoundTextAddDocLink](/reference/Func/CompoundTextAddDocLink)
-[CDLINKEXPORT2](/reference/Data/CDLINKEXPORT2)
-[TIMEDATE](/reference/Data/TIMEDATE)
-[UNID](/reference/Data/UNID)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
+[CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
+[CDLINKEXPORT2](/domino-c-api-docs/reference/Data/CDLINKEXPORT2)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
 ---

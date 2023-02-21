@@ -11,10 +11,10 @@ definitions when you set up the TFMT structure that controls the time/date
 format.
 
 **See Also :**
-[CDEXT2FIELD](/reference/Data/CDEXT2FIELD)
-[ConvertTextToTIMEDATE](/reference/Func/ConvertTextToTIMEDATE)
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
-[ConvertTIMEDATEPAIRToText](/reference/Func/ConvertTIMEDATEPAIRToText)
-[ConvertTIMEDATEToText](/reference/Func/ConvertTIMEDATEToText)
-[TFMT](/reference/Data/TFMT)
+[CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)
+[ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
+[ConvertTIMEDATEPAIRToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEPAIRToText)
+[ConvertTIMEDATEToText](/domino-c-api-docs/reference/Func/ConvertTIMEDATEToText)
+[TFMT](/domino-c-api-docs/reference/Data/TFMT)
 ---

@@ -9,5 +9,5 @@
 Possible optional values for DecryptFlags parameter of NSFNoteDecrypt.
 
 **See Also :**
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
 ---

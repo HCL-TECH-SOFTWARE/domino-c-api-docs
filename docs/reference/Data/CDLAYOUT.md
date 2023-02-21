@@ -21,10 +21,10 @@ wGridSize Spacing of grid points in "twips"
 
 
 **See Also :**
-[CDLAYOUTBUTTON](/reference/Data/CDLAYOUTBUTTON)
-[CDLAYOUTEND](/reference/Data/CDLAYOUTEND)
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
-[LAYOUT_FLAG_xxx](/reference/Symb/LAYOUT_FLAG_xxx)
+[CDLAYOUTBUTTON](/domino-c-api-docs/reference/Data/CDLAYOUTBUTTON)
+[CDLAYOUTEND](/domino-c-api-docs/reference/Data/CDLAYOUTEND)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
+[LAYOUT_FLAG_xxx](/domino-c-api-docs/reference/Symb/LAYOUT_FLAG_xxx)
 ---

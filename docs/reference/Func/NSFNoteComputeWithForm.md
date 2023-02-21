@@ -108,7 +108,7 @@ summary */
 ...
 ```
 **See Also :**
-[CWF_ERROR_PROC](/reference/Data/CWF_ERROR_PROC)
-[CWF_xxx (Return Codes)](/reference/Symb/CWF_xxx (Return Codes))
-[CWF_xxx (Validation Phases)](/reference/Symb/CWF_xxx (Validation Phases))
+[CWF_ERROR_PROC](/domino-c-api-docs/reference/Data/CWF_ERROR_PROC)
+[CWF_xxx (Return Codes)](/domino-c-api-docs/reference/Symb/CWF_xxx (Return Codes))
+[CWF_xxx (Validation Phases)](/domino-c-api-docs/reference/Symb/CWF_xxx (Validation Phases))
 ---

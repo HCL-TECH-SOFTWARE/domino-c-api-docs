@@ -52,6 +52,6 @@ rich text item data in a note.
 
 
 **See Also :**
-[ACTION_CONTROL_TYPE_xxx](/reference/Symb/ACTION_CONTROL_TYPE_xxx)
-[CDACTION](/reference/Data/CDACTION)
+[ACTION_CONTROL_TYPE_xxx](/domino-c-api-docs/reference/Symb/ACTION_CONTROL_TYPE_xxx)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

@@ -12,5 +12,5 @@ by the query segment of the Agent will either be set to Read (if the signature
 is SIG_ACTION_MARKREAD) or Unread (if the signature is SIG_ACTION_MARKUNREAD).
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

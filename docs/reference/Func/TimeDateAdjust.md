@@ -73,5 +73,5 @@ Time  -  The address of the TIMEDATE structure in which the adjusted binary valu
 
 ```
 **See Also :**
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
 ---

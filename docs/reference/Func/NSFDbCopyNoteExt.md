@@ -62,9 +62,9 @@ retNoteClass  -  Optional.  The address of a WORD in which the NOTE_CLASS_xxx of
 
 
 **See Also :**
-[NSFDbCopy](/reference/Func/NSFDbCopy)
-[NSFDbCopyNote](/reference/Func/NSFDbCopyNote)
-[NSFDbIDGet](/reference/Func/NSFDbIDGet)
-[OPEN_xxx (note)](/reference/Symb/OPEN_xxx (note))
-[UPDATE_xxx](/reference/Symb/UPDATE_xxx)
+[NSFDbCopy](/domino-c-api-docs/reference/Func/NSFDbCopy)
+[NSFDbCopyNote](/domino-c-api-docs/reference/Func/NSFDbCopyNote)
+[NSFDbIDGet](/domino-c-api-docs/reference/Func/NSFDbIDGet)
+[OPEN_xxx (note)](/domino-c-api-docs/reference/Symb/OPEN_xxx (note))
+[UPDATE_xxx](/domino-c-api-docs/reference/Symb/UPDATE_xxx)
 ---

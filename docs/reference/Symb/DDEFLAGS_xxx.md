@@ -9,5 +9,5 @@
 These values specify the DDE link flag used in the structure, CDDDEBEGIN.
 
 **See Also :**
-[CDDDEBEGIN](/reference/Data/CDDDEBEGIN)
+[CDDDEBEGIN](/domino-c-api-docs/reference/Data/CDDDEBEGIN)
 ---

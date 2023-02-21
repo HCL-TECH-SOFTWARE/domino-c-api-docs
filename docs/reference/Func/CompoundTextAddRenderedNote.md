@@ -36,10 +36,10 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[CompoundTextAddDocLink](/reference/Func/CompoundTextAddDocLink)
-[CompoundTextAddParagraphExt](/reference/Func/CompoundTextAddParagraphExt)
-[CompoundTextAddTextExt](/reference/Func/CompoundTextAddTextExt)
-[CompoundTextCreate](/reference/Func/CompoundTextCreate)
-[CompoundTextDefineStyle](/reference/Func/CompoundTextDefineStyle)
-[CompoundTextInitStyle](/reference/Func/CompoundTextInitStyle)
+[CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
+[CompoundTextAddParagraphExt](/domino-c-api-docs/reference/Func/CompoundTextAddParagraphExt)
+[CompoundTextAddTextExt](/domino-c-api-docs/reference/Func/CompoundTextAddTextExt)
+[CompoundTextCreate](/domino-c-api-docs/reference/Func/CompoundTextCreate)
+[CompoundTextDefineStyle](/domino-c-api-docs/reference/Func/CompoundTextDefineStyle)
+[CompoundTextInitStyle](/domino-c-api-docs/reference/Func/CompoundTextInitStyle)
 ---

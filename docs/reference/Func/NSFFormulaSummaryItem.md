@@ -52,8 +52,8 @@ ERR_xxx - STATUS returned from a lower level Notes function called in the action
 
 
 **See Also :**
-[NSFFormulaCompile](/reference/Func/NSFFormulaCompile)
-[NSFFormulaDecompile](/reference/Func/NSFFormulaDecompile)
-[NSFFormulaGetSize](/reference/Func/NSFFormulaGetSize)
-[NSFFormulaMerge](/reference/Func/NSFFormulaMerge)
+[NSFFormulaCompile](/domino-c-api-docs/reference/Func/NSFFormulaCompile)
+[NSFFormulaDecompile](/domino-c-api-docs/reference/Func/NSFFormulaDecompile)
+[NSFFormulaGetSize](/domino-c-api-docs/reference/Func/NSFFormulaGetSize)
+[NSFFormulaMerge](/domino-c-api-docs/reference/Func/NSFFormulaMerge)
 ---

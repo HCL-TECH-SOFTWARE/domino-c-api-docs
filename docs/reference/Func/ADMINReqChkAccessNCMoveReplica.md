@@ -84,5 +84,5 @@ if (error = ADMINReqChkAccessNCMoveReplica (
 }
 ```
 **See Also :**
-[ADMINReqChkAccessMoveReplica](/reference/Func/ADMINReqChkAccessMoveReplica)
+[ADMINReqChkAccessMoveReplica](/domino-c-api-docs/reference/Func/ADMINReqChkAccessMoveReplica)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[LENGTH_VALUE](/reference/Data/LENGTH_VALUE)
+[LENGTH_VALUE](/domino-c-api-docs/reference/Data/LENGTH_VALUE)
 ---

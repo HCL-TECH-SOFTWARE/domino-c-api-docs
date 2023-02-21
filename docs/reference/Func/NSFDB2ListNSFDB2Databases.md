@@ -57,9 +57,9 @@ pDbList  -  Pointer to the newly created list of bad link file names.
  OSMemFree(hDbList);
 ```
 **See Also :**
-[ListGetText](/reference/Func/ListGetText)
-[NSFDB2GetInfo](/reference/Func/NSFDB2GetInfo)
-[NSFDB2GetServerInfo](/reference/Func/NSFDB2GetServerInfo)
-[NSFDB2ReconnectNotesDatabase](/reference/Func/NSFDB2ReconnectNotesDatabase)
-[NSFDB2RegenerateLinks](/reference/Func/NSFDB2RegenerateLinks)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[NSFDB2GetInfo](/domino-c-api-docs/reference/Func/NSFDB2GetInfo)
+[NSFDB2GetServerInfo](/domino-c-api-docs/reference/Func/NSFDB2GetServerInfo)
+[NSFDB2ReconnectNotesDatabase](/domino-c-api-docs/reference/Func/NSFDB2ReconnectNotesDatabase)
+[NSFDB2RegenerateLinks](/domino-c-api-docs/reference/Func/NSFDB2RegenerateLinks)
 ---

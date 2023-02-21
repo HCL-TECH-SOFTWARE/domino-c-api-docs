@@ -54,7 +54,7 @@ See the chapter, Domino Web Server Application Interface (DSAPI), in the Lotus
 C API User Guide for details.
 
 **See Also :**
-[FilterAuthenticate](/reference/Data/FilterAuthenticate)
-[FilterInitData](/reference/Data/FilterInitData)
-[FilterUserNameList](/reference/Data/FilterUserNameList)
+[FilterAuthenticate](/domino-c-api-docs/reference/Data/FilterAuthenticate)
+[FilterInitData](/domino-c-api-docs/reference/Data/FilterInitData)
+[FilterUserNameList](/domino-c-api-docs/reference/Data/FilterUserNameList)
 ---

@@ -12,6 +12,6 @@ structure the member is iInputValidationOption and for the XSLT_PROPERTY
 structure the member is xsltInputValidationOption.
 
 **See Also :**
-[DXL_IMPORT_PROPERTY](/reference/Data/DXL_IMPORT_PROPERTY)
-[XSLT_PROPERTY](/reference/Data/XSLT_PROPERTY)
+[DXL_IMPORT_PROPERTY](/domino-c-api-docs/reference/Data/DXL_IMPORT_PROPERTY)
+[XSLT_PROPERTY](/domino-c-api-docs/reference/Data/XSLT_PROPERTY)
 ---

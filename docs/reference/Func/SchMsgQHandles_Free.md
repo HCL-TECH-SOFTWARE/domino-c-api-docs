@@ -21,5 +21,5 @@ hOutputQ  -  Handle to an open output queue
 
 
 **See Also :**
-[SchMsgQHandles_New](/reference/Func/SchMsgQHandles_New)
+[SchMsgQHandles_New](/domino-c-api-docs/reference/Func/SchMsgQHandles_New)
 ---

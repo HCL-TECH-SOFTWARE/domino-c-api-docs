@@ -187,7 +187,7 @@ session */
 } 
 ```
 **See Also :**
-[AUTHEM_xxx](/reference/Symb/AUTHEM_xxx)
-[EM_xxx](/reference/Symb/EM_xxx)
-[fAuth_xxx](/reference/Symb/fAuth_xxx)
+[AUTHEM_xxx](/domino-c-api-docs/reference/Symb/AUTHEM_xxx)
+[EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)
+[fAuth_xxx](/domino-c-api-docs/reference/Symb/fAuth_xxx)
 ---

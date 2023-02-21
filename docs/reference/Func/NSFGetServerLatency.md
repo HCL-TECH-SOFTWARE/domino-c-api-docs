@@ -40,5 +40,5 @@ ServerVersion  -  Optional - If not NULL, the server version (the Domino build n
 
 
 **See Also :**
-[NSFGetServerStats](/reference/Func/NSFGetServerStats)
+[NSFGetServerStats](/domino-c-api-docs/reference/Func/NSFGetServerStats)
 ---

@@ -71,9 +71,9 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[HMIMEDIRECTORY](/reference/Data/HMIMEDIRECTORY)
-[MIMEGetFirstSubpart](/reference/Func/MIMEGetFirstSubpart)
-[MIMEGetNextSibling](/reference/Func/MIMEGetNextSibling)
-[MIMEGetPrevSibling](/reference/Func/MIMEGetPrevSibling)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[HMIMEDIRECTORY](/domino-c-api-docs/reference/Data/HMIMEDIRECTORY)
+[MIMEGetFirstSubpart](/domino-c-api-docs/reference/Func/MIMEGetFirstSubpart)
+[MIMEGetNextSibling](/domino-c-api-docs/reference/Func/MIMEGetNextSibling)
+[MIMEGetPrevSibling](/domino-c-api-docs/reference/Func/MIMEGetPrevSibling)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

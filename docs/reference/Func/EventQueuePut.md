@@ -65,14 +65,14 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[EventDeregisterEventRequest](/reference/Func/EventDeregisterEventRequest)
-[EventGetDestName](/reference/Func/EventGetDestName)
-[EventQueueAlloc](/reference/Func/EventQueueAlloc)
-[EventQueueFree](/reference/Func/EventQueueFree)
-[EventQueueGet](/reference/Func/EventQueueGet)
-[EventRegisterEventRequest](/reference/Func/EventRegisterEventRequest)
-[EVENT_XXX_QUEUE_NAME](/reference/Symb/EVENT_XXX_QUEUE_NAME)
-[EVT_xxx](/reference/Symb/EVT_xxx)
-[FMT_xxx](/reference/Symb/FMT_xxx)
-[SEV_xxx](/reference/Symb/SEV_xxx)
+[EventDeregisterEventRequest](/domino-c-api-docs/reference/Func/EventDeregisterEventRequest)
+[EventGetDestName](/domino-c-api-docs/reference/Func/EventGetDestName)
+[EventQueueAlloc](/domino-c-api-docs/reference/Func/EventQueueAlloc)
+[EventQueueFree](/domino-c-api-docs/reference/Func/EventQueueFree)
+[EventQueueGet](/domino-c-api-docs/reference/Func/EventQueueGet)
+[EventRegisterEventRequest](/domino-c-api-docs/reference/Func/EventRegisterEventRequest)
+[EVENT_XXX_QUEUE_NAME](/domino-c-api-docs/reference/Symb/EVENT_XXX_QUEUE_NAME)
+[EVT_xxx](/domino-c-api-docs/reference/Symb/EVT_xxx)
+[FMT_xxx](/domino-c-api-docs/reference/Symb/FMT_xxx)
+[SEV_xxx](/domino-c-api-docs/reference/Symb/SEV_xxx)
 ---

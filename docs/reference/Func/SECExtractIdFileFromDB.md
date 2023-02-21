@@ -50,6 +50,6 @@ NOERROR - action successful
 
 
 **See Also :**
-[SECKFMClose](/reference/Func/SECKFMClose)
-[SECKFMOpen](/reference/Func/SECKFMOpen)
+[SECKFMClose](/domino-c-api-docs/reference/Func/SECKFMClose)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

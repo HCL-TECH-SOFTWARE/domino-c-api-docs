@@ -18,5 +18,5 @@ This structure is followed by the LotusScript commands.
 
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

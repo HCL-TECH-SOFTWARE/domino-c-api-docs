@@ -87,6 +87,6 @@ DomainNameLength  -  Domain name string length (not including '\0').
         }   /* end of loop over recipients */
 ```
 **See Also :**
-[MailGetMessageRecipient](/reference/Func/MailGetMessageRecipient)
-[MailGetMessageOriginator](/reference/Func/MailGetMessageOriginator)
+[MailGetMessageRecipient](/domino-c-api-docs/reference/Func/MailGetMessageRecipient)
+[MailGetMessageOriginator](/domino-c-api-docs/reference/Func/MailGetMessageOriginator)
 ---

@@ -9,5 +9,5 @@
 Defines the priority of a message on the message queue.
 
 **See Also :**
-[MQPut](/reference/Func/MQPut)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
 ---

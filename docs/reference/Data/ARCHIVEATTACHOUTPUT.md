@@ -17,6 +17,6 @@ Can be called many times for each attachment.
 otherwise.
 
 **See Also :**
-[ARCHIVEATTACHINIT](/reference/Data/ARCHIVEATTACHINIT)
-[ArchiveExportDatabase](/reference/Func/ArchiveExportDatabase)
+[ARCHIVEATTACHINIT](/domino-c-api-docs/reference/Data/ARCHIVEATTACHINIT)
+[ArchiveExportDatabase](/domino-c-api-docs/reference/Func/ArchiveExportDatabase)
 ---

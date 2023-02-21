@@ -9,5 +9,5 @@
 Maximum size for a huge object (more than one segment).
 
 **See Also :**
-[MAXONESEGSIZE](/reference/Symb/MAXONESEGSIZE)
+[MAXONESEGSIZE](/domino-c-api-docs/reference/Symb/MAXONESEGSIZE)
 ---

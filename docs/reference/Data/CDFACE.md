@@ -60,7 +60,7 @@ the CDFACE structure.
 
 
 **See Also :**
-[CDFONTTABLE](/reference/Data/CDFONTTABLE)
-[CDTEXT](/reference/Data/CDTEXT)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
+[CDFONTTABLE](/domino-c-api-docs/reference/Data/CDFONTTABLE)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
 ---

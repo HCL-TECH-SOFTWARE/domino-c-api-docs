@@ -51,9 +51,9 @@ field_len = NSFItemGetText (
                 sizeof (field_text));
 ```
 **See Also :**
-[NSFItemSetText](/reference/Func/NSFItemSetText)
-[NSFItemTextEqual](/reference/Func/NSFItemTextEqual)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
+[NSFItemSetText](/domino-c-api-docs/reference/Func/NSFItemSetText)
+[NSFItemTextEqual](/domino-c-api-docs/reference/Func/NSFItemTextEqual)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
 ---

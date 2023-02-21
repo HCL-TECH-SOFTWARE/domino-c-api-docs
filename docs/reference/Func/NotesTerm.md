@@ -27,9 +27,9 @@ Output :
 
 
 **See Also :**
-[AddInMain](/reference/Func/AddInMain)
-[NotesInit](/reference/Func/NotesInit)
-[NotesInitExtended](/reference/Func/NotesInitExtended)
-[NotesInitIni](/reference/Func/NotesInitIni)
-[NotesMain](/reference/Func/NotesMain)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[NotesInit](/domino-c-api-docs/reference/Func/NotesInit)
+[NotesInitExtended](/domino-c-api-docs/reference/Func/NotesInitExtended)
+[NotesInitIni](/domino-c-api-docs/reference/Func/NotesInitIni)
+[NotesMain](/domino-c-api-docs/reference/Func/NotesMain)
 ---

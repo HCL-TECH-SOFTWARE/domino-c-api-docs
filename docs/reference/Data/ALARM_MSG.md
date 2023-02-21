@@ -10,7 +10,7 @@ Structure defining the MQ request sent by the alarms daemon to the client who
 has registered for receiving alarms.
 
 **See Also :**
-[MQGet](/reference/Func/MQGet)
-[Alarm_RegisterInterest](/reference/Func/Alarm_RegisterInterest)
-[Alarm_RefreshAlarms](/reference/Func/Alarm_RefreshAlarms)
+[MQGet](/domino-c-api-docs/reference/Func/MQGet)
+[Alarm_RegisterInterest](/domino-c-api-docs/reference/Func/Alarm_RegisterInterest)
+[Alarm_RefreshAlarms](/domino-c-api-docs/reference/Func/Alarm_RefreshAlarms)
 ---

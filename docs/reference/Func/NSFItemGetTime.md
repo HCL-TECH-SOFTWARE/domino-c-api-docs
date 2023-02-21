@@ -54,8 +54,8 @@ td_item_value  -  The address of a TIMEDATE structure in which the Domino binary
 
 ```
 **See Also :**
-[NSFItemSetTime](/reference/Func/NSFItemSetTime)
-[NSFItemTimeCompare](/reference/Func/NSFItemTimeCompare)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
+[NSFItemSetTime](/domino-c-api-docs/reference/Func/NSFItemSetTime)
+[NSFItemTimeCompare](/domino-c-api-docs/reference/Func/NSFItemTimeCompare)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
 ---

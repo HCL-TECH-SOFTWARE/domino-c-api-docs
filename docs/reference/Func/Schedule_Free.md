@@ -25,8 +25,8 @@ ERR_xxx - There are many possible errors. It is best to use the code in a call t
 
 
 **See Also :**
-[SchContainer_FindSchedule](/reference/Func/SchContainer_FindSchedule)
-[SchContainer_GetFirstSchedule](/reference/Func/SchContainer_GetFirstSchedule)
-[SchContainer_GetNextSchedule](/reference/Func/SchContainer_GetNextSchedule)
-[Schedule_NewFromSchedList](/reference/Func/Schedule_NewFromSchedList)
+[SchContainer_FindSchedule](/domino-c-api-docs/reference/Func/SchContainer_FindSchedule)
+[SchContainer_GetFirstSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetFirstSchedule)
+[SchContainer_GetNextSchedule](/domino-c-api-docs/reference/Func/SchContainer_GetNextSchedule)
+[Schedule_NewFromSchedList](/domino-c-api-docs/reference/Func/Schedule_NewFromSchedList)
 ---

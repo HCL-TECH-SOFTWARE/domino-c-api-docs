@@ -33,6 +33,6 @@ hTargetTable  -  The ID Table identified by the handle is updated.  Notes that h
 
 
 **See Also :**
-[NSFDbGetModifiedNoteTable](/reference/Func/NSFDbGetModifiedNoteTable)
-[NSFDbGetUnreadNoteTable](/reference/Func/NSFDbGetUnreadNoteTable)
+[NSFDbGetModifiedNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetModifiedNoteTable)
+[NSFDbGetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetUnreadNoteTable)
 ---

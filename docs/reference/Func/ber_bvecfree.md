@@ -26,6 +26,6 @@ Output :
 
 
 **See Also :**
-[Berval](/reference/Data/Berval)
-[ber_bvfree](/reference/Func/ber_bvfree)
+[Berval](/domino-c-api-docs/reference/Data/Berval)
+[ber_bvfree](/domino-c-api-docs/reference/Func/ber_bvfree)
 ---

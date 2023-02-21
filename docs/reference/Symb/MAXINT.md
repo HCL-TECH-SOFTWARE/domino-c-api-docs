@@ -11,5 +11,5 @@ Maximum value for a 16-bit signed integer.
 #define MAXINT ((int) (((unsigned int) -1) >> 1))
 
 **See Also :**
-[MININT](/reference/Symb/MININT)
+[MININT](/domino-c-api-docs/reference/Symb/MININT)
 ---

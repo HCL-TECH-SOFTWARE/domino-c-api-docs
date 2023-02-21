@@ -10,5 +10,5 @@ These option flags may be specified in the dwFlags field of the CDACTIONFOLDER
 record.
 
 **See Also :**
-[CDACTIONFOLDER](/reference/Data/CDACTIONFOLDER)
+[CDACTIONFOLDER](/domino-c-api-docs/reference/Data/CDACTIONFOLDER)
 ---

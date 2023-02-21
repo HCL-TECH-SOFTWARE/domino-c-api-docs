@@ -21,6 +21,6 @@ pUserGroupList - (Output)  Set to the user's group name list if fieldFlags
 contains the value kUserGroupList, NULL otherwise.
 
 **See Also :**
-[FilterAuthenticatedUserFields](/reference/Data/FilterAuthenticatedUserFields)
-[FilterContext](/reference/Data/FilterContext)
+[FilterAuthenticatedUserFields](/domino-c-api-docs/reference/Data/FilterAuthenticatedUserFields)
+[FilterContext](/domino-c-api-docs/reference/Data/FilterContext)
 ---

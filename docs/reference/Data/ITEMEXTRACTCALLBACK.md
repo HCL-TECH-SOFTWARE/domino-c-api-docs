@@ -20,5 +20,5 @@ data for the current note.
 otherwise.
 
 **See Also :**
-[ArchiveDocumentExtractItem](/reference/Func/ArchiveDocumentExtractItem)
+[ArchiveDocumentExtractItem](/domino-c-api-docs/reference/Func/ArchiveDocumentExtractItem)
 ---

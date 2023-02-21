@@ -31,9 +31,9 @@ DWORD  Spare[3]
 
 
 **See Also :**
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[FONTID](/reference/Data/FONTID)
-[HOTSPOTREC_TYPE_xxx](/reference/Symb/HOTSPOTREC_TYPE_xxx)
-[PLACEHOLDER_ALIGN_xxx](/reference/Symb/PLACEHOLDER_ALIGN_xxx)
-[PLACEHOLDER_FLAG_xxx](/reference/Symb/PLACEHOLDER_FLAG_xxx)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[HOTSPOTREC_TYPE_xxx](/domino-c-api-docs/reference/Symb/HOTSPOTREC_TYPE_xxx)
+[PLACEHOLDER_ALIGN_xxx](/domino-c-api-docs/reference/Symb/PLACEHOLDER_ALIGN_xxx)
+[PLACEHOLDER_FLAG_xxx](/domino-c-api-docs/reference/Symb/PLACEHOLDER_FLAG_xxx)
 ---

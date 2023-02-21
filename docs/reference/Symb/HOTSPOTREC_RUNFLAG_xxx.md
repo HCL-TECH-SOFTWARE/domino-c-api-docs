@@ -10,5 +10,5 @@ These flags are used to define some of the attributes of a popup in a rich text
 field.
 
 **See Also :**
-[CDHOTSPOTBEGIN](/reference/Data/CDHOTSPOTBEGIN)
+[CDHOTSPOTBEGIN](/domino-c-api-docs/reference/Data/CDHOTSPOTBEGIN)
 ---

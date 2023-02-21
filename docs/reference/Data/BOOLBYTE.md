@@ -9,5 +9,5 @@
 A BOOLBYTE occupies one BYTE, and may be set to either TRUE or FALSE.
 
 **See Also :**
-[BOOL](/reference/Data/BOOL)
+[BOOL](/domino-c-api-docs/reference/Data/BOOL)
 ---

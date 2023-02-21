@@ -19,5 +19,5 @@ has succeeded. The authentication phase should be terminated, and the next
 phase in the processing of the request started.
 
 **See Also :**
-[FilterAuthenticate](/reference/Data/FilterAuthenticate)
+[FilterAuthenticate](/domino-c-api-docs/reference/Data/FilterAuthenticate)
 ---

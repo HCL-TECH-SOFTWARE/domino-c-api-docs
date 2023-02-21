@@ -26,6 +26,6 @@ Flags  -  ACL-wide flags.
 
 
 **See Also :**
-[ACLSetFlags](/reference/Func/ACLSetFlags)
-[ACL_xxx](/reference/Symb/ACL_xxx)
+[ACLSetFlags](/domino-c-api-docs/reference/Func/ACLSetFlags)
+[ACL_xxx](/domino-c-api-docs/reference/Symb/ACL_xxx)
 ---

@@ -14,5 +14,5 @@ flags which include: RFC822_ITEM_STORAGE_STRICT, RFC822_ITEM_TEXT_LIST and
 RFC822_TEXT_UNUSED.
 
 **See Also :**
-[RFC822ITEMDESC](/reference/Data/RFC822ITEMDESC)
+[RFC822ITEMDESC](/domino-c-api-docs/reference/Data/RFC822ITEMDESC)
 ---

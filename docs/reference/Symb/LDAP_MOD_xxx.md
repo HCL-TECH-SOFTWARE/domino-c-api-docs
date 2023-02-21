@@ -9,5 +9,5 @@
 Determine which values to add, delete, or replace.
 
 **See Also :**
-[LDAPMod](/reference/Data/LDAPMod)
+[LDAPMod](/domino-c-api-docs/reference/Data/LDAPMod)
 ---

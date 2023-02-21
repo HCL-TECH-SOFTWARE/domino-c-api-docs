@@ -36,5 +36,5 @@ IndexPos  -  Collection position updated to match the position in the modified c
 
 
 **See Also :**
-[NIFUpdateCollection](/reference/Func/NIFUpdateCollection)
+[NIFUpdateCollection](/domino-c-api-docs/reference/Func/NIFUpdateCollection)
 ---

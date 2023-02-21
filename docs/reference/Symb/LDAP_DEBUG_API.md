@@ -19,6 +19,6 @@ ldap_debug_level = LDAP_DEBUG_API;
 ldap_set_option (NULL, LDAP_OPT_DEBUG_LEVEL, &ldap_debug_level);
 ```
 **See Also :**
-[LDAP_OPT_xxx](/reference/Symb/LDAP_OPT_xxx)
-[ldap_set_option](/reference/Func/ldap_set_option)
+[LDAP_OPT_xxx](/domino-c-api-docs/reference/Symb/LDAP_OPT_xxx)
+[ldap_set_option](/domino-c-api-docs/reference/Func/ldap_set_option)
 ---

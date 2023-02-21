@@ -13,9 +13,9 @@ Header Defines this composite data item as a CDLAYOUTEND item.
 
 
 **See Also :**
-[CDLAYOUT](/reference/Data/CDLAYOUT)
-[CDLAYOUTBUTTON](/reference/Data/CDLAYOUTBUTTON)
-[CDLAYOUTFIELD](/reference/Data/CDLAYOUTFIELD)
-[CDLAYOUTGRAPHIC](/reference/Data/CDLAYOUTGRAPHIC)
-[CDLAYOUTTEXT](/reference/Data/CDLAYOUTTEXT)
+[CDLAYOUT](/domino-c-api-docs/reference/Data/CDLAYOUT)
+[CDLAYOUTBUTTON](/domino-c-api-docs/reference/Data/CDLAYOUTBUTTON)
+[CDLAYOUTFIELD](/domino-c-api-docs/reference/Data/CDLAYOUTFIELD)
+[CDLAYOUTGRAPHIC](/domino-c-api-docs/reference/Data/CDLAYOUTGRAPHIC)
+[CDLAYOUTTEXT](/domino-c-api-docs/reference/Data/CDLAYOUTTEXT)
 ---

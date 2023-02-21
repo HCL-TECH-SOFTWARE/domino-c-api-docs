@@ -48,5 +48,5 @@ else if (usMode & DB_DIRECTORY) /* hDB refers to a directory  */
 }
 ```
 **See Also :**
-[NSFDbOpen](/reference/Func/NSFDbOpen)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
 ---

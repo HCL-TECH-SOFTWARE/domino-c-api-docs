@@ -152,10 +152,10 @@ phList  -  If non-NULL on input, will contain a HANDLE to a TEXT_LIST of cluster
 }
 ```
 **See Also :**
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
-[ListGetText](/reference/Func/ListGetText)
-[NSGetServerClusterMates](/reference/Func/NSGetServerClusterMates)
-[OSLockObject](/reference/Func/OSLockObject)
-[OSMemFree](/reference/Func/OSMemFree)
-[OSUnlockObject](/reference/Func/OSUnlockObject)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
+[ListGetText](/domino-c-api-docs/reference/Func/ListGetText)
+[NSGetServerClusterMates](/domino-c-api-docs/reference/Func/NSGetServerClusterMates)
+[OSLockObject](/domino-c-api-docs/reference/Func/OSLockObject)
+[OSMemFree](/domino-c-api-docs/reference/Func/OSMemFree)
+[OSUnlockObject](/domino-c-api-docs/reference/Func/OSUnlockObject)
 ---

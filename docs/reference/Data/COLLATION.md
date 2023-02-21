@@ -23,6 +23,6 @@ descriptors.  See the definition of COLLATE_DESCRIPTOR for more details.
 
 
 **See Also :**
-[COLLATE_DESCRIPTOR](/reference/Data/COLLATE_DESCRIPTOR)
-[COLLATION_FLAG_xxx](/reference/Symb/COLLATION_FLAG_xxx)
+[COLLATE_DESCRIPTOR](/domino-c-api-docs/reference/Data/COLLATE_DESCRIPTOR)
+[COLLATION_FLAG_xxx](/domino-c-api-docs/reference/Symb/COLLATION_FLAG_xxx)
 ---

@@ -21,6 +21,6 @@ metafile is an odd number of bytes in length, a byte will be added to align
 data on a word boundary.
 
 **See Also :**
-[CDGRAPHIC](/reference/Data/CDGRAPHIC)
-[CDPMMETAHEADER](/reference/Data/CDPMMETAHEADER)
+[CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
+[CDPMMETAHEADER](/domino-c-api-docs/reference/Data/CDPMMETAHEADER)
 ---

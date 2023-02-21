@@ -20,6 +20,6 @@ according to difference type.
 see sample html/convattach
 ```
 **See Also :**
-[HTMLAPIReference](/reference/Data/HTMLAPIReference)
-[HTMLAPI_URLComponent](/reference/Data/HTMLAPI_URLComponent)
+[HTMLAPIReference](/domino-c-api-docs/reference/Data/HTMLAPIReference)
+[HTMLAPI_URLComponent](/domino-c-api-docs/reference/Data/HTMLAPI_URLComponent)
 ---

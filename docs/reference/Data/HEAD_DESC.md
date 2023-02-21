@@ -17,6 +17,6 @@ the data
 
 
 **See Also :**
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[HEAD_DESC_BUFFER](/reference/Data/HEAD_DESC_BUFFER)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[HEAD_DESC_BUFFER](/domino-c-api-docs/reference/Data/HEAD_DESC_BUFFER)
 ---

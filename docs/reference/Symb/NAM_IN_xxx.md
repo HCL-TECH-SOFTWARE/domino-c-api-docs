@@ -11,7 +11,7 @@ This information is received by the menu add-in in the NAM_CONTEXT_DATA
 structure when processing the NAMM_COMMAND message from Notes.
 
 **See Also :**
-[NAM_CONTEXT_DATA](/reference/Data/NAM_CONTEXT_DATA)
-[NAM_COMMAND_INFO](/reference/Data/NAM_COMMAND_INFO)
-[NAMM_xxx](/reference/Symb/NAMM_xxx)
+[NAM_CONTEXT_DATA](/domino-c-api-docs/reference/Data/NAM_CONTEXT_DATA)
+[NAM_COMMAND_INFO](/domino-c-api-docs/reference/Data/NAM_COMMAND_INFO)
+[NAMM_xxx](/domino-c-api-docs/reference/Symb/NAMM_xxx)
 ---

@@ -15,6 +15,6 @@ NSFDbSetOptions will not set the DBOPTION_OBJSTORE_xxx flags if the specified
 database is a remote database. 
 
 **See Also :**
-[NSFDbGetOptions](/reference/Func/NSFDbGetOptions)
-[NSFDbSetOptions](/reference/Func/NSFDbSetOptions)
+[NSFDbGetOptions](/domino-c-api-docs/reference/Func/NSFDbGetOptions)
+[NSFDbSetOptions](/domino-c-api-docs/reference/Func/NSFDbSetOptions)
 ---

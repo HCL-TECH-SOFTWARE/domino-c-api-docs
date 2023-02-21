@@ -12,9 +12,9 @@ SessionID and returns this session ID for use in subsequent calls to
 NetSetSessionMode, NetSend, NetReceive, and NetCloseSession.
 
 **See Also :**
-[NetLink](/reference/Func/NetLink)
-[NetSetSessionMode](/reference/Func/NetSetSessionMode)
-[NetSend](/reference/Func/NetSend)
-[NetReceive](/reference/Func/NetReceive)
-[NetCloseSession](/reference/Func/NetCloseSession)
+[NetLink](/domino-c-api-docs/reference/Func/NetLink)
+[NetSetSessionMode](/domino-c-api-docs/reference/Func/NetSetSessionMode)
+[NetSend](/domino-c-api-docs/reference/Func/NetSend)
+[NetReceive](/domino-c-api-docs/reference/Func/NetReceive)
+[NetCloseSession](/domino-c-api-docs/reference/Func/NetCloseSession)
 ---

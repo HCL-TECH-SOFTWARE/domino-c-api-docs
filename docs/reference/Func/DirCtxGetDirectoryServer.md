@@ -26,5 +26,5 @@ serverName  -  Caller allocated buffer at least MAXDOMAINNAME+1 in size to recei
 
 
 **See Also :**
-[DirCtxGetDomain](/reference/Func/DirCtxGetDomain)
+[DirCtxGetDomain](/domino-c-api-docs/reference/Func/DirCtxGetDomain)
 ---

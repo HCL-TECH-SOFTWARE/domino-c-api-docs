@@ -9,6 +9,6 @@
 This value specifies the maximum number of schedule entries in a note item.
 
 **See Also :**
-[SCHED_ENTRY](/reference/Data/SCHED_ENTRY)
-[SCHED_LIST](/reference/Data/SCHED_LIST)
+[SCHED_ENTRY](/domino-c-api-docs/reference/Data/SCHED_ENTRY)
+[SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)
 ---

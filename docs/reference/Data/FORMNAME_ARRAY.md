@@ -11,5 +11,5 @@ contains a handle to an array of form names (hFormNames).  The handle specifies
 an array of FORMNAME_ARRAY structures.
 
 **See Also :**
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
 ---

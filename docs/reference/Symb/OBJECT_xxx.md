@@ -78,9 +78,9 @@ used with either of the above object types.
 
 ```
 **See Also :**
-[OBJECT_DESCRIPTOR](/reference/Data/OBJECT_DESCRIPTOR)
-[FILEOBJECT](/reference/Data/FILEOBJECT)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFItemAppendObject](/reference/Func/NSFItemAppendObject)
-[NSFDbGetObjectSize](/reference/Func/NSFDbGetObjectSize)
+[OBJECT_DESCRIPTOR](/domino-c-api-docs/reference/Data/OBJECT_DESCRIPTOR)
+[FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)
+[NSFDbGetObjectSize](/domino-c-api-docs/reference/Func/NSFDbGetObjectSize)
 ---

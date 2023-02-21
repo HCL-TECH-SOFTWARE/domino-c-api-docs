@@ -50,8 +50,8 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteDetachFile](/reference/Func/NSFNoteDetachFile)
-[NSFNoteExtractFile](/reference/Func/NSFNoteExtractFile)
-[NSFNoteDecrypt](/reference/Func/NSFNoteDecrypt)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteDetachFile](/domino-c-api-docs/reference/Func/NSFNoteDetachFile)
+[NSFNoteExtractFile](/domino-c-api-docs/reference/Func/NSFNoteExtractFile)
+[NSFNoteDecrypt](/domino-c-api-docs/reference/Func/NSFNoteDecrypt)
 ---

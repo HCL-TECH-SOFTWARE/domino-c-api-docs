@@ -9,5 +9,5 @@
 Option flags set in the CDBITMAPHEADER record.
 
 **See Also :**
-[CDBITMAPHEADER](/reference/Data/CDBITMAPHEADER)
+[CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)
 ---

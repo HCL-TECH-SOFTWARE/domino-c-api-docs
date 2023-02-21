@@ -54,6 +54,6 @@ retBuffer  -   A pointer to a text buffer of length NSF_INFO_SIZE in which the d
 
 ```
 **See Also :**
-[NSFDbInfoSet](/reference/Func/NSFDbInfoSet)
-[NSFDbInfoParse](/reference/Func/NSFDbInfoParse)
+[NSFDbInfoSet](/domino-c-api-docs/reference/Func/NSFDbInfoSet)
+[NSFDbInfoParse](/domino-c-api-docs/reference/Func/NSFDbInfoParse)
 ---

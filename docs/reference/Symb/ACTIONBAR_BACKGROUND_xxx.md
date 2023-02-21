@@ -10,5 +10,5 @@ These values for the wBarBackgroundRepeat member of CDACTIONBAREXT describe the
 repeating pattern of an image selected as an action bar background. 
 
 **See Also :**
-[CDACTIONBAREXT](/reference/Data/CDACTIONBAREXT)
+[CDACTIONBAREXT](/domino-c-api-docs/reference/Data/CDACTIONBAREXT)
 ---

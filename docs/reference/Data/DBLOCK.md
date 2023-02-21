@@ -9,5 +9,5 @@
 This is a handle which identifies a block withing a segment..
 
 **See Also :**
-[DBLOCKID](/reference/Data/DBLOCKID)
+[DBLOCKID](/domino-c-api-docs/reference/Data/DBLOCKID)
 ---

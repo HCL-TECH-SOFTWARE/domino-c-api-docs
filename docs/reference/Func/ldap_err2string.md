@@ -27,5 +27,5 @@ Output :
 
 
 **See Also :**
-[ldap_parse_result](/reference/Func/ldap_parse_result)
+[ldap_parse_result](/domino-c-api-docs/reference/Func/ldap_parse_result)
 ---

@@ -128,11 +128,11 @@ The caller is not responsible for freeing this ID Table. The ID Table is freed w
 
 
 **See Also :**
-[IDCreateTable](/reference/Func/IDCreateTable)
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[NSFDbGetUnreadNoteTable](/reference/Func/NSFDbGetUnreadNoteTable)
-[NSFDbSetUnreadNoteTable](/reference/Func/NSFDbSetUnreadNoteTable)
-[OPEN_xxx (collection)](/reference/Symb/OPEN_xxx (collection))
+[IDCreateTable](/domino-c-api-docs/reference/Func/IDCreateTable)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[NSFDbGetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbGetUnreadNoteTable)
+[NSFDbSetUnreadNoteTable](/domino-c-api-docs/reference/Func/NSFDbSetUnreadNoteTable)
+[OPEN_xxx (collection)](/domino-c-api-docs/reference/Symb/OPEN_xxx (collection))
 ---

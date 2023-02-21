@@ -11,5 +11,5 @@ The internal representation of this structure is EXACTLY the same as a 64-bit
 IEEE floating point number (defined by the Microsoft C compiler as "double").
 
 **See Also :**
-[NUMBER](/reference/Data/NUMBER)
+[NUMBER](/domino-c-api-docs/reference/Data/NUMBER)
 ---

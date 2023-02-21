@@ -56,7 +56,7 @@ rethTables  -  Handle to the memory block containing the mail routing tables.  T
 
 
 **See Also :**
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
-[LOAD_xxx](/reference/Symb/LOAD_xxx)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
+[LOAD_xxx](/domino-c-api-docs/reference/Symb/LOAD_xxx)
 ---

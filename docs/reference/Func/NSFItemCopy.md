@@ -45,8 +45,8 @@ ERR_xxx - STATUS returned from a lower level Notes function called in the action
 
 
 **See Also :**
-[NSFItemScan](/reference/Func/NSFItemScan)
-[NSFItemInfo](/reference/Func/NSFItemInfo)
-[NSFItemInfoNext](/reference/Func/NSFItemInfoNext)
-[NSFItemDelete](/reference/Func/NSFItemDelete)
+[NSFItemScan](/domino-c-api-docs/reference/Func/NSFItemScan)
+[NSFItemInfo](/domino-c-api-docs/reference/Func/NSFItemInfo)
+[NSFItemInfoNext](/domino-c-api-docs/reference/Func/NSFItemInfoNext)
+[NSFItemDelete](/domino-c-api-docs/reference/Func/NSFItemDelete)
 ---

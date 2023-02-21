@@ -9,5 +9,5 @@
 This is the datatype of the action routine passed to NSFSearch.
 
 **See Also :**
-[NSFSearch](/reference/Func/NSFSearch)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
 ---

@@ -68,12 +68,12 @@ can be used to generate a new OID.
 
 ```
 **See Also :**
-[NSFDbGenerateOID](/reference/Func/NSFDbGenerateOID)
-[NSFDbGetNoteInfo](/reference/Func/NSFDbGetNoteInfo)
-[NSFNoteGetInfo](/reference/Func/NSFNoteGetInfo)
-[NSFNoteSetInfo](/reference/Func/NSFNoteSetInfo)
-[OID](/reference/Data/OID)
-[UNID](/reference/Data/UNID)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
-[_NOTE_xxx](/reference/Symb/_NOTE_xxx)
+[NSFDbGenerateOID](/domino-c-api-docs/reference/Func/NSFDbGenerateOID)
+[NSFDbGetNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfo)
+[NSFNoteGetInfo](/domino-c-api-docs/reference/Func/NSFNoteGetInfo)
+[NSFNoteSetInfo](/domino-c-api-docs/reference/Func/NSFNoteSetInfo)
+[OID](/domino-c-api-docs/reference/Data/OID)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
+[_NOTE_xxx](/domino-c-api-docs/reference/Symb/_NOTE_xxx)
 ---

@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[ldap_result](/reference/Func/ldap_result)
+[ldap_result](/domino-c-api-docs/reference/Func/ldap_result)
 ---

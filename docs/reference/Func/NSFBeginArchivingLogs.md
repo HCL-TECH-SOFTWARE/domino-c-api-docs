@@ -39,8 +39,8 @@ ERR_TRANSLOG_ARCHIVE_IN_PROGRESS - Another process is currently archiving logs.
 
 ```
 **See Also :**
-[NSFDoneArchivingLog](/reference/Func/NSFDoneArchivingLog)
-[NSFEndArchivingLogs](/reference/Func/NSFEndArchivingLogs)
-[NSFGetFirstLogToArchive](/reference/Func/NSFGetFirstLogToArchive)
-[NSFGetNextLogToArchive](/reference/Func/NSFGetNextLogToArchive)
+[NSFDoneArchivingLog](/domino-c-api-docs/reference/Func/NSFDoneArchivingLog)
+[NSFEndArchivingLogs](/domino-c-api-docs/reference/Func/NSFEndArchivingLogs)
+[NSFGetFirstLogToArchive](/domino-c-api-docs/reference/Func/NSFGetFirstLogToArchive)
+[NSFGetNextLogToArchive](/domino-c-api-docs/reference/Func/NSFGetNextLogToArchive)
 ---

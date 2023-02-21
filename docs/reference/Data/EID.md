@@ -13,7 +13,7 @@ function is being performed. See EM_xxx for acceptable values for EIDs.
 Incorrect values will return an error from the function EMRegister().
 
 **See Also :**
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EMRECORD](/reference/Data/EMRECORD)
-[EMRegister](/reference/Func/EMRegister)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
+[EMRegister](/domino-c-api-docs/reference/Func/EMRegister)
 ---

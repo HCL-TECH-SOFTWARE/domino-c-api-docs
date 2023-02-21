@@ -62,6 +62,6 @@ retErrorPathName  -  (Optional).  Pathname of file where file system error occur
 
 
 **See Also :**
-[REG_CERTIFIER_INFO](/reference/Data/REG_CERTIFIER_INFO)
-[REG_ID_INFO](/reference/Data/REG_ID_INFO)
+[REG_CERTIFIER_INFO](/domino-c-api-docs/reference/Data/REG_CERTIFIER_INFO)
+[REG_ID_INFO](/domino-c-api-docs/reference/Data/REG_ID_INFO)
 ---

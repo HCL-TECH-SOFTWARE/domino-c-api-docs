@@ -31,6 +31,6 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
 
 
 **See Also :**
-[CompoundTextClose](/reference/Func/CompoundTextClose)
-[CompoundTextCreate](/reference/Func/CompoundTextCreate)
+[CompoundTextClose](/domino-c-api-docs/reference/Func/CompoundTextClose)
+[CompoundTextCreate](/domino-c-api-docs/reference/Func/CompoundTextCreate)
 ---

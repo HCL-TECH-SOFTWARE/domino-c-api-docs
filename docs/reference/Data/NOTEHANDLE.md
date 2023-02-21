@@ -10,6 +10,6 @@ A NOTEHANDLE is the method by which an API program refers to an individual
 note, once the note is opened.
 
 **See Also :**
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
 ---

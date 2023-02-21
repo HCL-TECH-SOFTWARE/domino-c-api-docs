@@ -25,5 +25,5 @@ Output :
 
 
 **See Also :**
-[Berval](/reference/Data/Berval)
+[Berval](/domino-c-api-docs/reference/Data/Berval)
 ---

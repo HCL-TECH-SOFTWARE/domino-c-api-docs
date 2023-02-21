@@ -22,5 +22,5 @@ These fields may be followed by optional items. If you plan to use them, you
 will need to declare the variables and assign values to their lengths.
 
 **See Also :**
-[CDPRETABLEBEGIN](/reference/Data/CDPRETABLEBEGIN)
+[CDPRETABLEBEGIN](/domino-c-api-docs/reference/Data/CDPRETABLEBEGIN)
 ---

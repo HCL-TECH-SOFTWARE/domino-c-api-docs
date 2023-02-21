@@ -34,7 +34,7 @@ ERR_xxx - Other errors returned by this function and includes errors returned by
 
 
 **See Also :**
-[DBHANDLE](/reference/Data/DBHANDLE)
-[DXLEXPORTHANDLE](/reference/Data/DXLEXPORTHANDLE)
-[XML_WRITE_FUNCTION](/reference/Data/XML_WRITE_FUNCTION)
+[DBHANDLE](/domino-c-api-docs/reference/Data/DBHANDLE)
+[DXLEXPORTHANDLE](/domino-c-api-docs/reference/Data/DXLEXPORTHANDLE)
+[XML_WRITE_FUNCTION](/domino-c-api-docs/reference/Data/XML_WRITE_FUNCTION)
 ---

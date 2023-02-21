@@ -25,5 +25,5 @@ ERR_xxx - There are many possible errors. It is best to use the code in a call t
 
 
 **See Also :**
-[Alarm_RefreshAlarms](/reference/Func/Alarm_RefreshAlarms)
+[Alarm_RefreshAlarms](/domino-c-api-docs/reference/Func/Alarm_RefreshAlarms)
 ---

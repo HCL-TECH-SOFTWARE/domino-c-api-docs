@@ -82,5 +82,5 @@ MimeGetExtFromTypeInfo("application",
 
 ```
 **See Also :**
-[MimeGetTypeInfoFromExt](/reference/Func/MimeGetTypeInfoFromExt)
+[MimeGetTypeInfoFromExt](/domino-c-api-docs/reference/Func/MimeGetTypeInfoFromExt)
 ---

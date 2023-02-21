@@ -55,6 +55,6 @@ retSoundexString  -  The address of the text buffer in which the Soundex string 
 
 
 **See Also :**
-[NIFFindByKey](/reference/Func/NIFFindByKey)
-[NIFFindByName](/reference/Func/NIFFindByName)
+[NIFFindByKey](/domino-c-api-docs/reference/Func/NIFFindByKey)
+[NIFFindByName](/domino-c-api-docs/reference/Func/NIFFindByName)
 ---

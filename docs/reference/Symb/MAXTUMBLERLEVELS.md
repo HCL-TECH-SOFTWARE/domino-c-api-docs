@@ -9,5 +9,5 @@
 Maximum tumbler levels in the COLLECTIONPOSITION structure..
 
 **See Also :**
-[COLLECTIONPOSITION](/reference/Data/COLLECTIONPOSITION)
+[COLLECTIONPOSITION](/domino-c-api-docs/reference/Data/COLLECTIONPOSITION)
 ---

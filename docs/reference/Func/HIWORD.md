@@ -21,6 +21,6 @@ Output :
 
 
 **See Also :**
-[LOWORD](/reference/Func/LOWORD)
-[HIBYTE](/reference/Func/HIBYTE)
+[LOWORD](/domino-c-api-docs/reference/Func/LOWORD)
+[HIBYTE](/domino-c-api-docs/reference/Func/HIBYTE)
 ---

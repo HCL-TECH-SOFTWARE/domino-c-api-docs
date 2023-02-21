@@ -15,6 +15,6 @@ a delimited list of items.
 
 
 **See Also :**
-[TYPE_xxx](/reference/Symb/TYPE_xxx)
-[TYPE_xxx [TEXT_LIST]](/reference/Symb/TYPE_xxx [TEXT_LIST])
+[TYPE_xxx](/domino-c-api-docs/reference/Symb/TYPE_xxx)
+[TYPE_xxx [TEXT_LIST]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TEXT_LIST])
 ---

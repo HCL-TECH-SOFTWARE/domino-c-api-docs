@@ -11,8 +11,8 @@ the description for MIMEStreamOpen, MIMEStreamRead, MIMEStreamWrite, et al for
 more information.
 
 **See Also :**
-[MIMEStreamClose](/reference/Func/MIMEStreamClose)
-[MIMEStreamOpen](/reference/Func/MIMEStreamOpen)
-[MIMEStreamRead](/reference/Func/MIMEStreamRead)
-[MIMEStreamWrite](/reference/Func/MIMEStreamWrite)
+[MIMEStreamClose](/domino-c-api-docs/reference/Func/MIMEStreamClose)
+[MIMEStreamOpen](/domino-c-api-docs/reference/Func/MIMEStreamOpen)
+[MIMEStreamRead](/domino-c-api-docs/reference/Func/MIMEStreamRead)
+[MIMEStreamWrite](/domino-c-api-docs/reference/Func/MIMEStreamWrite)
 ---

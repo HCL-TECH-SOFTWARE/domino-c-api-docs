@@ -12,6 +12,6 @@ VIEW_CALENDAR_FORMAT_ITEM, which is an item in a calendar view note.  The
 structure is the same as the VIEW_FORMAT_HEADER structure.
 
 **See Also :**
-[VIEW_FORMAT_HEADER](/reference/Data/VIEW_FORMAT_HEADER)
-[VIEW_CALENDAR_FORMAT](/reference/Data/VIEW_CALENDAR_FORMAT)
+[VIEW_FORMAT_HEADER](/domino-c-api-docs/reference/Data/VIEW_FORMAT_HEADER)
+[VIEW_CALENDAR_FORMAT](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT)
 ---

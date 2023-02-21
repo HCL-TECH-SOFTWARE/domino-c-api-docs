@@ -18,8 +18,8 @@ typedef STATUS (LNCALLBACKPTR NSFSEARCHPROC) (
    ITEM_TABLE    far * SummaryBuffer);
 ```
 **See Also :**
-[LNCALLBACK](/reference/Data/LNCALLBACK)
-[LNCALLBACKPTR](/reference/Data/LNCALLBACKPTR)
-[NOTESCALLBACK](/reference/Data/NOTESCALLBACK)
-[NOTESCALLBACKPTR](/reference/Data/NOTESCALLBACKPTR)
+[LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
+[LNCALLBACKPTR](/domino-c-api-docs/reference/Data/LNCALLBACKPTR)
+[NOTESCALLBACK](/domino-c-api-docs/reference/Data/NOTESCALLBACK)
+[NOTESCALLBACKPTR](/domino-c-api-docs/reference/Data/NOTESCALLBACKPTR)
 ---

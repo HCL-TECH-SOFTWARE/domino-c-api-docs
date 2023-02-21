@@ -14,5 +14,5 @@ the same definition of MAXPATH in Release 3 and earlier.  The MAXPATH
 definition in Release 4 and later release is 256 for all platforms.
 
 **See Also :**
-[MAXPATH](/reference/Symb/MAXPATH)
+[MAXPATH](/domino-c-api-docs/reference/Symb/MAXPATH)
 ---

@@ -48,8 +48,8 @@ ErrorServer  -  If no route to the specified destination domain is found, the nu
 
 
 **See Also :**
-[MailFindNextHopToDomainExt](/reference/Func/MailFindNextHopToDomainExt)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
-[NEXTHOP_xxx (Output)](/reference/Symb/NEXTHOP_xxx (Output))
+[MailFindNextHopToDomainExt](/domino-c-api-docs/reference/Func/MailFindNextHopToDomainExt)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
+[NEXTHOP_xxx (Output)](/domino-c-api-docs/reference/Symb/NEXTHOP_xxx (Output))
 ---

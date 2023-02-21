@@ -54,8 +54,8 @@ Output :
 
 
 **See Also :**
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInLogMessage](/reference/Func/AddInLogMessage)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInLogMessage](/domino-c-api-docs/reference/Func/AddInLogMessage)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
 ---

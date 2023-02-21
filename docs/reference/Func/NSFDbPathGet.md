@@ -48,9 +48,9 @@ For a remotely accessed database located on a Lotus Domino Server, the expanded 
 
 ```
 **See Also :**
-[NSFDbLocateByReplicaID](/reference/Func/NSFDbLocateByReplicaID)
-[NSFDbOpen](/reference/Func/NSFDbOpen)
-[NSFDbOpenExtended](/reference/Func/NSFDbOpenExtended)
-[OSPathNetConstruct](/reference/Func/OSPathNetConstruct)
-[OSPathNetParse](/reference/Func/OSPathNetParse)
+[NSFDbLocateByReplicaID](/domino-c-api-docs/reference/Func/NSFDbLocateByReplicaID)
+[NSFDbOpen](/domino-c-api-docs/reference/Func/NSFDbOpen)
+[NSFDbOpenExtended](/domino-c-api-docs/reference/Func/NSFDbOpenExtended)
+[OSPathNetConstruct](/domino-c-api-docs/reference/Func/OSPathNetConstruct)
+[OSPathNetParse](/domino-c-api-docs/reference/Func/OSPathNetParse)
 ---

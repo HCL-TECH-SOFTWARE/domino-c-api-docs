@@ -58,6 +58,6 @@ retwFileVersion  -  Pointer to the returned version of the certifier.
 
 
 **See Also :**
-[NSFNoteCipherDecrypt](/reference/Func/NSFNoteCipherDecrypt)
-[NSFNoteCipherExtractFile](/reference/Func/NSFNoteCipherExtractFile)
+[NSFNoteCipherDecrypt](/domino-c-api-docs/reference/Func/NSFNoteCipherDecrypt)
+[NSFNoteCipherExtractFile](/domino-c-api-docs/reference/Func/NSFNoteCipherExtractFile)
 ---

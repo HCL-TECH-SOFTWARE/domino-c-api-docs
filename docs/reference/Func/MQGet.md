@@ -47,14 +47,14 @@ retMsgLength  -  The number of bytes written to the buffer.
 
 
 **See Also :**
-[MQClose](/reference/Func/MQClose)
-[MQCreate](/reference/Func/MQCreate)
-[MQHANDLE](/reference/Data/MQHANDLE)
-[MQIsQuitPending](/reference/Func/MQIsQuitPending)
-[MQOpen](/reference/Func/MQOpen)
-[MQPut](/reference/Func/MQPut)
-[MQPutQuitMsg](/reference/Func/MQPutQuitMsg)
-[MQScan](/reference/Func/MQScan)
-[MQSCAN_CALLBACK](/reference/Data/MQSCAN_CALLBACK)
-[MQ_xxx (Get)](/reference/Symb/MQ_xxx (Get))
+[MQClose](/domino-c-api-docs/reference/Func/MQClose)
+[MQCreate](/domino-c-api-docs/reference/Func/MQCreate)
+[MQHANDLE](/domino-c-api-docs/reference/Data/MQHANDLE)
+[MQIsQuitPending](/domino-c-api-docs/reference/Func/MQIsQuitPending)
+[MQOpen](/domino-c-api-docs/reference/Func/MQOpen)
+[MQPut](/domino-c-api-docs/reference/Func/MQPut)
+[MQPutQuitMsg](/domino-c-api-docs/reference/Func/MQPutQuitMsg)
+[MQScan](/domino-c-api-docs/reference/Func/MQScan)
+[MQSCAN_CALLBACK](/domino-c-api-docs/reference/Data/MQSCAN_CALLBACK)
+[MQ_xxx (Get)](/domino-c-api-docs/reference/Symb/MQ_xxx (Get))
 ---

@@ -9,6 +9,6 @@
 NULLBER is an empty pointer to a BerElement, defined as: ((BerElement *) 0).
 
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[ber_alloc_t](/reference/Func/ber_alloc_t)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[ber_alloc_t](/domino-c-api-docs/reference/Func/ber_alloc_t)
 ---

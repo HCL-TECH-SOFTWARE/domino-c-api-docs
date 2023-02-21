@@ -22,8 +22,8 @@ The value is stored as a text list, beginning with the type word containing
 TYPE_TEXT_LIST.
 
 **See Also :**
-[ACTIONBYFIELD_OP_xxx](/reference/Symb/ACTIONBYFIELD_OP_xxx)
-[CDACTIONBYFORM](/reference/Data/CDACTIONBYFORM)
-[QUERYBYFIELD_OP_xxx](/reference/Symb/QUERYBYFIELD_OP_xxx)
-[CDQUERYBYFORM](/reference/Data/CDQUERYBYFORM)
+[ACTIONBYFIELD_OP_xxx](/domino-c-api-docs/reference/Symb/ACTIONBYFIELD_OP_xxx)
+[CDACTIONBYFORM](/domino-c-api-docs/reference/Data/CDACTIONBYFORM)
+[QUERYBYFIELD_OP_xxx](/domino-c-api-docs/reference/Symb/QUERYBYFIELD_OP_xxx)
+[CDQUERYBYFORM](/domino-c-api-docs/reference/Data/CDQUERYBYFORM)
 ---

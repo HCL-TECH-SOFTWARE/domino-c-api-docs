@@ -10,5 +10,5 @@ This is the maximum size of the clientname of the client which wants to
 register itself to receive alarms.
 
 **See Also :**
-[Alarm_RegisterInterest](/reference/Func/Alarm_RegisterInterest)
+[Alarm_RegisterInterest](/domino-c-api-docs/reference/Func/Alarm_RegisterInterest)
 ---

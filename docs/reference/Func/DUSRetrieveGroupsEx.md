@@ -54,5 +54,5 @@ pRetGroupEntrySize  -  Pointer to the size of the DUS_ENTRY structure.
 
 
 **See Also :**
-[DUSRetrieveGroups](/reference/Func/DUSRetrieveGroups)
+[DUSRetrieveGroups](/domino-c-api-docs/reference/Func/DUSRetrieveGroups)
 ---

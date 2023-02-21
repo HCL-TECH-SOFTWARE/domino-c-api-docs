@@ -24,5 +24,5 @@ ERR_xxx - STATUS returned from a lower level Notes function.  This value can be 
 
 
 **See Also :**
-[NSFNoteSign](/reference/Func/NSFNoteSign)
+[NSFNoteSign](/domino-c-api-docs/reference/Func/NSFNoteSign)
 ---

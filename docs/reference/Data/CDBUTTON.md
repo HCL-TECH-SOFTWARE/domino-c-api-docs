@@ -30,7 +30,7 @@ host/canonical conversion on structures of this type when accessing these
 records in an item in a note.
 
 **See Also :**
-[BUTTON_xxx](/reference/Symb/BUTTON_xxx)
-[CDDATAFLAGS](/reference/Data/CDDATAFLAGS)
-[ONEINCH](/reference/Symb/ONEINCH)
+[BUTTON_xxx](/domino-c-api-docs/reference/Symb/BUTTON_xxx)
+[CDDATAFLAGS](/domino-c-api-docs/reference/Data/CDDATAFLAGS)
+[ONEINCH](/domino-c-api-docs/reference/Symb/ONEINCH)
 ---

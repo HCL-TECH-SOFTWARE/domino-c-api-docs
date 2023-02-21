@@ -32,7 +32,7 @@ Output :
 
 
 **See Also :**
-[BerElement](/reference/Data/BerElement)
-[ber_peek_tag](/reference/Func/ber_peek_tag)
-[ber_tag_t](/reference/Data/ber_tag_t)
+[BerElement](/domino-c-api-docs/reference/Data/BerElement)
+[ber_peek_tag](/domino-c-api-docs/reference/Func/ber_peek_tag)
+[ber_tag_t](/domino-c-api-docs/reference/Data/ber_tag_t)
 ---

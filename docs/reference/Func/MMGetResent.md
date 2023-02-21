@@ -29,6 +29,6 @@ bSupportResent = MMGetResent(hCC);
 
 ```
 **See Also :**
-[CCHANDLE](/reference/Data/CCHANDLE)
-[MMSetResent](/reference/Func/MMSetResent)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
+[MMSetResent](/domino-c-api-docs/reference/Func/MMSetResent)
 ---

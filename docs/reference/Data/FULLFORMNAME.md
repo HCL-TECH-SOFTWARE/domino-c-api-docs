@@ -11,5 +11,5 @@ contains a handle to an array of full form names that include include synonyms
 (hFormNamesFull).  The handle specifies an array of FULLFORMNAME structures.
 
 **See Also :**
-[VIEWIXDATA](/reference/Data/VIEWIXDATA)
+[VIEWIXDATA](/domino-c-api-docs/reference/Data/VIEWIXDATA)
 ---

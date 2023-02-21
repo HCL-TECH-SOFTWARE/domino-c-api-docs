@@ -10,5 +10,5 @@ These are the possible return values for the entry point of a Notes menu add-in
 program.
 
 **See Also :**
-[NAMM_xxx](/reference/Symb/NAMM_xxx)
+[NAMM_xxx](/domino-c-api-docs/reference/Symb/NAMM_xxx)
 ---

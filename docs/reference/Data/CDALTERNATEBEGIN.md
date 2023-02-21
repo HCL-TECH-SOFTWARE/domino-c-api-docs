@@ -26,6 +26,6 @@ DataLength Currently unused;  must be 0
 
 
 **See Also :**
-[CDALTERNATEEND](/reference/Data/CDALTERNATEEND)
-[ACTIVEOBJECT_TYPE_xxx](/reference/Symb/ACTIVEOBJECT_TYPE_xxx)
+[CDALTERNATEEND](/domino-c-api-docs/reference/Data/CDALTERNATEEND)
+[ACTIVEOBJECT_TYPE_xxx](/domino-c-api-docs/reference/Symb/ACTIVEOBJECT_TYPE_xxx)
 ---

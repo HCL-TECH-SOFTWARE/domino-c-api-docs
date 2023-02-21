@@ -64,9 +64,9 @@ Output :
 
 ```
 **See Also :**
-[AddInSetStatusText](/reference/Func/AddInSetStatusText)
-[AddInMain](/reference/Func/AddInMain)
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInLogMsg](/reference/Func/AddInLogMsg)
+[AddInSetStatusText](/domino-c-api-docs/reference/Func/AddInSetStatusText)
+[AddInMain](/domino-c-api-docs/reference/Func/AddInMain)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInLogMsg](/domino-c-api-docs/reference/Func/AddInLogMsg)
 ---

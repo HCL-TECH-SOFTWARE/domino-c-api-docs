@@ -9,5 +9,5 @@
 This specifies where output from the LotusScript "print" statement will go.
 
 **See Also :**
-[AgentRedirectStdout](/reference/Func/AgentRedirectStdout)
+[AgentRedirectStdout](/domino-c-api-docs/reference/Func/AgentRedirectStdout)
 ---

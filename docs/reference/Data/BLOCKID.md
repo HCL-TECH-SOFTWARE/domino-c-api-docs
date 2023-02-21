@@ -77,8 +77,8 @@ memory block:
     }
 ```
 **See Also :**
-[OSLockBlock](/reference/Func/OSLockBlock)
-[OSUnlockBlock](/reference/Func/OSUnlockBlock)
-[OSSwitchBlock](/reference/Func/OSSwitchBlock)
-[ISNULLBLOCKID](/reference/Func/ISNULLBLOCKID)
+[OSLockBlock](/domino-c-api-docs/reference/Func/OSLockBlock)
+[OSUnlockBlock](/domino-c-api-docs/reference/Func/OSUnlockBlock)
+[OSSwitchBlock](/domino-c-api-docs/reference/Func/OSSwitchBlock)
+[ISNULLBLOCKID](/domino-c-api-docs/reference/Func/ISNULLBLOCKID)
 ---

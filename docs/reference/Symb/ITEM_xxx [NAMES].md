@@ -37,7 +37,7 @@ STATUS LNPUBLIC AppendUpdatedByItem (NOTEHANDLE hNote, char * szAuthor)
 }
 ```
 **See Also :**
-[ITEM_xxx](/reference/Symb/ITEM_xxx)
-[ITEM_xxx [READERS]](/reference/Symb/ITEM_xxx [READERS])
-[ITEM_xxx [READWRITERS]](/reference/Symb/ITEM_xxx [READWRITERS])
+[ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
+[ITEM_xxx [READERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READERS])
+[ITEM_xxx [READWRITERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READWRITERS])
 ---

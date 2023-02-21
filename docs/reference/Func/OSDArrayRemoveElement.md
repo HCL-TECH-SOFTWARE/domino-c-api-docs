@@ -41,7 +41,7 @@ index = pArray->ElementsUsed / 2;
 status = OSDArrayRemoveElement (hArray, &pArray, index);
 ```
 **See Also :**
-[DARRAY](/reference/Data/DARRAY)
-[OSDArrayAddElement](/reference/Func/OSDArrayAddElement)
-[OSDArrayAlloc](/reference/Func/OSDArrayAlloc)
+[DARRAY](/domino-c-api-docs/reference/Data/DARRAY)
+[OSDArrayAddElement](/domino-c-api-docs/reference/Func/OSDArrayAddElement)
+[OSDArrayAlloc](/domino-c-api-docs/reference/Func/OSDArrayAlloc)
 ---

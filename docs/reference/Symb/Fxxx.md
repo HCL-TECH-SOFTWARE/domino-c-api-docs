@@ -10,5 +10,5 @@ Defines the flags that may be set in the Flags member of the CDFIELD data
 structure.
 
 **See Also :**
-[CDFIELD](/reference/Data/CDFIELD)
+[CDFIELD](/domino-c-api-docs/reference/Data/CDFIELD)
 ---

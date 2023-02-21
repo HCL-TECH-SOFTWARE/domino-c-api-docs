@@ -9,5 +9,5 @@
 The default LDAP port (389).
 
 **See Also :**
-[ldap_open](/reference/Func/ldap_open)
+[ldap_open](/domino-c-api-docs/reference/Func/ldap_open)
 ---

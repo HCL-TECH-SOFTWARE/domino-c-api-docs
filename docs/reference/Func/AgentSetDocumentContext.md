@@ -44,6 +44,6 @@ ERR_xxx - STATUS returned from a lower-level function call.
 
 
 **See Also :**
-[AgentCreateRunContext](/reference/Func/AgentCreateRunContext)
-[HAGENTCTX](/reference/Data/HAGENTCTX)
+[AgentCreateRunContext](/domino-c-api-docs/reference/Func/AgentCreateRunContext)
+[HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
 ---

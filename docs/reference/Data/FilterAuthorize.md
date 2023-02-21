@@ -27,5 +27,5 @@ isAuthorized - (Output)  Set to 1 if the user is granted access to the
 resource, 0 otherwise.
 
 **See Also :**
-[EventFlags](/reference/Data/EventFlags)
+[EventFlags](/domino-c-api-docs/reference/Data/EventFlags)
 ---

@@ -57,10 +57,10 @@ retTextLength  -  The address of a WORD in which the size of the text list entry
 
 ```
 **See Also :**
-[ListAllocate](/reference/Func/ListAllocate)
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAddText](/reference/Func/ListAddText)
-[ListRemoveEntry](/reference/Func/ListRemoveEntry)
-[ListGetSize](/reference/Func/ListGetSize)
-[ListGetNumEntries](/reference/Func/ListGetNumEntries)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAddText](/domino-c-api-docs/reference/Func/ListAddText)
+[ListRemoveEntry](/domino-c-api-docs/reference/Func/ListRemoveEntry)
+[ListGetSize](/domino-c-api-docs/reference/Func/ListGetSize)
+[ListGetNumEntries](/domino-c-api-docs/reference/Func/ListGetNumEntries)
 ---

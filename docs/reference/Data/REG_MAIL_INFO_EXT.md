@@ -34,10 +34,10 @@ pReserved    Reserved - must be NULL.
 
 
 **See Also :**
-[ListAddEntry](/reference/Func/ListAddEntry)
-[ListAllocate](/reference/Func/ListAllocate)
-[READ_MASK_xxx](/reference/Symb/READ_MASK_xxx)
-[REGNewPerson](/reference/Func/REGNewPerson)
-[REG_FILE_DUP_xxx](/reference/Symb/REG_FILE_DUP_xxx)
-[REG_MAIL_OWNER_ACL_xxx](/reference/Symb/REG_MAIL_OWNER_ACL_xxx)
+[ListAddEntry](/domino-c-api-docs/reference/Func/ListAddEntry)
+[ListAllocate](/domino-c-api-docs/reference/Func/ListAllocate)
+[READ_MASK_xxx](/domino-c-api-docs/reference/Symb/READ_MASK_xxx)
+[REGNewPerson](/domino-c-api-docs/reference/Func/REGNewPerson)
+[REG_FILE_DUP_xxx](/domino-c-api-docs/reference/Symb/REG_FILE_DUP_xxx)
+[REG_MAIL_OWNER_ACL_xxx](/domino-c-api-docs/reference/Symb/REG_MAIL_OWNER_ACL_xxx)
 ---

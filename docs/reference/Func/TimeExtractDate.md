@@ -22,5 +22,5 @@ Output :
 
 
 **See Also :**
-[TimeConstruct](/reference/Func/TimeConstruct)
+[TimeConstruct](/domino-c-api-docs/reference/Func/TimeConstruct)
 ---

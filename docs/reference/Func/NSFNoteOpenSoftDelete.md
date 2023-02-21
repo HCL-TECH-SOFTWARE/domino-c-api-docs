@@ -43,7 +43,7 @@ rethNote  -  The address of a NOTEHANDLE in which the handle of the opened "soft
 
 
 **See Also :**
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteUpdate](/reference/Func/NSFNoteUpdate)
-[NSFNoteUpdateExtended](/reference/Func/NSFNoteUpdateExtended)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteUpdate](/domino-c-api-docs/reference/Func/NSFNoteUpdate)
+[NSFNoteUpdateExtended](/domino-c-api-docs/reference/Func/NSFNoteUpdateExtended)
 ---

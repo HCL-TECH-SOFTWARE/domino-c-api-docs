@@ -11,5 +11,5 @@ Domino and Notes can identify changes in the record structure and interpret the
 data to preserve binary compatibility.
 
 **See Also :**
-[VIEWMAP_DATASET_RECORD](/reference/Data/VIEWMAP_DATASET_RECORD)
+[VIEWMAP_DATASET_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_DATASET_RECORD)
 ---

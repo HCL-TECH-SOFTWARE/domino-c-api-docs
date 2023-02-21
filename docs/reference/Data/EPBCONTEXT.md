@@ -25,7 +25,7 @@ error = EditorPrintNoteToBitmap(hSourceDB,
 
 ```
 **See Also :**
-[EditorPrintNoteToBitmap](/reference/Func/EditorPrintNoteToBitmap)
-[HPAINT](/reference/Data/HPAINT)
-[RECTSIZE](/reference/Data/RECTSIZE)
+[EditorPrintNoteToBitmap](/domino-c-api-docs/reference/Func/EditorPrintNoteToBitmap)
+[HPAINT](/domino-c-api-docs/reference/Data/HPAINT)
+[RECTSIZE](/domino-c-api-docs/reference/Data/RECTSIZE)
 ---

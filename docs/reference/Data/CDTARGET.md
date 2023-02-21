@@ -22,5 +22,5 @@ CDTARGET structure.  If no flags are specified, then the data following the
 CDTARGET record is a character string containing the name of the target frame.
 
 **See Also :**
-[FLAG_TARGET_xxx](/reference/Symb/FLAG_TARGET_xxx)
+[FLAG_TARGET_xxx](/domino-c-api-docs/reference/Symb/FLAG_TARGET_xxx)
 ---

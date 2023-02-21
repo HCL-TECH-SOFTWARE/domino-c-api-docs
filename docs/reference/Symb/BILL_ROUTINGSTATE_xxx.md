@@ -11,6 +11,6 @@ messages.  The value of this item follows the description of each
 (non-delivery) symbol above.
 
 **See Also :**
-[MAILREC](/reference/Data/MAILREC)
-[MAIL_xxx_ITEM_NUM(1)](/reference/Symb/MAIL_xxx_ITEM_NUM(1))
+[MAILREC](/domino-c-api-docs/reference/Data/MAILREC)
+[MAIL_xxx_ITEM_NUM(1)](/domino-c-api-docs/reference/Symb/MAIL_xxx_ITEM_NUM(1))
 ---

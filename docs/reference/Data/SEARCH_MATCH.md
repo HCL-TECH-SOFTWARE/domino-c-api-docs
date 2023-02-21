@@ -58,6 +58,6 @@ STATUS LNPUBLIC ReadSummaryData
     printf ("\nNote ID is: %#010lx.\n", SearchMatch.ID.NoteID);
 ```
 **See Also :**
-[NSFSearch](/reference/Func/NSFSearch)
-[SEARCH_xxx](/reference/Symb/SEARCH_xxx)
+[NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)
+[SEARCH_xxx](/domino-c-api-docs/reference/Symb/SEARCH_xxx)
 ---

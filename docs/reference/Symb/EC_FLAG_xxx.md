@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[CDEMBEDDEDCTL](/reference/Data/CDEMBEDDEDCTL)
-[EC_DIALOGUNITS](/reference/Func/EC_DIALOGUNITS)
-[EC_FITTOCONTENTS](/reference/Func/EC_FITTOCONTENTS)
+[CDEMBEDDEDCTL](/domino-c-api-docs/reference/Data/CDEMBEDDEDCTL)
+[EC_DIALOGUNITS](/domino-c-api-docs/reference/Func/EC_DIALOGUNITS)
+[EC_FITTOCONTENTS](/domino-c-api-docs/reference/Func/EC_FITTOCONTENTS)
 ---

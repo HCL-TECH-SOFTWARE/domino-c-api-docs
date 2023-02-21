@@ -12,6 +12,6 @@ maximum number of characters in the name, then the symbol minus 1 should be
 used.
 
 **See Also :**
-[MailGetDomainName](/reference/Func/MailGetDomainName)
-[MailGetMessageOriginatorDomain](/reference/Func/MailGetMessageOriginatorDomain)
+[MailGetDomainName](/domino-c-api-docs/reference/Func/MailGetDomainName)
+[MailGetMessageOriginatorDomain](/domino-c-api-docs/reference/Func/MailGetMessageOriginatorDomain)
 ---

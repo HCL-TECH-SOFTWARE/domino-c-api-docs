@@ -104,8 +104,8 @@ return Status;
 ...
 ```
 **See Also :**
-[NLS_load_charset](/reference/Func/NLS_load_charset)
-[CompoundTextAddTextExt](/reference/Func/CompoundTextAddTextExt)
-[CompoundTextDefineStyle](/reference/Func/CompoundTextDefineStyle)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
+[NLS_load_charset](/domino-c-api-docs/reference/Func/NLS_load_charset)
+[CompoundTextAddTextExt](/domino-c-api-docs/reference/Func/CompoundTextAddTextExt)
+[CompoundTextDefineStyle](/domino-c-api-docs/reference/Func/CompoundTextDefineStyle)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
 ---

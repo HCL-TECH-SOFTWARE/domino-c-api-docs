@@ -54,9 +54,9 @@ NextHopFlags  -  Additional flags describing the next hop server.  If NEXTHOP_IN
 
 
 **See Also :**
-[MailFindNextHopToRecipient](/reference/Func/MailFindNextHopToRecipient)
-[MailLoadRoutingTables](/reference/Func/MailLoadRoutingTables)
-[MailReloadRoutingTables](/reference/Func/MailReloadRoutingTables)
-[MailUnloadRoutingTables](/reference/Func/MailUnloadRoutingTables)
-[MAIL_LOOKUP_xxx](/reference/Symb/MAIL_LOOKUP_xxx)
+[MailFindNextHopToRecipient](/domino-c-api-docs/reference/Func/MailFindNextHopToRecipient)
+[MailLoadRoutingTables](/domino-c-api-docs/reference/Func/MailLoadRoutingTables)
+[MailReloadRoutingTables](/domino-c-api-docs/reference/Func/MailReloadRoutingTables)
+[MailUnloadRoutingTables](/domino-c-api-docs/reference/Func/MailUnloadRoutingTables)
+[MAIL_LOOKUP_xxx](/domino-c-api-docs/reference/Symb/MAIL_LOOKUP_xxx)
 ---

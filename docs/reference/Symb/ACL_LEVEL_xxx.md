@@ -10,11 +10,11 @@ Access Control Level symbols used to qualify user or server access to a given
 Domino database.
 
 **See Also :**
-[SECKFMUserInfo](/reference/Func/SECKFMUserInfo)
-[MAXUSERNAME](/reference/Symb/MAXUSERNAME)
-[LICENSEID](/reference/Data/LICENSEID)
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
-[ACLAddEntry](/reference/Func/ACLAddEntry)
-[ACLUpdateEntry](/reference/Func/ACLUpdateEntry)
-[ACLEnumEntries](/reference/Func/ACLEnumEntries)
+[SECKFMUserInfo](/domino-c-api-docs/reference/Func/SECKFMUserInfo)
+[MAXUSERNAME](/domino-c-api-docs/reference/Symb/MAXUSERNAME)
+[LICENSEID](/domino-c-api-docs/reference/Data/LICENSEID)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
+[ACLAddEntry](/domino-c-api-docs/reference/Func/ACLAddEntry)
+[ACLUpdateEntry](/domino-c-api-docs/reference/Func/ACLUpdateEntry)
+[ACLEnumEntries](/domino-c-api-docs/reference/Func/ACLEnumEntries)
 ---

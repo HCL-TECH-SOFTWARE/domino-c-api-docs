@@ -23,6 +23,6 @@ Output :
 
 
 **See Also :**
-[HTMLCreateConverter](/reference/Func/HTMLCreateConverter)
-[HTMLHANDLE](/reference/Data/HTMLHANDLE)
+[HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
+[HTMLHANDLE](/domino-c-api-docs/reference/Data/HTMLHANDLE)
 ---

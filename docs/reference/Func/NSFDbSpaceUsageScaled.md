@@ -40,5 +40,5 @@ retGranularity  -  Pointer to the granularity size of the database.
 
 
 **See Also :**
-[NSFDbSpaceUsage](/reference/Func/NSFDbSpaceUsage)
+[NSFDbSpaceUsage](/domino-c-api-docs/reference/Func/NSFDbSpaceUsage)
 ---

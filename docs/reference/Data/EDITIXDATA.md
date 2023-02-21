@@ -17,8 +17,8 @@ the cursor when the Notes user selected the menu add-in's item from the Tools
 menu.  See FIELD_TYPE_xxx for the values for CaretFieldType.
 
 **See Also :**
-[NAM_CONTEXT_DATA](/reference/Data/NAM_CONTEXT_DATA)
-[EDITIMPORTDATA](/reference/Data/EDITIMPORTDATA)
-[EDITEXPORTDATA](/reference/Data/EDITEXPORTDATA)
-[FIELD_TYPE_xxx](/reference/Symb/FIELD_TYPE_xxx)
+[NAM_CONTEXT_DATA](/domino-c-api-docs/reference/Data/NAM_CONTEXT_DATA)
+[EDITIMPORTDATA](/domino-c-api-docs/reference/Data/EDITIMPORTDATA)
+[EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
+[FIELD_TYPE_xxx](/domino-c-api-docs/reference/Symb/FIELD_TYPE_xxx)
 ---

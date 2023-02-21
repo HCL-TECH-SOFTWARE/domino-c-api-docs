@@ -27,7 +27,7 @@ rethSearch  -  Pointer to returned search handle to be passed into FTSearch.  Th
 
 
 **See Also :**
-[FTCloseSearch](/reference/Func/FTCloseSearch)
-[FTSearch](/reference/Func/FTSearch)
-[FTSearchExt](/reference/Func/FTSearchExt)
+[FTCloseSearch](/domino-c-api-docs/reference/Func/FTCloseSearch)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FTSearchExt](/domino-c-api-docs/reference/Func/FTSearchExt)
 ---

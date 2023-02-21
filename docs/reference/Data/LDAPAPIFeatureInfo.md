@@ -38,7 +38,7 @@ ldapaif_version  - This field will be set as a result of calling
 ldap_get_option with the LDAP_OPT_API_FEATURE_INFO option.
 
 **See Also :**
-[LDAPAPIInfo](/reference/Data/LDAPAPIInfo)
-[ldap_get_option](/reference/Func/ldap_get_option)
-[LDAP_xxx_INFO_VERSION](/reference/Symb/LDAP_xxx_INFO_VERSION)
+[LDAPAPIInfo](/domino-c-api-docs/reference/Data/LDAPAPIInfo)
+[ldap_get_option](/domino-c-api-docs/reference/Func/ldap_get_option)
+[LDAP_xxx_INFO_VERSION](/domino-c-api-docs/reference/Symb/LDAP_xxx_INFO_VERSION)
 ---

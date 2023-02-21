@@ -99,7 +99,7 @@ NSFNoteClose(hnote1);
 NSFDbClose(hDb);
 ```
 **See Also :**
-[NSFCipherDestroy](/reference/Func/NSFCipherDestroy)
-[NSFNoteAttachFile](/reference/Func/NSFNoteAttachFile)
-[NSFNoteCopyAndEncrypt](/reference/Func/NSFNoteCopyAndEncrypt)
+[NSFCipherDestroy](/domino-c-api-docs/reference/Func/NSFCipherDestroy)
+[NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
+[NSFNoteCopyAndEncrypt](/domino-c-api-docs/reference/Func/NSFNoteCopyAndEncrypt)
 ---

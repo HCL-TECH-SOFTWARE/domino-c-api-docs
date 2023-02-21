@@ -49,13 +49,13 @@ aap  -  The address of the variable argument list element.
 
 
 **See Also :**
-[EMHANDLER](/reference/Data/EMHANDLER)
-[EMRECORD](/reference/Data/EMRECORD)
-[VARARG_COPY](/reference/Func/VARARG_COPY)
-[VARARG_DEREF](/reference/Func/VARARG_DEREF)
-[VARARG_GET](/reference/Func/VARARG_GET)
-[VARARG_PEEK](/reference/Func/VARARG_PEEK)
-[VARARG_PTR](/reference/Data/VARARG_PTR)
-[VARARG_PTR_P](/reference/Data/VARARG_PTR_P)
-[VARARG_START](/reference/Func/VARARG_START)
+[EMHANDLER](/domino-c-api-docs/reference/Data/EMHANDLER)
+[EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)
+[VARARG_COPY](/domino-c-api-docs/reference/Func/VARARG_COPY)
+[VARARG_DEREF](/domino-c-api-docs/reference/Func/VARARG_DEREF)
+[VARARG_GET](/domino-c-api-docs/reference/Func/VARARG_GET)
+[VARARG_PEEK](/domino-c-api-docs/reference/Func/VARARG_PEEK)
+[VARARG_PTR](/domino-c-api-docs/reference/Data/VARARG_PTR)
+[VARARG_PTR_P](/domino-c-api-docs/reference/Data/VARARG_PTR_P)
+[VARARG_START](/domino-c-api-docs/reference/Func/VARARG_START)
 ---

@@ -44,5 +44,5 @@ hEntry  -  If non-NULL on input, this indicates that a Person entry in a non-Dom
 
 
 **See Also :**
-[DirEntryUpdate](/reference/Func/DirEntryUpdate)
+[DirEntryUpdate](/domino-c-api-docs/reference/Func/DirEntryUpdate)
 ---

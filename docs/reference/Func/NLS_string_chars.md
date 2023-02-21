@@ -34,8 +34,8 @@ pNumChars  -  A pointer to a WORD containing the number of characters in the str
 
 
 **See Also :**
-[NLS_INFO](/reference/Data/NLS_INFO)
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[NLS_string_bytes](/reference/Func/NLS_string_bytes)
-[OSGetLMBCSCLS](/reference/Func/OSGetLMBCSCLS)
+[NLS_INFO](/domino-c-api-docs/reference/Data/NLS_INFO)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[NLS_string_bytes](/domino-c-api-docs/reference/Func/NLS_string_bytes)
+[OSGetLMBCSCLS](/domino-c-api-docs/reference/Func/OSGetLMBCSCLS)
 ---

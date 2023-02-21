@@ -39,9 +39,9 @@ is followed by another #define.
 
 ```
 **See Also :**
-[AddInFormatError](/reference/Func/AddInFormatError)
-[AddInLogError](/reference/Func/AddInLogError)
-[AddInSetStatus](/reference/Func/AddInSetStatus)
-[PKG_xxx [ADDIN]](/reference/Symb/PKG_xxx [ADDIN])
-[OSLoadString](/reference/Func/OSLoadString)
+[AddInFormatError](/domino-c-api-docs/reference/Func/AddInFormatError)
+[AddInLogError](/domino-c-api-docs/reference/Func/AddInLogError)
+[AddInSetStatus](/domino-c-api-docs/reference/Func/AddInSetStatus)
+[PKG_xxx [ADDIN]](/domino-c-api-docs/reference/Symb/PKG_xxx [ADDIN])
+[OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)
 ---

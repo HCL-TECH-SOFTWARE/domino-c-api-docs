@@ -21,5 +21,5 @@ AltLanguage
 Spare
 
 **See Also :**
-[REGNewUser](/reference/Func/REGNewUser)
+[REGNewUser](/domino-c-api-docs/reference/Func/REGNewUser)
 ---

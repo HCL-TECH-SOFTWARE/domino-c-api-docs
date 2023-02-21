@@ -47,15 +47,15 @@ the font table.
     ODSWriteMemory( &buff_ptr, _CDTEXT, &cdtext, 1 );
 ```
 **See Also :**
-[CDFACE](/reference/Data/CDFACE)
-[CDFONTTABLE](/reference/Data/CDFONTTABLE)
-[CDPABDEFINITION](/reference/Data/CDPABDEFINITION)
-[CDPABREFERENCE](/reference/Data/CDPABREFERENCE)
-[CDPARAGRAPH](/reference/Data/CDPARAGRAPH)
-[CDTEXT](/reference/Data/CDTEXT)
-[FONT_FACE_xxx](/reference/Symb/FONT_FACE_xxx)
-[ISxxx](/reference/Symb/ISxxx)
-[NOTES_COLOR_xxx](/reference/Symb/NOTES_COLOR_xxx)
-[SIG_CD_xxx](/reference/Symb/SIG_CD_xxx)
-[xxx_FONT_ID](/reference/Symb/xxx_FONT_ID)
+[CDFACE](/domino-c-api-docs/reference/Data/CDFACE)
+[CDFONTTABLE](/domino-c-api-docs/reference/Data/CDFONTTABLE)
+[CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
+[CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)
+[CDPARAGRAPH](/domino-c-api-docs/reference/Data/CDPARAGRAPH)
+[CDTEXT](/domino-c-api-docs/reference/Data/CDTEXT)
+[FONT_FACE_xxx](/domino-c-api-docs/reference/Symb/FONT_FACE_xxx)
+[ISxxx](/domino-c-api-docs/reference/Symb/ISxxx)
+[NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)
+[SIG_CD_xxx](/domino-c-api-docs/reference/Symb/SIG_CD_xxx)
+[xxx_FONT_ID](/domino-c-api-docs/reference/Symb/xxx_FONT_ID)
 ---

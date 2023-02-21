@@ -31,5 +31,5 @@ pGeneralMessageLen  -  The length of the text of the general message.  If  pGene
 
 
 **See Also :**
-[OOOSetGeneralMessage](/reference/Func/OOOSetGeneralMessage)
+[OOOSetGeneralMessage](/domino-c-api-docs/reference/Func/OOOSetGeneralMessage)
 ---

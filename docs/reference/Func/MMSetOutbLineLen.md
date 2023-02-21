@@ -31,6 +31,6 @@ MMSetOutbLineLen(hCC, 75); /* if set, when convert CD to MIME, justify using
 this right margin (default is 75) */
 ```
 **See Also :**
-[MMGetOutbLineLen](/reference/Func/MMGetOutbLineLen)
-[CCHANDLE](/reference/Data/CCHANDLE)
+[MMGetOutbLineLen](/domino-c-api-docs/reference/Func/MMGetOutbLineLen)
+[CCHANDLE](/domino-c-api-docs/reference/Data/CCHANDLE)
 ---

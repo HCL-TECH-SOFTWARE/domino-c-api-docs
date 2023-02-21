@@ -23,6 +23,6 @@ hModule  -  Module handle of the loaded library.  Obtain this handle from a prev
 
 
 **See Also :**
-[OSLoadLibrary](/reference/Func/OSLoadLibrary)
-[IXENTRYPROC](/reference/Data/IXENTRYPROC)
+[OSLoadLibrary](/domino-c-api-docs/reference/Func/OSLoadLibrary)
+[IXENTRYPROC](/domino-c-api-docs/reference/Data/IXENTRYPROC)
 ---

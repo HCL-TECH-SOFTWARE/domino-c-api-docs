@@ -25,7 +25,7 @@ Sign-On.
 
 
 **See Also :**
-[SECTokenFree](/reference/Func/SECTokenFree)
-[SECTokenGenerate](/reference/Func/SECTokenGenerate)
-[SECTokenValidate](/reference/Func/SECTokenValidate)
+[SECTokenFree](/domino-c-api-docs/reference/Func/SECTokenFree)
+[SECTokenGenerate](/domino-c-api-docs/reference/Func/SECTokenGenerate)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
 ---

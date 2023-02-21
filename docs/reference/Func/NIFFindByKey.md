@@ -86,7 +86,7 @@ The number of matching entries is not supported if FIND_LESS_THAN, FIND_LESS_THA
 
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFReadEntries](/reference/Func/NIFReadEntries)
-[ITEM_TABLE](/reference/Data/ITEM_TABLE)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE)
 ---

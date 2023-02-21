@@ -10,5 +10,5 @@ Definition of a pointer to a user defined callback function that will check
 abort status.  This function requires no parameters.
 
 **See Also :**
-[DesignRefresh](/reference/Func/DesignRefresh)
+[DesignRefresh](/domino-c-api-docs/reference/Func/DesignRefresh)
 ---

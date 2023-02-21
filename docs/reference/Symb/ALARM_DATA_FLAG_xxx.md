@@ -9,5 +9,5 @@
 Used for the Alarm API.
 
 **See Also :**
-[ALARM_DATA](/reference/Data/ALARM_DATA)
+[ALARM_DATA](/domino-c-api-docs/reference/Data/ALARM_DATA)
 ---

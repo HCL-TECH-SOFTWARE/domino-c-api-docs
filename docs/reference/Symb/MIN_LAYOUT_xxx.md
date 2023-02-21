@@ -11,5 +11,5 @@ symbols may be used for the wWidth and wHeight members of the CDLAYOUT
 structure.
 
 **See Also :**
-[CDLAYOUT](/reference/Data/CDLAYOUT)
+[CDLAYOUT](/domino-c-api-docs/reference/Data/CDLAYOUT)
 ---

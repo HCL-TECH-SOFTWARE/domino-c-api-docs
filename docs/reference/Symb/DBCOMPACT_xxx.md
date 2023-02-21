@@ -11,6 +11,6 @@ NSFDbCompactExtended. Use DBCOMPACT_MAILBOX for NSFDbCompact and the others for
 NSFDbCompactExtended.
 
 **See Also :**
-[NSFDbCompact](/reference/Func/NSFDbCompact)
-[NSFDbCompactExtended](/reference/Func/NSFDbCompactExtended)
+[NSFDbCompact](/domino-c-api-docs/reference/Func/NSFDbCompact)
+[NSFDbCompactExtended](/domino-c-api-docs/reference/Func/NSFDbCompactExtended)
 ---

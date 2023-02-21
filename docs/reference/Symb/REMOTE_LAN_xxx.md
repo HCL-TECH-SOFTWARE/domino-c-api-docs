@@ -11,6 +11,6 @@ adapter status callback routine in order to specify what type of action is to
 be performed by Notes.
 
 **See Also :**
-[PREMOTE_LAN_STATUS_CALLBACK](/reference/Data/PREMOTE_LAN_STATUS_CALLBACK)
-[REMOTE_LAN_STATUS_xxx](/reference/Symb/REMOTE_LAN_STATUS_xxx)
+[PREMOTE_LAN_STATUS_CALLBACK](/domino-c-api-docs/reference/Data/PREMOTE_LAN_STATUS_CALLBACK)
+[REMOTE_LAN_STATUS_xxx](/domino-c-api-docs/reference/Symb/REMOTE_LAN_STATUS_xxx)
 ---

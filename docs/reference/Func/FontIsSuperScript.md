@@ -25,8 +25,8 @@ Output :
 
 
 **See Also :**
-[FontClearSuperScript](/reference/Func/FontClearSuperScript)
-[FONTID](/reference/Data/FONTID)
-[FONTIDFIELDS](/reference/Data/FONTIDFIELDS)
-[FontSetSuperScript](/reference/Func/FontSetSuperScript)
+[FontClearSuperScript](/domino-c-api-docs/reference/Func/FontClearSuperScript)
+[FONTID](/domino-c-api-docs/reference/Data/FONTID)
+[FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)
+[FontSetSuperScript](/domino-c-api-docs/reference/Func/FontSetSuperScript)
 ---

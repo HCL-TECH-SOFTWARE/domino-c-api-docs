@@ -46,6 +46,6 @@ ERR_xxx - STATUS returned from a lower level Notes function call.  Use OSLoadStr
 
 
 **See Also :**
-[NSFNoteAttachOLE2Object](/reference/Func/NSFNoteAttachOLE2Object)
-[NSFNoteDeleteOLE2Object](/reference/Func/NSFNoteDeleteOLE2Object)
+[NSFNoteAttachOLE2Object](/domino-c-api-docs/reference/Func/NSFNoteAttachOLE2Object)
+[NSFNoteDeleteOLE2Object](/domino-c-api-docs/reference/Func/NSFNoteDeleteOLE2Object)
 ---

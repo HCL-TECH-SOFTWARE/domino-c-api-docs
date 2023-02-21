@@ -64,6 +64,6 @@ if (error = MIMEFreeDirectory(hMIMEDir)) {
 
 ```
 **See Also :**
-[NOTEHANDLE](/reference/Data/NOTEHANDLE)
-[PMIMEENTITY](/reference/Data/PMIMEENTITY)
+[NOTEHANDLE](/domino-c-api-docs/reference/Data/NOTEHANDLE)
+[PMIMEENTITY](/domino-c-api-docs/reference/Data/PMIMEENTITY)
 ---

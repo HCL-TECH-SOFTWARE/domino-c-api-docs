@@ -10,5 +10,5 @@ This is the datatype of the Callback function passed to function
 ConvertNotesBitmap.
 
 **See Also :**
-[ConvertNotesBitmap](/reference/Func/ConvertNotesBitmap)
+[ConvertNotesBitmap](/domino-c-api-docs/reference/Func/ConvertNotesBitmap)
 ---

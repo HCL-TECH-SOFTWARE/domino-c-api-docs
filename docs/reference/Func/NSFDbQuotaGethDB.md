@@ -34,5 +34,5 @@ QuotaInfo  -  Pointer to the returned DBQUOTAINFOEXT structure.
 
 
 **See Also :**
-[DBQUOTAINFOEXT](/reference/Data/DBQUOTAINFOEXT)
+[DBQUOTAINFOEXT](/domino-c-api-docs/reference/Data/DBQUOTAINFOEXT)
 ---

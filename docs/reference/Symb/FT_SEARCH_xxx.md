@@ -12,6 +12,6 @@ domain search against a Domain catalog.  These options may be combined by
 bitwise-ORing them together.
 
 **See Also :**
-[FTSearch](/reference/Func/FTSearch)
-[FTSearchExt](/reference/Func/FTSearchExt)
+[FTSearch](/domino-c-api-docs/reference/Func/FTSearch)
+[FTSearchExt](/domino-c-api-docs/reference/Func/FTSearchExt)
 ---

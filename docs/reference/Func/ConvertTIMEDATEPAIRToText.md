@@ -70,8 +70,8 @@ retTextLength  -  The address of a WORD in which the length of the converted cha
 
 ```
 **See Also :**
-[ConvertTextToTIMEDATEPAIR](/reference/Func/ConvertTextToTIMEDATEPAIR)
-[OSCurrentTIMEDATE](/reference/Func/OSCurrentTIMEDATE)
-[OSGetIntlSettings](/reference/Func/OSGetIntlSettings)
-[TYPE_xxx [TIME_RANGE]](/reference/Symb/TYPE_xxx [TIME_RANGE])
+[ConvertTextToTIMEDATEPAIR](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATEPAIR)
+[OSCurrentTIMEDATE](/domino-c-api-docs/reference/Func/OSCurrentTIMEDATE)
+[OSGetIntlSettings](/domino-c-api-docs/reference/Func/OSGetIntlSettings)
+[TYPE_xxx [TIME_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TIME_RANGE])
 ---

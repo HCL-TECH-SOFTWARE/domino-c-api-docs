@@ -61,13 +61,13 @@ rethOutBuf  -  Handle for returned data.
 
 
 **See Also :**
-[fINFO_XXX](/reference/Symb/fINFO_XXX)
-[NOTEID](/reference/Data/NOTEID)
-[NSFDbGetMultNoteInfoByUNID](/reference/Func/NSFDbGetMultNoteInfoByUNID)
-[NSFDbGetNoteInfo](/reference/Func/NSFDbGetNoteInfo)
-[NSFDbGetNoteInfoByUNID](/reference/Func/NSFDbGetNoteInfoByUNID)
-[OID](/reference/Data/OID)
-[ORIGINATORID](/reference/Data/ORIGINATORID)
-[UNID](/reference/Data/UNID)
-[UNIVERSALNOTEID](/reference/Data/UNIVERSALNOTEID)
+[fINFO_XXX](/domino-c-api-docs/reference/Symb/fINFO_XXX)
+[NOTEID](/domino-c-api-docs/reference/Data/NOTEID)
+[NSFDbGetMultNoteInfoByUNID](/domino-c-api-docs/reference/Func/NSFDbGetMultNoteInfoByUNID)
+[NSFDbGetNoteInfo](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfo)
+[NSFDbGetNoteInfoByUNID](/domino-c-api-docs/reference/Func/NSFDbGetNoteInfoByUNID)
+[OID](/domino-c-api-docs/reference/Data/OID)
+[ORIGINATORID](/domino-c-api-docs/reference/Data/ORIGINATORID)
+[UNID](/domino-c-api-docs/reference/Data/UNID)
+[UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)
 ---

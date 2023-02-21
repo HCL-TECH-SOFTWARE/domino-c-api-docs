@@ -27,7 +27,7 @@ ppInfo  -  A pointer to a pointer to a populated NLS_INFO structure.
 
 
 **See Also :**
-[NLS_PINFO](/reference/Data/NLS_PINFO)
-[NLS_translate](/reference/Func/NLS_translate)
-[NLS_unload_charset](/reference/Func/NLS_unload_charset)
+[NLS_PINFO](/domino-c-api-docs/reference/Data/NLS_PINFO)
+[NLS_translate](/domino-c-api-docs/reference/Func/NLS_translate)
+[NLS_unload_charset](/domino-c-api-docs/reference/Func/NLS_unload_charset)
 ---

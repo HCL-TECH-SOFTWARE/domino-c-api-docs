@@ -10,9 +10,9 @@ Maximum size of a password string.  Used in registering a new
 certifier/workstation/server.
 
 **See Also :**
-[REGNewCertifier](/reference/Func/REGNewCertifier)
-[REGNewServer](/reference/Func/REGNewServer)
-[REGNewServerExtended](/reference/Func/REGNewServerExtended)
-[REGNewWorkstation](/reference/Func/REGNewWorkstation)
-[REGNewWorkstationExtended](/reference/Func/REGNewWorkstationExtended)
+[REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)
+[REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)
+[REGNewServerExtended](/domino-c-api-docs/reference/Func/REGNewServerExtended)
+[REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
+[REGNewWorkstationExtended](/domino-c-api-docs/reference/Func/REGNewWorkstationExtended)
 ---

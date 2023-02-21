@@ -9,5 +9,5 @@
 Possible values for the dwFlags parameter of AgentRun.
 
 **See Also :**
-[AgentRun](/reference/Func/AgentRun)
+[AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
 ---

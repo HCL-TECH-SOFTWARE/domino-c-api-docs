@@ -9,5 +9,5 @@
 
 
 **See Also :**
-[EventQueuePut](/reference/Func/EventQueuePut)
+[EventQueuePut](/domino-c-api-docs/reference/Func/EventQueuePut)
 ---

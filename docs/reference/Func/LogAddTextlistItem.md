@@ -57,9 +57,9 @@ if (error_status = LogAddTextlistItem(log_entry,
    goto Exit;
 ```
 **See Also :**
-[LogAddNumberItem](/reference/Func/LogAddNumberItem)
-[LogAddText](/reference/Func/LogAddText)
-[LogAddTimeItem](/reference/Func/LogAddTimeItem)
-[LogCompleteEntry](/reference/Func/LogCompleteEntry)
-[LogCreateEntry](/reference/Func/LogCreateEntry)
+[LogAddNumberItem](/domino-c-api-docs/reference/Func/LogAddNumberItem)
+[LogAddText](/domino-c-api-docs/reference/Func/LogAddText)
+[LogAddTimeItem](/domino-c-api-docs/reference/Func/LogAddTimeItem)
+[LogCompleteEntry](/domino-c-api-docs/reference/Func/LogCompleteEntry)
+[LogCreateEntry](/domino-c-api-docs/reference/Func/LogCreateEntry)
 ---

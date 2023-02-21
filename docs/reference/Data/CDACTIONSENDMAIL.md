@@ -27,6 +27,6 @@ Body  Message body
 
 
 **See Also :**
-[ACTIONSENDMAIL_FLAG_xxx](/reference/Symb/ACTIONSENDMAIL_FLAG_xxx)
-[ACTIONSENDMAIL_xxx](/reference/Symb/ACTIONSENDMAIL_xxx)
+[ACTIONSENDMAIL_FLAG_xxx](/domino-c-api-docs/reference/Symb/ACTIONSENDMAIL_FLAG_xxx)
+[ACTIONSENDMAIL_xxx](/domino-c-api-docs/reference/Symb/ACTIONSENDMAIL_xxx)
 ---

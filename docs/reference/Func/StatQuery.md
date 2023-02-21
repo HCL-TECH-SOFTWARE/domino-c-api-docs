@@ -37,6 +37,6 @@ retStatsLength  -  Length of data in the returned formatted statistics buffer.
 
 
 **See Also :**
-[StatQueryTime](/reference/Func/StatQueryTime)
-[StatTraverse](/reference/Func/StatTraverse)
+[StatQueryTime](/domino-c-api-docs/reference/Func/StatQueryTime)
+[StatTraverse](/domino-c-api-docs/reference/Func/StatTraverse)
 ---

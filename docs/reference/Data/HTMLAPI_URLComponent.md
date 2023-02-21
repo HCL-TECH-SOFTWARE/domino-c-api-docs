@@ -17,7 +17,7 @@ target components and args.
 see sample html/convpic
 ```
 **See Also :**
-[HTMLAPIReference](/reference/Data/HTMLAPIReference)
-[HTMLAPI_URLArg](/reference/Data/HTMLAPI_URLArg)
-[HTMLAPI_URLTargetComponent](/reference/Data/HTMLAPI_URLTargetComponent)
+[HTMLAPIReference](/domino-c-api-docs/reference/Data/HTMLAPIReference)
+[HTMLAPI_URLArg](/domino-c-api-docs/reference/Data/HTMLAPI_URLArg)
+[HTMLAPI_URLTargetComponent](/domino-c-api-docs/reference/Data/HTMLAPI_URLTargetComponent)
 ---

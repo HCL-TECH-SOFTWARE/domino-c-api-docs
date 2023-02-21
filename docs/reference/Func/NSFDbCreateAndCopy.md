@@ -86,5 +86,5 @@ error = NSFDbCreateAndCopy(newdb, repdb, NOTE_CLASS_ALL, 0, DBCOPY_REPLICA,
 error = NSFDbCreateAndCopy(newdb, copydb, NOTE_CLASS_ALL, 0, 0, &hCopyDb);
 ```
 **See Also :**
-[NOTE_CLASS_xxx](/reference/Symb/NOTE_CLASS_xxx)
+[NOTE_CLASS_xxx](/domino-c-api-docs/reference/Symb/NOTE_CLASS_xxx)
 ---

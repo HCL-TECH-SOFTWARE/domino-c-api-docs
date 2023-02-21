@@ -37,5 +37,5 @@ rethFile  -  Message file handle.
 
 
 **See Also :**
-[MailCloseMessageFile](/reference/Func/MailCloseMessageFile)
+[MailCloseMessageFile](/domino-c-api-docs/reference/Func/MailCloseMessageFile)
 ---

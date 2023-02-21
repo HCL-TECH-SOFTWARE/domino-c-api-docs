@@ -9,5 +9,5 @@
 These constants define error codes returned by internal DSAPI functionality
 
 **See Also :**
-[FilterReturnCode](/reference/Data/FilterReturnCode)
+[FilterReturnCode](/domino-c-api-docs/reference/Data/FilterReturnCode)
 ---

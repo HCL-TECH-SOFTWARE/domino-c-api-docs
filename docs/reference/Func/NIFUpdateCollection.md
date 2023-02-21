@@ -39,7 +39,7 @@ ERR_xxx - Errors returned by lower level functions.  There are so many possible 
 
 
 **See Also :**
-[NIFOpenCollection](/reference/Func/NIFOpenCollection)
-[NIFCloseCollection](/reference/Func/NIFCloseCollection)
-[NIFLocateNote](/reference/Func/NIFLocateNote)
+[NIFOpenCollection](/domino-c-api-docs/reference/Func/NIFOpenCollection)
+[NIFCloseCollection](/domino-c-api-docs/reference/Func/NIFCloseCollection)
+[NIFLocateNote](/domino-c-api-docs/reference/Func/NIFLocateNote)
 ---

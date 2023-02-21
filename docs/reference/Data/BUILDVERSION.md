@@ -9,6 +9,6 @@
 Structure returned by NSFDbGetMajMinVersion to determine code level at runtime
 
 **See Also :**
-[BLDVERFLAGS_xxx](/reference/Symb/BLDVERFLAGS_xxx)
-[NSFDbGetMajMinVersion](/reference/Func/NSFDbGetMajMinVersion)
+[BLDVERFLAGS_xxx](/domino-c-api-docs/reference/Symb/BLDVERFLAGS_xxx)
+[NSFDbGetMajMinVersion](/domino-c-api-docs/reference/Func/NSFDbGetMajMinVersion)
 ---

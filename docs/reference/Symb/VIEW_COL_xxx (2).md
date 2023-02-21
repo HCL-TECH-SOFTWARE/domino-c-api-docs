@@ -44,6 +44,6 @@ ViewColumnFormat.ConstantValueSize = 0; /* RESERVED _ SHOULD BE 0 */
 ODSWriteMemory( &pVFBuf, _VIEW_COLUMN_FORMAT, &ViewColumnFormat, 1 );
 ```
 **See Also :**
-[VCF2_xxx](/reference/Symb/VCF2_xxx)
-[VIEW_COLUMN_FORMAT](/reference/Data/VIEW_COLUMN_FORMAT)
+[VCF2_xxx](/domino-c-api-docs/reference/Symb/VCF2_xxx)
+[VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)
 ---

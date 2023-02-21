@@ -9,5 +9,5 @@
 Calendaring and Scheduling function request codes.
 
 **See Also :**
-[SCHMSG](/reference/Data/SCHMSG)
+[SCHMSG](/domino-c-api-docs/reference/Data/SCHMSG)
 ---

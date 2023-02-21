@@ -9,5 +9,5 @@
 These symbols define how to execute the program in a call to OSLoadProgram.
 
 **See Also :**
-[OSLoadProgram](/reference/Func/OSLoadProgram)
+[OSLoadProgram](/domino-c-api-docs/reference/Func/OSLoadProgram)
 ---

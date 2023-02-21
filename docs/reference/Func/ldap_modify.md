@@ -44,5 +44,5 @@ LDAPMod *mods[] = {
 msgid = ldap_modify( ld, dn, mods );
 ```
 **See Also :**
-[LDAPMod](/reference/Data/LDAPMod)
+[LDAPMod](/domino-c-api-docs/reference/Data/LDAPMod)
 ---

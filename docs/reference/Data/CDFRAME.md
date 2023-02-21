@@ -28,9 +28,9 @@ Record.  The strings are not null terminated.
 
 
 **See Also :**
-[CDFRAMESETHEADER](/reference/Data/CDFRAMESETHEADER)
-[COLOR_VALUE](/reference/Data/COLOR_VALUE)
-[fFRNotesxxx](/reference/Symb/fFRNotesxxx)
-[fFRxxx](/reference/Symb/fFRxxx)
-[xxx_ScrollStyle](/reference/Symb/xxx_ScrollStyle)
+[CDFRAMESETHEADER](/domino-c-api-docs/reference/Data/CDFRAMESETHEADER)
+[COLOR_VALUE](/domino-c-api-docs/reference/Data/COLOR_VALUE)
+[fFRNotesxxx](/domino-c-api-docs/reference/Symb/fFRNotesxxx)
+[fFRxxx](/domino-c-api-docs/reference/Symb/fFRxxx)
+[xxx_ScrollStyle](/domino-c-api-docs/reference/Symb/xxx_ScrollStyle)
 ---

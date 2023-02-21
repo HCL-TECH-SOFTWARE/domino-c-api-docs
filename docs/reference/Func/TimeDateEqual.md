@@ -25,8 +25,8 @@ Output :
 
 
 **See Also :**
-[TIMEDATE](/reference/Data/TIMEDATE)
-[TimeDateCollate](/reference/Func/TimeDateCollate)
-[TimeDateCompare](/reference/Func/TimeDateCompare)
-[TimeDateDifference](/reference/Func/TimeDateDifference)
+[TIMEDATE](/domino-c-api-docs/reference/Data/TIMEDATE)
+[TimeDateCollate](/domino-c-api-docs/reference/Func/TimeDateCollate)
+[TimeDateCompare](/domino-c-api-docs/reference/Func/TimeDateCompare)
+[TimeDateDifference](/domino-c-api-docs/reference/Func/TimeDateDifference)
 ---

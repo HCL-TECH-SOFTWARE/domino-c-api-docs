@@ -65,10 +65,10 @@ ERR_xxx - Errors returned by lower level functions: (memory management, file ope
        goto Exit;
 ```
 **See Also :**
-[NSFItemAppendTextList](/reference/Func/NSFItemAppendTextList)
-[NSFItemGetTextListEntries](/reference/Func/NSFItemGetTextListEntries)
-[NSFItemGetTextListEntry](/reference/Func/NSFItemGetTextListEntry)
-[NSFNoteClose](/reference/Func/NSFNoteClose)
-[NSFNoteOpen](/reference/Func/NSFNoteOpen)
-[NSFItemAppend](/reference/Func/NSFItemAppend)
+[NSFItemAppendTextList](/domino-c-api-docs/reference/Func/NSFItemAppendTextList)
+[NSFItemGetTextListEntries](/domino-c-api-docs/reference/Func/NSFItemGetTextListEntries)
+[NSFItemGetTextListEntry](/domino-c-api-docs/reference/Func/NSFItemGetTextListEntry)
+[NSFNoteClose](/domino-c-api-docs/reference/Func/NSFNoteClose)
+[NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)
+[NSFItemAppend](/domino-c-api-docs/reference/Func/NSFItemAppend)
 ---

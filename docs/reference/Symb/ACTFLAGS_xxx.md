@@ -9,7 +9,7 @@
 
 
 **See Also :**
-[ACTIVITYSTREAMACTION](/reference/Data/ACTIVITYSTREAMACTION)
-[LogEnumActivityStream](/reference/Func/LogEnumActivityStream)
-[LogOpenActivityStream](/reference/Func/LogOpenActivityStream)
+[ACTIVITYSTREAMACTION](/domino-c-api-docs/reference/Data/ACTIVITYSTREAMACTION)
+[LogEnumActivityStream](/domino-c-api-docs/reference/Func/LogEnumActivityStream)
+[LogOpenActivityStream](/domino-c-api-docs/reference/Func/LogOpenActivityStream)
 ---

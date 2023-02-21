@@ -13,6 +13,6 @@ See NAMES_LIST_xxx for posiible values for the Authenticated member of this
 structure.
 
 **See Also :**
-[ACLLookupAccess](/reference/Func/ACLLookupAccess)
-[NAMES_LIST_xxx](/reference/Symb/NAMES_LIST_xxx)
+[ACLLookupAccess](/domino-c-api-docs/reference/Func/ACLLookupAccess)
+[NAMES_LIST_xxx](/domino-c-api-docs/reference/Symb/NAMES_LIST_xxx)
 ---

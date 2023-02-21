@@ -22,5 +22,5 @@ condition.
 
 
 **See Also :**
-[NSFGetAllFolderChanges](/reference/Func/NSFGetAllFolderChanges)
+[NSFGetAllFolderChanges](/domino-c-api-docs/reference/Func/NSFGetAllFolderChanges)
 ---

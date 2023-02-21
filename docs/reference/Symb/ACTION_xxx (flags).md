@@ -10,5 +10,5 @@ Possible values for the Flags member of the CDACTION structure.  These values
 further describe attributes for the action.
 
 **See Also :**
-[CDACTION](/reference/Data/CDACTION)
+[CDACTION](/domino-c-api-docs/reference/Data/CDACTION)
 ---

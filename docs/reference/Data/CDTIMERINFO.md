@@ -14,6 +14,6 @@ BSIG Header  CD Signature and length
 DWORD Interval  The time interval  in milliseconds.
 
 **See Also :**
-[CDTABLEVIEWER_xxx](/reference/Symb/CDTABLEVIEWER_xxx)
-[CDTABLEEND](/reference/Data/CDTABLEEND)
+[CDTABLEVIEWER_xxx](/domino-c-api-docs/reference/Symb/CDTABLEVIEWER_xxx)
+[CDTABLEEND](/domino-c-api-docs/reference/Data/CDTABLEEND)
 ---
