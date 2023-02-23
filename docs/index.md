@@ -1,9 +1,10 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
-# Domino C API
+# Home
 [Overview of the HCL C API for Notes/Domino](./howto/user_guide/Overview_of_the_HCL_C_API_for_Notes_Domino.md)
 
 [Building Windows Applications](./howto/user_guide/Building_Windows_Applications.md)

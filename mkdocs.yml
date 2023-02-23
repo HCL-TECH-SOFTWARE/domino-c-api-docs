@@ -1,4 +1,4 @@
-site_name: Domino C API
+site_name: HCL Domino C API Documentation
 
 # Theme Configuration
 theme:
@@ -51,7 +51,7 @@ extra:
 
 # Repository
 repo_url: https://github.com/HCL-TECH-SOFTWARE/domino-c-api-docs
-repo_name: Domino C API
+repo_name: HCL Domino C API Documentation
 edit_uri: edit/main/docs
 
 # Customization
