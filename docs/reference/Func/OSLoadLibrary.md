@@ -25,9 +25,12 @@ OSLoadLibrary can be used to load any library module that is identified to your
 program at run time.  For example, C API programs can use OSLoadLibrary to load 
 Notes import/export libraries.  
 
-We now only build/support versions of Windows that have SetDllDirectory 
-so no need to check the version of the OS. Just need to check, if it's
-enabled via notes.ini or if it's not disabled as we have turned it on by default.
+We now build/support versions of Windows that have SetDllDirectory.
+(see the reference link :
+https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-setdlldirectorya ).
+So no need to check the version of the OS. Just need to check,
+if it's enabled via notes.ini(OS_USESETDLLDIR=1) or
+if it's not disabled(OS_DISABLESETDLLDIR=0) as we have turned it on by default.
 
 **Parameters :**
 Input :
