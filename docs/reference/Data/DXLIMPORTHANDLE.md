@@ -4,7 +4,13 @@
 ```
 #include <xml.h>
 ```
+
+**Definition :**
+
+typedef MEMHANDLE DXLIMPORTHANDLE;
+
 **Description :**
+
 
 
 

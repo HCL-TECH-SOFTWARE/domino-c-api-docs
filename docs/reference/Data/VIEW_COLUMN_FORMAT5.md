@@ -4,7 +4,24 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Definition :**
+
+typedef struct
+	{
+	WORD Signature;   /* VIEW_COLUMN_FORMAT_SIGNATURE5 */
+	WORD dwLength;   /* sizeof this structure + any extra data. */
+	/* Names style formatting data. */
+	DWORD dwFlags;  
+	WORD wDistNameColLen;  /* Length of programatic name of column that 
+contains distiguished name. */
+	WORD wSharedColumnAliasLen; /* If shared column, length of the alias of 
+the shared column */
+	DWORD dwReserved[4];  /* Reserved for future use. */
+	} VIEW_COLUMN_FORMAT5;
+
 **Description :**
+
 
 
 

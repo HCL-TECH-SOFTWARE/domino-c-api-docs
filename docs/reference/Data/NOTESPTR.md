@@ -4,13 +4,19 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+
+#define NOTESPTR FAR *
+
 **Description :**
 
 ***OBSOLETE - Included for backward compatibility only***
+<ul><br>
+<br>
+This macro isolates the different syntax for pointer declarations required by different compilers when using the mixed 32/16-bit model to build 32-bit applications for OS/2 2.1.</ul>
 
-This macro isolates the different syntax for pointer declarations required by 
-different compilers when using the mixed 32/16-bit model to build 32-bit 
-applications for OS/2 2.1.
+
 
 **Sample Usage :**
 ```
@@ -34,5 +40,6 @@ int main (void)
     return ((int) *flatPointer);
 }
 ```
+
 **See Also :**
 ---

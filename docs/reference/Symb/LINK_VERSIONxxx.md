@@ -4,9 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	LINK_VERSION1	  -  Version 1
+
+
 **Description :**
 
 Version number appended to the beginning and end of a CDLINK2 record.
+
 
 **See Also :**
 [CDBEGINRECORD](/domino-c-api-docs/reference/Data/CDBEGINRECORD)

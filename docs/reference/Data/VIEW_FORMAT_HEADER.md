@@ -4,11 +4,18 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   BYTE Version;   /* Version number */
+   BYTE ViewStyle; /* View Style - Table,Calendar */
+} VIEW_FORMAT_HEADER;
+
 **Description :**
 
-This defines the structure of the header member of the VIEW_TABLE_FORMAT 
-structure.  The VIEW_TABLE_FORMAT structure is part of a $VIEWFORMAT item (also 
-known as a "View Table Format" item), which is an item in all view notes.
+This defines the structure of the header member of the VIEW_TABLE_FORMAT structure.  The VIEW_TABLE_FORMAT structure is part of a $VIEWFORMAT item (also known as a &quot;View Table Format&quot; item), which is an item in all view notes.
+
 
 **Sample Usage :**
 ```
@@ -22,6 +29,7 @@ known as a "View Table Format" item), which is an item in all view notes.
     ViewTableFormat.Header.Version = VIEW_FORMAT_VERSION;
     ViewTableFormat.Header.ViewStyle = VIEW_STYLE_TABLE;
 ```
+
 **See Also :**
 [VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)
 ---

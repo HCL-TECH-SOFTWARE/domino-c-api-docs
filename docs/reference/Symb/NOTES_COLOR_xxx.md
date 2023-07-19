@@ -4,10 +4,46 @@
 ```
 #include <colorid.h>
 ```
+
+**Symbolic Values :**
+
+	NOTES_COLOR_BLACK	  -  Black (RGB Value: 0,0,0)
+
+	NOTES_COLOR_WHITE	  -  White (RGB Value:255,255,255)
+
+	NOTES_COLOR_RED	  -  Red (RGB Value:255,0,0)
+
+	NOTES_COLOR_GREEN	  -  Green (RGB Value:0,255,0)
+
+	NOTES_COLOR_BLUE	  -  Blue (RGB Value:0,0,255)
+
+	NOTES_COLOR_MAGENTA	  -  Magenta (RGB Value:255,0,255)
+
+	NOTES_COLOR_YELLOW	  -  Yellow (RGB Value:(255,255,0)
+
+	NOTES_COLOR_CYAN	  -  Cyan (RGB Value:0,255,255)
+
+	NOTES_COLOR_DKRED	  -  Dark red (RGB Value:128,0,0)
+
+	NOTES_COLOR_DKGREEN	  -  Dark green (RGB Value:0,128,0)
+
+	NOTES_COLOR_DKBLUE	  -  Dark blue (RGB Value:0,0,128)
+
+	NOTES_COLOR_DKMAGENTA	  -  Dark magenta (RGB Value:128,0,128)
+
+	NOTES_COLOR_DKYELLOW	  -  Dark yellow (RGB Value:128,128,0)
+
+	NOTES_COLOR_DKCYAN	  -  Dark cyan (RGB Value:0,128,128)
+
+	NOTES_COLOR_GRAY	  -  Gray (RGB Value:128,128,128)
+
+	NOTES_COLOR_LTGRAY	  -  Light gray (RGB Value:192, 192, 192)
+
+
 **Description :**
 
-These symbols are used to specify text color, graphic color and background 
-color in a variety of C API structures.
+These symbols are used to specify text color, graphic color and background color in a variety of C API structures.
+
 
 **See Also :**
 [FONTIDFIELDS](/domino-c-api-docs/reference/Data/FONTIDFIELDS)

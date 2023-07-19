@@ -4,9 +4,15 @@
 ```
 #include <dname.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum number organization units.
+
 
 **See Also :**
 [DN_COMPONENTS](/domino-c-api-docs/reference/Data/DN_COMPONENTS)

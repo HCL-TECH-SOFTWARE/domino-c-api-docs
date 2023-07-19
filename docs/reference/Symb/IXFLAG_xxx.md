@@ -4,26 +4,26 @@
 ```
 #include <ixport.h>
 ```
+
+**Symbolic Values :**
+
+	IXFLAG_FIRST	  -  The file currently being imported or exported is the first of a sequence of files to be processed.
+
+	IXFLAG_LAST	  -  The file currently being imported or exported is the last of a sequence of files to be processed.
+
+	IXFLAG_APPEND	  -  The file currently being exported should be appended to the output file.
+
+
 **Description :**
 
-These values are passed to the main entry point of all import/export libraries 
-in the Flags parameter (second argument). Use these flags to modify the 
-behavior of the import or export library when importing or exporting multiple 
-files in one step.
+These values are passed to the main entry point of all import/export libraries in the Flags parameter (second argument). Use these flags to modify the behavior of the import or export library when importing or exporting multiple files in one step.<br>
+<br>
+An edit-level import library that imports multiple files in one step normally creates the output file if IXFLAG_FIRST is set, but if IXFLAG_FIRST is not set, it normally opens the existing output file and seeks to the end.<br>
+<br>
+An edit-level export libraray normally opens the specified output file and seeks to the end if the output file already exists and the flag IXFLAG_APPEND is set. Otherwise, it may create the output file.<br>
+<br>
+A view-level import library may query the user for settings via a dialog box if IXFLAG_FIRST is set. The import library may allocate a buffer to save these settings, then subsequently use the saved settings if IXFLAG_FIRST is not set. When IXFLAG_LAST is set, the library may free the buffer used to save the settings.
 
-An edit-level import library that imports multiple files in one step normally 
-creates the output file if IXFLAG_FIRST is set, but if IXFLAG_FIRST is not set, 
-it normally opens the existing output file and seeks to the end.
-
-An edit-level export libraray normally opens the specified output file and 
-seeks to the end if the output file already exists and the flag IXFLAG_APPEND 
-is set. Otherwise, it may create the output file.
-
-A view-level import library may query the user for settings via a dialog box if 
-IXFLAG_FIRST is set. The import library may allocate a buffer to save these 
-settings, then subsequently use the saved settings if IXFLAG_FIRST is not set. 
-When IXFLAG_LAST is set, the library may free the buffer used to save the 
-settings.
 
 **Sample Usage :**
 ```
@@ -67,6 +67,7 @@ STATUS LNPUBLIC  MainEntryPoint(EDITIMPORTDATA *EditorData,
         }
     
 ```
+
 **See Also :**
 [IXENTRYPROC](/domino-c-api-docs/reference/Data/IXENTRYPROC)
 [EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)

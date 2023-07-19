@@ -4,7 +4,16 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+	LDAP_SASL_SIMPLE	  -  Use simple authentication. Much like using the simplified routines ldap_simple_bind or ldap_simple_bind_s.
+
+	LDAP_SASL_EXTERNAL	  -  Perform SASL bind with the EXTERNAL mechanism.
+
+
 **Description :**
+
 
 
 

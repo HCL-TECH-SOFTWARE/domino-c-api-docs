@@ -4,11 +4,15 @@
 ```
 #include <mq.h>
 ```
+
+**Definition :**
+
+typedef DWORD MQHANDLE;
+
 **Description :**
 
-An MQHANDLE is a handle to a message queue, which one gets by calling MQOpen. 
-The MQHANDLE returned by MQOpen may then be used by subsequent calls to the 
-other message queue functions to refer to a particular queue.
+An MQHANDLE is a handle to a message queue, which one gets by calling MQOpen. The MQHANDLE returned by MQOpen may then be used by subsequent calls to the other message queue functions to refer to a particular queue.
+
 
 **See Also :**
 [MQClose](/domino-c-api-docs/reference/Func/MQClose)

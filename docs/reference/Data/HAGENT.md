@@ -4,10 +4,15 @@
 ```
 #include <agents.h>
 ```
+
+**Definition :**
+
+typedef void far *HAGENT;
+
 **Description :**
 
-An Agent handle is used to refer to an open agent.  The Agent handle is created 
-by AgentOpen(), and must be released by a call to AgentClose().
+An Agent handle is used to refer to an open agent.  The Agent handle is created by AgentOpen(), and must be released by a call to AgentClose().
+
 
 **See Also :**
 [AgentClose](/domino-c-api-docs/reference/Func/AgentClose)

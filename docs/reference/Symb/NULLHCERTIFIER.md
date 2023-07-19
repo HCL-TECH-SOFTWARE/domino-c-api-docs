@@ -4,12 +4,19 @@
 ```
 #include <kfm.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-A NULLHCERTIFIER is an empty handle for functions having an HCERTIFIER 
-parameter.
+A NULLHCERTIFIER is an empty handle for functions having an HCERTIFIER parameter.
+<ul><br>
+<br>
+It is defined as (HCERTIFIER) 0.</ul>
 
-It is defined as (HCERTIFIER) 0.
+
 
 **See Also :**
 [HCERTIFIER](/domino-c-api-docs/reference/Data/HCERTIFIER)

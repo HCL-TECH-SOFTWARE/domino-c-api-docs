@@ -4,11 +4,14 @@
 ```
 #include <mimedir.h>
 ```
+
+**Definition :**
+
+typedef DWORD HMIMEDIRECTORY;
+
 **Description :**
 
-HMIMEDIRECTORY is a data type used to access and MIME data stored within a MIME 
-directory.  See the descriptions for the MIME directory and entity APIs for 
-more information.
+HMIMEDIRECTORY is a data type used to access and MIME data stored within a MIME directory.  See the descriptions for the MIME directory and entity APIs for more information.
 
 
 **See Also :**

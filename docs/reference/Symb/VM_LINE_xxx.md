@@ -4,10 +4,16 @@
 ```
 #include <vmods.h>
 ```
+
+**Symbolic Values :**
+
+	VM_LINE_SOLID	  -  Draw a solid line.
+
+
 **Description :**
 
-These are the line styles that may be used for drawing graphical elements of a 
-Navigator.
+These are the line styles that may be used for drawing graphical elements of a Navigator.
+
 
 **See Also :**
 [VIEWMAP_POLYGON_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_POLYGON_RECORD)

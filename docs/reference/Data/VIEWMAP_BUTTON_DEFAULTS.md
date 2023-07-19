@@ -4,21 +4,35 @@
 ```
 #include <vmods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   VIEWMAP_HIGHLIGHT_DEFAULTS Highlight;
+   WORD   LineColor;
+   WORD   FillFGColor;
+   WORD   FillBGColor;
+   WORD   LineStyle;
+   WORD   LineWidth;
+   WORD   FillStyle;
+   FONTID FontID;
+} VIEWMAP_BUTTON_DEFAULTS;
+
 **Description :**
 
-The VIEWMAP_BUTTON_DEFAULTSstructure contains default attributes for buttons in 
-the Navigator.  This structure is a component of the VIEWMAP_STYLE_DEFAULTS 
-structure, which in turn is stored in the VIEWMAP_DATASET_RECORD.  The fields 
-in this structure are:
+The VIEWMAP_BUTTON_DEFAULTSstructure contains default attributes for buttons in the Navigator.  This structure is a component of the VIEWMAP_STYLE_DEFAULTS structure, which in turn is stored in the VIEWMAP_DATASET_RECORD.  The fields in this structure are:
+<ul><br>
 
-Highlight Default highlight settings.
-LineColor Default line color.
-FillFGColor Default fill color for foreground.
-FillBGColor Default fill color for background.
-LineStyle Default line style.
-LineWidth Default line width.
-FillStyle Default fill style.
-FontID  Default Font ID for button text.
+<ul>Highlight	Default highlight settings.<br>
+LineColor	Default line color.<br>
+FillFGColor	Default fill color for foreground.<br>
+FillBGColor	Default fill color for background.<br>
+LineStyle	Default line style.<br>
+LineWidth	Default line width.<br>
+FillStyle	Default fill style.<br>
+FontID		Default Font ID for button text.</ul>
+</ul>
+
 
 
 **See Also :**

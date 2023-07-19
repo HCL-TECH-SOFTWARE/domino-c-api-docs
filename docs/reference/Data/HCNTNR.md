@@ -4,9 +4,15 @@
 ```
 #include <schedule.h>
 ```
+
+**Definition :**
+
+typedef HANDLE HCNTNR;
+
 **Description :**
 
 Handle to a container, such as a schedule container.
+
 
 **See Also :**
 [SchRetrieve](/domino-c-api-docs/reference/Func/SchRetrieve)

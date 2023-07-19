@@ -4,28 +4,42 @@
 ```
 #include <billing.h>
 ```
+
+**Definition :**
+
+typedef union {
+   SESSIONREC sess;
+   REPLREC    repl;
+   DOCUMENT   doc;
+   MAILREC    mail;
+   DBREC      db;
+   AGENTREC   agent;
+   HTTPREQREC HttpRequest;
+} BILLREC;
+
 **Description :**
 
-The billing record contains billing information specific to the structure type 
-( BILL_xxx) defined in the billing message.   You can extend the billing record 
-to include user-defined billing record structure types.
+The billing record contains billing information specific to the structure type ( BILL_xxx) defined in the billing message.   You can extend the billing record to include user-defined billing record structure types.
+<ul><br>
+<br>
+<br>
+<b><u>Structure Description</u></b><br>
+<br>
+<b>sess</b> -- Session billing record specified by BILL_SESSIONREC<br>
+<br>
+<b>repl -- </b>Replication billing record specified by BILL_REPLREC<br>
+<br>
+<b>doc -- </b>Document billing record specified by BILL_DOCCHARGE<br>
+<br>
+<b>mail</b> --  Mail billing record specified by BILL_MAILREC<br>
+<br>
+<b>db --</b> Database access billing record, specified by BILL_DBREC<br>
+<br>
+<b>agent -- </b>Agent billing record specified by BILL_AGENTREC<br>
+<br>
+<b>HttpRequest</b> --  Http request billing record specified by BILL_HTTPREQREC</ul>
 
 
-Structure Description
-
-sess -- Session billing record specified by BILL_SESSIONREC
-
-repl -- Replication billing record specified by BILL_REPLREC
-
-doc -- Document billing record specified by BILL_DOCCHARGE
-
-mail --  Mail billing record specified by BILL_MAILREC
-
-db -- Database access billing record, specified by BILL_DBREC
-
-agent -- Agent billing record specified by BILL_AGENTREC
-
-HttpRequest --  Http request billing record specified by BILL_HTTPREQREC
 
 **See Also :**
 [AGENTREC](/domino-c-api-docs/reference/Data/AGENTREC)

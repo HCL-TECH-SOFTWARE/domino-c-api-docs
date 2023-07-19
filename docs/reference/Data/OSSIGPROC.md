@@ -4,12 +4,15 @@
 ```
 #include <ossignal.h>
 ```
+
+**Definition :**
+
+typedef void (LNCALLBACKPTR OSSIGPROC)()
+
 **Description :**
 
-A variable of type OSSIGPROC is a generic pointer to a signal handler function, 
-returned by OSGetSignalHandler and OSSetSignalHandler.  This pointer must be 
-cast to a specific signal handler function type, OSSIGMSGPROC, OSSIGBUSYPROC, 
-OSSIGBREAKPROC, or OSSIGDIALPROC to call the signal handler.
+A variable of type OSSIGPROC is a generic pointer to a signal handler function, returned by OSGetSignalHandler and OSSetSignalHandler.  This pointer must be cast to a specific signal handler function type, OSSIGMSGPROC, OSSIGBUSYPROC, OSSIGBREAKPROC, or OSSIGDIALPROC to call the signal handler.
+
 
 **See Also :**
 [IXPostMessage](/domino-c-api-docs/reference/Func/IXPostMessage)

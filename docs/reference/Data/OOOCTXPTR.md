@@ -4,7 +4,13 @@
 ```
 #include <oooapi.h>
 ```
+
+**Definition :**
+
+typedef void*  OOOCTXPTR;
+
 **Description :**
+
 
 
 

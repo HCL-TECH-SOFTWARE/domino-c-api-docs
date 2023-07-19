@@ -4,13 +4,18 @@
 ```
 #include <fsods.h>
 ```
+
+**Definition :**
+
+typedef struct
+{
+ char posunid[MAXUNIDSTRING+1];
+} FRAMEVIEWPOSITION;
+
 **Description :**
 
-This structure is used ONLY in the bookmarks database.  It contains one entry 
-per FRAME/FRAMESET.  At the end of all the frame information is a set of  these 
-structures which contain the UNID (as a string of maximum length MAXUNIDSTRING) 
-for the current position in the outline for that frame if there is one.  If 
-not, the UNID is null.
+This structure is used ONLY in the bookmarks database.  It contains one entry per FRAME/FRAMESET.  At the end of all the frame information is a set of  these structures which contain the UNID (as a string of maximum length MAXUNIDSTRING) for the current position in the outline for that frame if there is one.  If not, the UNID is null.
+
 
 **See Also :**
 [CDFRAME](/domino-c-api-docs/reference/Data/CDFRAME)

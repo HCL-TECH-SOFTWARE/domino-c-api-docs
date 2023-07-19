@@ -4,12 +4,20 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   TIMEDATE File;  /* File's replica ID */
+   UNID     View;  /* View's Note Creation TIMEDATE */
+   UNID     Note;  /* Note's Creation TIMEDATE */
+} NOTELINK;
+
 **Description :**
 
-This structure uniquely describes a particular instance of a note.  It is a 
-component of a CDLINKEXPORT2 record, which constitutes a document link in a 
-rich text field.  The members of this structure 
-specify the target ("linked-to") document.
+This structure uniquely describes a particular instance of a note.  It is a component of a CDLINKEXPORT2 record, which constitutes a document link in a rich text field.  The members of this structure <br>
+specify the target (&quot;linked-to&quot;) document.
+
 
 **Sample Usage :**
 ```
@@ -39,6 +47,7 @@ specify the target ("linked-to") document.
 
     memmove(&pCDLink->NoteLink.Note, &NoteUNID, sizeof(UNID));
 ```
+
 **See Also :**
 [CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
 [CDLINKEXPORT2](/domino-c-api-docs/reference/Data/CDLINKEXPORT2)

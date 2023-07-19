@@ -4,9 +4,15 @@
 ```
 #include <kfm.h>
 ```
+
+**Definition :**
+
+typedef HANDLE HCERTIFIER;
+
 **Description :**
 
 A handle to a certifier context, obtained by calling SECKFMGetCertifierCtx().
+
 
 **See Also :**
 [NULLHCERTIFIER](/domino-c-api-docs/reference/Symb/NULLHCERTIFIER)

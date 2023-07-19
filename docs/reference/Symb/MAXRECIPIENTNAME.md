@@ -4,10 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum size for a recipient name string.  This size includes the terminating 
-null.
+Maximum size for a recipient name string.  This size includes the terminating null.
+
 
 **See Also :**
 [MailGetMessageRecipient](/domino-c-api-docs/reference/Func/MailGetMessageRecipient)

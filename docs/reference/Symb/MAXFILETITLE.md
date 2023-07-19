@@ -4,9 +4,15 @@
 ```
 #include <names.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum number of characters in a file title.
+
 
 **See Also :**
 ---

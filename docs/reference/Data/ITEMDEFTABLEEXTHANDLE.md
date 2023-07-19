@@ -4,10 +4,14 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+
+#define ITEMDEFTABLEEXTHANDLE HANDLE
+
 **Description :**
 
-Handle to an Item Definition Table for a database.  Use NSFDbItemDefTableExt to 
-obtain this handle.
+Handle to an Item Definition Table for a database.  Use NSFDbItemDefTableExt to obtain this handle.
 
 
 **See Also :**

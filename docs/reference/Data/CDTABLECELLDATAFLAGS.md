@@ -4,14 +4,17 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+#define CDTABLECELLDATAFLAGS CDDATAFLAGS
+
 **Description :**
 
-This definition was added to provide a unique signature for table cell 
-dataflags.  As an alternative, the standard CDDATAFLAGS structure can also be 
-used.
+This definition was added to provide a unique signature for table cell dataflags.  As an alternative, the standard CDDATAFLAGS structure can also be used.<br>
+<br>
+For a detailed description of the structure members, please see the CDDATAFLAGS reference entry.
 
-For a detailed description of the structure members, please see the CDDATAFLAGS 
-reference entry.
 
 **See Also :**
 [BARREC_DATA_BORDER_xxx](/domino-c-api-docs/reference/Symb/BARREC_DATA_BORDER_xxx)

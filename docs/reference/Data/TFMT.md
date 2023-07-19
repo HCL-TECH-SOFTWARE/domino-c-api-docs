@@ -4,12 +4,21 @@
 ```
 #include <misc.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   BYTE Date;  /* Date Display Format */
+   BYTE Time;  /* Time Display Format */
+   BYTE Zone;      /* Time Zone Display Format    */
+   BYTE Structure; /* Overall Date/Time Structure */
+} TFMT;
+
+
 **Description :**
 
-This structure holds the format for character time/date strings. You set up 
-this structure based on the time/date format you want to use. Definitions for 
-the various fields of this structure are found in TDFMT_xxx, TTFMT_xxx, 
-TZFMT_xxx, and TSFMT_xxx.
+This structure holds the format for character time/date strings. You set up this structure based on the time/date format you want to use. Definitions for the various fields of this structure are found in TDFMT_xxx, TTFMT_xxx, TZFMT_xxx, and TSFMT_xxx.
+
 
 **See Also :**
 [ConvertTextToTIMEDATE](/domino-c-api-docs/reference/Func/ConvertTextToTIMEDATE)

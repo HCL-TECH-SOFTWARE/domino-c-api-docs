@@ -4,7 +4,18 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDIMAGETYPE_GIF	  -  Image Type is GIF.
+
+	CDIMAGETYPE_JPEG	  -  Image Type is JPEG.
+
+	CDIMAGETYPE_BMP	  -  Image Type is Bitmap.
+
+
 **Description :**
+
 
 
 

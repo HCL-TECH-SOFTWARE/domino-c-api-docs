@@ -4,9 +4,15 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum number of referrals.
+
 
 **See Also :**
 ---

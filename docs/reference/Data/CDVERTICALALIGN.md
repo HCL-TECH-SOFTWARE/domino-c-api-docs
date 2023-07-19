@@ -4,12 +4,23 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   BSIG Header;    /* Signature and length of this record */
+   WORD Alignment; /* Vertical Alignment values */
+} CDVERTICALALIGN;
+
 **Description :**
 
 This CD record allows for additional information to be provided for a graphic.
+<ul><br>
+<br>
+BSIG	Header		Signature and length of this record.<br>
+WORD	Alignment	see VERTICAL_ALIGNMENT_xxx</ul>
 
-BSIG Header  Signature and length of this record.
-WORD Alignment see VERTICAL_ALIGNMENT_xxx
+
 
 **See Also :**
 [CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)

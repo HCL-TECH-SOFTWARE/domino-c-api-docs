@@ -4,15 +4,24 @@
 ```
 #include <archsvc.h>
 ```
+
+**Definition :**
+
+typedef STATUS (LNCALLBACKPTR ARCHIVEDOCUMENTCALLBACK)
+	 (
+	 HARCHIVEDOCUMENT hArchDoc,
+	 void *pUserCtx);
+
 **Description :**
 
-Implementors must call ArchiveDocumentDestroy when finished to free resources.
-
-	Inputs: 
-	 hArchDoc - Handle to archive document.
-    pUserCtx - Caller-defined context structure. 
-       Return:
+Implementors must call ArchiveDocumentDestroy when finished to free resources.<br>
+<br>
+	Inputs: <br>
+		hArchDoc - Handle to archive document.<br>
+  		pUserCtx - Caller-defined context structure. <br>
+       Return:<br>
               NOERROR return status means that it is successful.
+
 
 **See Also :**
 [ArchiveDocumentExport](/domino-c-api-docs/reference/Func/ArchiveDocumentExport)

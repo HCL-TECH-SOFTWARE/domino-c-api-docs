@@ -4,10 +4,16 @@
 ```
 #include <ods.h>
 ```
+
+**Symbolic Values :**
+
+	SIG_VIEWMAP_DATASET	  -  Signature for a VIEWMAP_DATASET_RECORD.
+
+
 **Description :**
 
-The composite data (CD) records with signatures from this set are used in the 
-$ViewMapDataset record of a Navigator view.
+The composite data (CD) records with signatures from this set are used in the $ViewMapDataset record of a Navigator view.
+
 
 **See Also :**
 [VIEWMAP_DATASET_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_DATASET_RECORD)

@@ -4,7 +4,13 @@
 ```
 #include <lber.h>
 ```
+
+**Definition :**
+
+typedef unsigned long ber_len_t;
+
 **Description :**
+
 
 
 

@@ -4,7 +4,16 @@
 ```
 #include <nsfole.h>
 ```
+
+**Symbolic Values :**
+
+	OLE_ROOTISTORAGE_SUPPORTED	  -  Incoming OLE object's storage structure is RootIStorage, IStorage, IStream (same as Notes OLE storage).
+
+	OLE_ISTORAGE_SUPPORTED	  -  Incoming OLE object's storage structure is IStorage, IStream.
+
+
 **Description :**
+
 
 
 

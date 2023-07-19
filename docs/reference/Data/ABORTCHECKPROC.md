@@ -4,10 +4,15 @@
 ```
 #include <design.h>
 ```
+
+**Definition :**
+
+typedef STATUS (LNCALLBACKPTR ABORTCHECKPROC)(void);
+
 **Description :**
 
-Definition of a pointer to a user defined callback function that will check 
-abort status.  This function requires no parameters.
+Definition of a pointer to a user defined callback function that will check abort status.  This function requires no parameters.
+
 
 **See Also :**
 [DesignRefresh](/domino-c-api-docs/reference/Func/DesignRefresh)

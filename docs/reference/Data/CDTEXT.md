@@ -4,43 +4,47 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   WSIG   Header; /* Tag and length */
+   FONTID FontID; /* Font ID */
+/* The 8-bit text string follows... */
+} CDTEXT;
+
 **Description :**
 
-This structure defines the start of a run of text in a rich-text field. 
+This structure defines the start of a run of text in a rich-text field. <br>
+<br>
+The FontID part of the structure controls the font, size, and color of the text. See FONTIDFIELDS for the sub-structure of FontID.<br>
+<br>
+The overall structure for a rich-text field is:<br>
+<br>
+CDPABDEFINITION    <br>
+CDPABDEFINITION    <br>
+CDPABDEFINITION    <br>
+...<br>
+CDPARAGRAPH	  <br>
+CDPABREFERENCE<br>
+CDTEXT<br>
+text	<br>
+CDTEXT	<br>
+text<br>
+CDTEXT	<br>
+text<br>
+...<br>
+CDPARAGRAPH	  <br>
+CDPABREFERENCE<br>
+CDTEXT<br>
+text	<br>
+CDTEXT	<br>
+text<br>
+...<br>
+<br>
+<br>
+Rich text resides in items of type TYPE_COMPOSITE.  For portablility to Unix and other non-Intel architecture platforms, API programs must convert each CD record in a rich text item to Domino canonical format before appending the data to a note, and must convert each CD record to Host format after reading the data from a note. See functions ODSReadMemory, ODSWriteMemory, and the sample code below.
 
-The FontID part of the structure controls the font, size, and color of the 
-text. See FONTIDFIELDS for the sub-structure of FontID.
-
-The overall structure for a rich-text field is:
-
-CDPABDEFINITION    
-CDPABDEFINITION    
-CDPABDEFINITION    
-...
-CDPARAGRAPH   
-CDPABREFERENCE
-CDTEXT
-text 
-CDTEXT 
-text
-CDTEXT 
-text
-...
-CDPARAGRAPH   
-CDPABREFERENCE
-CDTEXT
-text 
-CDTEXT 
-text
-...
-
-
-Rich text resides in items of type TYPE_COMPOSITE.  For portablility to Unix 
-and other non-Intel architecture platforms, API programs must convert each CD 
-record in a rich text item to Domino canonical format before appending the data 
-to a note, and must convert each CD record to Host format after reading the 
-data from a note. See functions ODSReadMemory, ODSWriteMemory, and the sample 
-code below.
 
 **Sample Usage :**
 ```
@@ -105,6 +109,7 @@ error = NSFItemAppend( note_handle,
 
 free( rt_field );
 ```
+
 **See Also :**
 [CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 [CDPABREFERENCE](/domino-c-api-docs/reference/Data/CDPABREFERENCE)

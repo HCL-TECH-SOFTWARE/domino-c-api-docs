@@ -4,10 +4,15 @@
 ```
 #include <alarm.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This is the maximum size of the clientname of the client which wants to 
-register itself to receive alarms.
+This is the maximum size of the clientname of the client which wants to register itself to receive alarms.
+
 
 **See Also :**
 [Alarm_RegisterInterest](/domino-c-api-docs/reference/Func/Alarm_RegisterInterest)

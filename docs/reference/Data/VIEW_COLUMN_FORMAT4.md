@@ -4,7 +4,36 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Definition :**
+
+typedef struct
+{
+   WORD  Signature;          /* VIEW_COLUMN_FORMAT_SIGNATURE4 */
+                             /* Numeric symbol data */
+   NFMT  NumberFormat;
+   BYTE  NumSymPref;         /* NPREF_xxx */
+   BYTE  NumSymFlags;        /* NNUMSYM_xxx */
+   DWORD DecimalSymLength;
+   DWORD MilliSepSymLength;
+   DWORD NegativeSymLength;
+   WORD  MilliGroupSize;
+   DWORD Unused1;
+   DWORD Unused2;
+                             /* Currency data */
+   BYTE  CurrencyPref;       /* NPREF_xxx */
+   BYTE  CurrencyType;       /* NCURFMT_xxx */
+   BYTE  CurrencyFlags;      /* NCURFMT_xxx */
+   DWORD CurrencySymLength;
+   DWORD ISOCountry;
+   WORD  NumberPreference; 
+   BYTE  bUnused;
+   DWORD Unused3;
+   DWORD Unused4;
+} VIEW_COLUMN_FORMAT4;
+
 **Description :**
+
 
 
 

@@ -4,9 +4,15 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Optional newSuperior field in ModifyDNRequest message (LDAPv3 only).
+
 
 **See Also :**
 ---

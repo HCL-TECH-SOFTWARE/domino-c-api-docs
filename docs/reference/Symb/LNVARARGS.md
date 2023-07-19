@@ -4,10 +4,19 @@
 ```
 #include <global.h>
 ```
+
+**Symbolic Values :**
+
+
+
+**Definition :**
+
+#define LNVARARGS FAR cdecl
+
 **Description :**
 
-This macro defines the calling convention used for  IBM C API functions for 
-Domino and Notes that have a variable number of arguments.
+This macro defines the calling convention used for  IBM C API functions for Domino and Notes that have a variable number of arguments.
+
 
 **Sample Usage :**
 ```
@@ -23,6 +32,7 @@ Usage example:
     AddInSetStatus (FORMAT_RESOURCE,
         (char far *) "Current Status");
 ```
+
 **See Also :**
 [LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
 [LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)

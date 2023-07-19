@@ -4,18 +4,27 @@
 ```
 #include <queryods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   WSIG  Header;
+   DWORD dwFlags;
+   WORD  wBodyLen; /* Length of body text */
+/* Body text follows */
+} CDACTIONREPLY;
+
 **Description :**
 
-Create a reply message.  This record is stored in fields of type TYPE_ACTION, 
-usually the action field of an Agent.  This record consists of the 
-CDACTIONREPLY structure, followed by text for the body of the reply message.  
-The fields in this structure are:
+Create a reply message.  This record is stored in fields of type TYPE_ACTION, usually the action field of an Agent.  This record consists of the CDACTIONREPLY structure, followed by text for the body of the reply message.  The fields in this structure are:
+<ul><br>
 
-Header Defines this composite data item as a CDACTIONREPLY item.
-dwFlags Reply action flags (see ACTIONREPLY_FLAG_xxx).
-wBodyLen Length of the body text in bytes.
+<ul>Header	Defines this composite data item as a CDACTIONREPLY item.<br>
+dwFlags	Reply action flags (see ACTIONREPLY_FLAG_xxx).<br>
+wBodyLen	Length of the body text in bytes.</ul>
+<br>
+This structure is followed by the body text.</ul>
 
-This structure is followed by the body text.
 
 
 **See Also :**

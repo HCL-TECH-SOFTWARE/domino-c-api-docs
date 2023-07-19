@@ -4,22 +4,38 @@
 ```
 #include <reg.h>
 ```
+
+**Definition :**
+
+typedef struct
+	{
+	DWORD  Size;   /* size of this structure - must initialize with sizeof 
+(REG_MISC_INFO) */
+	char  *Location;
+	char  *Comment;
+	char  *LocalAdminName;
+	DWORD  Reserved[4];
+	void  *pReserved[4];
+	} REG_MISC_INFO;
+
+
+
 **Description :**
 
-This structure defines miscellaneous registration information for the 
-REGNewPerson, REGNewCertifierExtended, and REGNewServerExtended2 functions.  
-The entire structure must
-be initialized to zero.
+This structure defines miscellaneous registration information for the REGNewPerson, REGNewCertifierExtended, and REGNewServerExtended2 functions.  The entire structure must
+<ul><br>
+be initialized to zero.<br>
+<br>
+The fields in the structure are (all fields that are not used must be NULL/O):<br>
+<br>
+Size		Size of this structure - must be initialized with sizeof (REG_MISC_INFO)<br>
+Location		Location string added to be added to the newly created note<br>
+Comment		Comment string added to be added to the newly created note<br>
+LocalAdminName	Name of the local administrator to be added to the newly created note<br>
+Reserved		Reserved - must be 0<br>
+pReserved		Reserved - must be NULL</ul>
 
-The fields in the structure are (all fields that are not used must be NULL/O):
 
-Size  Size of this structure - must be initialized with sizeof (REG_MISC_INFO)
-Location  Location string added to be added to the newly created note
-Comment  Comment string added to be added to the newly created note
-LocalAdminName Name of the local administrator to be added to the newly created 
-note
-Reserved  Reserved - must be 0
-pReserved  Reserved - must be NULL
 
 **See Also :**
 [REGNewCertifierExtended](/domino-c-api-docs/reference/Func/REGNewCertifierExtended)

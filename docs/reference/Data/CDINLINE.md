@@ -4,16 +4,27 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+typedef struct
+ {
+ WSIG Header;
+ WORD wDatalength;
+ DWORD dwFlags;
+ DWORD dwReserved[4];
+ } CDINLINE;
+
+
 **Description :**
 
-This CD Record gives information pertaining to shared resources and/or shared 
-code in a form.  A CDINLINE record may be preceded by a CDBEGINRECORD and 
-followed by a CDRESOURCE and then a CDENDRECORD.  The fields in this record are:
+This CD Record gives information pertaining to shared resources and/or shared code in a form.  A CDINLINE record may be preceded by a CDBEGINRECORD and followed by a CDRESOURCE and then a CDENDRECORD.  The fields in this record are:<br>
 
-Header - Signature and Length of this CD record.
-wDatalength - Reserved for future use. Must be zero. 
-dwFlags - see INLINE_FLAG_xxx
-dwReserved[4] - Reserved for future use.
+<ul>Header - Signature and Length of this CD record.<br>
+wDatalength - Reserved for future use. Must be zero. <br>
+dwFlags - see INLINE_FLAG_xxx<br>
+dwReserved[4] - Reserved for future use.</ul>
+
 
 
 **See Also :**

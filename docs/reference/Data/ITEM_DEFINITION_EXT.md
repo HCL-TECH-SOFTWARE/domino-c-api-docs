@@ -4,15 +4,24 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   DWORD ItemOffset;     /* offset into ItemNameSegs to item name */
+   WORD  ItemType;       /* default data type of the item */
+   WORD  ItemNameLength; /* length of the item's name */
+} ITEM_DEFINITION_EXT;
+
 **Description :**
 
-This structure contains item information that is in the Item Definition Table 
-(Extended) (see structure ITEM_DEFINITION_TABLE_EXT).  The fields in the 
-structure are:
+This structure contains item information that is in the Item Definition Table (Extended) (see structure ITEM_DEFINITION_TABLE_EXT).  The fields in the structure are:
+<ul><br>
+<br>
+ItemOffset							Offset into ItemNameSegs for item name<br>
+ItemType 							Default data type of the item<br>
+ItemNameLength						Length of the item's name</ul>
 
-ItemOffset       Offset into ItemNameSegs for item name
-ItemType        Default data type of the item
-ItemNameLength      Length of the item's name
 
 
 **See Also :**

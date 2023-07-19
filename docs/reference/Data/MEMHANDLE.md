@@ -4,10 +4,15 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+
+
+
 **Description :**
 
-This handle is returned by the OSMemoryAllocate function.  This datatype is a 
-DWORD, and it is not related to the datatype HANDLE.
+This handle is returned by the OSMemoryAllocate function.  This datatype is a DWORD, and it is not related to the datatype HANDLE.
+
 
 **See Also :**
 [NULLMEMHANDLE](/domino-c-api-docs/reference/Symb/NULLMEMHANDLE)

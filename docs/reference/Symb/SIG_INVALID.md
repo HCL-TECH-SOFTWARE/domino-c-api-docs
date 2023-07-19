@@ -4,9 +4,16 @@
 ```
 #include <ods.h>
 ```
+
+**Symbolic Values :**
+
+	SIG_INVALID	  -  Record contains an invalid signature.
+
+
 **Description :**
 
 This value identifies that the type of composite data (CD) record is invalid.
+
 
 **See Also :**
 [EnumCompositeBuffer](/domino-c-api-docs/reference/Func/EnumCompositeBuffer)

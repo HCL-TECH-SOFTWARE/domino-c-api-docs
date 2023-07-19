@@ -4,23 +4,21 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+
+#define NOTESAPICDECL LNVARARGS
+
 **Description :**
 
 ***OBSOLETE - Included for backward compatibility only***
+<ul><br>
+<br>
+This macro defines the calling convention used for Notes API functions that have a variable number of arguments.  Normally, this macro is only used in the API header files, not in application code.  In the mixed 32/16-bit model for OS/2 2.1, this macro specifies that Notes API functions use the 16-bit &quot;_Far16 _Cdecl&quot; calling convention.  Under Windows and OS/2 1.x, the calling convention used is &quot;FAR cdecl&quot;.  On other platforms, this macro is null;  no special calling convention is used.<br>
+<br>
+Note that functions that allow a variable number of arguments have no way of specifying the types of those arguments for the compiler.  In the mixed 32/16-bit model, data in the application program is usually 32 bits long, while the Notes API functions require 16-bit arguments.  This requires using a typecast to ensure that the value is converted.</ul>
 
-This macro defines the calling convention used for Notes API functions that 
-have a variable number of arguments.  Normally, this macro is only used in the 
-API header files, not in application code.  In the mixed 32/16-bit model for 
-OS/2 2.1, this macro specifies that Notes API functions use the 16-bit "_Far16 
-_Cdecl" calling convention.  Under Windows and OS/2 1.x, the calling convention 
-used is "FAR cdecl".  On other platforms, this macro is null;  no special 
-calling convention is used.
 
-Note that functions that allow a variable number of arguments have no way of 
-specifying the types of those arguments for the compiler.  In the mixed 
-32/16-bit model, data in the application program is usually 32 bits long, while 
-the Notes API functions require 16-bit arguments.  This requires using a 
-typecast to ensure that the value is converted.
 
 **Sample Usage :**
 ```
@@ -36,6 +34,7 @@ Usage example:
     AddInSetStatus (FORMAT_RESOURCE,
         (char NOTESPTR) "Current Status");
 ```
+
 **See Also :**
 [LNVARARGS](/domino-c-api-docs/reference/Symb/LNVARARGS)
 [NOTESAPI](/domino-c-api-docs/reference/Data/NOTESAPI)

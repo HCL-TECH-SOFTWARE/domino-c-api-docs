@@ -4,10 +4,17 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   LONG x;
+   LONG y;
+} CDPOINT;
+
 **Description :**
 
-This structure defines a polygon within a CDAREAELEMENT if the AREA_SHAPE_xxx 
-is an AREA_SHAPE_POLYGON.
+This structure defines a polygon within a CDAREAELEMENT if the AREA_SHAPE_xxx is an AREA_SHAPE_POLYGON.
 
 
 **See Also :**

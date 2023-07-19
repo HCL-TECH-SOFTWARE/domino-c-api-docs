@@ -4,10 +4,15 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+
+#define ITEMDEFTABLEHANDLE HANDLE
+
 **Description :**
 
-Handle to the Item Definition Table for a database.  Use NSFDbItemDefTable to 
-obtain this handle.
+Handle to the Item Definition Table for a database.  Use NSFDbItemDefTable to obtain this handle.
+
 
 **See Also :**
 [NSFDbItemDefTable](/domino-c-api-docs/reference/Func/NSFDbItemDefTable)

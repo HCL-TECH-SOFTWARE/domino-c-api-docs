@@ -4,18 +4,28 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   BSIG           Header;
+   ELEMENTHEADER  ElementHeader;
+   DWORD          Flags;
+   BYTE           bFieldType;
+   BYTE           Reserved[15];
+} CDLAYOUTFIELD;
+
 **Description :**
 
-A field in a layout region of a form is defined by a CDLAYOUTFIELD record.  
-This record must be between a CDLAYOUT record and a CDLAYOUTEND record.  This 
-record is usually followed by other CD records identifying text,  graphical, or 
-action elements associated with the field.  The fields in this record are:
+A field in a layout region of a form is defined by a CDLAYOUTFIELD record.  This record must be between a CDLAYOUT record and a CDLAYOUTEND record.  This record is usually followed by other CD records identifying text,  graphical, or action elements associated with the field.  The fields in this record are:<br>
 
-Header Defines this composite data item as a CDLAYOUTFIELD item.
-ElementHeader Structure containing graphical attributes of the field (see 
-ELEMENTHEADER).
-Flags Flags for this field (see LAYOUT_FIELD_FLAG_xxx).
-bFieldType Type of user interface for this element (see LAYOUT_FIELD_TYPE_xxx).
+<ul>
+<ul>Header	Defines this composite data item as a CDLAYOUTFIELD item.<br>
+ElementHeader	Structure containing graphical attributes of the field (see ELEMENTHEADER).<br>
+Flags	Flags for this field (see LAYOUT_FIELD_FLAG_xxx).<br>
+bFieldType	Type of user interface for this element (see LAYOUT_FIELD_TYPE_xxx).</ul>
+</ul>
+
 
 
 **See Also :**

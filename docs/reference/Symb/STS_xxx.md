@@ -4,12 +4,18 @@
 ```
 #include <globerr.h>
 ```
+
+**Symbolic Values :**
+
+	STS_DISPLAYED	  -  Error has already been displayed.
+
+	STS_REMOTE	  -  Error came from remote machine.
+
+
 **Description :**
 
-The 16-bit value of a STATUS error code consists of two bit flags, a subsystem 
-code, and an error code specific to the subsystem.The top two bits of the error 
-code are reserved for the bit flags and indicate an error code status ; four 
-values can be encoded of which two are currently used.
+The 16-bit value of a STATUS error code consists of two bit flags, a subsystem code, and an error code specific to the subsystem.The top two bits of the error code are reserved for the bit flags and indicate an error code status ; four values can be encoded of which two are currently used.
+
 
 **See Also :**
 [ERR](/domino-c-api-docs/reference/Func/ERR)

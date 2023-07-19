@@ -4,18 +4,22 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   WORD Spare;      /* unused */
+   WORD ItemType;   /* default data type of the item */
+   WORD NameLength; /* length of the item's name */
+} ITEM_DEFINITION;
+
 **Description :**
 
-The Item Definition Table for a database contains the definition for all the 
-names and labels defined in a database.  The Item Definition Table consists of 
-a header, defined by the structure ITEM_DEFINITION_TABLE, an array of 
-ITEM_DEFINITION entries (one for each item), and a packed character array (no 
-delimiters or separators) of the names of all the items.  The fields in the 
-ITEM_DEFINITION structure are:
+The Item Definition Table for a database contains the definition for all the names and labels defined in a database.  The Item Definition Table consists of a header, defined by the structure ITEM_DEFINITION_TABLE, an array of ITEM_DEFINITION entries (one for each item), and a packed character array (no delimiters or separators) of the names of all the items.  The fields in the ITEM_DEFINITION structure are:<br>
+<br>
+        ItemType               What this item represents - type codes are defined in nsfdata.h<br>
+        NameLength        Length of the item's name, in bytes<br>
 
-        ItemType               What this item represents - type codes are 
-defined in nsfdata.h
-        NameLength        Length of the item's name, in bytes
 
 
 **Sample Usage :**
@@ -67,6 +71,7 @@ int GetItemDef (
    return (0);
 }
 ```
+
 **See Also :**
 [ITEM_DEFINITION_TABLE](/domino-c-api-docs/reference/Data/ITEM_DEFINITION_TABLE)
 [NSFDbItemDefTable](/domino-c-api-docs/reference/Func/NSFDbItemDefTable)

@@ -4,12 +4,33 @@
 ```
 #include <misc.h>
 ```
+
+**Definition :**
+
+typedef struct {
+	BYTE Preferences;   /* NPREF_xxx. Get preferences from the Client or 
+from the Form/View? */
+	DWORD DTFlags;   
+	DWORD DTFlags2;   /* In case we need more room */
+	BYTE DTDOWFmt;   /* Day-of-week format choice */
+	BYTE DTYearFmt;   /* Year format choice */
+	BYTE DTMonthFmt;   /* Month format choice */
+	BYTE DTDayFmt;   /* Day format choice */
+	BYTE DTDShow;   /* Date display choice */
+	BYTE DTTShow;   /* Time display choice */
+	BYTE DTDSpecial;   /* Date special display choice */
+	BYTE DTTZone;   /* Time zone display choice */
+	char* DTDsep1;   /* Date field separator string #1 */
+	char* DTDsep2;   /* Date field separator string #2 */
+	char* DTDsep3;   /* Date field separator string #3 */
+	char* DTTsep;   /* Time field separator string */
+} DTFMT;
+
+
 **Description :**
 
-This structure holds the format for date and time information.  This structure 
-must be filled out when passed into the function 
-IntlTIMEDATEConvertToText(..).  Please see IntlTIMEDATEConvertToText(..) for 
-more information.
+This structure holds the format for date and time information.  This structure must be filled out when passed into the function IntlTIMEDATEConvertToText(..).  Please see IntlTIMEDATEConvertToText(..) for more information.
+
 
 **See Also :**
 [DT_DFMT_xxx](/domino-c-api-docs/reference/Symb/DT_DFMT_xxx)

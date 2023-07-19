@@ -9,11 +9,23 @@
 	  ARCHIVE_ATTACH_MACBIN_RAW,
 	  ARCHIVE_ATTACH_RAW);
 ```
+
+**Symbolic Values :**
+
+	ARCHIVE_ATTACH_ENCRYPTED	  -  Indicates attachment is being passed encrypted.
+
+	ARCHIVE_ATTACH_MACBIN_RAW	  -  Indicates attachment data is mac binary data as stored in NSF (compressed data and resource fork only).
+
+	ARCHIVE_ATTACH_RAW	  -  Indicates that this is not a file attachment but object data known only to notes.
+
+
 **Description :**
 
 
 
+
 **Parameters :**
+
 
 
 

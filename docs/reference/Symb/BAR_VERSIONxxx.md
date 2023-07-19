@@ -4,11 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	BAR_VERSION1	  -  Version 1
+
+
 **Description :**
 
-A CDBAR record may be encapsulated within a CDBEGINRECORD and CDENDRECORD.  
-This version number is applied to the Version member within a CDBEGINRECORD and 
-to the Version member within a CDENDRECORD.
+A CDBAR record may be encapsulated within a CDBEGINRECORD and CDENDRECORD.  This version number is applied to the Version member within a CDBEGINRECORD and to the Version member within a CDENDRECORD.
+
 
 **See Also :**
 [CDBAR](/domino-c-api-docs/reference/Data/CDBAR)

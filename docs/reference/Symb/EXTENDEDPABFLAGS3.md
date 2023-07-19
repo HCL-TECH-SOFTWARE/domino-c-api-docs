@@ -4,15 +4,18 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This DWORD extends the CDPABDEFINITION structure. 
+This DWORD extends the CDPABDEFINITION structure. <br>
 
-If the Flags2 member of CDPABDEFINITION is set to PABFLAG2_MORE_FLAGS, the 
-CDPABDEFINITION may be followed by a DWORD extension. If the value of this 
-DWORD extension is EXTENDEDPABFLAGS3, then a second DWORD extension may be 
-present with a value of PABFLAG3_HIDE_EE. These DWORD extensions follow the six 
-R5 margin extension WORDs, if they are present.
+<ul>If the Flags2 member of CDPABDEFINITION is set to PABFLAG2_MORE_FLAGS, the CDPABDEFINITION may be followed by a DWORD extension. If the value of this DWORD extension is EXTENDEDPABFLAGS3, then a second DWORD extension may be present with a value of PABFLAG3_HIDE_EE. These DWORD extensions follow the six R5 margin extension WORDs, if they are present.</ul>
+
+
 
 **See Also :**
 [CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)

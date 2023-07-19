@@ -4,19 +4,36 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Definition :**
+
+typedef STATUS (LNCALLBACKPTR NSFFOLDERADDCALLBACK) (
+	void *Param, 
+	UNID *NoteUNID, 
+	DHANDLE OpBlock, 
+	DWORD OpBlockSize);"
+
 **Description :**
 
 This callback function is implemented with the following parameters:  
-
+<ul>
+<ul><br>
 inputs:
-Param - Callback parameter.
-NoteUNID - Universal Note ID.
-OpBlock - Reserved for internal use.
-OpBlockSize - Reserved for internal use.
+<ul>
+<ul>Param - Callback parameter.<br>
+NoteUNID - Universal Note ID.<br>
+OpBlock - Reserved for internal use.<br>
+OpBlockSize - Reserved for internal use.<br>
+</ul>
+</ul>
+outputs:	
+<ul>
+<ul>STATUS - Status of the call: NOERROR. Any other status indicates an error condition.</ul>
+</ul>
+</ul>
+</ul>
 
-outputs: 
-STATUS - Status of the call: NOERROR. Any other status indicates an error 
-condition.
+
 
 **See Also :**
 [NSFDbGetNotes](/domino-c-api-docs/reference/Func/NSFDbGetNotes)

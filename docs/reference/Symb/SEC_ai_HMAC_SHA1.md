@@ -4,7 +4,14 @@
 ```
 #include <bsafe.h>
 ```
+
+**Symbolic Values :**
+
+	SEC_ai_HMAC_SHA1	  -  Which algorithm to use to generate the digested,See SECHashPassword3
+
+
 **Description :**
+
 
 
 

@@ -4,9 +4,15 @@
 ```
 #include <editfax.h>
 ```
+
+**Definition :**
+
+#define HPAINT HDC
+
 **Description :**
 
 Handle to a device context (DC).
+
 
 **See Also :**
 ---

@@ -4,9 +4,20 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Symbolic Values :**
+
+	VIEW_COL_ALIGN_LEFT	  -  Left justified.
+
+	VIEW_COL_ALIGN_RIGHT	  -  Right justified.
+
+	VIEW_COL_ALIGN_CENTER	  -  Centered.
+
+
 **Description :**
 
 View column display alignment and header alignment.
+
 
 **Sample Usage :**
 ```
@@ -44,6 +55,7 @@ ViewColumnFormat.ConstantValueSize = 0; /* RESERVED _ SHOULD BE 0 */
 ODSWriteMemory( &pVFBuf, _VIEW_COLUMN_FORMAT, &ViewColumnFormat, 1 );
 
 ```
+
 **See Also :**
 [VCF2_xxx](/domino-c-api-docs/reference/Symb/VCF2_xxx)
 [VIEW_COLUMN_FORMAT](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT)

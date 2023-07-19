@@ -4,40 +4,32 @@
 ```
 #include <ixport.h>
 ```
+
+**Definition :**
+
+typedef STATUS (LNCALLBACKPTR IXENTRYPROC)(
+ void far *IXContext,      /* See IXEDIT.H or IXVIEW.H */
+ WORD      Flags,          /* IXFLAG_xxx */
+ HMODULE   hModule,
+ char far *AltLibraryName,
+ char far *PathName);      /* File to act upon */
+
 **Description :**
 
-This type defines the syntax of the main entry point to an import/export 
-library.
+This type defines the syntax of the main entry point to an import/export library.<br>
+<br>
+A Notes import/export library must provide a function that conforms to this syntax. A Notes import/export library is an executable program library that Notes may load when needed to import or export Domino data to or from the view or document level.<br>
+<br>
+Under Unix, the entry point function must be named &quot;MainEntryPoint&quot;. Under Windows, the function may have any name, but it must be the ordinal first function exported by the library.<br>
+<br>
+Import functions read and interpret import files and convert them to Domino format.<br>
+<br>
+Export functions read the specified Domino data and create output files.<br>
+<br>
+API programs may call any of the import or export modules provided with Notes by loading the appropriate library, loading the address of the main entry point function, and calling the function with the appropriate set of parameters. <br>
+<br>
+You may create your own custom import or export libraries by implementing a function that conforms to the IXENTRYPROC syntax. Under Unix, your custom import/export library must be a shared library, and the name of the main entry point function must be &quot;MainEntryPoint&quot;. Under Windows, your custom import/export library must be a dynamic link library (DLL) and  it must export the main entry point function as the ordinal first entry point in the DLL. Install your custom library in the Notes program directory on the Notes workstation and add the appropriate statement to the notes.ini file in the Notes data directory on that system.  After restarting Notes, the user will see the custom format option in the list of formats displayed in the File - Import or File - Export dialog box in Notes.
 
-A Notes import/export library must provide a function that conforms to this 
-syntax. A Notes import/export library is an executable program library that 
-Notes may load when needed to import or export Domino data to or from the view 
-or document level.
-
-Under Unix, the entry point function must be named "MainEntryPoint". Under 
-Windows, the function may have any name, but it must be the ordinal first 
-function exported by the library.
-
-Import functions read and interpret import files and convert them to Domino 
-format.
-
-Export functions read the specified Domino data and create output files.
-
-API programs may call any of the import or export modules provided with Notes 
-by loading the appropriate library, loading the address of the main entry point 
-function, and calling the function with the appropriate set of parameters. 
-
-You may create your own custom import or export libraries by implementing a 
-function that conforms to the IXENTRYPROC syntax. Under Unix, your custom 
-import/export library must be a shared library, and the name of the main entry 
-point function must be "MainEntryPoint". Under Windows, your custom 
-import/export library must be a dynamic link library (DLL) and  it must export 
-the main entry point function as the ordinal first entry point in the DLL. 
-Install your custom library in the Notes program directory on the Notes 
-workstation and add the appropriate statement to the notes.ini file in the 
-Notes data directory on that system.  After restarting Notes, the user will see 
-the custom format option in the list of formats displayed in the File - Import 
-or File - Export dialog box in Notes.
 
 **Sample Usage :**
 ```
@@ -105,6 +97,7 @@ Done:
     return Error;
 
 ```
+
 **See Also :**
 [EDITEXPORTDATA](/domino-c-api-docs/reference/Data/EDITEXPORTDATA)
 [EDITIMPORTDATA](/domino-c-api-docs/reference/Data/EDITIMPORTDATA)

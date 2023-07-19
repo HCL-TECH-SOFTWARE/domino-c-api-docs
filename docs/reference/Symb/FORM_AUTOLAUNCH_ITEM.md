@@ -4,10 +4,15 @@
 ```
 #include <oleods.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This optional item is created when designing a Domino form using the auto 
-launch options.
+This optional item is created when designing a Domino form using the auto launch options.
+
 
 **See Also :**
 ---

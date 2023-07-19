@@ -4,7 +4,14 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDLSOBJECT_R6_TYPE	  -  Signals multiple code segments for R6 > 64k.
+
+
 **Description :**
+
 
 
 

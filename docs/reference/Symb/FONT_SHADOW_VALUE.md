@@ -4,10 +4,15 @@
 ```
 #include <fontid.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This constant is used by FontGetShadowOffset to determine the offset value of 
-shadowed text.  This value depends upon the font size.
+This constant is used by FontGetShadowOffset to determine the offset value of shadowed text.  This value depends upon the font size.
+
 
 **See Also :**
 [FontGetShadowOffset](/domino-c-api-docs/reference/Func/FontGetShadowOffset)

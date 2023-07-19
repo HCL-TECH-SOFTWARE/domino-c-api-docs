@@ -4,12 +4,20 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+
+#define VOID void
+
 **Description :**
 
 Used for one of the following:
-1. A function return type for a function that doesn't return a value;
-2. A function argument type-list for a function that takes no arguments;
-3. A pointer to an unspecified type.
+<ul>
+<ul>1. A function return type for a function that doesn't return a value;<br>
+2. A function argument type-list for a function that takes no arguments;<br>
+3. A pointer to an unspecified type.</ul>
+</ul>
+
 
 
 **See Also :**

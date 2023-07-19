@@ -4,7 +4,18 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Symbolic Values :**
+
+	TRANSLOG_STYLE_CIRCULAR	  -  Circular logging is in effect.
+
+	TRANSLOG_STYLE_ARCHIVE	  -  Archive logging is in effect.
+
+	TRANSLOG_STYLE_LINEAR	  -  Linear logging is in effect.
+
+
 **Description :**
+
 
 
 

@@ -4,7 +4,13 @@
 ```
 #include <lber.h>
 ```
+
+**Definition :**
+
+typedef int ber_int_t;
+
 **Description :**
+
 
 
 

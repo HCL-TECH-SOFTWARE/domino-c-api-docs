@@ -4,17 +4,22 @@
 ```
 #include <addinmen.h>
 ```
+
+**Definition :**
+
+typedef struct {
+   EDITIMPORTDATA Import;
+   EDITEXPORTDATA Export;
+   char           CaretFieldName[34];
+   WORD           CaretFieldType;
+} EDITIXDATA;
+
 **Description :**
 
-This structure provides import/export data as well as the name of the field and 
-type of field of the current cursor position.  Menu add-in functions receive 
-this information when processing the NAMM_COMMAND message from Notes.
+This structure provides import/export data as well as the name of the field and type of field of the current cursor position.  Menu add-in functions receive this information when processing the NAMM_COMMAND message from Notes.<br>
+<br>
+The CaretFieldName member of the EDITIXDATA structure gives the name of the field containing the cursor when the menu item was chosen.  The CaretFieldType member of the EDITIXDATA structure gives the field type of the field containing the cursor when the Notes user selected the menu add-in's item from the Tools menu.  See FIELD_TYPE_xxx for the values for CaretFieldType.
 
-The CaretFieldName member of the EDITIXDATA structure gives the name of the 
-field containing the cursor when the menu item was chosen.  The CaretFieldType 
-member of the EDITIXDATA structure gives the field type of the field containing 
-the cursor when the Notes user selected the menu add-in's item from the Tools 
-menu.  See FIELD_TYPE_xxx for the values for CaretFieldType.
 
 **See Also :**
 [NAM_CONTEXT_DATA](/domino-c-api-docs/reference/Data/NAM_CONTEXT_DATA)

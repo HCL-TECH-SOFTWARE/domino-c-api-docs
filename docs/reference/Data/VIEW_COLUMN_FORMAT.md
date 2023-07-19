@@ -4,20 +4,33 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Definition :**
+
+typedef struct tagVIEW_COLUMN_FORMAT {
+   WORD Signature;         /* VIEW_COLUMN_FORMAT_SIGNATURE */
+   WORD Flags1;            /* see VCF1_xxx */
+   WORD ItemNameSize;      /* Item name string size */
+   WORD TitleSize;         /* Title string size */
+   WORD FormulaSize;       /* Compiled formula size */
+   WORD ConstantValueSize; /* Constant value size */
+   WORD DisplayWidth;      /* Display width - 1/8 ave. char 
+                              width units */
+   FONTID FontID;          /* Display font ID */
+   WORD Flags2;            /* see VCF2_xxx */
+   NFMT NumberFormat;      /* Number format specification */
+   TFMT TimeFormat;        /* Time format specification */
+   WORD FormatDataType;    /* See VIEW_COL_xxx */
+   WORD ListSep;           /* List Separator */
+} VIEW_COLUMN_FORMAT;
+
 **Description :**
 
-This structure describes the format of one column in a view. This structure is 
-one of the components of a $VIEWFORMAT item in a view note. A $VIEWFORMAT item 
-contains one view column format descriptor per column.
+<br>
+This structure describes the format of one column in a view. This structure is one of the components of a $VIEWFORMAT item in a view note. A $VIEWFORMAT item contains one view column format descriptor per column.<br>
+<br>
+All view notes contain a $VIEWFORMAT item (also known as a &quot;View Table Format&quot; item). A $VIEWFORMAT item is an item of TYPE_VIEW_FORMAT with item name VIEW_VIEW_FORMAT_ITEM. The item value of a $VIEWFORMAT item consists of a single VIEW_TABLE_FORMAT structure, followed by one VIEW_COLUMN_FORMAT structure for each column, followed by an  item name/formula/column title set for each column, followed by a VIEW_TABLE_FORMAT2 structure, followed by one VIEW_COLUMN_FORMAT2 structure for each column, followed by a VIEW_TABLE_FORMAT3 structure.
 
-All view notes contain a $VIEWFORMAT item (also known as a "View Table Format" 
-item). A $VIEWFORMAT item is an item of TYPE_VIEW_FORMAT with item name 
-VIEW_VIEW_FORMAT_ITEM. The item value of a $VIEWFORMAT item consists of a 
-single VIEW_TABLE_FORMAT structure, followed by one VIEW_COLUMN_FORMAT 
-structure for each column, followed by an  item name/formula/column title set 
-for each column, followed by a VIEW_TABLE_FORMAT2 structure, followed by one 
-VIEW_COLUMN_FORMAT2 structure for each column, followed by a VIEW_TABLE_FORMAT3 
-structure.
 
 **Sample Usage :**
 ```
@@ -52,6 +65,7 @@ ViewColumnFormat.ConstantValueSize = 0; /* RESERVED _ SHOULD BE 0 */
 
 ODSWriteMemory( &pVFBuf, _VIEW_COLUMN_FORMAT, &ViewColumnFormat, 1 );
 ```
+
 **See Also :**
 [VIEW_COLUMN_FORMAT2](/domino-c-api-docs/reference/Data/VIEW_COLUMN_FORMAT2)
 [VIEW_TABLE_FORMAT](/domino-c-api-docs/reference/Data/VIEW_TABLE_FORMAT)

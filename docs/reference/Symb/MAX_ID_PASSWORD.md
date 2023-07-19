@@ -4,10 +4,15 @@
 ```
 #include <names.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum size of a password string.  Used in registering a new 
-certifier/workstation/server.
+Maximum size of a password string.  Used in registering a new certifier/workstation/server.
+
 
 **See Also :**
 [REGNewCertifier](/domino-c-api-docs/reference/Func/REGNewCertifier)

@@ -4,7 +4,13 @@
 ```
 #include <lber.h>
 ```
+
+**Definition :**
+
+typedef Berval BerValue;
+
 **Description :**
+
 
 
 
