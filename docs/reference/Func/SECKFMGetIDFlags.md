@@ -63,4 +63,5 @@ else
 ```
 
 **See Also :**
+SECKFMClose, SECKFMOpen,SECKFMGetUserInfo.
 ---

@@ -58,4 +58,5 @@ SECKFMClose(&hKFC,
 ```
 
 **See Also :**
+SECKFMGetIDFlags,SECKFMClose, SECKFMOpen.
 ---
