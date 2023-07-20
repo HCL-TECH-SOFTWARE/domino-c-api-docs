@@ -4,9 +4,16 @@
 ```
 #include <schedule.h>
 ```
+
+**Definition :**
+```
+#define HSCHEDULE HCNTNROBJ
+```
+
 **Description :**
 
 Handle to a schedule object.
+
 
 **See Also :**
 [SchContainer_FindSchedule](/domino-c-api-docs/reference/Func/SchContainer_FindSchedule)

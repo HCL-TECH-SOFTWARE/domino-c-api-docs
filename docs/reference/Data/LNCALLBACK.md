@@ -4,9 +4,29 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+#if !defined(OS2)
+
+   #define LNCALLBACK FAR PASCAL
+
+#else
+
+   /* OS/2 requires a separate macro because the ordering of function
+      modifiers for function pointers is different.  This prevents us
+      from inserting _System in a uniform place (e.g. a replacement
+      for PASCAL). */
+
+   #define LNCALLBACK _System
+
+#endif
+```
+
 **Description :**
 
 Calling convention for callback functions.
+
 
 **Sample Usage :**
 ```
@@ -49,6 +69,7 @@ STATUS LNCALLBACK print_fields (
       &db_handle,     /* argument to print_fields */
       NULL);          /* returned ending date (unused) */
 ```
+
 **See Also :**
 [LNCALLBACKPTR](/domino-c-api-docs/reference/Data/LNCALLBACKPTR)
 [LNPUBLIC](/domino-c-api-docs/reference/Symb/LNPUBLIC)

@@ -4,7 +4,18 @@
 ```
 #include <oooapi.h>
 ```
+
+**Symbolic Values :**
+
+	OOO_CONFIG_AGENT	  -  
+
+	OOO_CONFIG_SERVICE	  -  
+
+	OOO_CONFIG_UNKNOWN	  -  
+
+
 **Description :**
+
 
 
 

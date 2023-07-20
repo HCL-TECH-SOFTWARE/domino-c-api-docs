@@ -4,10 +4,15 @@
 ```
 #include <acl.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This value is the maximum size that Domino and Notes will allow for a privilege 
-name in an ACL.
+This value is the maximum size that Domino and Notes will allow for a privilege name in an ACL.
+
 
 **See Also :**
 [ACLGetPrivName](/domino-c-api-docs/reference/Func/ACLGetPrivName)

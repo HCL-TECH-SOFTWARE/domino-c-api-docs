@@ -4,9 +4,15 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 LDAP message ID tag.
+
 
 **See Also :**
 ---

@@ -4,7 +4,19 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Definition :**
+```
+typedef struct
+{
+   WORD   Length;       /* Length of this structure */
+   DWORD  Flags;        /* Reserved for future use */
+   WORD   RepeatType;   /* see viewprop.h - way to repeat image */
+} VIEW_TABLE_FORMAT5;
+```
+
 **Description :**
+
 
 
 

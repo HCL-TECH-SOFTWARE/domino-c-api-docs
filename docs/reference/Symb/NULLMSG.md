@@ -4,11 +4,19 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 NULL pointer to an LDAPMessage structure. 
+<ul><br>
+<br>
+#define NULLMSG	((LDAPMessage *) NULL)</ul>
 
-#define NULLMSG ((LDAPMessage *) NULL)
+
 
 **See Also :**
 ---

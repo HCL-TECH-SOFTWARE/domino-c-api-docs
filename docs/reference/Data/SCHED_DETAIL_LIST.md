@@ -4,9 +4,34 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+    WORD        wHeaderLen;     /* Length of THIS header, in case it
+                                ** ever grows, so that new items can be 
+                                ** easily skipped
+                                */
+    WORD        wEntryLen;      /* Length of THIS entire list and ALL of 
+                                ** its related data.
+                                */
+    WORD        wNumEntries;    /* Number of entries that follow */
+    WORD        wOffsetItems;   /* Offset from list start to TEXT_LIST */
+    WORD        wOffsetDetails; /* Offset from list start to SCHED_DETAIL_ENTRY 
+*/
+	 BYTE        Attr;           /* SCHED_DETAIL_LIST_ATTR_xxx attributes */
+    BYTE        bReserved;      /* Reserved space/padding for ODS */
+
+    /* Now comes the TEXT_LIST that corresponds to the item names 
+    ** and then comes the SCHED_DETAIL_ENTRY for each UNID
+    */
+} SCHED_DETAIL_LIST;
+```
+
 **Description :**
 
 Schedule detail list header.
+
 
 **Sample Usage :**
 ```
@@ -100,6 +125,7 @@ pSchedDetailEntry + pSchedDetailEntry->wEntryLen);
 	 }  /* for (DWORD iEntry = 0; iEntry < pList->wNumEntries; iEntry++) */
 
 ```
+
 **See Also :**
 [LIST](/domino-c-api-docs/reference/Data/LIST)
 [SCHED_DETAIL_DATA](/domino-c-api-docs/reference/Data/SCHED_DETAIL_DATA)

@@ -4,9 +4,17 @@
 ```
 #include <dircoll.h>
 ```
+
+**Definition :**
+```
+typedef DHANDLE	DIRCOLLECTION
+
+```
+
 **Description :**
 
 Handle to opaque DIRCOLLECTION_STRUCT memory.
+
 
 **See Also :**
 ---

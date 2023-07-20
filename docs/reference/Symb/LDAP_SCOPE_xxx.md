@@ -4,9 +4,20 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+	LDAP_SCOPE_BASE	  -  A particular entry can be searched for.
+
+	LDAP_SCOPE_ONELEVEL	  -  The search can be extended one level below the base, not including the base.
+
+	LDAP_SCOPE_SUBTREE	  -  The whole subtree under the starting point can be searched.
+
+
 **Description :**
 
 Scopes for searching an LDAP directory.
+
 
 **See Also :**
 [ldap_search](/domino-c-api-docs/reference/Func/ldap_search)

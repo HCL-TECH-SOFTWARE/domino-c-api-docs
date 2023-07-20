@@ -4,12 +4,16 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+typedef void EXPORTED_LIBRARY_PROC(void);
+```
+
 **Description :**
 
-This is the definition of a pointer to a function that is a custom library's 
-initialization routine.  It is used when calling the function, 
-NotesLibraryMain() in order to provide the address of a custom library's 
-initialization routine to Notes. 
+This is the definition of a pointer to a function that is a custom library's initialization routine.  It is used when calling the function, NotesLibraryMain() in order to provide the address of a custom library's initialization routine to Notes. 
+
 
 **Sample Usage :**
 ```
@@ -28,6 +32,7 @@ int main (int argc, char *argv[])
 }
 #endif
 ```
+
 **See Also :**
 [NotesLibraryMain](/domino-c-api-docs/reference/Func/NotesLibraryMain)
 ---

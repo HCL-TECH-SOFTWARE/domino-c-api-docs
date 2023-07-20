@@ -4,18 +4,32 @@
 ```
 #include <vmods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   WORD   bHighlightTouch;
+   WORD   bHighlightCurrent;
+   WORD   HLOutlineColor;
+   WORD   HLOutlineWidth;
+   WORD   HLOutlineStyle;
+   WORD   HLFillColor; 
+} VIEWMAP_HIGHLIGHT_DEFAULTS;
+```
+
 **Description :**
 
-The VIEWMAP_HIGHLIGHT_DEFAULTS structure stores default settings for 
-highlighting the graphical elements of a Navigator.  This structure is common 
-to all the VIEWMAP_xxx_DEFAULTS structures.  The fields in this structure are:
+The VIEWMAP_HIGHLIGHT_DEFAULTS structure stores default settings for highlighting the graphical elements of a Navigator.  This structure is common to all the VIEWMAP_xxx_DEFAULTS structures.  The fields in this structure are:
+<ul><br>
 
-bHighlightTouch If TRUE, highlight elements when touched.
-bHighlightCurrent If TRUE, highlight when element is the current element.
-HLOutlineColor  Color to use for the outline of a highlighted element.
-HLOutlineWidth Width of the outline of a highlighted element.
-HLOutlineStyle  Style for the outline of a highlighted element.
-HLFillColor  Fill color to use for a highlighted element.
+<ul>bHighlightTouch	If TRUE, highlight elements when touched.<br>
+bHighlightCurrent	If TRUE, highlight when element is the current element.<br>
+HLOutlineColor		Color to use for the outline of a highlighted element.<br>
+HLOutlineWidth	Width of the outline of a highlighted element.<br>
+HLOutlineStyle		Style for the outline of a highlighted element.<br>
+HLFillColor		Fill color to use for a highlighted element.</ul>
+</ul>
+
 
 
 **See Also :**

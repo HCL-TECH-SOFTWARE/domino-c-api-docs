@@ -4,9 +4,16 @@
 ```
 #include <htmlapi.h>
 ```
+
+**Definition :**
+```
+typedef MEMHANDLE HTMLHANDLE
+```
+
 **Description :**
 
 A converter object is used to access most of the HTML API's features.
+
 
 **Sample Usage :**
 ```
@@ -15,6 +22,7 @@ rslt = HTMLCreateConverter(&cvtr);
 //use this converter to do things you want to do
 rslt = HTMLDestroyConverter(cvtr)
 ```
+
 **See Also :**
 [HTMLCreateConverter](/domino-c-api-docs/reference/Func/HTMLCreateConverter)
 [HTMLDestroyConverter](/domino-c-api-docs/reference/Func/HTMLDestroyConverter)

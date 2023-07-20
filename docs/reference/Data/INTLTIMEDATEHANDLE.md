@@ -4,10 +4,16 @@
 ```
 #include <misc.h>
 ```
+
+**Definition :**
+```
+typedef MEMHANDLE INTLTIMEDATEHANDLE;
+```
+
 **Description :**
 
-International TIMEDATE handle needed to create additional information within a 
-TIMEDATE text string.
+International TIMEDATE handle needed to create additional information within a TIMEDATE text string.
+
 
 **See Also :**
 [IntlTIMEDATEConvertToText](/domino-c-api-docs/reference/Func/IntlTIMEDATEConvertToText)

@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Root part of the mail router mailbox filename ("mail").
+Root part of the mail router mailbox filename (&quot;mail&quot;).
+
 
 **See Also :**
 [MAILBOX_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_NAME)

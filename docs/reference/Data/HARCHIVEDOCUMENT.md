@@ -4,7 +4,14 @@
 ```
 #include <archsvc.h>
 ```
+
+**Definition :**
+```
+typedef void * HARCHIVEDOCUMENT;
+```
+
 **Description :**
+
 
 
 

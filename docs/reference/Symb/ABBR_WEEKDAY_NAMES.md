@@ -4,9 +4,15 @@
 ```
 #include <intl.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Request for abbreviated weekday names
+
 
 **See Also :**
 [OSGetExtIntlFormat](/domino-c-api-docs/reference/Func/OSGetExtIntlFormat)

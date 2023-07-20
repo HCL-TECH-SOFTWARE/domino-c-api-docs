@@ -4,30 +4,29 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   WORD  ObjectType;  /* Type of object (OBJECT_xxx) */
+   DWORD RRV;         /*Object ID of the object in THIS FILE */
+} OBJECT_DESCRIPTOR;
+```
+
 **Description :**
 
-All items (fields) of type TYPE_OBJECT contain this data structure.
+All items (fields) of type TYPE_OBJECT contain this data structure.<br>
+<br>
+Domino and Notes use objects to store data that is not rendered on the screen by the Notes editor. Examples include file attachments ($FILE fields), help indexes, and macro left-to-do lists ($LeftToDo fields). <br>
+<br>
+The ObjectType member stores the type of the object. The RRV member stores the ID that identifies the object in the database.<br>
+<br>
+An object consists of two parts: the object itself in the database, and the object item in the note. The object itself is stored separately from the note and is identified by it's Object ID (the RRV). The object item is a structure of type OBJECT_DESCRIPTOR that resides in the note. The RRV member of the OBJECT_DESCRIPTOR identifies the object itself in the Domino database file. <br>
+<br>
+Possible object types include OBJECT_FILE and OBJECT_FILTER_LEFTTODO. See OBJECT_xxx for a list of all object types. For file attachments ($FILE fields) the ObjectType member is OBJECT_FILE. In this case, the OBJECT_DESCRIPTOR serves as the header for the larger FILEOBJECT structure.<br>
+<br>
+To attach a file to a note, use NSFNoteAttachFile. To add a different type of object to a note, use NSFDbAllocObject() and NSFItemAppendObject().
 
-Domino and Notes use objects to store data that is not rendered on the screen 
-by the Notes editor. Examples include file attachments ($FILE fields), help 
-indexes, and macro left-to-do lists ($LeftToDo fields). 
-
-The ObjectType member stores the type of the object. The RRV member stores the 
-ID that identifies the object in the database.
-
-An object consists of two parts: the object itself in the database, and the 
-object item in the note. The object itself is stored separately from the note 
-and is identified by it's Object ID (the RRV). The object item is a structure 
-of type OBJECT_DESCRIPTOR that resides in the note. The RRV member of the 
-OBJECT_DESCRIPTOR identifies the object itself in the Domino database file. 
-
-Possible object types include OBJECT_FILE and OBJECT_FILTER_LEFTTODO. See 
-OBJECT_xxx for a list of all object types. For file attachments ($FILE fields) 
-the ObjectType member is OBJECT_FILE. In this case, the OBJECT_DESCRIPTOR 
-serves as the header for the larger FILEOBJECT structure.
-
-To attach a file to a note, use NSFNoteAttachFile. To add a different type of 
-object to a note, use NSFDbAllocObject() and NSFItemAppendObject().
 
 **Sample Usage :**
 ```
@@ -75,6 +74,7 @@ object to a note, use NSFDbAllocObject() and NSFItemAppendObject().
     }
 
 ```
+
 **See Also :**
 [FILEOBJECT](/domino-c-api-docs/reference/Data/FILEOBJECT)
 [NSFItemAppendObject](/domino-c-api-docs/reference/Func/NSFItemAppendObject)

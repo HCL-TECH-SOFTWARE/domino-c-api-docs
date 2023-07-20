@@ -4,36 +4,25 @@
 ```
 #include <extmgr.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNCALLBACKPTR EMHANDLER)(
+   EMRECORD far *);
+```
+
 **Description :**
 
-This function is the callback that will be called by Domino or  Notes when the 
-NSF function with a registered extension is called.  Domino or Notes will 
-execute the function before or after the core call, based on the flag that was 
-set in the EMRegister done in the initialization of the application.
+This function is the callback that will be called by Domino or  Notes when the NSF function with a registered extension is called.  Domino or Notes will execute the function before or after the core call, based on the flag that was set in the EMRegister done in the initialization of the application.
+<ul><br>
+<br>
+       <b> An important note:</b>  depending on how the extension has been registered (EM_REG_BEFORE, EM_REG_AFTER), when processing the extension, check the Notification Type in the EMRECORD structure.  If the Notification Type is EM_BEFORE (before the function has been called), input parameters, such as note handles, will be active and valid.  However if the Notification Type is EM_AFTER (after the function has been called), those same parameters will no longer be valid due to Domino or Notes internal processing that may have freed and deallocated them.<br>
+<br>
+The parameters passed to the core function are passed to the callback in the EMRECORD structure in the Ap field.  This argument pointer is manipulated with macro VARARG_GET().  The parameter(s) are in the same order as the original NSF function.  All the parameters must be popped off of the Ap in the order they appear in the parameter list.<br>
+<br>
+The status code generated inside of the callback function has a direct efffect on the execution of Domino or Notes core.  If the callback returns the special status code ERR_EM_CONTINUE, Domino or Notes will continue execution (as if this hook had never been called).  If the callback returns any other status code to Domino or Notes (including NOERROR), no other DLLs or Addins that are registered for the same NSF function will get called by the Extension Manager. Also if the callback registered with EM_REG_BEFORE returns a status code , the Domino or Notes core function will not be executed.</ul>
 
-        An important note:  depending on how the extension has been registered 
-(EM_REG_BEFORE, EM_REG_AFTER), when processing the extension, check the 
-Notification Type in the EMRECORD structure.  If the Notification Type is 
-EM_BEFORE (before the function has been called), input parameters, such as note 
-handles, will be active and valid.  However if the Notification Type is 
-EM_AFTER (after the function has been called), those same parameters will no 
-longer be valid due to Domino or Notes internal processing that may have freed 
-and deallocated them.
 
-The parameters passed to the core function are passed to the callback in the 
-EMRECORD structure in the Ap field.  This argument pointer is manipulated with 
-macro VARARG_GET().  The parameter(s) are in the same order as the original NSF 
-function.  All the parameters must be popped off of the Ap in the order they 
-appear in the parameter list.
-
-The status code generated inside of the callback function has a direct efffect 
-on the execution of Domino or Notes core.  If the callback returns the special 
-status code ERR_EM_CONTINUE, Domino or Notes will continue execution (as if 
-this hook had never been called).  If the callback returns any other status 
-code to Domino or Notes (including NOERROR), no other DLLs or Addins that are 
-registered for the same NSF function will get called by the Extension Manager. 
-Also if the callback registered with EM_REG_BEFORE returns a status code , the 
-Domino or Notes core function will not be executed.
 
 **Sample Usage :**
 ```
@@ -129,6 +118,7 @@ EXIT:
   return( theData->Status );
 }
 ```
+
 **See Also :**
 [EMDeregister](/domino-c-api-docs/reference/Func/EMDeregister)
 [EMRECORD](/domino-c-api-docs/reference/Data/EMRECORD)

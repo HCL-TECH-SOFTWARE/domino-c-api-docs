@@ -4,11 +4,16 @@
 ```
 #include <mime.h>
 ```
+
+**Definition :**
+```
+typedef void * MIMEHANDLE;
+```
+
 **Description :**
 
-MIMEHANDLE is a data type used to access a created MIME stream context.  See 
-the description for MIMEStreamOpen, MIMEStreamRead, MIMEStreamWrite, et al for 
-more information.
+MIMEHANDLE is a data type used to access a created MIME stream context.  See the description for MIMEStreamOpen, MIMEStreamRead, MIMEStreamWrite, et al for more information.
+
 
 **See Also :**
 [MIMEStreamClose](/domino-c-api-docs/reference/Func/MIMEStreamClose)

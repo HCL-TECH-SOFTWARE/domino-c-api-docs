@@ -4,7 +4,14 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	EMBEDDEDVIEW_SHOW_ALL_SYMBOL_STRING	  -  Special string for restrict category formula. If the formula evaluates to this then there is no category restriction.
+
+
 **Description :**
+
 
 
 

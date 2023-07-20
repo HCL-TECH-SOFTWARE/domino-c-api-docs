@@ -4,10 +4,21 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   BSIG Header; /* Signature and length of this record */
+   WORD Float;  /* Vertical Alignment values */
+} CDFLOAT;
+```
+
 **Description :**
 
-Header Signature and length of this record
-Float Vertical alignment values, see (FLOAT_xxx).
+Header	Signature and length of this record
+<ul><br>
+Float	Vertical alignment values, see (FLOAT_xxx).</ul>
+
 
 
 **See Also :**

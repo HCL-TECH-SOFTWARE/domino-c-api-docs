@@ -4,9 +4,15 @@
 ```
 #include <osmem.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum single-segment memory object size for Windows 3.x
+
 
 **See Also :**
 ---

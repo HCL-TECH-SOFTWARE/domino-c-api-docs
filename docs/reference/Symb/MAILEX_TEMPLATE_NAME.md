@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Filename for the mail template ("mail7ex.ntf").
+Filename for the mail template (&quot;mail7ex.ntf&quot;).
+
 
 **See Also :**
 [MAILBOX_TEMPLATE_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_TEMPLATE_NAME)

@@ -4,9 +4,15 @@
 ```
 #include <mailserv.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 This mail delivery constant  is equal to one kilobyte.
+
 
 **See Also :**
 ---

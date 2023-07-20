@@ -4,7 +4,16 @@
 ```
 #include <editdflt.h>
 ```
+
+**Symbolic Values :**
+
+	DEFAULTPLACEHOLDERHEIGHT	  -  96 pixels
+
+	DEFAULTPLACEHOLDERWIDTH	  -  720 pixels
+
+
 **Description :**
+
 
 
 

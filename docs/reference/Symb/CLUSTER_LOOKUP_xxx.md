@@ -4,16 +4,20 @@
 ```
 #include <ns.h>
 ```
+
+**Symbolic Values :**
+
+	CLUSTER_LOOKUP_NOCACHE	  -  Instructs the NSGetServerClusterMates function to not use the cluster name cache and forces a lookup on the target server instead
+
+	CLUSTER_LOOKUP_CACHEONLY	  -  Instructs the NSGetServerClusterMates function to only use the cluster name cache and restricts lookup to the workstation cache
+
+
 **Description :**
 
-These values are used as input to the NSGetServerClusterMates function.  When 
-you specify the CLUSTER_LOOKUP_NOCACHE value, the call retrieves the input 
-server's cluster member list through a NameLookup on the input server.  The 
-client cluster cache is not used for determining this information.  
+These values are used as input to the NSGetServerClusterMates function.  When you specify the CLUSTER_LOOKUP_NOCACHE value, the call retrieves the input server's cluster member list through a NameLookup on the input server.  The client cluster cache is not used for determining this information.  <br>
+<br>
+	When you specify the CLUSTER_LOOKUP_CACHEONLY value, the call is forced to retrieve the server's cluster member list from the local client cluster cache.  There is no NameLookup performed on the server in this case.
 
-	When you specify the CLUSTER_LOOKUP_CACHEONLY value, the call is forced 
-to retrieve the server's cluster member list from the local client cluster 
-cache.  There is no NameLookup performed on the server in this case.
 
 **Sample Usage :**
 ```
@@ -41,6 +45,7 @@ error = NSGetServerClusterMates(ServerName, CLUSTER_LOOKUP_NOCACHE,
 if (hClusterMateList != NULLHANDLE)
    OSMemFree(hClusterMateList);
 ```
+
 **See Also :**
 [NSGetServerClusterMates](/domino-c-api-docs/reference/Func/NSGetServerClusterMates)
 ---

@@ -4,7 +4,13 @@
 ```
 #include <dbmiscods.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
+
 
 
 
@@ -23,5 +29,6 @@ created in the Value area. */
 	 char Value[256]; /* The stringized value. */ 
 	} QUEP_ARGVAL
 ```
+
 **See Also :**
 ---

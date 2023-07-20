@@ -4,10 +4,22 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   USHORT NameLength;  /* Length of Item Name following this struct.*/
+                       /* may be zero (0) if not required by func(s)*/
+                       /* manipulating this ITEM.                   */
+   USHORT ValueLength; /* Length of Item Value following this   */
+                       /* struct, incl. Notes data type.        */
+} ITEM;
+```
+
 **Description :**
 
-Used to define the length of an item name and the length of an item value when 
-this data resides in a summary buffer.
+Used to define the length of an item name and the length of an item value when this data resides in a summary buffer.
+
 
 **Sample Usage :**
 ```
@@ -77,6 +89,7 @@ for (i=0; i < ItemCount; i++)
         pSummaryPos += ValueLength;
     }
 ```
+
 **See Also :**
 [ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE)
 [NSFSearch](/domino-c-api-docs/reference/Func/NSFSearch)

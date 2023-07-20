@@ -4,17 +4,26 @@
 ```
 #include <olenotes.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   NOTEHANDLE hNote;     /* Handle to a copy of the server's updated
+                            hNote */
+   DWORD      Unused[3]; /* Future use */
+} NOTES_HNOTE_MSG;
+```
+
 **Description :**
 
-This is the structure of the Notes/FX data that an OLE server's GetData method 
-sends to Notes to update an object embedded in a note. The hNote parameter is 
-the handle of a copy of the hFXNote that Notes sent to the OLE server 
-application in a previous NOTES_DOC_INFO_MSG.
+This is the structure of the Notes/FX data that an OLE server's GetData method sends to Notes to update an object embedded in a note. The hNote parameter is the handle of a copy of the hFXNote that Notes sent to the OLE server application in a previous NOTES_DOC_INFO_MSG.
+
 
 **Sample Usage :**
 ```
  
 ```
+
 **See Also :**
 [DOC_FLAGS_xxx](/domino-c-api-docs/reference/Symb/DOC_FLAGS_xxx)
 [DOC_OPENMODE_xxx](/domino-c-api-docs/reference/Symb/DOC_OPENMODE_xxx)

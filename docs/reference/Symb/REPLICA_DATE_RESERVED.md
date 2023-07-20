@@ -4,10 +4,15 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Used in ID.Date member of the DBREPLICAINFO structure to escape to reserved 
-REPLICA_ID_xxx.
+Used in ID.Date member of the DBREPLICAINFO structure to escape to reserved REPLICA_ID_xxx.
+
 
 **See Also :**
 [DBREPLICAINFO](/domino-c-api-docs/reference/Data/DBREPLICAINFO)

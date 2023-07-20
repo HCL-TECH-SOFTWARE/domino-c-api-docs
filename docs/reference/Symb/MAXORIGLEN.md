@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum $Orig logging string size.
+
 
 **See Also :**
 ---

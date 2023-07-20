@@ -4,7 +4,18 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	NORMAL_BACK_COLOR	  -  Normal Back Color
+
+	SELECTED_BACK_COLOR	  -  Selected Back Color
+
+	MOUSE_OVER_BACK_COLOR	  -  Mouse Over Back Color
+
+
 **Description :**
+
 
 
 

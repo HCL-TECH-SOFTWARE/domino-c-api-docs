@@ -4,10 +4,15 @@
 ```
 #include <acl.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum length of a privilege or role name (not including the paretheses or 
-square bracket delimiters).
+Maximum length of a privilege or role name (not including the paretheses or square bracket delimiters).
+
 
 **See Also :**
 [ACL_PRIVCOUNT](/domino-c-api-docs/reference/Symb/ACL_PRIVCOUNT)

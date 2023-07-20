@@ -4,7 +4,18 @@
 ```
 #include <misc.h>
 ```
+
+**Symbolic Values :**
+
+	SEC_pwddigest_V1	  -  Original, insecure password digest
+
+	SEC_pwddigest_V2	  -  More secure, compatible with R6+
+
+	SEC_pwddigest_V3	  -  Even more secure compatible with 8.01+
+
+
 **Description :**
+
 
 
 

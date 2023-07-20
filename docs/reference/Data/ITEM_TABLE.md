@@ -4,17 +4,21 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   USHORT Length; /*  total length of this buffer */
+   USHORT Items;  /* number of items in the table */
+/* now come an array of ITEMs */
+/* now comes the packed text containing the item names. */
+} ITEM_TABLE;
+```
+
 **Description :**
 
-This is the structure used for item (field) summary buffers.  If you specify 
-the SEARCH_SUMMARY flag in NSFSearch, then your action routine receives a 
-pointer to a summary buffer in the third (ITEM_TABLE far *summary_info)   
-parameter. You will also receive a pointer to a summary buffer if you specifiy 
-READ_MASK_SUMMARY in NIFReadEntries. The information in this summary buffer 
-consists of an ITEM_TABLE structure, followed by an array of ITEM structures, 
-followed by a packed sequence of item names followed by a packed sequence of 
-item values.  Each item value includes the item's datatype. The item's datatype 
-is stored in the first USHORT of each item value.
+This is the structure used for item (field) summary buffers.  If you specify the SEARCH_SUMMARY flag in NSFSearch, then your action routine receives a pointer to a summary buffer in the third (ITEM_TABLE far *summary_info)   parameter. You will also receive a pointer to a summary buffer if you specifiy READ_MASK_SUMMARY in NIFReadEntries. The information in this summary buffer consists of an ITEM_TABLE structure, followed by an array of ITEM structures, followed by a packed sequence of item names followed by a packed sequence of item values.  Each item value includes the item's datatype. The item's datatype is stored in the first USHORT of each item value.
+
 
 **Sample Usage :**
 ```
@@ -52,6 +56,7 @@ STATUS PrintSummary (char *pSummary)
         pSummaryPos += sizeof(ITEM);
     }
 ```
+
 **See Also :**
 [ITEM](/domino-c-api-docs/reference/Data/ITEM)
 [NIFFindByKey](/domino-c-api-docs/reference/Func/NIFFindByKey)

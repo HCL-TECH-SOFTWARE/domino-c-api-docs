@@ -4,9 +4,15 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum size for a schedule list.
+
 
 **See Also :**
 [SCHED_LIST](/domino-c-api-docs/reference/Data/SCHED_LIST)

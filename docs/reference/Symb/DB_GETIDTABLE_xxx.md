@@ -4,7 +4,14 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Symbolic Values :**
+
+	DB_GETIDTABLE_VALIDATE	  -  If set, return only "validated" noteIDs.
+
+
 **Description :**
+
 
 
 

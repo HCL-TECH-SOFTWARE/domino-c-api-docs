@@ -4,11 +4,15 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDMAPELEMENT_VERSION1	  -  Version one
+
+
 **Description :**
 
-A CDMAPELEMENT record may be encapsulated within a CDBEGINRECORD and 
-CDENDRECORD.  This version number is applied to the Version member within a 
-CDBEGINRECORD and to the Version member within a CDENDRECORD.
+A CDMAPELEMENT record may be encapsulated within a CDBEGINRECORD and CDENDRECORD.  This version number is applied to the Version member within a CDBEGINRECORD and to the Version member within a CDENDRECORD.
 
 
 **See Also :**

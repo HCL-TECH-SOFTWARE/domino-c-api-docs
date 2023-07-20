@@ -4,9 +4,15 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum size of TextStyleName member of CDTEXTPROPERTY.
+
 
 **See Also :**
 [CDTEXTPROPERTY](/domino-c-api-docs/reference/Data/CDTEXTPROPERTY)

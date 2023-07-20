@@ -4,10 +4,14 @@
 ```
 #include <agents.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This value specifies the maximum length of ID name.  See SCRIPTCONTEXTDESCR for 
-more information.
+This value specifies the maximum length of ID name.  See <tt><font size="2">SCRIPTCONTEXTDESCR for more information.</font></tt>
 
 
 **See Also :**
