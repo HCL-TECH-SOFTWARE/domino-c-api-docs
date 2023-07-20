@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Public Address book (Domino Directory) template filename.
+
 
 **See Also :**
 ---

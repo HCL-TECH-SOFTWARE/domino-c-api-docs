@@ -4,12 +4,19 @@
 ```
 #include <editdflt.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-#define TABLE_PABFLAGS  PABFLAG_KEEP_TOGETHER | PABFLAG_KEEP_WITH_NEXT
+<tt>#define TABLE_PABFLAGS &nbsp;PABFLAG_KEEP_TOGETHER | PABFLAG_KEEP_WITH_NEXT</tt>
+<ul><br>
+<br>
+This set of paragraph attribute flags are used in the Flags member of the CDPABDEFINITION record to describe the paragraph attributes in a table cell.</ul>
 
-This set of paragraph attribute flags are used in the Flags member of the 
-CDPABDEFINITION record to describe the paragraph attributes in a table cell.
+
 
 **See Also :**
 [CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)

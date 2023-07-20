@@ -4,33 +4,55 @@
 ```
 #include <reg.h>
 ```
+
+**Definition :**
+```
+typedef struct
+	{
+	DWORD Size;   /* size of this structure - must initialize with sizeof 
+(REG_MAIL_INFO_EXT) */
+	WORD  MailSystem;
+	WORD  MailOwnerAccess;
+	DWORD DbQuotaSizeLimit;
+	DWORD DbQuotaWarningThreshold;
+	char  *pMailServerName;
+	char  *pMailFileName;
+	char  *pMailTemplateName;
+	char  *pMailForwardAddress;
+	char  *pMailACLManager;
+	DHANDLE hReplicaServers;
+	WORD OnDuplicate;  /* one of REG_FILE_DUP_XXX */
+
+	DWORD Reserved[4];
+	void *pReserved[4];
+	} REG_MAIL_INFO_EXT;
+
+
+```
+
 **Description :**
 
-This structure defines user registration extended mail creation information. 
-for the REGNewPerson function.  The entire structure must be initialized to 
-zero.
-
- The fields in the structure are (all fields that are not used must be NULL/O):
-
-Size    Size of this structure - must be initialized with sizeof 
-(REG_MAIL_INFO_EXT).
-MailSystem    Defines the type of mail system.
-MailOwnerAccess   Mail owner's ACL priviledges (see REG_MAIL_OWNER_ACL_xxx).
-DbQuotaSizeLimit   Mail file's size limit.   
-DbQuotaWarningThreshold  Mail file's warning threshold size.
-pMailServerName   Name of server the person's mail file will reside on.
-pMailFileName   Path name of 's mail file.
-pMailTemplateName         Name of mail template.
-pMailForwardAddress  Forwarding address of  a Domino domain or foreign mail 
-gateway.
-pMailACLManager   ACL Manager's name. 
-hReplicaServers   (Optional.) Handle to a text list of server names where 
-replica stubs of the mail file should be
-                               created.  The list should be constructed with 
-ListAllocate and ListAddEntry.  
+This structure defines user registration extended mail creation information. for the REGNewPerson function.  The entire structure must be initialized to zero.
+<ul><br>
+<br>
+ The fields in the structure are (all fields that are not used must be NULL/O):<br>
+<br>
+Size				Size of this structure - must be initialized with sizeof (REG_MAIL_INFO_EXT).<br>
+MailSystem				Defines the type of mail system.<br>
+MailOwnerAccess			Mail owner's ACL priviledges (see REG_MAIL_OWNER_ACL_xxx).<br>
+DbQuotaSizeLimit			Mail file's size limit.			<br>
+DbQuotaWarningThreshold		Mail file's warning threshold size.<br>
+pMailServerName			Name of server the person's mail file will reside on.<br>
+pMailFileName			Path name of 's mail file.<br>
+pMailTemplateName		       Name of mail template.<br>
+pMailForwardAddress		Forwarding address of  a Domino domain or foreign mail gateway.<br>
+pMailACLManager			ACL Manager's name.	<br>
+hReplicaServers			(Optional.) Handle to a text list of server names where replica stubs of the mail file should be<br>
+                               created.  The list should be constructed with ListAllocate and ListAddEntry.  </ul>
     OnDuplicate                   one of REG_FILE_DUP_XXX.
-Reserved    Reserved - must be 0.
-pReserved    Reserved - must be NULL.
+<ul>Reserved				Reserved - must be 0.<br>
+pReserved				Reserved - must be NULL.</ul>
+
 
 
 **See Also :**

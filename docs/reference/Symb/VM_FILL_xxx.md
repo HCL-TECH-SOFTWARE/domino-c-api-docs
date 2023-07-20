@@ -4,10 +4,16 @@
 ```
 #include <vmods.h>
 ```
+
+**Symbolic Values :**
+
+	VM_FILL_SOLID	  -  The area is filled with a solid color.
+
+
 **Description :**
 
-These are the different types of area fills that may be found in the graphical 
-elements of a Navigator.
+These are the different types of area fills that may be found in the graphical elements of a Navigator.
+
 
 **See Also :**
 [VIEWMAP_POLYGON_RECORD](/domino-c-api-docs/reference/Data/VIEWMAP_POLYGON_RECORD)

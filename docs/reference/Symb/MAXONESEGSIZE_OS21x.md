@@ -4,11 +4,17 @@
 ```
 #include <osmem.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-***OBSOLETE***
-
+***OBSOLETE***<br>
+<br>
 Maximum single-segment memory object size for OS/2.
+
 
 **See Also :**
 ---

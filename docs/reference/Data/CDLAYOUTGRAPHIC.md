@@ -4,18 +4,27 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   BSIG           Header;
+   ELEMENTHEADER  ElementHeader;
+   DWORD          Flags;
+   BYTE           Reserved[16];
+} CDLAYOUTGRAPHIC;
+```
+
 **Description :**
 
-A graphical element in a layout region of a form is defined by a 
-CDLAYOUTGRAPHIC record.  This record must be between a CDLAYOUT record and a 
-CDLAYOUTEND record.  This record is usually followed by other CD records 
-identifying text,  graphical, or action elements associated with the graphical 
-element.  The fields in this record are:
+A graphical element in a layout region of a form is defined by a CDLAYOUTGRAPHIC record.  This record must be between a CDLAYOUT record and a CDLAYOUTEND record.  This record is usually followed by other CD records identifying text,  graphical, or action elements associated with the graphical element.  The fields in this record are:<br>
 
-Header Defines this composite data item as a CDLAYOUTGRAPHIC item.
-ElementHeader Structure containing graphical attributes of the element (see 
-ELEMENTHEADER).
-Flags Flags for this element (see LAYOUT_GRAPHIC_FLAG_xxx).
+<ul>
+<ul>Header	Defines this composite data item as a CDLAYOUTGRAPHIC item.<br>
+ElementHeader	Structure containing graphical attributes of the element (see ELEMENTHEADER).<br>
+Flags	Flags for this element (see LAYOUT_GRAPHIC_FLAG_xxx).</ul>
+</ul>
+
 
 
 **See Also :**

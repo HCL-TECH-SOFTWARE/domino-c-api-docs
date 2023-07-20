@@ -4,9 +4,15 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Default limit on nesting of referrals.
+
 
 **See Also :**
 ---

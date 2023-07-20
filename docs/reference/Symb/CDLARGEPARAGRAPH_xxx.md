@@ -4,7 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDLARGEPARAGRAPH_BEGIN	  -  Marks the beginning of CDLARGEPARAGRAPH information.
+
+	CDLARGEPARAGRAPH_END	  -  Marks the end of CDLARGEPARAGRAPH information.
+
+
 **Description :**
+
 
 
 

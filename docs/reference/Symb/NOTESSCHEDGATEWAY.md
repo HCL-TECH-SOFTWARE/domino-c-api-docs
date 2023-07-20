@@ -4,9 +4,15 @@
 ```
 #include <schgtw.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Message queue name for a Domino schedule gateway.
+
 
 **See Also :**
 [SchMsgQHandles_New](/domino-c-api-docs/reference/Func/SchMsgQHandles_New)

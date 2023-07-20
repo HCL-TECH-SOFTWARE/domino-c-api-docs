@@ -4,10 +4,15 @@
 ```
 #include <extmgr.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-The maximum authentication name length (1024) of the EM_SECAUTHENTICATION 
-notification's pName parameter.
+The maximum authentication name length (1024) of the EM_SECAUTHENTICATION notification's pName parameter.
+
 
 **See Also :**
 [EM_xxx](/domino-c-api-docs/reference/Symb/EM_xxx)

@@ -4,9 +4,15 @@
 ```
 #include <misc.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum string size supported for OSLoadString.
+
 
 **See Also :**
 [OSLoadString](/domino-c-api-docs/reference/Func/OSLoadString)

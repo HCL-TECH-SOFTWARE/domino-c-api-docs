@@ -4,29 +4,47 @@
 ```
 #include <ossignal.h>
 ```
+
+**Definition :**
+```
+typedef void (LNCALLBACKPTR OSSIGREPLPROC)(
+   WORD State,
+   char far *pText1,
+   char far *pText2);
+```
+
 **Description :**
 
-Definition of a pointer to a function that will handle the replication state 
-signal.  
+Definition of a pointer to a function that will handle the replication state signal.  <br>
+<br>
+This replication state handler requires three parameters:<br>
+<br>
+   <b>State </b>- Values are defined in REPL_SIGNAL_xxx.<br>
+<br>
+    <b>pText1 </b>- See the following table for detail.<br>
+<br>
+            <b>pText2 </b>- See the following table for detail.<br>
+ <br>
 
-This replication state handler requires three parameters:
+<table width="100%" border="1">
+<tr valign="top"><td width="33%">State</td><td width="33%">pText1</td><td width="33%">pText2</td></tr>
 
-   State - Values are defined in REPL_SIGNAL_xxx.
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_IDLE</b></td><td width="33%">None</td><td width="33%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
 
-    pText1 - See the following table for detail.
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_PICKSERVER</b></td><td width="33%">None</td><td width="33%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
 
-            pText2 - See the following table for detail.
- 
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_CONNECTING</b></td><td width="33%">pServer</td><td width="33%">pPort</td></tr>
 
-State	pText1	pText2
-REPL_SIGNAL_IDLE	None	
-REPL_SIGNAL_PICKSERVER	None	
-REPL_SIGNAL_CONNECTING	pServer	pPort
-REPL_SIGNAL_SEARCHING	pServer	pPort
-REPL_SIGNAL_SENDING	pServerFile	pLocalFile
-REPL_SIGNAL_RECEIVING	pServerFile	pLocalFile
-REPL_SIGNAL_SEARCHINGDOCS	pSrcFile	
-REPL_SIGNAL_DONEFILE	pLocalFile	pReplFileStats
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_SEARCHING</b></td><td width="33%">pServer</td><td width="33%">pPort</td></tr>
+
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_SENDING</b></td><td width="33%">pServerFile</td><td width="33%">pLocalFile</td></tr>
+
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_RECEIVING</b></td><td width="33%">pServerFile</td><td width="33%">pLocalFile</td></tr>
+
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_SEARCHINGDOCS</b></td><td width="33%">pSrcFile</td><td width="33%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td></tr>
+
+<tr valign="top"><td width="33%"><b>REPL_SIGNAL_DONEFILE</b></td><td width="33%">pLocalFile</td><td width="33%">pReplFileStats</td></tr>
+</table>
 
 
 

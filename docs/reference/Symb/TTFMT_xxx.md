@@ -4,11 +4,20 @@
 ```
 #include <misc.h>
 ```
+
+**Symbolic Values :**
+
+	TTFMT_FULL	  -  Time format is: hour, minute, and second
+
+	TTFMT_PARTIAL	  -  Time format is: hour and minute
+
+	TTFMT_HOUR	  -  Time format is: hour
+
+
 **Description :**
 
-These definitions specify the format for character time/date strings. Use these 
-definitions when you set up the TFMT structure that controls the time/date 
-format.
+These definitions specify the format for character time/date strings. Use these definitions when you set up the TFMT structure that controls the time/date format.
+
 
 **See Also :**
 [TFMT](/domino-c-api-docs/reference/Data/TFMT)

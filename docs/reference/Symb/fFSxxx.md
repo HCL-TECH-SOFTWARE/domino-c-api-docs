@@ -4,7 +4,20 @@
 ```
 #include <fsods.h>
 ```
+
+**Symbolic Values :**
+
+	fFSBorderEnable	  -  Set if BorderEnable is specified
+
+	fFSFrameBorderDims	  -  Set if FrameBorderWidth is specified
+
+	fFSFrameSpacingDims	  -  Set if FrameSpacingWidth is specified
+
+	fFSFrameBorderColor	  -  Set if FrameBorderColor is specified
+
+
 **Description :**
+
 
 
 

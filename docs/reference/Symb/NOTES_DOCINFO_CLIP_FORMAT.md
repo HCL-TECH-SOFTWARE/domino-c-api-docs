@@ -4,10 +4,15 @@
 ```
 #include <olenotes.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This symbol represents the Windows clipboard format string registered by the 
-Notes workstation for NOTES_DOC_INFO_MSG.
+This symbol represents the Windows clipboard format string registered by the Notes workstation for NOTES_DOC_INFO_MSG.
+
 
 **See Also :**
 [NOTES_DOC_INFO_MSG](/domino-c-api-docs/reference/Data/NOTES_DOC_INFO_MSG)

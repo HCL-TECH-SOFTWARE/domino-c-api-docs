@@ -4,12 +4,21 @@
 ```
 #include <xxxerr.h>
 ```
+
+**Symbolic Values :**
+
+	ERR_xxx	  -  see Description
+
+
 **Description :**
 
 Example (from nsferr.h):
+<ul><br>
+<br>
+<tt><font size="2">#define &nbsp; &nbsp; ERR_NOT_NSF &nbsp; PKG_NSF+1<br>
+ &nbsp;errortext(ERR_NOT_NSF, &quot;File is not a database&quot;)</font></tt></ul>
 
-#define     ERR_NOT_NSF   PKG_NSF+1
-  errortext(ERR_NOT_NSF, "File is not a database")
+
 
 **Sample Usage :**
 ```
@@ -24,6 +33,7 @@ if (error = NSFDbOpen(szName))
     return;
 }
 ```
+
 **See Also :**
 [ERR](/domino-c-api-docs/reference/Func/ERR)
 [errortext](/domino-c-api-docs/reference/Symb/errortext)

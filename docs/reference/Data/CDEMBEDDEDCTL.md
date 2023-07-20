@@ -4,21 +4,41 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   WSIG  Header;         /* Signature and length of this record. */
+   DWORD CtlStyle; 
+   WORD  Flags;
+   WORD  Width;
+   WORD  Height;
+   WORD  Version;
+   WORD  CtlType;
+   WORD  MaxChars;
+   WORD  MaxLines;
+   WORD  Percentage;
+   DWORD Spare[3];
+} CDEMBEDDEDCTL;
+```
+
 **Description :**
 
 This CD record may further define attributes within a CDFIELD such as tab order.
-
-Header 
-CtlStyle  Embedded control Style, see EC_STYLE_xxx
-Flags  Embedded control Flags, see EC_FLAG_xxx
-Width  Width of embedded control
-Height  Height of embedded control
-Version  Embedded control version, see EMBEDDEDCTL_VERSIONxxx
-CtlType  Embedded control type, see EBMEDDEDCTL_xxx
-MaxChars  Maximum Characters
-MaxLines  Maximum Lines
-Percentage
-Spare[3]
+<ul><br>
+<br>
+Header	<br>
+CtlStyle		Embedded control Style, see EC_STYLE_xxx<br>
+Flags		Embedded control Flags, see EC_FLAG_xxx<br>
+Width		Width of embedded control<br>
+Height		Height of embedded control<br>
+Version		Embedded control version, see EMBEDDEDCTL_VERSIONxxx<br>
+CtlType		Embedded control type, see EBMEDDEDCTL_xxx<br>
+MaxChars		Maximum Characters<br>
+MaxLines		Maximum Lines<br>
+Percentage<br>
+Spare[3]<br>
+</ul>
 
 
 

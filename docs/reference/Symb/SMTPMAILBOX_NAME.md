@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 SMTP MTA mailbox filename.
+
 
 **See Also :**
 ---

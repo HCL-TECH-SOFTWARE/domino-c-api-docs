@@ -4,18 +4,32 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct
+ {
+ BSIG Header;
+ BYTE Repeat;  /*  one of REPEAT_ (see above) */
+ BYTE bReserved;
+ LENGTH_VALUE lvReservedX;
+ LENGTH_VALUE lvReservedY;
+ DWORD dwReserved[4];
+ } CDBACKGROUNDPROPERTIES;
+```
+
 **Description :**
 
-This CD Record gives information pertaining to Background Properties for a box. 
-A CDBACKGROUNDPROPERTIES record may be encapsulated within a CDBEGINRECORD and 
-CDENDRECORD.  
+This CD Record gives information pertaining to Background Properties for a box. A CDBACKGROUNDPROPERTIES record may be encapsulated within a CDBEGINRECORD and CDENDRECORD.  
+<ul><br>
+<br>
+Header		Identifies the record as a CDBACKGROUNDPROPERTIES.<br>
+Repeat		see REPEAT_xxx <br>
+bReserved		Not Used.<br>
+lvReservedX	Not Used.<br>
+lvReservedY	Not Used.<br>
+dwReserved	Not Used.</ul>
 
-Header  Identifies the record as a CDBACKGROUNDPROPERTIES.
-Repeat  see REPEAT_xxx 
-bReserved  Not Used.
-lvReservedX Not Used.
-lvReservedY Not Used.
-dwReserved Not Used.
 
 
 **See Also :**

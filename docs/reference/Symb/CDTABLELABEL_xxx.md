@@ -4,7 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDTABLELABEL_TABLABEL	  -  Tab label
+
+	CDTABLELABEL_ROWLABEL	  -  Row label
+
+
 **Description :**
+
 
 
 

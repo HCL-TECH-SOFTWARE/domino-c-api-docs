@@ -4,9 +4,15 @@
 ```
 #include <ldap.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-The LDAP local host - "LocalHost".
+The LDAP local host - &quot;LocalHost&quot;.
+
 
 **See Also :**
 ---

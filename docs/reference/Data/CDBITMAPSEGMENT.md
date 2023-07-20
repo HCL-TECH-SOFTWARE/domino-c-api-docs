@@ -4,36 +4,35 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   LSIG  Header;  /* Signature and Length */
+   DWORD Reserved[2]; /* Reserved for future use */
+   WORD  ScanlineCount; /* Number of compressed scanlines in seg */
+   WORD  DataSize; /* Size, in bytes, of compressed data */
+/* Compressed raster data for the segment follows... */
+} CDBITMAPSEGMENT;
+```
+
 **Description :**
 
-The bitmap data is divided into segments to optimize data storage within 
-Domino.  It is recommended that each segment be no larger than 10k bytes.  For 
-best display speed, the segments sould be as large as possible, up to the 
-practical 10k limit.  A scanline must be contained within a single segment, and 
-cannot be divided between two segments.  A bitmap must contain at least one 
-segment, but may have many segments.
+The bitmap data is divided into segments to optimize data storage within Domino.  It is recommended that each segment be no larger than 10k bytes.  For best display speed, the segments sould be as large as possible, up to the practical 10k limit.  A scanline must be contained within a single segment, and cannot be divided between two segments.  A bitmap must contain at least one segment, but may have many segments.<br>
+<br>
+Bitmap data is compressed using a simple run-length encoding.  Each raster line is encoded separately (i. e., the run length of a compressed segment won't exceed the length of a raster line).  Raster lines are not padded beyond a byte boundary;  each scanline ends on the byte boundary defined by the width of the bitmap.<br>
+<br>
+In the run-length encoding scheme, a flag/length field is followed by the byte or bytes to be repeated.  The flag occupies the high-order 2 bits.  The length field may be either 6 bits (so the flag/length field occupies one byte) or 14 bits (so the flag/length field occupies two bytes), indicated by the two-bit flag values:<br>
+<br>
+	11 = 6-bit repeat count of compressed pixels<br>
+	10 = 14-bit count of compressed pixels to repeat<br>
+	01 = 14-bit count of pattern entries to repeat (see CDPATTERNTABLE)<br>
+        	00 = 6-bit count of raw (uncompressed) pixels<br>
+<br>
+The illustrations shown below under &quot;Sample Code&quot; may make this clearer.<br>
+<br>
+For monochrome or 8-bit color bitmaps, there is one byte of data following the flag/length field;  for 16-bit color bitmaps, there are two bytes of data.
 
-Bitmap data is compressed using a simple run-length encoding.  Each raster line 
-is encoded separately (i. e., the run length of a compressed segment won't 
-exceed the length of a raster line).  Raster lines are not padded beyond a byte 
-boundary;  each scanline ends on the byte boundary defined by the width of the 
-bitmap.
-
-In the run-length encoding scheme, a flag/length field is followed by the byte 
-or bytes to be repeated.  The flag occupies the high-order 2 bits.  The length 
-field may be either 6 bits (so the flag/length field occupies one byte) or 14 
-bits (so the flag/length field occupies two bytes), indicated by the two-bit 
-flag values:
-
- 11 = 6-bit repeat count of compressed pixels
- 10 = 14-bit count of compressed pixels to repeat
- 01 = 14-bit count of pattern entries to repeat (see CDPATTERNTABLE)
-         00 = 6-bit count of raw (uncompressed) pixels
-
-The illustrations shown below under "Sample Code" may make this clearer.
-
-For monochrome or 8-bit color bitmaps, there is one byte of data following the 
-flag/length field;  for 16-bit color bitmaps, there are two bytes of data.
 
 **Sample Usage :**
 ```
@@ -90,6 +89,7 @@ traditional 24 bit representation, and still yields 32768
 possible colors (5 bits of R,G,B intensity)
 
 ```
+
 **See Also :**
 [CDGRAPHIC](/domino-c-api-docs/reference/Data/CDGRAPHIC)
 [CDBITMAPHEADER](/domino-c-api-docs/reference/Data/CDBITMAPHEADER)

@@ -4,7 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	FLOAT_LEFT	  -  Float position is left.
+
+	FLOAT_RIGHT	  -  Float position is right.
+
+
 **Description :**
+
 
 
 

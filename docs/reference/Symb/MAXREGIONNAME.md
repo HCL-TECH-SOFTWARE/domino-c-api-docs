@@ -4,7 +4,14 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	MAXREGIONNAME	  -  35
+
+
 **Description :**
+
 
 
 

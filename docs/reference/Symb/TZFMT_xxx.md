@@ -4,11 +4,20 @@
 ```
 #include <misc.h>
 ```
+
+**Symbolic Values :**
+
+	TZFMT_NEVER	  -  All times converted to this time zone
+
+	TZFMT_SOMETIMES	  -  Show only when outside this time zone
+
+	TZFMT_ALWAYS	  -  Show time zone on all times, regardless
+
+
 **Description :**
 
-These definitions specify the format for character time/date strings. Use these 
-definitions when you set up the TFMT structure that controls the time/date 
-format.
+These definitions specify the format for character time/date strings. Use these definitions when you set up the TFMT structure that controls the time/date format.
+
 
 **See Also :**
 [CDEXT2FIELD](/domino-c-api-docs/reference/Data/CDEXT2FIELD)

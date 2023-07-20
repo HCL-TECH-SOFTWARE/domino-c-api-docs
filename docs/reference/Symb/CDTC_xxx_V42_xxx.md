@@ -4,13 +4,29 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDTC_S_V42_Left	  -  Number of bits to shift for the left border field.
+
+	CDTC_M_V42_Left	  -  Bit mask for the left border field.
+
+	CDTC_S_V42_Right	  -  Number of bits to shift for the right border field.
+
+	CDTC_M_V42_Right	  -  Bit mask for the right border field.
+
+	CDTC_S_V42_Top	  -  Number of bits to shift for the top border field.
+
+	CDTC_M_V42_Top	  -  Bit mask for the top border field.
+
+	CDTC_S_V42_Bottom	  -  Number of bits to shift for the bottom border field.
+
+	CDTC_M_V42_Bottom	  -  Bit mask for the bottom border field.
+
+
 **Description :**
 
-The border width for a Domino Release 4.5 or later table cell is stored in the 
-v42Border field of the CDTABLECELL record.  The information for each of the 4 
-borders of the cell is stored in a separate 4-bit field.  These symbols are 
-used to acess the individual fields;  the values stored in these fields range 
-from 0 to 10 (0x0000 to 0x1010).
+The border width for a Domino Release 4.5 or later table cell is stored in the v42Border field of the CDTABLECELL record.  The information for each of the 4 borders of the cell is stored in a separate 4-bit field.  These symbols are used to acess the individual fields;  the values stored in these fields range from 0 to 10 (0x0000 to 0x1010).
 
 
 **Sample Usage :**
@@ -42,6 +58,7 @@ void  LNPUBLIC   DumpCDTablecell( char * RecordPtr, DWORD RecordLength )
     /* ... */
 }
 ```
+
 **See Also :**
 [CDTABLECELL](/domino-c-api-docs/reference/Data/CDTABLECELL)
 ---

@@ -4,7 +4,14 @@
 ```
 #include <oooapi.h>
 ```
+
+**Definition :**
+```
+typedef MEMHANDLE  OOOCTXHANDLE;
+```
+
 **Description :**
+
 
 
 

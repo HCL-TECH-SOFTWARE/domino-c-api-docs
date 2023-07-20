@@ -4,9 +4,15 @@
 ```
 #include <acl.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Number of access control list privilege bits supported by Domino and Notes.
+
 
 **See Also :**
 [ACLInvertPriv](/domino-c-api-docs/reference/Func/ACLInvertPriv)

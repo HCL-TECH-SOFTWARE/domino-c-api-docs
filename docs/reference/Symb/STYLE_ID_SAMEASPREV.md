@@ -7,12 +7,18 @@
 
 	  STYLE_ID_SAMEASPREV);
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Used as an argument to CompoundTextAddTextExt to indicate that the new 
-paragraph should have the same style as the previous paragraph.
+Used as an argument to CompoundTextAddTextExt to indicate that the new paragraph should have the same style as the previous paragraph.
+
 
 **Parameters :**
+
 
 
 

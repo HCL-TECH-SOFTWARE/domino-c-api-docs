@@ -4,12 +4,23 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   BSIG  Header;
+   BYTE  Reserved[16];
+} CDLAYOUTEND;
+```
+
 **Description :**
 
-The CDLAYOUTEND record marks the end of the elements defining a layout region 
-within a form.  The fields in this record are:
+The CDLAYOUTEND record marks the end of the elements defining a layout region within a form.  The fields in this record are:<br>
 
-Header Defines this composite data item as a CDLAYOUTEND item.
+<ul>
+<ul>Header	Defines this composite data item as a CDLAYOUTEND item.</ul>
+</ul>
+
 
 
 **See Also :**

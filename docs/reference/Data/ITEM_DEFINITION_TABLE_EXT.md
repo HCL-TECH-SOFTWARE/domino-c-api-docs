@@ -4,20 +4,36 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   DWORD  Items;          /* number of items in the table */
+   DWORD  ItemDefArray;   /* Memory handle of ITEM_DEFINITION_EXT
+                             structures */
+   DWORD  NumSegments;    /* Number of non-null segments in
+                             ItemNameSegs */
+   DHANDLE ItemNameSegs[MAX_ITEMDEF_SEGMENTS]; /* Segments of
+                             packed text */
+   DWORD  ItemNameSegLengths[MAX_ITEMDEF_SEGMENTS]; /* Length of
+                             each non-null text segment */
+} ITEM_DEFINITION_TABLE_EXT;
+```
+
 **Description :**
 
-This table contains extended information for all the items defined in a 
-database.   The fields in the structure are:
+This table contains extended information for all the items defined in a database.   The fields in the structure are:
+<ul><br>
+<br>
+Items							The number of items in the table<br>
+ItemDefArray						Memory handle of ITEM_DEFINITION_EXT structures<br>
+NumSegments						Number of non-null segments of packed text.<br>
+ItemNameSegs[MAX_ITEMDEF_SEGMENTS]		An array of handles to non-null segments of packed text.<br>
+ItemNameSegLengths[MAX_ITEMDEF_SEGMENTS]	Length of each non-null text segment.<br>
+<br>
+Use the following NSF functions to extract data from this structure:<br>
+NSFItemDefExtEntries, NSFItemDefExtGetEntry.</ul>
 
-Items       The number of items in the table
-ItemDefArray      Memory handle of ITEM_DEFINITION_EXT structures
-NumSegments      Number of non-null segments of packed text.
-ItemNameSegs[MAX_ITEMDEF_SEGMENTS]  An array of handles to non-null segments of 
-packed text.
-ItemNameSegLengths[MAX_ITEMDEF_SEGMENTS] Length of each non-null text segment.
-
-Use the following NSF functions to extract data from this structure:
-NSFItemDefExtEntries, NSFItemDefExtGetEntry.
 
 
 **See Also :**

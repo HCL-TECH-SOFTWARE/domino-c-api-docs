@@ -4,13 +4,15 @@
 ```
 #include <alarm.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Clients to the alarms daemon should append the client name to the 
-MQPREFIX_FOR_CLIENT string in order to come up with a MQ Name to create before 
-registering with the alarms daemon for alarms.  Alarms daemon will use the name 
-<MQPREFIX_FOR_CLIENT><ClientName> as a string for opening the MQ for the client 
-and send alarms to it.
+Clients to the alarms daemon should append the client name to the MQPREFIX_FOR_CLIENT string in order to come up with a MQ Name to create before registering with the alarms daemon for alarms.  Alarms daemon will use the name &lt;MQPREFIX_FOR_CLIENT&gt;&lt;ClientName&gt; as a string for opening the MQ for the client and send alarms to it.
+
 
 **See Also :**
 [MQCreate](/domino-c-api-docs/reference/Func/MQCreate)

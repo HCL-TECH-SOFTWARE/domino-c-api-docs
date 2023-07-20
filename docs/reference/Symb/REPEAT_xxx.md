@@ -4,7 +4,26 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	REPEAT_UNKNOWN	  -  Unknown
+
+	REPEAT_ONCE	  -  Once
+
+	REPEAT_VERT	  -  Vertical
+
+	REPEAT_HORIZ	  -  Horizontal
+
+	REPEAT_BOTH	  -  Both
+
+	REPEAT_SIZE	  -  Size to fit
+
+	REPEAT_CENTER	  -  Center
+
+
 **Description :**
+
 
 
 

@@ -4,9 +4,15 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
  If the note has MIME parts, this Flag will allow it to be Notes signed.
+
 
 **See Also :**
 [NSFNoteSignExt3](/domino-c-api-docs/reference/Func/NSFNoteSignExt3)

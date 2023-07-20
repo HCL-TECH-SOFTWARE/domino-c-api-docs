@@ -4,20 +4,37 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNCALLBACKPTR NSFGETALLFOLDERCHANGESCALLBACK) (
+	void *Param, 
+	UNID *NoteUNID, 
+	HANDLE AddedNoteTable, 
+	HANDLE RemovedNoteTable);
+```
+
 **Description :**
 
 This callback function is implemented with the following parameters:  
-
+<ul>
+<ul><br>
 inputs:
-Param - Callback parameter passed into function.
-NoteUNID - Universal note ID of the folder.
-AddedNoteTable - Table of notes added to folder.
-RemovedNoteTable - Table of notes removed from folder.
-
-outputs: 
-STATUS - Status of the call: NOERROR. Any other status indicates an error 
-condition.
-
+<ul>
+<ul>Param - Callback parameter passed into function.<br>
+NoteUNID - Universal note ID of the folder.<br>
+AddedNoteTable - Table of notes added to folder.<br>
+RemovedNoteTable - Table of notes removed from folder.</ul>
+</ul>
+<br>
+outputs:	
+<ul>
+<ul>STATUS - Status of the call: NOERROR. Any other status indicates an error condition.<br>
+<br>
+</ul>
+</ul>
+</ul>
+</ul>
 
 
 

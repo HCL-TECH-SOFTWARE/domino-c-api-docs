@@ -4,14 +4,21 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   USHORT ListEntries;
+/* now come the list entries */
+} LIST;
+```
+
 **Description :**
 
-This datatype is used by several data structures to specify that a field 
-contains a list of one or more values.  A list is made up of one or more items 
-of a datatype, separated by a delimiter.
+This datatype is used by several data structures to specify that a field contains a list of one or more values.  A list is made up of one or more items of a datatype, separated by a delimiter.<br>
+<br>
+The value in the ListEntries field of LIST is the number of items specified in a delimited list of items.<br>
 
-The value in the ListEntries field of LIST is the number of items specified in 
-a delimited list of items.
 
 
 **See Also :**

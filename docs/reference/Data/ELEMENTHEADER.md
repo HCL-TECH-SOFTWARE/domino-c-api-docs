@@ -4,19 +4,35 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   WORD        wLeft;
+   WORD        wTop;
+   WORD        wWidth;
+   WORD        wHeight;
+   FONTID      FontID;          /* Font ID */
+   BYTE        byBackColor;     /* Background color */
+   BYTE        bSpare;
+   COLOR_VALUE BackgroundColor; /* v5.0 background color */
+} ELEMENTHEADER;
+```
+
 **Description :**
 
-This structure contains the common fields for the graphical elements in a 
-layout region of a form.  The fields in this structure are:
+This structure contains the common fields for the graphical elements in a layout region of a form.  The fields in this structure are:
+<ul><br>
+<br>
+wLeft		Location of the left edge of the element in twips<br>
+wTop		Location of the top of the element in twips<br>
+wWidth		Width of the element in twips<br>
+wHeight		Height of the element in twips<br>
+FontID		Font used to display text in the element<br>
+byBackColor	Background color for the element<br>
+bSpare<br>
+BackgroundColor	Release 5.0 Backgroun color</ul>
 
-wLeft  Location of the left edge of the element in twips
-wTop  Location of the top of the element in twips
-wWidth  Width of the element in twips
-wHeight  Height of the element in twips
-FontID  Font used to display text in the element
-byBackColor Background color for the element
-bSpare
-BackgroundColor Release 5.0 Backgroun color
 
 
 **See Also :**

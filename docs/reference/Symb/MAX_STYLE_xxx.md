@@ -4,10 +4,18 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	MAX_STYLE_NAME	  -  35
+
+	MAX_STYLE_USERNAME	  -  128
+
+
 **Description :**
 
-Limits for Paragraph Attribute Block definition record (CDPABDEFINITION) 
-attributes.
+Limits for Paragraph Attribute Block definition record (CDPABDEFINITION) attributes.
+
 
 **See Also :**
 [CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)

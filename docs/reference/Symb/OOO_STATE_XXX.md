@@ -4,7 +4,18 @@
 ```
 #include <oooapi.h>
 ```
+
+**Symbolic Values :**
+
+	OOO_STATE_ENABLED	  -  
+
+	OOO_STATE_DISABLED	  -  
+
+	OOO_STATE_NOTSET	  -  
+
+
 **Description :**
+
 
 
 

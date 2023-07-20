@@ -4,9 +4,15 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 The maximum block size defined for a CDBLOBPART.
+
 
 **See Also :**
 ---
