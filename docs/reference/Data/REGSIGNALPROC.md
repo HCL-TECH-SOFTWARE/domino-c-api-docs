@@ -4,13 +4,18 @@
 ```
 #include <reg.h>
 ```
+
+**Definition :**
+```
+typedef void (LNCALLBACKPTR REGSIGNALPROC)(
+   char far * Message) /* Status string that may be displayed by
+                          the function */
+```
+
 **Description :**
 
-This data structure defines the syntax of the user-defined callback function 
-called by the user registration functions.  Specify a function that conforms to 
-this syntax as the signalstatus parameter to REGNewWorkstation and other 
-registration functions.  The user registration functions will call your 
-function to display status messages.
+This data structure defines the syntax of the user-defined callback function called by the user registration functions.  Specify a function that conforms to this syntax as the signalstatus parameter to REGNewWorkstation and other registration functions.  The user registration functions will call your function to display status messages.
+
 
 **Sample Usage :**
 ```
@@ -73,6 +78,7 @@ FreeProcInstance(lpProc);
     :
     :
 ```
+
 **See Also :**
 [REGNewWorkstation](/domino-c-api-docs/reference/Func/REGNewWorkstation)
 [REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)

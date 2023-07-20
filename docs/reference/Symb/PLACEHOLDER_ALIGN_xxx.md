@@ -4,7 +4,18 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	PLACEHOLDER_ALIGN_LEFT	  -  Text Alignment is Left.
+
+	PLACEHOLDER_ALIGN_CENTER	  -  Text Alignment is Center.
+
+	PLACEHOLDER_ALIGN_RIGHT	  -  Text Alignment is Right.
+
+
 **Description :**
+
 
 
 

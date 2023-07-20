@@ -4,10 +4,20 @@
 ```
 #include <misc.h>
 ```
+
+**Definition :**
+```
+typedef enum
+{
+	AMStringProperty = 1,  
+	PMStringProperty = 2
+} INTL_TIMEDATE_PROPERTY;
+```
+
 **Description :**
 
-Either an AMStringProperty value or a PMStringProperty value can be set using 
-the function IntlTIMEDATESetValue(..)
+Either an AMStringProperty value or a PMStringProperty value can be set using the function IntlTIMEDATESetValue(..)
+
 
 **See Also :**
 [IntlTIMEDATEConvertToText](/domino-c-api-docs/reference/Func/IntlTIMEDATEConvertToText)

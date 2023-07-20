@@ -4,33 +4,47 @@
 ```
 #include <ossignal.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNCALLBACKPTR OSSIGPROGRESSPROC)(
+   WORD Option,
+   void * Data1,
+   void * Data2);
+```
+
 **Description :**
 
-Definition of a pointer to a function that will handle the progress bar 
-signal.  The progress signal handler displays a progress bar.  The progress 
-position will generally start at 0 and end at Range.  The current progress 
-supplied is either absolute (SETPOS) or a delta from the previous progress 
-state (DELTAPOS).  As the operation which is supplying progress information is 
-peformed, the range may change.  If it does, an additional SETRANGE will be 
-signaled.
+Definition of a pointer to a function that will handle the progress bar signal.  The progress signal handler displays a progress bar.  The progress position will generally start at 0 and end at Range.  The current progress supplied is either absolute (SETPOS) or a delta from the previous progress state (DELTAPOS).  As the operation which is supplying progress information is peformed, the range may change.  If it does, an additional SETRANGE will be signaled.<br>
+<br>
+This signal handler requires three parameters:<br>
+<br>
+    Option - Values are defined in PROGRESS_SIGNAL_xxx.<br>
+<br>
+    Data1 - DWORD.  See the following table for detail.<br>
+                          <br>
+    Data2 - DWORD.  See the following table for detail.<br>
 
-This signal handler requires three parameters:
+<table width="100%" border="1">
+<tr valign="top"><td width="33%">Option</td><td width="33%">Data1</td><td width="33%">Data2</td></tr>
 
-    Option - Values are defined in PROGRESS_SIGNAL_xxx.
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_BEGIN</b></td><td width="33%">NULL</td><td width="33%">NULL</td></tr>
 
-    Data1 - DWORD.  See the following table for detail.
-                          
-    Data2 - DWORD.  See the following table for detail.
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_END</b></td><td width="33%">NULL</td><td width="33%">NULL</td></tr>
 
-Option	Data1	Data2
-PROGRESS_SIGNAL_BEGIN	NULL	NULL
-PROGRESS_SIGNAL_END	NULL	NULL
-PROGRESS_SIGNAL_SETRANGE	Range	NULL
-PROGRESS_SIGNAL_SETTEXT	pointer to the text (pText1)	NULL
-PROGRESS_SIGNAL_SETPOS	New progress bar position	NULL
-PROGRESS_SIGNAL_DELTAPOS	Delta of the progress bar position	NULL
-PROGRESS_SIGNAL_SETBYTERANGE	Total bytes	NULL
-PROGRESS_SIGNAL_SETBYTEPOS	Bytes done	NULL
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_SETRANGE</b></td><td width="33%">Range</td><td width="33%">NULL</td></tr>
+
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_SETTEXT</b></td><td width="33%">pointer to the text (pText1)</td><td width="33%">NULL</td></tr>
+
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_SETPOS</b></td><td width="33%">New progress bar position</td><td width="33%">NULL</td></tr>
+
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_DELTAPOS</b></td><td width="33%">Delta of the progress bar position</td><td width="33%">NULL</td></tr>
+
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_SETBYTERANGE</b></td><td width="33%">Total bytes</td><td width="33%">NULL</td></tr>
+
+<tr valign="top"><td width="33%"><b>PROGRESS_SIGNAL_SETBYTEPOS</b></td><td width="33%">Bytes done</td><td width="33%">NULL</td></tr>
+</table>
+
 
 
 **Sample Usage :**
@@ -68,6 +82,7 @@ for (i=2;i<1000;i++)
 (*ProgressProc)(PROGRESS_SIGNAL_END,NULL,NULL);
 
 ```
+
 **See Also :**
 [OSSIGPROC](/domino-c-api-docs/reference/Data/OSSIGPROC)
 [PROGRESS_SIGNAL_xxx](/domino-c-api-docs/reference/Symb/PROGRESS_SIGNAL_xxx)

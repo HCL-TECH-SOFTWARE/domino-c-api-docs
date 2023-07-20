@@ -4,7 +4,16 @@
 ```
 #include <editods.h>
 ```
+
+**Symbolic Values :**
+
+	CDLENGTH_FLAGS_AUTO	  -  corresponds to CSS "auto" value
+
+	CDLENGTH_FLAGS_INHERIT	  -  corresponds to CSS "inherit" value
+
+
 **Description :**
+
 
 
 

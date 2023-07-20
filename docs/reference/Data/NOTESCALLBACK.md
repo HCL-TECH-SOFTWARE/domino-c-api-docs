@@ -4,18 +4,20 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+#define NOTESCALLBACK LNCALLBACK
+```
+
 **Description :**
 
 ***OBSOLETE - Included for backward compatibility only***
+<ul><br>
+<br>
+This macro defines the calling convention used for callback functions - application functions called from within Notes.  In the mixed 32/16-bit model for OS/2 2.1, the application callback functions are 32-bit code.  Notes will attempt to call the function using the 16-bit Pascal calling convention.  To support this, the macro specifies that callback functions use the 16-bit &quot;_Far16 _Pascal&quot; calling convention.  Under Windows and OS/2 1.x, the calling convention used is &quot;FAR PASCAL&quot;.  On other platforms, this macro is null;  no special calling convention is used.</ul>
 
-This macro defines the calling convention used for callback functions - 
-application functions called from within Notes.  In the mixed 32/16-bit model 
-for OS/2 2.1, the application callback functions are 32-bit code.  Notes will 
-attempt to call the function using the 16-bit Pascal calling convention.  To 
-support this, the macro specifies that callback functions use the 16-bit 
-"_Far16 _Pascal" calling convention.  Under Windows and OS/2 1.x, the calling 
-convention used is "FAR PASCAL".  On other platforms, this macro is null;  no 
-special calling convention is used.
+
 
 **Sample Usage :**
 ```
@@ -58,6 +60,7 @@ STATUS NOTESCALLBACK print_fields (
         &db_handle,     /* argument to print_fields */
         NULL);          /* returned ending date (unused) */
 ```
+
 **See Also :**
 [LNCALLBACK](/domino-c-api-docs/reference/Data/LNCALLBACK)
 [NOTESAPI](/domino-c-api-docs/reference/Data/NOTESAPI)

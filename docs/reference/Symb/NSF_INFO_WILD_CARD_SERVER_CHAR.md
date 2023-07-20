@@ -4,10 +4,15 @@
 ```
 #include <nsfdb.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-This symbol specifies a wild card character.  This symbol is used as the first 
-character in a replica stub.
+This symbol specifies a wild card character.  This symbol is used as the first character in a replica stub.
+
 
 **See Also :**
 ---

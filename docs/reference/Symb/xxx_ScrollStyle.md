@@ -4,7 +4,18 @@
 ```
 #include <fsods.h>
 ```
+
+**Symbolic Values :**
+
+	ALWAYS_ScrollStyle	  -  SCROLLING = ALWAYS
+
+	NEVER_ScrollStyle	  -  SCROLLING = NEVER
+
+	AUTO_ScrollStyle	  -  SCROLLING = AUTO
+
+
 **Description :**
+
 
 
 

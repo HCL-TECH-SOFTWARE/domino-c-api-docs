@@ -4,9 +4,15 @@
 ```
 #include <addin.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Maximum size of a console command string.
+
 
 **See Also :**
 [NSFRemoteConsole](/domino-c-api-docs/reference/Func/NSFRemoteConsole)

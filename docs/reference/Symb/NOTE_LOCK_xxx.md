@@ -4,7 +4,18 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Symbolic Values :**
+
+	NOTE_LOCK_STATUS	  -  Return status of lock.
+
+	NOTE_LOCK_HARD	  -  Take out a hard note lock.
+
+	NOTE_LOCK_PROVISIONAL	  -  Take out a provisional hard note lock.
+
+
 **Description :**
+
 
 
 

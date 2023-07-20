@@ -4,23 +4,32 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   OBJECT_DESCRIPTOR Header; /* object header */
+   WORD FileNameLength;      /* length of file name */
+   WORD HostType;            /* text delimiters (HOST_xxx) */
+   WORD CompressionType;     /* compression used (COMPRESS_xxx) */
+   WORD FileAttributes;      /* orig. file attribs (ATTRIB_xxx) */
+   WORD Flags;               /* misc. flags (FILEFLAG_xxx) */
+   DWORD FileSize;           /* orig. file size */
+   TIMEDATE FileCreated;     /* orig. file date/time of creation */
+   TIMEDATE FileModified;    /* orig. file date/time of mod. */
+/* Now comes the file name... It is the original RELATIVE file path
+                                with no device specifiers */
+} FILEOBJECT;
+```
+
 **Description :**
 
-This is the strucure of a file attachment item.  For each file attached to a 
-note, an item with field name "$FILE" (ITEM_NAME_ATTACHMENT) and data type 
-TYPE_OBJECT is appended to the note.  The value of this item is a structure of 
-type FILEOBJECT.  Note that the data of the attached file is not stored in this 
-item. Rather, it is stored in an object identified by the RRV member of the 
-OBJECT_DESCRIPTOR.
+This is the strucure of a file attachment item.  For each file attached to a note, an item with field name &quot;$FILE&quot; (ITEM_NAME_ATTACHMENT) and data type TYPE_OBJECT is appended to the note.  The value of this item is a structure of type FILEOBJECT.  Note that the data of the attached file is not stored in this item. Rather, it is stored in an object identified by the RRV member of the OBJECT_DESCRIPTOR.<br>
+<br>
+For normal file attachments, you do not need to access the file attachment item directly. Use the functions NSFNoteAttachFile, NSFNoteDetachFile, and NSFNoteExtractFile to manipulate file attachments.<br>
+<br>
+If you do need to access items of type FILE_OBJECT directly, and if your API program runs on a non-Intel platform such as Unix, then you must convert the item data from Domino canonical format to Host format before accessing members of the FILEOBJECT structure.
 
-For normal file attachments, you do not need to access the file attachment item 
-directly. Use the functions NSFNoteAttachFile, NSFNoteDetachFile, and 
-NSFNoteExtractFile to manipulate file attachments.
-
-If you do need to access items of type FILE_OBJECT directly, and if your API 
-program runs on a non-Intel platform such as Unix, then you must convert the 
-item data from Domino canonical format to Host format before accessing members 
-of the FILEOBJECT structure.
 
 **Sample Usage :**
 ```
@@ -66,6 +75,7 @@ of the FILEOBJECT structure.
     free(szFileName);
 
 ```
+
 **See Also :**
 [NSFNoteAttachFile](/domino-c-api-docs/reference/Func/NSFNoteAttachFile)
 [NSFNoteDetachFile](/domino-c-api-docs/reference/Func/NSFNoteDetachFile)

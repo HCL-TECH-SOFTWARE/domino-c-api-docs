@@ -4,20 +4,26 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   USHORT ListEntries;
+   USHORT RangeEntries;
+/* now come the list entries */
+/* now come the range entries */
+
+} RANGE;
+```
+
 **Description :**
 
-This structure is used to specify a data field that contains more than one 
-value.  There are two ways to specify multiple values in a data field:  a list 
-of values or a range of values.  A list is made up of one or more items of a 
-datatype, separated by a delimiter.  A range is made up of consecutive data 
-given the start and end of the data.  Note that not all datatypes support both 
-lists and ranges.
+This structure is used to specify a data field that contains more than one value.  There are two ways to specify multiple values in a data field:  a list of values or a range of values.  A list is made up of one or more items of a datatype, separated by a delimiter.  A range is made up of consecutive data given the start and end of the data.  Note that not all datatypes support both lists and ranges.<br>
+<br>
+The value in the ListEntries field of RANGE is the number of items specified in a delimited list of items.<br>
+<br>
+The value in the RangeEntries field of RANGE is the number of item pairs specified as ranges.<br>
 
-The value in the ListEntries field of RANGE is the number of items specified in 
-a delimited list of items.
-
-The value in the RangeEntries field of RANGE is the number of item pairs 
-specified as ranges.
 
 
 **Sample Usage :**
@@ -56,6 +62,7 @@ error = NSFItemAppend (hNote, ITEM_SUMMARY,
 
 free (pvoidItemValue);
 ```
+
 **See Also :**
 [TYPE_xxx [NUMBER_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [NUMBER_RANGE])
 [TYPE_xxx [TIME_RANGE]](/domino-c-api-docs/reference/Symb/TYPE_xxx [TIME_RANGE])

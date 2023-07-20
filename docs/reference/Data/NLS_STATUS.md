@@ -4,19 +4,23 @@
 ```
 #include <nls.h>
 ```
+
+**Definition :**
+```
+typedef WORD NLS_STATUS;
+```
+
 **Description :**
 
-There are several C API functions that return values of type NLS_STATUS. A 
-return value of NLS_SUCCESS indicates that the function completed successfully. 
-The value of NLS_SUCCESS is 0.
+There are several C API functions that return values of type NLS_STATUS. A return value of NLS_SUCCESS indicates that the function completed successfully. The value of NLS_SUCCESS is 0.<br>
 
-Example:
-if (error = NLSFunction(...))
-     return (error);
+<ul>Example:<br>
+if (error = NLSFunction(...))<br>
+     return (error);</ul>
 
-The C API defines various non-zero NLS_STATUS values, or error codes, that are 
-returned by C API functions in response to various error conditions. Specific 
-NLS_STATUS error codes are defined in the C API header file nls.h.
+<ul>The C API defines various non-zero NLS_STATUS values, or error codes, that are returned by C API functions in response to various error conditions. Specific NLS_STATUS error codes are defined in the C API header file nls.h.</ul>
+
+
 
 **See Also :**
 [NLS_find](/domino-c-api-docs/reference/Func/NLS_find)

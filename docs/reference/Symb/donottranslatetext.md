@@ -4,21 +4,26 @@
 ```
 #include <globerr.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Assigns the given error code to the given text string.  When language 
-compiling, the macro actually amounts to nothing more than a comment.  When 
-resource compiling a module (RC), the macro is used to map error code numbers 
-to a corresponding text string.
+Assigns the given error code to the given text string.  When language compiling, the macro actually amounts to nothing more than a comment.  When resource compiling a module (RC), the macro is used to map error code numbers to a corresponding text string.
+<ul><br>
+<br>
+/*	&quot;donottranslatetext&quot; designates text which must not be translated.<br>
+	This text may be included in a resource file in order to facilitate<br>
+	configuration changes, such as a string which controls program behavior.<br>
+	Or it may be included in order to clearly indicate that the developer<br>
+	intends for the text to remain untranslated.<br>
+*/<br>
+<br>
+#define donottranslatetext(code,text)</ul>
 
-/* "donottranslatetext" designates text which must not be translated.
- This text may be included in a resource file in order to facilitate
- configuration changes, such as a string which controls program behavior.
- Or it may be included in order to clearly indicate that the developer
- intends for the text to remain untranslated.
-*/
 
-#define donottranslatetext(code,text)
 
 **See Also :**
 [errortext](/domino-c-api-docs/reference/Symb/errortext)

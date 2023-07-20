@@ -4,10 +4,16 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Definition :**
+```
+#define NOTEHANDLE DHANDLE
+```
+
 **Description :**
 
-A NOTEHANDLE is the method by which an API program refers to an individual 
-note, once the note is opened.
+A NOTEHANDLE is the method by which an API program refers to an individual note, once the note is opened.
+
 
 **See Also :**
 [NSFNoteOpen](/domino-c-api-docs/reference/Func/NSFNoteOpen)

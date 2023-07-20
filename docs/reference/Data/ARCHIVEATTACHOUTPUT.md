@@ -4,17 +4,29 @@
 ```
 #include <archsvc.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNCALLBACKPTR ARCHIVEATTACHOUTPUT)
+	 (
+	 const BYTE *Buffer,
+	 DWORD BufferSize,
+	 BOOL bLastBuffer,
+	 STATUS retError,
+	 void *pUserCtx);
+```
+
 **Description :**
 
-Can be called many times for each attachment.
-	Inputs:
-	 Buffer - Contains attachment data.
-	 BufferSize - Size of Buffer.
-	 bLastBuffer - TRUE when we are sending the last buffer.
-	 pUserCtx - Caller-defined context structure.
-	Returns:
-	 NOERROR if successful, error status from lower level functions 
-otherwise.
+Can be called many times for each attachment.<br>
+	Inputs:<br>
+		Buffer - Contains attachment data.<br>
+		BufferSize - Size of Buffer.<br>
+		bLastBuffer - TRUE when we are sending the last buffer.<br>
+		pUserCtx - Caller-defined context structure.<br>
+	Returns:<br>
+		NOERROR if successful, error status from lower level functions otherwise.
+
 
 **See Also :**
 [ARCHIVEATTACHINIT](/domino-c-api-docs/reference/Data/ARCHIVEATTACHINIT)

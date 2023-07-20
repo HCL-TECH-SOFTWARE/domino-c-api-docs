@@ -4,7 +4,14 @@
 ```
 #include <lber.h>
 ```
+
+**Definition :**
+```
+typedef unsigned long ber_tag_t;
+```
+
 **Description :**
+
 
 
 

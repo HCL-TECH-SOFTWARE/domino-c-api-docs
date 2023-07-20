@@ -4,9 +4,15 @@
 ```
 #include <event.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Value for the Version member of the EVENT_DATA structure.
+
 
 **See Also :**
 [EVENT_DATA](/domino-c-api-docs/reference/Data/EVENT_DATA)

@@ -4,9 +4,15 @@
 ```
 #include <global.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-A value logically defined as "Not FALSE."
+A value logically defined as &quot;Not FALSE.&quot;
+
 
 **See Also :**
 ---

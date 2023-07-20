@@ -4,10 +4,15 @@
 ```
 #include <schgtw.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Message queue name for a Domino schedule gateway for Calendar Connector 
-(CalConn) to use.
+Message queue name for a Domino schedule gateway for Calendar Connector (CalConn) to use.
+
 
 **See Also :**
 [SchMsgQHandles_New](/domino-c-api-docs/reference/Func/SchMsgQHandles_New)

@@ -4,9 +4,16 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+#define FLAG unsigned
+```
+
 **Description :**
 
 FLAG = 1-bit boolean value, can be a bit field (used in structures)
+
 
 **See Also :**
 [BOOL](/domino-c-api-docs/reference/Data/BOOL)

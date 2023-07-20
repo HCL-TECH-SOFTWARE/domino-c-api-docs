@@ -4,7 +4,14 @@
 ```
 #include <nlookup.h>
 ```
+
+**Symbolic Values :**
+
+	fLookupAuthenticatedKerberosName	  -  Indicates the user name is a Kerberos,see NABLookupAuthenticatedUser
+
+
 **Description :**
+
 
 
 

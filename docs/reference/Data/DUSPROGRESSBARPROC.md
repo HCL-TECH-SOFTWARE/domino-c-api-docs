@@ -4,10 +4,19 @@
 ```
 #include <dus.h>
 ```
+
+**Definition :**
+```
+typedef void (LNCALLBACKPTR DUSPROGRESSBARPROC)(
+   DWORD  Range,
+   DWORD  Position,
+   char * MessageText);
+```
+
 **Description :**
 
-In DUSStart(), DUSPROGRESSBARPROC is declared.  This allows the ability to 
-display a progress bar status within a DUS application.
+In DUSStart(), DUSPROGRESSBARPROC is declared.  This allows the ability to display a progress bar status within a DUS application.
+
 
 **Sample Usage :**
 ```
@@ -45,6 +54,7 @@ for(i=0, index=0; i < *pNumUsersReturned; i++)
 pDUSCtx->ProgressBarProc(*pNumUsersReturned, *pNumUsersReturned, Message); /* 
 Reset Progress Bar */
 ```
+
 **See Also :**
 [DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
 ---

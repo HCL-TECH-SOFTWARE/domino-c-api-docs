@@ -4,9 +4,16 @@
 ```
 #include <ldap.h>
 ```
+
+**Definition :**
+```
+typedef struct ldap LDAP;
+```
+
 **Description :**
 
 Structure representing an ldap connection.
+
 
 **See Also :**
 ---

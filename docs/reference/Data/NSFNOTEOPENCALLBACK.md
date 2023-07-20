@@ -4,20 +4,37 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNCALLBACKPTR NSFNOTEOPENCALLBACK) (
+	void *Param, 
+	NOTEHANDLE hNote, 
+	DWORD NoteID, 
+	STATUS status);"
+```
+
 **Description :**
 
 This callback function is implemented with the following parameters:  
-
+<ul>
+<ul><br>
 inputs:
-Param - Callback parameter.
-hNote - Note handle.
-NoteID - Note ID.
-STATUS - Status of the call: NOERROR. Any other status indicates an error 
-condition.
+<ul>
+<ul>Param - Callback parameter.<br>
+hNote - Note handle.<br>
+NoteID - Note ID.<br>
+STATUS - Status of the call: NOERROR. Any other status indicates an error condition.</ul>
+</ul>
+<br>
+outputs:	
+<ul>
+<ul>STATUS - Status of the call: NOERROR. Any other status indicates an error condition.</ul>
+</ul>
+</ul>
+</ul>
 
-outputs: 
-STATUS - Status of the call: NOERROR. Any other status indicates an error 
-condition.
+
 
 **See Also :**
 [NSFDbGetNotes](/domino-c-api-docs/reference/Func/NSFDbGetNotes)

@@ -4,11 +4,15 @@
 ```
 #include <names.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum size for the number of characters in the Location parameter of 
-REGNewServer, REGNewServerExtended, REGNewWorkstation and 
-REGNewWorkstationExt.  This size includes the terminating null.
+Maximum size for the number of characters in the Location parameter of REGNewServer, REGNewServerExtended, REGNewWorkstation and REGNewWorkstationExt.  This size includes the terminating null.
+
 
 **See Also :**
 [REGNewServer](/domino-c-api-docs/reference/Func/REGNewServer)

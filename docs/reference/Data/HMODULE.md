@@ -4,9 +4,16 @@
 ```
 #include <global.h>
 ```
+
+**Definition :**
+```
+
+```
+
 **Description :**
 
 This is the datatype for a handle to a module.
+
 
 **See Also :**
 [AddInMain](/domino-c-api-docs/reference/Func/AddInMain)

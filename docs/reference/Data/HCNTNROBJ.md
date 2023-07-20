@@ -4,9 +4,16 @@
 ```
 #include <schedule.h>
 ```
+
+**Definition :**
+```
+typedef DWORD HCNTNROBJ;
+```
+
 **Description :**
 
 Handle to an object in a container, such as a request, in a schedule container.
+
 
 **See Also :**
 [SchContainer_FreeRequest](/domino-c-api-docs/reference/Func/SchContainer_FreeRequest)

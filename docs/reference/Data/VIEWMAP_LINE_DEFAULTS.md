@@ -4,20 +4,34 @@
 ```
 #include <vmods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   VIEWMAP_HIGHLIGHT_DEFAULTS Highlight;
+   WORD   LineColor;
+   WORD   FillFGColor;
+   WORD   FillBGColor;
+   WORD   LineStyle;
+   WORD   LineWidth;
+   WORD   FillStyle;
+} VIEWMAP_LINE_DEFAULTS;
+```
+
 **Description :**
 
-The VIEWMAP_LINE_DEFAULTS structure contains default attributes for lines in 
-the Navigator.  This structure is a component of the VIEWMAP_STYLE_DEFAULTS 
-structure, which in turn is stored in the VIEWMAP_DATASET_RECORD.  The fields 
-in this structure are:
+The VIEWMAP_LINE_DEFAULTS structure contains default attributes for lines in the Navigator.  This structure is a component of the VIEWMAP_STYLE_DEFAULTS structure, which in turn is stored in the VIEWMAP_DATASET_RECORD.  The fields in this structure are:
+<ul><br>
 
-Highlight Default highlight settings.
-LineColor Default color for lines.
-FillFGColor Default foreground color.
-FillBGColor Default background color.
-LineStyle Default line style.
-LineWidth Default line width.
-FillStyle Default fill style.
+<ul>Highlight	Default highlight settings.<br>
+LineColor	Default color for lines.<br>
+FillFGColor	Default foreground color.<br>
+FillBGColor	Default background color.<br>
+LineStyle	Default line style.<br>
+LineWidth	Default line width.<br>
+FillStyle	Default fill style.</ul>
+</ul>
+
 
 
 **See Also :**

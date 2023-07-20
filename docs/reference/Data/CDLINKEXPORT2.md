@@ -4,40 +4,35 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+
+typedef struct {
+   WSIG Header;
+   NOTELINK NoteLink;
+       /* Now comes the variable part:             */
+          /*   Null-terminated display comment        */
+          /*   Null-terminated server "hint"          */
+          /*   Null-terminated anchor text (optional) */
+} CDLINKEXPORT2;
+
+```
+
 **Description :**
 
-This structure is used to create a document link in a rich text field.  It 
-contains all the information necessary to open the specified document from any 
-database on any server. 
+This structure is used to create a document link in a rich text field.  It contains all the information necessary to open the specified document from any database on any server. <br>
+<br>
+Use CompoundTextAddDocLink to add a document link to a rich text field.<br>
+<br>
+Notes creates two different types of Doc Links.  The first type consists of a CDLINK2 record and a Doc Link Reference.  The second type consists of a CDLINKEXPORT2 record.<br>
+<br>
+When a Notes user initially creates a Doc Link from the Notes user interface, the first type of Doc Link (CDLINK2) is created. The CDLINK2 record requires the Doc Link Reference List ($Links) item in order to resolve the link.<br>
+<br>
+When a Doc Link is exported to the clipboard, Notes converts the CDLINK2 record to a CDLINKEXPORT2.  Notes performs this conversion because a CDLINKEXPORT2 record contains the NOTELINK information that a CDLINK2 structure does not have. A CDLINKEXPORT2 will function properly in the context of other documents or databases where the original Doc Link Reference List ($Links) item is not avaliable.<br>
+<br>
+  	The CDLINKEXPORT2 record is then followed by two or three consecutive null-terminated strings.  The first string contains the display comment for the link, identifying the source database, view, and document title.  The second string, called for obscure reasons the &quot;hint&quot;, contains the name of the Lotus Domino server where the link originated;  this string may be empty, in which case the null terminator must be present.  The third string, if present, contains the anchor text for the target CDANCHOR record for this link.  If the third string is present, the target document is searched for a CDANCHOR record with the matching text string.  If a CDANCHOR record with a matching string is found, Notes displays the target document beginning at the location of hte CDANCHOR record.
 
-Use CompoundTextAddDocLink to add a document link to a rich text field.
-
-Notes creates two different types of Doc Links.  The first type consists of a 
-CDLINK2 record and a Doc Link Reference.  The second type consists of a 
-CDLINKEXPORT2 record.
-
-When a Notes user initially creates a Doc Link from the Notes user interface, 
-the first type of Doc Link (CDLINK2) is created. The CDLINK2 record requires 
-the Doc Link Reference List ($Links) item in order to resolve the link.
-
-When a Doc Link is exported to the clipboard, Notes converts the CDLINK2 record 
-to a CDLINKEXPORT2.  Notes performs this conversion because a CDLINKEXPORT2 
-record contains the NOTELINK information that a CDLINK2 structure does not 
-have. A CDLINKEXPORT2 will function properly in the context of other documents 
-or databases where the original Doc Link Reference List ($Links) item is not 
-avaliable.
-
-   The CDLINKEXPORT2 record is then followed by two or three consecutive 
-null-terminated strings.  The first string contains the display comment for the 
-link, identifying the source database, view, and document title.  The second 
-string, called for obscure reasons the "hint", contains the name of the Lotus 
-Domino server where the link originated;  this string may be empty, in which 
-case the null terminator must be present.  The third string, if present, 
-contains the anchor text for the target CDANCHOR record for this link.  If the 
-third string is present, the target document is searched for a CDANCHOR record 
-with the matching text string.  If a CDANCHOR record with a matching string is 
-found, Notes displays the target document beginning at the location of hte 
-CDANCHOR record.
 
 **Sample Usage :**
 ```
@@ -108,6 +103,7 @@ STATUS AddDocLink (DBHANDLE hDB, NOTEID IDNote,
    return (nErr);
 }
 ```
+
 **See Also :**
 [CompoundTextAddDocLink](/domino-c-api-docs/reference/Func/CompoundTextAddDocLink)
 [NOTELINK](/domino-c-api-docs/reference/Data/NOTELINK)

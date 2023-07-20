@@ -4,9 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Filename for the iNotes mail template ("dwa7.ntf").
+Filename for the iNotes mail template (&quot;dwa7.ntf&quot;).
+
 
 **See Also :**
 [MAILBOX_NAME](/domino-c-api-docs/reference/Symb/MAILBOX_NAME)

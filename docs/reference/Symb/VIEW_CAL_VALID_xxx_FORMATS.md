@@ -4,10 +4,18 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Symbolic Values :**
+
+	VIEW_CAL_VALID_PRE_503_FORMATS	  -  Mask for the VIEW_CAL_FORMAT_XXX values prior to version 5.0.3.
+
+	VIEW_CAL_VALID_503_FORMATS	  -  Mask for the VIEW_CAL_FORMAT_XXX values of version 5.0.3.
+
+
 **Description :**
 
-This mask indicates the maximum of VIEW_CAL_FORMAT_XXX values specified in the  
-VIEW_CALENDAR_FORMAT.Formats item for different versions.
+This mask indicates the maximum of VIEW_CAL_FORMAT_XXX values specified in the  VIEW_CALENDAR_FORMAT.Formats item for different versions.
+
 
 **Sample Usage :**
 ```
@@ -19,6 +27,7 @@ if (CalendarFormat.MinorVersion < VIEW_CAL_FORMAT_MINOR_2)
    CalendarFormat.Formats &= VIEW_CAL_VALID_PRE_503_FORMATS;
 
 ```
+
 **See Also :**
 [VIEW_CALENDAR_FORMAT](/domino-c-api-docs/reference/Data/VIEW_CALENDAR_FORMAT)
 [VIEW_CAL_FORMAT_MINOR_xxx](/domino-c-api-docs/reference/Symb/VIEW_CAL_FORMAT_MINOR_xxx)

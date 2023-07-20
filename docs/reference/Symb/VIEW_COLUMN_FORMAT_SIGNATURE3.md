@@ -4,11 +4,15 @@
 ```
 #include <viewfmt.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-The VIEW_COLUMN_FORMAT3 record begins with a WORD value for the Signature of 
-the record.  This symbol specifies the signature of the VIEW_COLUMN_FORMAT3 
-record.  
+The VIEW_COLUMN_FORMAT3 record begins with a WORD value for the Signature of the record.  This symbol specifies the signature of the VIEW_COLUMN_FORMAT3 record.  
+
 
 **See Also :**
 ---

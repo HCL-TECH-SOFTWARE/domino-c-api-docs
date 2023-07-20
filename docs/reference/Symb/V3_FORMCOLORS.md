@@ -4,9 +4,15 @@
 ```
 #include <colorid.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 Number of colors for Release 3 form background compatablilty.
+
 
 **See Also :**
 [NOTES_COLOR_xxx](/domino-c-api-docs/reference/Symb/NOTES_COLOR_xxx)

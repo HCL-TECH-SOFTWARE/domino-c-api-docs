@@ -4,10 +4,24 @@
 ```
 #include <editdflt.h>
 ```
+
+**Symbolic Values :**
+
+	JUSTIFY_LEFT	  -  Paragraphs will be aligned along the left margin.
+
+	JUSTIFY_RIGHT	  -  Paragraphs will be aligned along the right margin.
+
+	JUSTIFY_BLOCK	  -  Paragraphs will be aligned along both the left margin and the right margin. Spaces between words will be added as necessary (this is also known as full justification).
+
+	JUSTIFY_CENTER	  -  Paragraphs will be centered.
+
+	JUSTIFY_NONE	  -  No line wrapping will only occur except on explicit carriage returns.
+
+
 **Description :**
 
-These symbols define how paragraphs will be aligned or justified in a rich text 
-field.
+These symbols define how paragraphs will be aligned or justified in a rich text field.
+
 
 **Sample Usage :**
 ```
@@ -25,6 +39,7 @@ field.
     pabdef.Tab[0] = DEFAULT_TAB_INTERVAL;
     pabdef.Flags = 0;
 ```
+
 **See Also :**
 [CDPABDEFINITION](/domino-c-api-docs/reference/Data/CDPABDEFINITION)
 ---

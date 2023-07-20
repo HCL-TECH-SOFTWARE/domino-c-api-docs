@@ -4,10 +4,15 @@
 ```
 #include <mail.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum size of the logging message id string.  This size includes the 
-terminating null.
+Maximum size of the logging message id string.  This size includes the terminating null.
+
 
 **See Also :**
 [MailLogEvent](/domino-c-api-docs/reference/Func/MailLogEvent)

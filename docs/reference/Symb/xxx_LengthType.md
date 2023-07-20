@@ -4,7 +4,18 @@
 ```
 #include <fsods.h>
 ```
+
+**Symbolic Values :**
+
+	PIXELS_LengthType	  -  Attribute is expressed as pixels
+
+	PERCENTAGE_LengthType	  -  Attribute is expressed as a percentage
+
+	RELATIVE_LengthType	  -  Attribute is expressed as relative
+
+
 **Description :**
+
 
 
 

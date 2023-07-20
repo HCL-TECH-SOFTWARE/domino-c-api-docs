@@ -4,9 +4,15 @@
 ```
 #include <global.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
 The number of bits in one byte.
+
 
 **See Also :**
 [BYTE](/domino-c-api-docs/reference/Data/BYTE)

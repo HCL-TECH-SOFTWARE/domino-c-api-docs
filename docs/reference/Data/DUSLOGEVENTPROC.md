@@ -4,10 +4,20 @@
 ```
 #include <dus.h>
 ```
+
+**Definition :**
+```
+typedef STATUS (LNVARARGS * DUSLOGEVENTPROC)(
+   STATUS  StringID,
+   HMODULE hModule,
+   STATUS  AdditionalErrorCode,
+   ...);
+```
+
 **Description :**
 
-In DUSStart(), DUSLOGEVENTPROC is declared.  This allows the ability to send 
-messages to the LOG.NSF file from a DUS application.
+In DUSStart(), DUSLOGEVENTPROC is declared.  This allows the ability to send messages to the LOG.NSF file from a DUS application.
+
 
 **Sample Usage :**
 ```
@@ -27,6 +37,7 @@ pDUSCtx->LogEventProc = DUSLogEvent;
 /* Send a message to the log.nsf file. */
 pDUSCtx->LogEventProc( STR_DUS_GETTING_USERS, pDUSCtx->hDUSModule, NOERROR );
 ```
+
 **See Also :**
 [DUSStart](/domino-c-api-docs/reference/Func/DUSStart)
 ---

@@ -4,10 +4,15 @@
 ```
 #include <dus.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Maximum size of the Name element in the DUS_ENTRY structure.
-
+Maximum size of the Name element in the DUS_ENTRY structure.<br>
+<br>
 #define DUSMAXFLATNAME 128
 
 

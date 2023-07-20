@@ -4,7 +4,14 @@
 ```
 #include <bsafe.h>
 ```
+
+**Symbolic Values :**
+
+	fSECToken_EnableRenewal	  -  Enable token renewal. See SECTokenGenerate and SECTokenValidate.
+
+
 **Description :**
+
 
 
 

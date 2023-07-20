@@ -4,9 +4,20 @@
 ```
 #include <editods.h>
 ```
+
+**Definition :**
+```
+typedef struct {
+   WSIG Header;
+   WORD Type;  
+   WORD Reserved[4];
+} CDTRANSITION; 
+```
+
 **Description :**
 
-WORD Type  see TRANS_xxx
+WORD	Type		see TRANS_xxx
+
 
 **See Also :**
 [TRANS_xxx](/domino-c-api-docs/reference/Symb/TRANS_xxx)
