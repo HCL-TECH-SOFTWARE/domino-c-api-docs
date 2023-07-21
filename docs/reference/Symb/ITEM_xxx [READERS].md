@@ -4,18 +4,19 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Reader Names fields have external data type "Reader Names".  Domino grants 
-reader access to any entity named in a Reader Names field.
+Reader Names fields have external data type &quot;Reader Names&quot;.  Domino grants reader access to any entity named in a Reader Names field.<br>
+<br>
+At the API level, a Reader Names field is an item of TYPE_TEXT or TYPE_TEXT_LIST with both the NAMES flag set and the READ-ACCESS flag set.  The NAMES flag corresponds to the ITEM_NAMES bit in the item flags.  The READ-ACCESS flag corresponds to the ITEM_READERS bit in the item flags.<br>
+<br>
+Since the API function NSFItemSetText does not set the ITEM_READERS flag, use NSFItemAppend to append Reader Names fields to documents.
 
-At the API level, a Reader Names field is an item of TYPE_TEXT or 
-TYPE_TEXT_LIST with both the NAMES flag set and the READ-ACCESS flag set.  The 
-NAMES flag corresponds to the ITEM_NAMES bit in the item flags.  The 
-READ-ACCESS flag corresponds to the ITEM_READERS bit in the item flags.
-
-Since the API function NSFItemSetText does not set the ITEM_READERS flag, use 
-NSFItemAppend to append Reader Names fields to documents.
 
 **Sample Usage :**
 ```
@@ -69,6 +70,7 @@ STATUS  LNPUBLIC  AppendReadersItem (NOTEHANDLE  hNote)
     return (error);
 }
 ```
+
 **See Also :**
 [ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 [ITEM_xxx [NAMES]](/domino-c-api-docs/reference/Symb/ITEM_xxx [NAMES])

@@ -58,5 +58,7 @@ SECKFMClose(&hKFC,
 ```
 
 **See Also :**
-SECKFMGetIDFlags,SECKFMClose, SECKFMOpen.
+[SECKFMGetIDFlags](/domino-c-api-docs/reference/Func/SECKFMGetIDFlags)
+[SECKFMClose](/domino-c-api-docs/reference/Func/SECKFMClose)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

@@ -4,19 +4,19 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Author Names fields have external (field definition) data type "Author Names".  
-Domino grants author access to any entity named in an Author Names field.
+Author Names fields have external (field definition) data type &quot;Author Names&quot;.  Domino grants author access to any entity named in an Author Names field.<br>
+<br>
+At the API level, an Author Names field is an item of TYPE_TEXT or TYPE_TEXT_LIST with both the NAMES flag set and the READ/WRITE-ACCESS flag set.  The NAMES flag corresponds to the ITEM_NAMES bit in the item flags.  The READ/WRITE-ACCESS flag corresponds to the ITEM_READWRITERS bit in the item flags.<br>
+<br>
+Since the API function NSFItemSetText does not set the ITEM_READWRITERS flag, use NSFItemAppend to append Author Names fields to documents.
 
-At the API level, an Author Names field is an item of TYPE_TEXT or 
-TYPE_TEXT_LIST with both the NAMES flag set and the READ/WRITE-ACCESS flag 
-set.  The NAMES flag corresponds to the ITEM_NAMES bit in the item flags.  The 
-READ/WRITE-ACCESS flag corresponds to the ITEM_READWRITERS bit in the item 
-flags.
-
-Since the API function NSFItemSetText does not set the ITEM_READWRITERS flag, 
-use NSFItemAppend to append Author Names fields to documents.
 
 **Sample Usage :**
 ```
@@ -69,6 +69,7 @@ STATUS  LNPUBLIC  AppendEditorsItem (NOTEHANDLE  hNote)
     return (error);
 }
 ```
+
 **See Also :**
 [ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 [ITEM_xxx [NAMES]](/domino-c-api-docs/reference/Symb/ITEM_xxx [NAMES])
