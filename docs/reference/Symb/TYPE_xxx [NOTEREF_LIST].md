@@ -4,28 +4,23 @@
 ```
 #include <nsfdata.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-All response documents contain a Response Reference List item.  This item has 
-field name "$REF" and data type TYPE_NOTEREF_LIST. The response reference list 
-item identifies the main, or parent document. 
+All response documents contain a Response Reference List item.  This item has field name &quot;$REF&quot; and data type TYPE_NOTEREF_LIST. The response reference list item identifies the main, or parent document. <br>
+<br>
+A response reference list item consists of a LIST header structure, followed by  the UNIVERSALNOTEID (UNID) of the parent document, as follows:<br>
+LIST<br>
+UNIVERSALNOTEID<br>
+<br>
+To create a response document in a Domino database, first obtain the UNID of the parent document. Open or create the note that will be the response note. Then initialize a buffer that consists of a LIST structure followed by the UNID of the parent. Call NSFItemAppend to append this buffer to the note. Use the symbolic constant FIELD_LINK (defined as &quot;$REF&quot;) to specify the field name. Specify data type TYPE_NOTEREF_LIST.<br>
+<br>
+Domino and Notes automatically convert items of type TYPE_NOTEREF_LIST to canonical format when appending them to a note, and convert them to host format when reading them from a note. Therefore, do not perform host/canonical conversion on this data.
 
-A response reference list item consists of a LIST header structure, followed 
-by  the UNIVERSALNOTEID (UNID) of the parent document, as follows:
-LIST
-UNIVERSALNOTEID
-
-To create a response document in a Domino database, first obtain the UNID of 
-the parent document. Open or create the note that will be the response note. 
-Then initialize a buffer that consists of a LIST structure followed by the UNID 
-of the parent. Call NSFItemAppend to append this buffer to the note. Use the 
-symbolic constant FIELD_LINK (defined as "$REF") to specify the field name. 
-Specify data type TYPE_NOTEREF_LIST.
-
-Domino and Notes automatically convert items of type TYPE_NOTEREF_LIST to 
-canonical format when appending them to a note, and convert them to host format 
-when reading them from a note. Therefore, do not perform host/canonical 
-conversion on this data.
 
 **Sample Usage :**
 ```
@@ -74,6 +69,7 @@ STATUS LNPUBLIC AppendRefItem( NOTEHANDLE hRespNote, OID oidMainNote)
 }
 
 ```
+
 **See Also :**
 [LIST](/domino-c-api-docs/reference/Data/LIST)
 [UNIVERSALNOTEID](/domino-c-api-docs/reference/Data/UNIVERSALNOTEID)

@@ -63,5 +63,7 @@ else
 ```
 
 **See Also :**
-SECKFMClose, SECKFMOpen,SECKFMGetUserInfo.
+[SECKFMGetUserInfo](/domino-c-api-docs/reference/Func/SECKFMGetUserInfo)
+[SECKFMClose](/domino-c-api-docs/reference/Func/SECKFMClose)
+[SECKFMOpen](/domino-c-api-docs/reference/Func/SECKFMOpen)
 ---

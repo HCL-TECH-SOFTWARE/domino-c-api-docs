@@ -4,18 +4,19 @@
 ```
 #include <nsfnote.h>
 ```
+
+**Symbolic Values :**
+
+
+
 **Description :**
 
-Use Names fields to store distinguished (hierarchical) names.  Domino 
-application developers specify data type Names in the field definition of 
-fields that will store one or several distinguished names. The Names data type 
-causes the Notes workstation to display the fields in abbreviated format.
+Use Names fields to store distinguished (hierarchical) names.  Domino application developers specify data type Names in the field definition of fields that will store one or several distinguished names. The Names data type causes the Notes workstation to display the fields in abbreviated format.<br>
+<br>
+Internally (at the API level) Names fields are stored as items of TYPE_TEXT or TYPE_TEXT_LIST marked with the distinguished names flag, ITEM_NAMES. <br>
+<br>
+Since the API function NSFItemSetText does not set the ITEM_NAMES flag, use NSFItemAppend to append Names fields to documents.
 
-Internally (at the API level) Names fields are stored as items of TYPE_TEXT or 
-TYPE_TEXT_LIST marked with the distinguished names flag, ITEM_NAMES. 
-
-Since the API function NSFItemSetText does not set the ITEM_NAMES flag, use 
-NSFItemAppend to append Names fields to documents.
 
 **Sample Usage :**
 ```
@@ -36,6 +37,7 @@ STATUS LNPUBLIC AppendUpdatedByItem (NOTEHANDLE hNote, char * szAuthor)
     return (error);
 }
 ```
+
 **See Also :**
 [ITEM_xxx](/domino-c-api-docs/reference/Symb/ITEM_xxx)
 [ITEM_xxx [READERS]](/domino-c-api-docs/reference/Symb/ITEM_xxx [READERS])
