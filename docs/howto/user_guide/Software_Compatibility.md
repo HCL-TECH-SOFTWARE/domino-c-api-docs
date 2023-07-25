@@ -5,7 +5,7 @@
 <br>
 This section identifies the compilers and tools you can use to develop C API programs on each supported platform.<br>
 <br>
-Programs created with the HCL C API Toolkit for Notes/Domino 12.0.2 run under HCL Domino or HCL Notes 12.0.2 or later. They do not run under earlier releases of Domino or Notes.<br>
+Programs created with the HCL C API Toolkit for Notes/Domino 14.0.0 run under HCL Domino or HCL Notes 14.0.0 or later. They do not run under earlier releases of Domino or Notes.<br>
 <br>
 <b><font size="4" color="#000080">Microsoft Windows </font></b><br>
 <br>
@@ -49,14 +49,14 @@ for Linux:	<tt>LD_LIBRARY_PATH</tt><br>
 <br>
 <br>
 <br>
-<b><font size="5" color="#000080">Previously Built Notes C API Programs Running on Domino or Notes 12.0.2 and later</font></b><br>
+<b><font size="5" color="#000080">Previously Built Notes C API Programs Running on Domino or Notes 14.0.0 and later</font></b><br>
 <br>
-Generally, C programs created with previous versions of the Notes C API Release will run under both HCL Domino and HCL Notes Release 12.0.2.  See the Known Problems, Corrections, and Additions chapter in this <i>User Guide </i>for exceptions.<br>
+Generally, C programs created with previous versions of the Notes C API Release will run under both HCL Domino and HCL Notes Release 14.0.0.  See the Known Problems, Corrections, and Additions chapter in this <i>User Guide </i>for exceptions.<br>
 <br>
 <br>
 <b><font size="5" color="#000080">Rebuilding Programs Created with Earlier Releases of the Notes C API </font></b><br>
 <br>
-If you use the HCL C API for Notes/Domino 12.0.2. to recompile a program you created with an earlier version of the C API, the program will not work on Domino or Notes Releases prior to Notes/Domino 12.0.2.<br>
+If you use the HCL C API for Notes/Domino 14.0.0. to recompile a program you created with an earlier version of the C API, the program will not work on Domino or Notes Releases prior to Notes/Domino 14.0.0.<br>
 <br>
 <b><font size="4" color="#000080">Source Code Compatibility</font></b><br>
 <br>
@@ -65,9 +65,9 @@ Source code created with previous versions of the C API may require some modific
 <br>
 <b><font size="5" color="#000080">Database Compatibility</font></b><br>
 <br>
-A C API program running under a previous Notes Release can access databases on a server running HCL Domino 12.0.2. The databases on the HCL Domino 12.0.2 server can have previous Domino database properties.<br>
+A C API program running under a previous Notes Release can access databases on a server running HCL Domino 14.0.0. The databases on the HCL Domino 14.0.0 server can have previous Domino database properties.<br>
 <br>
-A C API program  running under Domino or Notes 12.0.2 can access databases on a older server running HCL Domino.<br>
+A C API program  running under Domino or Notes 14.0.0 can access databases on a older server running HCL Domino.<br>
 <br>
-NOTE: When you use older versions of Notes  to access a HCL Domino12.0.2  database, you must perform that access through HCL Domino 12.0.2 or later release.   Do not copy a HCL Domino 12.0.2 database directly to a machine running a previous version of HCL Domino or Notes. The older Domino software will not be able to read this database.
+NOTE: When you use older versions of Notes  to access a HCL Domino14.0.0  database, you must perform that access through HCL Domino 14.0.0 or later release.   Do not copy a HCL Domino 14.0.0 database directly to a machine running a previous version of HCL Domino or Notes. The older Domino software will not be able to read this database.
 ---
