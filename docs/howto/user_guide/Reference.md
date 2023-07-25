@@ -21,7 +21,7 @@ The <i>HCL C API Reference</i> is a Domino database. To use this database:
 </ul>
 </ul>
 <div align="center"><img src="../images/Reference0.gif" width="32" height="32"><br>
-HCL C API Notes/Domino 12.0.2 Reference<br>
+HCL C API Notes/Domino 14.0.0 Reference<br>
 </div><br>
 
 <ul>
