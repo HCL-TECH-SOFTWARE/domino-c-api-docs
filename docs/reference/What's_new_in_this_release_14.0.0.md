@@ -1,7 +1,7 @@
-##### Abstract - What's new ? in this release 
+##### What's new ? in this release 
 ---
 
-**Funcations :**
+**Functions :**
 
 [SECKFMGetUserInfo](/domino-c-api-docs/reference/Func/SECKFMGetUserInfo) -Get ID flags information associated to keyfile context.
 
