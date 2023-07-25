@@ -16,7 +16,7 @@ hide:
 
  [Porting 32bit Domino applications to 64bit Domino](../howto/user_guide/Porting_32bit_Domino_applications_to_64bit_Domino.md)
  
- [What's new in this release](../reference/What's new in this release.md)
+ [What's_new_in_this_release](../reference/What's_new_in_this_release.md)
 
 
 ## Refer to the[ HowTo ](../howto/)documents
