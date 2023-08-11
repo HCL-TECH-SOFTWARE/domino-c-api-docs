@@ -11,7 +11,7 @@ STATUS NIFReadEntriesExt(
 	DWORD  SkipCount,
 	WORD  ReturnNavigator,
 	DWORD  ReturnCount,
-	DWORD  ReturnMask,
+	DWORD64  ReturnMask,
 	TIMEDATE *DiffTime,
 	DHANDLE  DiffIDTable,
 	DWORD  ColumnNumber,
@@ -25,17 +25,27 @@ STATUS NIFReadEntriesExt(
 	TIMEDATE *retLastModifiedTime,
 	DWORD *retSequence);
 ```
+
 **Description :**
 
-Read view entries and their data. Provides capabilities that NIFReadEntries 
-does not but shares many of its parameters and functionality. This extended 
-version of the call allows users to return:
+Read view entries and their data. Provides capabilities that NIFReadEntries does not but shares many of its parameters and functionality. This extended version of the call allows users to return:<br>
 
- View entry information based upon changes received after a set time.
- View entry information for a set of documents specified in an IDTable of 
-NOTEIDs. 
- Data from a specific single column in the view. 
- A sequence number usable as a virtual version number to detect view updating.
+<ul>
+<ul type="disc">
+<li> View entry information based upon changes received after a set time.
+<li> View entry information for a set of documents specified in an IDTable of NOTEIDs. 
+<li> Data from a specific single column in the view. 
+<li> A sequence number usable as a virtual version number to detect view updating.
+<li>View entry information in JSON format in both categorized and non-categorized (<font face="Times New Roman">purely based on view type</font>) format.</ul>
+</ul>
+Note:
+<ul>
+<ul type="disc">
+<li>By default these <font size="4">(READ_MASK_NOTEID, READ_MASK_INDEXPOSITION ) flag will be enabled when JSON bit is set.</font>
+<li><font size="4">When running on categriozed view with JSON bit set, make sure  READ_MASK_SUMMARY is set .</font></ul>
+</ul>
+
+
 
 **Parameters :**
 Input :
@@ -51,7 +61,7 @@ ReturnNavigator  -  Flags that control how the collection is navigated when the 
 
 ReturnCount  -  The maximum number of entries that should be returned. To read all the entries in the collection, set this argument to 0xFFFFFFFF. To stop reading before the end of the collection, set this argument to the number of entries you want.
 
-ReturnMask  -  Flags that control what information about the collection's entries will be returned. The information flags are defined in READ_MASK_xxx, and may be OR'ed together to combine functionailty.  If more than one flag is requested, the order of the item's information in the buffer is the same order as the flag's bit numbers (i.e. flag bit 0 precedes bit 1, then bit 2, etc).
+ReturnMask  -  Flags that control what information about the collection's entries will be returned. The information flags are defined in READ_MASK_xxx, and may be OR'ed together to combine functionailty.  If more than one flag is requested, the order of the item's information in the buffer is the same order as the flag's bit numbers (i.e. flag bit 0 precedes bit 1, then bit 2, etc). Returns JSON output if READ_MASK_TO_JSON is set. 
 
 DiffTime  -  If non-null, this is a "differential view read" - optimize results to only return full information for notes which have changed (or are new) in the view, return just NoteIDs for notes which haven't changed since this time and return a deleted ID table for notes which may be known by the caller and have been deleted since DiffTime.
 
@@ -70,6 +80,10 @@ ERR_HDL_NULL - On NULL collection.
 ERR_COLLECTION_HANDLE - On closed/invalid collection handle. 
 ERR_NIF_VIEW_DELETED - If view has been deleted. 
 ERR_BAD_COLLATION_NUM - If collation number is negative or greater than number of collations in view.
+ERR_INVALID_ARG_TYPE	- In case of issue in object creation will exit here.
+JSON_INVALID_SIZE  - If input size is NULL but continues by reporting error.
+JSON_PARSE_ERROR - In case of error in Json parsing  but continues by reporting error.
+JSON_OBJECT_INVALID - If return JSON is not a valid JSON but continues by reporting the error.
 
 
 CollectionPos  -  A pointer to a COLLECTIONPOSITION indicating the last note in the collection that was read by NIFReadEntriesExt.  If the entire collection is not read by a call to NIFReadEntriesExt, this COLLECTIONPOSITION can be used as input into the next call to NIFReadEntriesExt.  In this case, be sure to set the skip navigate flag and skip count so that the last note read in the previous call to NIFReadEntriesExt is skipped.
@@ -89,6 +103,7 @@ retDiffTime  -  If non-NULL, returned time to use in subsequent differential vie
 retLastModifiedTime  -  If non-NULL, returns last modified time of the view.
 
 retSequence  -  Last updated sequence number of the view.
+
 
 
 **Sample Usage :**
@@ -139,5 +154,6 @@ Info we want. */
 	 OSMemFree(hBuffer);
 }
 ```
+
 **See Also :**
 ---

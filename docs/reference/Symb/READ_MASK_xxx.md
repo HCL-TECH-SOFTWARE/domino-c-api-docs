@@ -35,6 +35,8 @@
 
 	READ_MASK_SUMMARY	  -  Summary buffer of summary data values that appear in the view. The data is in the format of an ITEM_TABLE. This format consists of an ITEM_TABLE structure, followed by an array of ITEM structures, followed by packed pairs, where each pair consists of the item name followed by the item value. Each item value includes the item's datatype. The item's datatype is stored in the first USHORT of each item value.
 
+	READ_MASK_TO_JSON	  -  returns output from NIFReadEntriesExt in the form of json.
+
 
 **Description :**
 
