@@ -50,7 +50,7 @@ The return buffer consists of:<br>
 
 
 **See Also :**
-[ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE)
-[ITEM_VALUE_TABLE](/domino-c-api-docs/reference/Data/ITEM_VALUE_TABLE)
-[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries)
+[ITEM_TABLE](/domino-c-api-docs/reference/Data/ITEM_TABLE.md)
+[ITEM_VALUE_TABLE](/domino-c-api-docs/reference/Data/ITEM_VALUE_TABLE.md)
+[NIFReadEntries](/domino-c-api-docs/reference/Func/NIFReadEntries.md)
 ---
