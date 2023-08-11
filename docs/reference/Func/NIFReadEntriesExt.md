@@ -156,4 +156,7 @@ Info we want. */
 ```
 
 **See Also :**
+[NIFReadEntries](./NIFReadEntries.md)
+[NIFOpenCollection](./NIFOpenCollection.md)
+
 ---
