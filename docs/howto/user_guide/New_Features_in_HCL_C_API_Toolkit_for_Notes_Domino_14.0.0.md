@@ -5,7 +5,7 @@ This section lists the new and changed features in the HCL C API Toolkit for Not
 <b><font size="5" color="#000080"> </font></b><br>
 <b><font size="5" color="#000080">Security Functions</font></b><br>
 <br>
-Some new  functions of security have been added tokfm.h.<br>
+Some new  functions of security have been added to kfm.h.<br>
 
 <ul type="disc">
 <li><b>SECKFMGetIDFlags</b><font size="4"> </font>	<b>Get ID flags information associated to keyfile context.</b><font size="4" face="Times New Roman">.</font> 
