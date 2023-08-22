@@ -17,7 +17,7 @@ Some new  functions of security have been added to kfm.h.<br>
 Two flags has been added to kfm.h<br>
 
 <ul type="disc">
-<li><b><font size="5" color="#000080"> </font></b><b>flDFH_xxx      </b>Define the ID File Header flags.  These flags are stored in the header of an ID file.<br>
+<li><b><font size="5" color="#000080"> </font></b><b>flDFH_xxx      </b>file define the ID File Header flags.  These flags are stored in the header of an ID file.<br>
 </ul>
 <br>
              fIDFH_Password	  -  File is password protected<br>
