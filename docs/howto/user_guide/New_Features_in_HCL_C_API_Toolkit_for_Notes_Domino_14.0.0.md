@@ -33,6 +33,6 @@ A  new function of nif have been added to nif.h.<br>
 <br>
 <b><font size="5" color="#000080">NIF Flags</font></b><br>
 <br>
-READ_MASK_TO_JSON	  -  returns output from NIFReadEntriesExt in the form of json.
+READ_MASK_TO_JSON	  -  returns output from NIFReadEntriesExt2 in the form of JSON.
 <br>
 ---
