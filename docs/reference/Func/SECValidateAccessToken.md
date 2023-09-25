@@ -60,8 +60,8 @@ Output :
 
 
 **See Also :**
-[NSFDB2DeleteUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2DeleteUsernamePW)
-[NSFDB2GetUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2GetUsernamePW)
-[NSFDB2PutUsernamePW](/domino-c-api-docs/reference/Func/NSFDB2PutUsernamePW)
-[SECKFMGetCertifierCtx](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
+[SECTokenFree](./SECTokenFree)
+[SECTokenFreeInfo](./SECTokenFreeInfo)
+[SECTokenValidate](./SECTokenValidate)
+[SECTokenListGenerate](./SECKFMGetCertifierCtx)
 ---
