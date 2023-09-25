@@ -29,7 +29,7 @@ Input :
 
 *pszRequiredScope  -  "Domino.user.all" or equivalent
 
-*pszResourceURL  -  Expected value in audience (aud) claim, such ashttps://www.example.com.
+*pszResourceURL  -  Expected value in audience (aud) claim, such as https://www.example.com.
 
 dwFlags  -  Modify behavior from defaults. See fJWT_validate_* below.
 
