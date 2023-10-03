@@ -33,9 +33,9 @@ Input :
 
 dwFlags  -  Modify behavior from defaults. See fJWT_validate_* below.
 
-*vpOptionalParams  -  pszCustomClaimName value can be filled with using this structure. Please refer this [JWT_VALIDATE_OPTIONAL_PARAMS.md](/domino-c-api-docs/reference/Data/JWT_VALIDATE_OPTIONAL_PARAMS.md).
+*vpOptionalParams  -  Value can be filled with using structure JWT_VALIDATE_OPTIONAL_PARAMS. Please refer this [JWT_VALIDATE_OPTIONAL_PARAMS.md](/domino-c-api-docs/reference/Data/JWT_VALIDATE_OPTIONAL_PARAMS.md).
 
-dwMaxEmailSize  -  MaxEmailSize.
+dwMaxEmailSize  -  Maximum length of email buffer size.
 
 *retszEmail  -  Points to buffer to receive output.
 
