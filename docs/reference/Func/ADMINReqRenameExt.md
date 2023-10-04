@@ -97,8 +97,8 @@ if (error = ADMINReqRenameExt(
  "J",   /* New middle initial */
  "User",   /* New last name */
  NULL,
- NULL,
- NULL,
+ "dadmin", /* New unique short name */
+ "127.0.0.1", /* New unique internet address */
  &logged,
  &ferror,
  &ARPptr,
