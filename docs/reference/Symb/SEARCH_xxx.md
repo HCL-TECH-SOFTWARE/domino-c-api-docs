@@ -22,6 +22,8 @@
 	SEARCH_NOABSTRACTS	  -  Filter out "Truncated" documents.
 
 	SEARCH_DATAONLY_FORMULA	  -  Search formula applies only to data notes, i.e., others match.
+	
+	SEARCH2_LARGE_BUCKETS   -  return flag in orig structs if > MAXONESEGSIZE.
 
 
 **Description :**

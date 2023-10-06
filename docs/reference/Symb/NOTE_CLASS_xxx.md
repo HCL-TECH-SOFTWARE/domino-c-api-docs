@@ -47,6 +47,8 @@
 
 	NOTE_CLASS_SINGLE_INSTANCE	  -  Symbol for those note classes that allow only one such note in a database: NOTE_CLASS_DESIGN | NOTE_CLASS_ACL | NOTE_CLASS_INFO | NOTE_CLASS_ICON | NOTE_CLASS_HELP_INDEX.
 
+	NOTE_CLASS_NONPRIV    -  turn off the unthinkable bits and NOTE_CLASS_PRIVATE.
+
 
 **Description :**
 
