@@ -82,6 +82,9 @@ and DB handle */
 	NOTEHANDLE  *phRetPersonNote;
 	DBHANDLE  *phRetPersonNoteNAB;
 
+	/* when specified, use this NoteID as the current person doc Note*/
+	NOTEID	ADContactNoteID;
+
 	DWORD Reserved[4];
 	void *pReserved[4];
 	char        *ForeignDN;     /* distinguished name of the entry in a 
