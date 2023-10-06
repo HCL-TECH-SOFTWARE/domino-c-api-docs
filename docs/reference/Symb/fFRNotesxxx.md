@@ -15,6 +15,8 @@
 
 	fFRNotesCaptionFontName	  -  Frame caption has font name info.
 
+	fFRSequence   -  set this if frame has a sequence set other than the default 0.
+
 
 **Description :**
 

@@ -73,6 +73,14 @@
 
 	STATPKG_FA	  -  Fault analyzer.
 
+	STATPKG_DIRSYNC   - used by DirSync in normal customer to  mode.
+
+	STATPKG_LICENSE  -  Used by Licensing.
+
+	STATPKG_QUERY  -  Used by Query.
+
+	STATPKG_REPAIR  -  Used by Repair.
+
 
 **Description :**
 

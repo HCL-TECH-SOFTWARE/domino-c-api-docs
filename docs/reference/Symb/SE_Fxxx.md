@@ -18,6 +18,8 @@
 	SE_FNOPURGE	  -  Note has no purge status. Returned only when SEARCH_FULL_DATACUTOFF is used.
 
 	SE_FSOFTDELETED	  -  If SEARCH_NOTIFYDELETIONS: note is soft deleted; NoteClass&NOTE_CLASS_NOTIFYDELETION also on (off for hard delete).
+	
+	SE_FLARGESUMMARY  -  note has a large summary, a note open is required to get the data, only valid if SEARCH1_LARGE_BUCKETS is passed in.
 
 
 **Description :**
