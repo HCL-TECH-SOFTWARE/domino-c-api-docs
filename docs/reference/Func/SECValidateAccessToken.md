@@ -33,7 +33,7 @@ Input :
 
 dwFlags  -  Modify behavior from defaults. See fJWT_validate_* below.
 
-*vpOptionalParams  -  Value can be filled with using structure JWT_VALIDATE_OPTIONAL_PARAMS. Please refer this [JWT_VALIDATE_OPTIONAL_PARAMS.md](/domino-c-api-docs/reference/Data/JWT_VALIDATE_OPTIONAL_PARAMS.md).
+*vpOptionalParams  -  Value can be filled with using structure JWT_VALIDATE_OPTIONAL_PARAMS. Please refer this [JWT_VALIDATE_OPTIONAL_PARAMS](/domino-c-api-docs/reference/Data/JWT_VALIDATE_OPTIONAL_PARAMS).
 
 dwMaxEmailSize  -  Maximum length of email buffer size.
 
@@ -60,8 +60,8 @@ Output :
 
 
 **See Also :**
-[SECTokenFree](./SECTokenFree)
-[SECTokenFreeInfo](./SECTokenFreeInfo)
-[SECTokenValidate](./SECTokenValidate)
-[SECTokenListGenerate](./SECKFMGetCertifierCtx)
+[SECTokenFree](/domino-c-api-docs/reference/Func/SECTokenFree)
+[SECTokenFreeInfo](/domino-c-api-docs/reference/Func/SECTokenFreeInfo)
+[SECTokenValidate](/domino-c-api-docs/reference/Func/SECTokenValidate)
+[SECTokenListGenerate](/domino-c-api-docs/reference/Func/SECKFMGetCertifierCtx)
 ---

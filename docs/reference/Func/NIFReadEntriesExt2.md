@@ -129,5 +129,5 @@ retSequence  -  Last modified sequence number.
 
 
 **See also :**
-[NIFReadEntriesExt](./NIFReadEntriesExt.md)
+[NIFReadEntriesExt](/domino-c-api-docs/reference/Func/NIFReadEntriesExt)
 ---
