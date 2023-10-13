@@ -98,7 +98,7 @@ ERR_INVALID_ARG_TYPE - In case of issue in object creation will exit here.
 
 The return warning for JSON:
 
-JSON_NULL_POINTER_ERROR  - If input size is NULL but continues by reporting error.
+JSON_INVALID_SIZE_ERROR -  Invalid size if the output buffer size is not in limit.
 
 JSON_PARSE_ERROR - In case of error in JSON parsing but continues by reporting error.
 
