@@ -106,7 +106,6 @@ JSON_OBJECT_INVALID - If return JSON is not a valid JSON but continues by report
 
 JSON_MEMORY_ALLOCATION_ERROR - Memory allocation error in case of error in allocating memory for JSON object.
 
-JSON_INVALID_SIZE_ERROR -  Invalid size if the output buffer size is not in limit.
 
 
 CollectionPos  -  Index position updated to point at LAST returned entry.
