@@ -85,17 +85,27 @@ Output:
 The return codes include: 
 
 NOERROR - On success.
+
 ERR_HDL_NULL - On NULL collection.
+
 ERR_COLLECTION_HANDLE - On closed/invalid collection handle.
+
 ERR_NIF_VIEW_DELETED - If view has been deleted.
+
 ERR_BAD_COLLATION_NUM - If collation number is negative or greater than number of collations in view.
+
 ERR_INVALID_ARG_TYPE - In case of issue in object creation will exit here.
 
 The return warning for JSON:
 
-JSON_NULL_POINTER_ERROR  - If input size is NULL but continues by reporting error.
+JSON_INVALID_SIZE_ERROR -  Invalid size if the output buffer size is not in limit.
+
 JSON_PARSE_ERROR - In case of error in JSON parsing but continues by reporting error.
+
 JSON_OBJECT_INVALID - If return JSON is not a valid JSON but continues by reporting the error.
+
+JSON_MEMORY_ALLOCATION_ERROR - Memory allocation error in case of error in allocating memory for JSON object.
+
 
 
 CollectionPos  -  Index position updated to point at LAST returned entry.
@@ -130,4 +140,5 @@ retSequence  -  Last modified sequence number.
 
 **See also :**
 [NIFReadEntriesExt](/domino-c-api-docs/reference/Func/NIFReadEntriesExt)
+
 ---
