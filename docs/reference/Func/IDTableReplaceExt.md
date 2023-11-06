@@ -1,9 +1,9 @@
 ##### Function : ID Table
-##### IDTableReplaceExtended - Replace an ID table with the contents of another ID table.
+##### IDTableReplaceExt - Replace an ID table with the contents of another ID table.
 ---
 ```
 #include <idtable.h>
-STATUS IDTableReplaceExtended(
+STATUS IDTableReplaceExt(
 
 	DHANDLE  hSrcTable,
 	DHANDLE  hDstTable);
