@@ -33,7 +33,7 @@ This section describes the hardware and software requirements for each UNIX plat
 <br>
 <b><font size="4" color="#000080">Hardware and software requirements</font></b><br>
 <b><font color="#000080"> </font></b><br>
-Same Hardware requirements as those noted for the Domino server with addition of space to afford room for C API toolkit and compilation.  Minimum software requirements are used for the build environment (for example, if Domino supports Linux version 7 and 8, then 7 is the build platform as you must always build on the lowest supported OS level)<br>
+Same Hardware requirements as those noted for the Domino server with addition of space to afford room for C API toolkit and compilation.  Minimum software requirements are used for the build environment (for example, if Domino supports Linux version 9, then 9 is the build platform as you must always build on the lowest supported OS level)<br>
 <br>
 <b><font size="4" color="#000080">Compiler installation</font></b><br>
 <br>
@@ -65,15 +65,15 @@ The canonical Lotus directory is the directory in which all Lotus products for U
 Set the environment variable <tt><b>LOTUS</b></tt> to point to this directory:<br>
 
 <ul type="disc">
-<li><tt>/opt/hcl </tt>				for all UNIX platforms</ul>
+<li><tt>/opt/hcl/domino </tt>				for all UNIX platforms</ul>
 <br>
 If you use the C shell, your .cshrc file should contain the line:<br>
 <br>
-<tt>setenv LOTUS /opt/hcl		</tt>	for all UNIX platforms<br>
+<tt>setenv LOTUS /opt/hcl/domino		</tt>	for all UNIX platforms<br>
 <br>
         For sh or ksh,  your initialization file should contain the following:<br>
 <br>
-<tt>LOTUS=/opt/hcl; export LOTUS	</tt>for all UNIX platforms<br>
+<tt>LOTUS=/opt/hcl/domino; export LOTUS	</tt>for all UNIX platforms<br>
 <br>
 All Domino and Notes Client software should be installed in the canonical Lotus directory. Specifically,<br>
 
@@ -81,7 +81,7 @@ All Domino and Notes Client software should be installed in the canonical Lotus 
 <li>The Domino program directories should reside in $LOTUS/notes. 
 <li>The HCL C API Toolkit for Domino and Notes should reside in $LOTUS/notesapi.</ul>
 <br>
-All UNIX platforms support symbolic directory links. Therefore, Lotus products may physically reside anywhere in the file system, so long as a directory link in the canonical Lotus directory points to where the product actually resides. For example, the directory /opt/hcl/notesapi may be a symbolic link to the directory where the HCL C API Toolkit for Domino and Notes physically resides. <br>
+All UNIX platforms support symbolic directory links. Therefore, Lotus products may physically reside anywhere in the file system, so long as a directory link in the canonical Lotus directory points to where the product actually resides. For example, the directory /opt/hcl/domino/notesapi may be a symbolic link to the directory where the HCL C API Toolkit for Domino and Notes physically resides. <br>
 <br>
 The make files for HCL C API sample programs for Domino and Notes use $LOTUS to locate the directory where the HCL C API for Domino and Notes include files and object files reside. <br>
 <br>
@@ -111,8 +111,6 @@ By convention, set the environment variable <tt><b>Notes_ExecDirectory</b></tt> 
 <br>
 <tt>Notes_ExecDirectory=your-Domino-executable-directory; </tt><br>
 <tt>export Notes_ExecDirectory</tt><br>
-<br>
-<br>
 <br>
 <b><font size="4" color="#000080">Running HCL C API programs</font></b><br>
 <br>
@@ -169,7 +167,7 @@ After installing Domino, the C compiler, the development files, the documentatio
 
 <li>Copy all the files under the<b> intro</b> directory to a directory under your home directory. Under the default installation of the HCL C API Toolkit for Domino and Notes, this sample directory is located under:<br>
 <br>
-/opt/hcl/notesapi/samples/basic/intro<br>
+/opt/hcl/domino/notesapi/samples/basic/intro<br>
 
 <li>Change to the directory where <tt><b>intro</b></tt> was copied and type <tt><b>ls</b></tt> to list the files in this directory. <br>
  <br>
@@ -183,7 +181,7 @@ The .mak files in this directory are make files for the various operating enviro
 
 <li>Copy the database,<tt><b>&nbsp;intro.nsf</b></tt>, from the <tt><b>notedata</b></tt> directory in the C API kit to the Domino data directory.  Under the default installation of the HCL C API Toolkit for Domino, this database is located under:<br>
 <br>
-/opt/hcl/notesapi/notedata/intro.nsf<br>
+/opt/hcl/domino/notesapi/notedata/intro.nsf<br>
 
 <li>Enter this at the command prompt:<br>
 <br>
@@ -252,7 +250,7 @@ On all UNIX platforms, the filenames of shared objects must start with the chara
 <br>
 <u>Platform</u>	<u>File extension</u>	<u>Typical Filename</u><br>
 AIX	.a		libfoo_r.a<br>
-Linux	            .so			libfoo.so<br>
+Linux	                        .so			libfoo.so<br>
 <br>
 <br>
 <b><font size="5" color="#000080">Toolkit Files</font></b><br>
@@ -532,4 +530,5 @@ For example, many programs developed using Microsoft C use the double forward sl
 All file names should be in lowercase unless there is a good reason to do otherwise. Remember that file names in UNIX are case-sensitive. The biggest impact of this change is on documentation, with a smaller impact on source code.<br>
 <br>
 Many programs and almost all documentation under DOS use all uppercase letters for file names. This helps to distinguish file names from other text in documentation, but under UNIX it is generally wrong because file names are in lowercase.
+
 ---

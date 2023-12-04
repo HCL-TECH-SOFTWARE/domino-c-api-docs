@@ -547,5 +547,8 @@ ENVIRONMENT <i>(Windows, Linux) </i><br>
 Demonstrates how toset atimedateinto an environment variableandgetatimedatefromthe environment variable and returns a sequence number that represents the number of times any environment variable has been changed.Here the sequence number changing means the notes.ini file has been changed.If our variable isdynamic,then we can also check if our variable has changed or not.<br>
 <br>
 SHAREDIRECTORY <i>(Windows, Linux)</i><br>
-Demonstrates how to print the path of the shared directory of a multi-user Notes client. 
+Demonstrates how to print the path of the shared directory of a multi-user Notes client.
+
+NOTE: For V14.0, the supported build platforms are Windows & Linux 64bit.
+
 ---
