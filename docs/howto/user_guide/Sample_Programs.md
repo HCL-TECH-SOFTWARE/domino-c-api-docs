@@ -549,6 +549,4 @@ Demonstrates how toset atimedateinto an environment variableandgetatimedatefromt
 SHAREDIRECTORY <i>(Windows, Linux)</i><br>
 Demonstrates how to print the path of the shared directory of a multi-user Notes client.
 
-NOTE: For V14.0, the supported build platforms are Windows & Linux 64bit.
-
 ---
