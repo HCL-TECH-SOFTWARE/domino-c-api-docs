@@ -20,8 +20,8 @@ Information on addressing, calling conventions, and data alignment<br>
 <b>Compiling, Linking, and Debugging</b><br>
 Platform-specific information on compiler, linker, and debugger settings for C API applications<br>
 <br>
-<b>Microsoft Visual Studio 2017</b><br>
-Building applications using the GUI environment for Visual Studio 2017</ul>
+<b>Microsoft Visual Studio 2017/2022</b><br>
+Building applications using the GUI environment for Visual Studio 2017/2022</ul>
 <br>
 <br>
 <b><font size="5" color="#000080">Getting Started</font></b><br>
@@ -35,14 +35,14 @@ Same requirements as Notes/Domino with addition of space for HCL C API Toolkit a
 The following software is required to develop HCL C API programs for the Notes client:<br>
 
 <ul type="disc">
-<li>HCL Domino or HCL Notes 12.0.2 for Windows. All Windows platforms supported by Notes 12.0.2 are also supported by this toolkit.
-<li>Microsoft Visual Studio 2017. </ul>
+<li>HCL Domino or HCL Notes 14.0.0 for Windows. All Windows platforms supported by Notes 14.0.0 are also supported by this toolkit.
+<li>Microsoft Visual Studio 2017/2022. </ul>
 <br>
 The following software is required to develop HCL C API programs for Domino:<br>
 
 <ul type="disc">
-<li>HCL Domino or HCL Notes 12.0.2 for Windows.  All Windows platforms supported by Domino 12.0.2 are also supported by this toolkit. 
-<li>Microsoft Visual Studio 2017. </ul>
+<li>HCL Domino or HCL Notes 14.0.0 for Windows.  All Windows platforms supported by Domino 14.0.0 are also supported by this toolkit. 
+<li>Microsoft Visual Studio 2017/2022. </ul>
 <br>
 <br>
 <b><font size="4" color="#000080">Compiler Installation</font></b><br>
@@ -61,7 +61,7 @@ References to &quot;<i>d:</i>&quot; in the descriptions below refer to the appro
 PATH should contain:<br>
 
 <ul type="disc">
-<li>The Microsoft C compiler directory which is normally located in the Visual C++ 2017 bin directory.
+<li>The Microsoft C compiler directory which is normally located in the Visual C++ 2017/2022 bin directory.
 <li>The Domino or Notes program directory; normally <i>d:</i>\lotus\notes. The Domino or Notes program directory contains the Domino or Notes executables and DLLs.  This is required if the DLLs are loaded implicitly.  As an alternative, the DLLs may be loaded explicitly by an application.  See the chapter &quot;Program Structure:  Overview&quot; in this <i>User Guide</i> for more information.</ul>
 <br>
 LIB should contain: <br>
@@ -77,11 +77,15 @@ INCLUDE should contain:
 <li type="disc">The HCL C API include files directory: normally <i>d:</i>\notesapi\include.
 <li type="disc">The Microsoft C include files directory</ul>
 <br>
+Common makefile environment file:<br>
+ This file has the common compilation options that used to compile C-API samples code in windows. Set the PATH environment to the C-API samples folder,<br>
+set PATH=d:\notesapi\<br>
+<br>
 <b><font color="#000080">Header File Conflict</font></b><br>
 <br>
-The Microsoft Visual Studio 2017 and the HCL C API Toolkit for Domino and Notes contain some include files with the same name (such as mq.h, neterr.h and stats.h) but the contents of the files differ. If your API program requires the HCL C API header file for Domino and Notes but does not require the Visual C++ 2017 version of the file, you may resolve the conflict by putting the HCL C API for Domino and Notes include path before the Visual C++ 2017 include path in your INCLUDE environment variable. Alternatively, you may specify the full path of the header file in the #include statement in your source code. This alternative allows your program to include both files in a single source module.<br>
+The Microsoft Visual Studio 2017/2022 and the HCL C API Toolkit for Domino and Notes contain some include files with the same name (such as mq.h, neterr.h and stats.h) but the contents of the files differ. If your API program requires the HCL C API header file for Domino and Notes but does not require the Visual C++ 2017/2022 version of the file, you may resolve the conflict by putting the HCL C API for Domino and Notes include path before the Visual C++ 2017/2022 include path in your INCLUDE environment variable. Alternatively, you may specify the full path of the header file in the #include statement in your source code. This alternative allows your program to include both files in a single source module.<br>
 <br>
-The header file in the HCL C API Toolkit for Domino and Notes, global.h, contains a definition for the data type QWORD that is also defined in the Microsoft Visual C++ 2017 header file, sqltypes.h.   Although the definitions ultimately result in the same data type, the syntax of the definitions cause errors when compiling source code that includes both header files.  In such cases it is recommended to keep code that requires the sqltypes.h header file in a separate module.<br>
+The header file in the HCL C API Toolkit for Domino and Notes, global.h, contains a definition for the data type QWORD that is also defined in the Microsoft Visual C++ 2017/2022 header file, sqltypes.h.   Although the definitions ultimately result in the same data type, the syntax of the definitions cause errors when compiling source code that includes both header files.  In such cases it is recommended to keep code that requires the sqltypes.h header file in a separate module.<br>
 <br>
 <br>
 <b><font size="4" color="#000080">Testing the Installation</font></b><br>
@@ -133,7 +137,7 @@ NotesMain uses the __stdcall calling convention. The argument count provided to 
 <br>
 Server add-in tasks, like NotesMain programs, must also be applications. Server add-in tasks are usually structured as a subroutine named AddInMain. You must link this type of program with both bootstrap object files, \notesapi\lib\mswin32\notes0.obj and \notesapi\lib\mswin32\notesai0.obj(change mswin32 to mswin64 for 64 bit Windows). These object files provide the &quot;main&quot; program and the server add-in initialization.<br>
 <br>
-In the Windows environment, you can build programs as either &quot;console&quot; or &quot;gui&quot; (Graphical User Interface) applications. If you build a server add-in task as a &quot;gui&quot; application, Windows creates a new console window when the first message is written to the server console (for example, by AddInLogMessageText). To have messages from a server add-in appear in the server console window, you must link the application as a &quot;console&quot; application. The sample programs in the HCL C API Toolkit for Domino and Notes use the standard link options &quot;$(conflags)&quot; and &quot;$(conlibs)&quot; defined in the file win32.mak in the Microsoft Win32 SDK. When you build a server add-in using Visual C++ 2010, you must create the project as a &quot;console&quot; application.<br>
+In the Windows environment, you can build programs as either &quot;console&quot; or &quot;gui&quot; (Graphical User Interface) applications. If you build a server add-in task as a &quot;gui&quot; application, Windows creates a new console window when the first message is written to the server console (for example, by AddInLogMessageText). To have messages from a server add-in appear in the server console window, you must link the application as a &quot;console&quot; application. The sample programs in the HCL C API Toolkit for Domino and Notes use the standard link options &quot;$(conflags)&quot; and &quot;$(conlibs)&quot; defined in the file win32.mak in the Microsoft Win32 SDK. When you build a server add-in using Visual C++ 2010/2022, you must create the project as a &quot;console&quot; application.<br>
 <br>
 Like NotesMain, AddInMain uses the __stdcall calling convention. The argument count provided to the subroutine is a integer and the argument vector pointers are flat memory model pointers.<br>
 <br>
@@ -181,7 +185,7 @@ The file \notesapi\lib\mswin32\editfax.lib(change mswin32 to mswin64 for 64 bit 
 <br>
 <b><font size="5" color="#000080">Compatibility</font></b><br>
 <br>
-HCL Domino and HCL Notes 12.0.2 support applications developed using the HCL C API Toolkit for Notes/Domino 12.0.2 as well as existing Domino and Notes Releases (providing that Release/Build environment is supported on the given Windows OS). <br>
+HCL Domino and HCL Notes 14.0.0 support applications developed using the HCL C API Toolkit for Notes/Domino 14.0.0 as well as existing Domino and Notes Releases (providing that Release/Build environment is supported on the given Windows OS). <br>
 <br>
 <b><font size="4" color="#000080">Data Addressing and Pointers</font></b><br>
 <br>
@@ -200,7 +204,7 @@ Is dependent on the compiler and bitness of the program and controlled via the c
 <br>
 <b><font size="5" color="#000080">Compiling</font></b><br>
 <br>
-This section describes the settings to use when building HCL C API applications for Domino and Notes from the command line or via a makefile. To build applications with the Visual C++ 2017 developer environment, please refer to the &quot;Microsoft Visual C++ 2017&quot; section below<i>.</i><br>
+This section describes the settings to use when building HCL C API applications for Domino and Notes from the command line or via a makefile. To build applications with the Visual C++ 2017/2022 developer environment, please refer to the &quot;Microsoft Visual C++ 2017/2022&quot; section below<i>.</i><br>
 <br>
 <br>
 <b><font size="4" color="#000080">Platform ID Macro</font></b><br>
@@ -252,20 +256,20 @@ guilibsdll	link GUI applications or DLLs using DLL version of run-time libraries
 olelibsdll	link OLE applications or DLLs using DLL version of run-time libraries<br>
 <br>
 </ul>
-<b><font size="5" color="#000080">Microsoft Visual C++ 2017 Development Environment (64 bit)</font></b><br>
+<b><font size="5" color="#000080">Microsoft Visual C++ 2017/2022 Development Environment (64 bit)</font></b><br>
 <br>
-This section describes Microsoft Visual C++ 2017 development environment project settings that are required when you are building applications that use the HCL C API for Domino and Notes.<br>
+This section describes Microsoft Visual C++ 2017/2022 development environment project settings that are required when you are building applications that use the HCL C API for Domino and Notes.<br>
 <br>
 <b><font size="4" color="#000080">Directory Settings</font></b><br>
 <br>
-You must specify the HCL C API  for Domino and Notes include file and library file directories in the Visual C++ 2017 directory settings:<br>
+You must specify the HCL C API  for Domino and Notes include file and library file directories in the Visual C++ 2017/2022 directory settings:<br>
 <br>
 I.	Select &quot;Project  - Properties ...&quot; to open the Options dialog box. 		<br>
 II.	Select the &quot;VC++&quot; Directories <br>
 III.	Select Include Directories and add the HCL C API include file directory (for example, c:\notesapi\include) <br>
 IV.	Select Library directories and add the HCL C API library file directory (for example, c:\notesapi\lib\mswin64)<br>
 <br>
-These settings change the environment maintained by the Visual C++ 2017 and will be retained for all projects.<br>
+These settings change the environment maintained by the Visual C++ 2017/2022 and will be retained for all projects.<br>
 
 <p><b><font size="4" color="#000080">Project Settings</font></b><br>
 <br>
@@ -288,7 +292,7 @@ I.	Select &quot;Project - Properties...&quot; to open the project's Property Pag
 II.	 If you wish, select the &quot;General&quot; category  and set the &quot;Output Directory&quot; field to specify the relative directory for your program.<br>
 III.	Select the &quot;Debugging&quot; category.<br>
 IV.	Enter the path to the Domino or Notes installation directory in the &quot;Working Directory&quot; field.<br>
-V.	Select the &quot;C/C++&quot; sub-folder. Note that this sub-folder is not available if the project uses a makefile that was not created by the Visual C++ 2017. In this case, you must use the compiler switches described above on the compiler command line.<br>
+V.	Select the &quot;C/C++&quot; sub-folder. Note that this sub-folder is not available if the project uses a makefile that was not created by the Visual C++ 2017/2022. In this case, you must use the compiler switches described above on the compiler command line.<br>
 VI.	Compiler settings are entered by choosing a category. <br>
 VII.	Select  &quot;Active Debug&quot; configuration and platform x64<br>
 VIII.	We recommend setting the &quot;Warning level&quot; to &quot;Level 3&quot; under the &quot;General&quot; category. This corresponds to the switch /W3.<br>
@@ -307,7 +311,7 @@ Multi-Threaded DLL (/MD)                                                        
 The only link settings relevant to the HCL C API for Domino and Notes are the selection of object and library modules:<br>
 <br>
 I.	Select &quot;Project - Properties...&quot; to open the project's Property Pages dialog box.  Expand the &quot;Configuration Properties&quot; folder. <br>
-II.	Select the &quot;Linker&quot; sub-folder. Note that this tab is not available if the project uses a makefile that was not created by the Visual C++ 2017. In this case, you must use the linker switches described above on the linker command line.<br>
+II.	Select the &quot;Linker&quot; sub-folder. Note that this tab is not available if the project uses a makefile that was not created by the Visual C++ 2017/2022. In this case, you must use the linker switches described above on the linker command line.<br>
 III.	Linker settings are entered by choosing a category. Select the &quot;Input&quot; category.<br>
 IV.	In the &quot;Additional Dependencies&quot; field, add notes.lib.<br>
 V.	If your application is a NotesMain application, add notes0.obj.<br>
@@ -315,17 +319,17 @@ VI.	If your application is a HCL Domino Server add-in, add notesai0.obj and note
 VII.	If your application implements the Editfax APIs, add editfax.lib.<br>
 If you are linking with notes0.obj and are using a run-time library other than libc.lib, select the option &quot;Ignore All Default Libraries&quot; to ignore the default library information in notes0.obj. This corresponds to the
 <p>
-<p><b><font size="4" color="#000080">Debugging with the Visual C++ 2017</font></b><br>
+<p><b><font size="4" color="#000080">Debugging with the Visual C++ 2017/2022</font></b><br>
 <br>
 There are no special considerations for debugging applications or DLLs that make calls to the HCL C API for Domino and Notes. The only special considerations are for DLLs that are called from Domino or Notes, such as menu add-ins, hook drivers, or Extension Manager DLLs. The following instructions apply only to debugging DLLs that are called from Domino or Notes.<br>
 <br>
-Normally, Domino and Notes expect to find any DLLs that it must load in the directory where the Domino or Notes executables are installed. To specify that DLLs built using the Visual C++ 2017 are placed in this directory:<br>
+Normally, Domino and Notes expect to find any DLLs that it must load in the directory where the Domino or Notes executables are installed. To specify that DLLs built using the Visual C++ 2017/2022 are placed in this directory:<br>
 <br>
 I.	Select &quot;Project - Properties...&quot; to open the project's Property Pages dialog box.<br>
 II.	Expand the &quot;Configuration Properties&quot; folder and select the &quot;General&quot; category.<br>
 III.	Enter the path of the Domino or Notes installation directory in the &quot;Output Directories&quot; field.<br>
 <br>
-The Notes user interface is implemented as a loader program, notes.exe, and the workstation executable. To debug a DLL that is loaded by Notes, you must specify the workstation executable (not notes.exe) for Visual C++ 2017 :<br>
+The Notes user interface is implemented as a loader program, notes.exe, and the workstation executable. To debug a DLL that is loaded by Notes, you must specify the workstation executable (not notes.exe) for Visual C++ 2017/2022 :<br>
 <br>
 I.	Select &quot;Project - Properties...&quot; to open the project's Property Pages dialog box.<br>
 II.	Expand the &quot;Configuration Properties&quot; folder and select the &quot;Debugging&quot; category.<br>
