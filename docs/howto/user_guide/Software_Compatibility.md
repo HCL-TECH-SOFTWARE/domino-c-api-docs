@@ -21,7 +21,7 @@ You can develop programs for Linux 64bit using RHEL and the GNU Compiler Collect
 <br>
 <b><font size="4" color="#000080">AIX</font></b><br>
 <br>
-You can develop programs for AIX using XLC/XLC++ 13 compiler<br>
+You can develop programs for AIX using XLC/XLC++ 13 compiler for C-API toolkit earlier to V14. For V14, supported version is XLC/XLC++ 16.1 compiler.<br>
 <br>
 <b>Building New C API Applications with the libnotes_r.a Library</b><br>
 <br>
