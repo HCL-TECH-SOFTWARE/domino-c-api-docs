@@ -8,8 +8,8 @@ DWORD OSTranslate32(
 	WORD  Charset,
 	char *In,
 	DWORD  InLength,
-	DWORD  OutSize,
-	char *OriginalOut);
+	char *OriginalOut,
+	DWORD  OutSize);
 ```
 **Description :**
 
