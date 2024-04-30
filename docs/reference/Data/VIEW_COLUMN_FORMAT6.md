@@ -9,18 +9,19 @@
 ```
 typedef struct
 	{
-	WORD	Signature;					/* VIEW_COLUMN_FORMAT_SIGNATURE6 */
-	WORD	dwLength;					/* sizeof this structure + any extra data. */
+	WORD	Signature;                  /* VIEW_COLUMN_FORMAT_SIGNATURE6 */
+	WORD	dwLength;                   /* sizeof this structure + any extra data. */
 	/* formatting data. */
-	DWORD	dwFlags6;						
-	WORD	SequenceNumber;				/* Vertical Layout, Sequence Number for wrapping */
-	WORD	IfViewIsNarrowDo;			/* Vertical Layout, if View is narrow */
+	DWORD	dwFlags6;
+	WORD	SequenceNumber;             /* Vertical Layout, Sequence Number for wrapping */
+	WORD	IfViewIsNarrowDo;           /* Vertical Layout, if View is narrow */
 
-	WORD	wAttributesLength;			/* length of random attributes list */
-	WORD	wPubFieldLength;			/* length of fieldname to which this column is mapped for "publish on select" LI 3925.01 */
-	WORD	LineNumber;					/* Line Number for Tile Viewer */
-	WORD	TileViewer;					/* Action, if View is a Tile Viewer */
-	DWORD	dwReserved[16];				/* Reserved for future use. */
+	WORD	wAttributesLength;          /* length of random attributes list */
+	WORD	wPubFieldLength;            /* length of fieldname to which this column is mapped for "publish on select" LI 3925.01 */
+	WORD	LineNumber;                 /* Line Number for Tile Viewer */
+	WORD	TileViewer;                 /* Action, if View is a Tile Viewer */
+	DWORD	dwReserved[16];             /* Reserved for future use. */
+
 	/* followed by PubField, then Attributes if present */
 	} VIEW_COLUMN_FORMAT6;
 ```
