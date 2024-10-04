@@ -6,7 +6,7 @@
 <blocktype> far * OSLock(
 
 	<typedef>  blocktype,
-	DHANDLE  hObject);
+	DHANDLE  handle);
 ```
 **Description :**
 
@@ -41,7 +41,7 @@ blocktype  -  This argument should be a C language data type, either a native ty
 hObject  -  Handle for the object to be locked. 
 
 Output :
-(routine)  -  Pointer to a data item of the specified type.
+(routine)  -  Pointer to a data item of the specified type. 
 
 
 
