@@ -5,7 +5,7 @@
 #include <osmem.h>
 BOOL LNPUBLIC OSUnlock(
 
-	HANDLE  handle);
+	DHANDLE  handle);
 ```
 **Description :**
 
@@ -29,7 +29,7 @@ An application can lock the same object more than once -- a lock reference
 count is maintained.  It is not actually moveable until all locks are released 
 (reference count = 0).
 
-Calling this routine with a HANDLE that is invalid or out of range will result 
+Calling this routine with a DHANDLE that is invalid or out of range will result 
 in a Notes PANIC halt .
 
 Note - this routine is implemented as a macro that just calls OSUnlockObject 

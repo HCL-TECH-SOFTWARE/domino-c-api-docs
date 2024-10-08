@@ -6,7 +6,7 @@
 <blocktype> far * OSLock(
 
 	<typedef>  blocktype,
-	HANDLE  hObject);
+	DHANDLE  handle);
 ```
 **Description :**
 
@@ -26,7 +26,7 @@ must then be used for access.
 An application can lock the same object more than once -- a lock reference 
 count is maintained.
 
-Calling this routine with a HANDLE that is invalid or out of range will result 
+Calling this routine with a DHANDLE that is invalid or out of range will result 
 in a Notes PANIC halt .
 
 Note: this routine is implemented as a macro around OSLockObject:
@@ -41,7 +41,7 @@ blocktype  -  This argument should be a C language data type, either a native ty
 hObject  -  Handle for the object to be locked. 
 
 Output :
-(routine)  -  Pointer to a data item of the specified type.
+(routine)  -  Pointer to a data item of the specified type. 
 
 
 
