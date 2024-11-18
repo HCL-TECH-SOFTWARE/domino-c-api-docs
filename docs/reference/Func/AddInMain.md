@@ -36,7 +36,7 @@ The following paragraphs summarize the startup, execution, and shutdown of IBM
 Domino Server add-in tasks.
 
 When a IBM Domino Server add-in task is loaded, several functions that were 
-built into the executable, are invoked by the bootstrap code. These functions 
+built into the executable are invoked by the bootstrap code. These functions 
 take care of network and server task initialization.  When those steps are 
 completed, main() calls your AddInMain() and passes to it the module handle of 
 the add-in task and any command line arguments.
