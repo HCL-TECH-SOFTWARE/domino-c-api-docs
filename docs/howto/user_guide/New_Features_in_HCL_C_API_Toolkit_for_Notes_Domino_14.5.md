@@ -5,6 +5,6 @@ This section lists the new and changed features in the HCL C API Toolkit for Not
 <b><font size="5" color="#000080"> </font></b><br>
 <br>
 <br>
-<b><font size="5" color="#000080">There is no new  functions has been added for Domino 14.5 </font></b><br>
+<b><font size="5" color="#000080">There are no new functions has been added for Domino 14.5 </font></b><br>
 
 ---

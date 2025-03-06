@@ -26,7 +26,7 @@ The <i>HCL C API Notes/Domino 14.5 Reference</i> is a Domino database included a
 The <i>HCL Notes 14.5 Help</i> database provides context-sensitive Help and serves as your HCL Notes User's Guide.  <i>HCL Notes 14.5 Help </i>is integrated with the Notes workstation and is installed when you install Notes. <br>
 <br>
 <img src="../images/Documentation_Overview3.gif" width="32" height="32"><br>
-<i>HCL Notes/Domino 14.0. Release Notes</i><br>
+<i>HCL Notes/Domino 14.5. Release Notes</i><br>
 <br>
 Each release of  HCL Domino and HCL Notes<b> </b>comes with Release Notes that provide important information about the current release of HCL Domino and HCL Notes.<br>
 <br>
