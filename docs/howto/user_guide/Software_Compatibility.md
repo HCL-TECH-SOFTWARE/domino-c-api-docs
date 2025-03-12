@@ -69,5 +69,5 @@ A C API program running under a previous Notes Release can access databases on a
 <br>
 A C API program  running under Domino or Notes 14.5 can access databases on a older server running HCL Domino.<br>
 <br>
-NOTE: When you use older versions of Notes  to access a HCL Domino 14.0.0  database, you must perform that access through HCL Domino 14.5 or later release.   Do not copy a HCL Domino 14.5 database directly to a machine running a previous version of HCL Domino or Notes. The older Domino software will not be able to read this database.
+NOTE: When you use older versions of Notes  to access a HCL Domino 14.5  database, you must perform that access through HCL Domino 14.5 or later release.   Do not copy a HCL Domino 14.5 database directly to a machine running a previous version of HCL Domino or Notes. The older Domino software will not be able to read this database.
 ---
