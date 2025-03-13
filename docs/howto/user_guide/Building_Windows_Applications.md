@@ -35,13 +35,13 @@ Same requirements as Notes/Domino with addition of space for HCL C API Toolkit a
 The following software is required to develop HCL C API programs for the Notes client:<br>
 
 <ul type="disc">
-<li>HCL Domino or HCL Notes 14.0.0 for Windows. All Windows platforms supported by Notes 14.0.0 are also supported by this toolkit.
+<li>HCL Domino or HCL Notes 14.5 for Windows. All Windows platforms supported by Notes 14.5 are also supported by this toolkit.
 <li>Microsoft Visual Studio 2017/2022. </ul>
 <br>
 The following software is required to develop HCL C API programs for Domino:<br>
 
 <ul type="disc">
-<li>HCL Domino or HCL Notes 14.0.0 for Windows.  All Windows platforms supported by Domino 14.0.0 are also supported by this toolkit. 
+<li>HCL Domino or HCL Notes 14.5 for Windows.  All Windows platforms supported by Domino 14.5 are also supported by this toolkit. 
 <li>Microsoft Visual Studio 2017/2022. </ul>
 <br>
 <br>
@@ -185,7 +185,7 @@ The file \notesapi\lib\mswin32\editfax.lib(change mswin32 to mswin64 for 64 bit 
 <br>
 <b><font size="5" color="#000080">Compatibility</font></b><br>
 <br>
-HCL Domino and HCL Notes 14.0.0 support applications developed using the HCL C API Toolkit for Notes/Domino 14.0.0 as well as existing Domino and Notes Releases (providing that Release/Build environment is supported on the given Windows OS). <br>
+HCL Domino and HCL Notes 14.5 support applications developed using the HCL C API Toolkit for Notes/Domino 14.5 as well as existing Domino and Notes Releases (providing that Release/Build environment is supported on the given Windows OS). <br>
 <br>
 <b><font size="4" color="#000080">Data Addressing and Pointers</font></b><br>
 <br>
