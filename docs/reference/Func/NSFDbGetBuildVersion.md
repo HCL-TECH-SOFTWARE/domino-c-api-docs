@@ -63,8 +63,11 @@ build number 147.
 
 	Domino or Notes 7.0 Beta 2 is build number 254.
 
-   Domino or Notes 9.0 is build number 400.
-   Domino or Notes 9.0.1 is build number 405.
+	Domino or Notes 9.0 is build number 400.
+	
+	Domino or Notes 9.0.1 is build number 405.
+	
+	Domino or Notes 14.5 is build number 495.
 
 **Parameters :**
 Input :
