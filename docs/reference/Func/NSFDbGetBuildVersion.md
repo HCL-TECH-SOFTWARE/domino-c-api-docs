@@ -69,7 +69,11 @@ build number 147.
 
 	Domino or Notes 10.0 is build number 450.
 
+	Domino or Notes 11.0 is build number 451.
+
 	Domino or Notes 11.0.1 is build number 452.
+
+	Domino or Notes 12.0 is build number 461.
 
 	Domino or Notes 12.0.1 is build number 470.
 
