@@ -3,7 +3,7 @@
 
 This section lists the new and changed features in the HCL C API Toolkit for Notes/Domino 14.5<font color="#242424" face="Segoe UI">.</font> See the <i>What's New view</i> in the <i>HCL C API Reference </i>for details.<br>
 <br>
-<b>There are only two new defines has been added for Domino 14.5</b><br>
+<b>There are only two new defines that has been added for Domino 14.5</b><br>
 <br>
 <b><font size="5" color="#000080">NOTES_VERSION Flags</font></b><br>
 <br>

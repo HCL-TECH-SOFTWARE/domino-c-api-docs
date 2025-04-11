@@ -1,5 +1,5 @@
 ##### Symbolic Value : Views
-##### Notes_Version_xxx - This flags are used to get the current Domino/Notes build version.
+##### Notes_Version_xxx - These flags are used to get the current Domino/Notes build version.
 ---
 ```
 #include <version_ext.h>
