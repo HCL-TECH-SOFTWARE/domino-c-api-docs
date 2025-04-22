@@ -264,6 +264,47 @@ Illustrates usage of Activity Logging APIs.<br>
 AUTH_FLD <i>(Windows, AIX, Linux RedHat,  IBM i)</i> <br>
 Shows how to create document-level security fields<br>
 <br>
+ADMINReqChkAccessMoveReplica <i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Check Access for Move Replica Creation request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqChkAccessNCMoveReplica<i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Check Access for Non-cluster Move Replica Creation request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqChkAccessNewReplica<i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Check Access for New Replica Creation request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqDeleteInACL<i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Delete in Access Control List request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqDeleteInACLExt<i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Delete in Access Control List request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqDeleteInNAB<i>(Windows, Linux RedHat)</i> <br>
+Shows the usage of ADMINReqDeleteInNAB and ADMINReqDeleteInNABExt API.<br>
+<br>
+<br>
+ADMINReqMoveComplete<i>(Windows, Linux RedHat)</i> <br>
+Shows the usage of ADMINReqMoveComplete & ADMINReqMoveUserInHier API.<br>
+<br>
+<br>
+ADMINReqRecertify<i>(Windows, Linux RedHat)</i> <br>
+Shows how to create a Recertify Person in Address Book request in the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqRename<i>(Windows, Linux RedHat)</i> <br>
+Shows how to renames an existing user to new first name, last name and middle name. Also, it gives new org name as well. 
+and it creates a Rename Person in Address Book request the Administration Requests database (admin4.nsf).<br>
+<br>
+<br>
+ADMINReqRenameExt<i>(Windows, Linux RedHat)</i> <br>
+Shows how to renames an existing user to new user. Also, creates a Rename Person in 
+Address Book request in the Administration Requests database (admin4.nsf)<br>
+<br>
 BACKUP <i>(Windows)</i> <br>
 Shows how to backup and restore databases, as well as archive transactional system logs<br>
 <br>

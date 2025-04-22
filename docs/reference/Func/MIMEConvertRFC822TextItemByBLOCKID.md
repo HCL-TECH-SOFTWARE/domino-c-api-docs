@@ -1,5 +1,5 @@
 ##### Function : MIME
-##### MIMEConvertRFC822TextItemByBLOCKID - Convert a TYPE_RFC822_TEXT item into it's pre-V5 equivalent.
+##### MIMEConvertRFC822TextItemByBLOCKID - Convert a TYPE_RFC822_TEXT item into its pre-V5 equivalent.
 ---
 ```
 #include <mime.h>
