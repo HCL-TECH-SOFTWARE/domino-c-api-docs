@@ -4,6 +4,7 @@
 ---
 ```
 #include <progress.h>
+#include <addinmen.h>
 void LNPUBLIC NEMProgressSetBarRange(HWND progressWindow, DWORD range);
 ```
 **Description:**

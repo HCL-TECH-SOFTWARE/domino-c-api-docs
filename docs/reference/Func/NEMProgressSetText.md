@@ -4,6 +4,7 @@
 ---
 ```
 #include <progress.h>
+#include <addinmen.h>
 void LNPUBLIC NEMProgressSetText(HWND progressWindow, char *Text1, char *Text2);
 ```
 **Description:**

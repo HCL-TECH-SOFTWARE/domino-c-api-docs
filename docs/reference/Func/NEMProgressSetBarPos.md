@@ -4,6 +4,7 @@
 ---
 ```
 #include <progress.h>
+#include <addinmen.h>
 STATUS LNPUBLIC NEMProgressSetBarPos(HWND progressWindow, DWORD position);
 ```
 **Description:**

@@ -4,6 +4,7 @@
 ---
 ```
 #include <progress.h>
+#include <addinmen.h>
 STATUS LNPUBLIC NEMProgressDeltaPos(HWND progressWindow, DWORD delta);
 ```
 **Description:**

@@ -4,6 +4,7 @@
 ---
 ```
 #include <progress.h>
+#include <addinmen.h>
 HWND LNPUBLIC NEMProgressBegin(WORD Flags);
 ```
 **Description:**
