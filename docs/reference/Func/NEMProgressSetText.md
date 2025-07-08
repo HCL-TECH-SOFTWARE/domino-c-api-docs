@@ -7,10 +7,11 @@
 #include <addinmen.h>
 void LNPUBLIC NEMProgressSetText(HWND progressWindow, char *Text1, char *Text2);
 ```
-**Description:**
-set the text for a progress dialog
+**Description :**
 
-**Parameters:**
+Set the text for a progress dialog
+
+**Parameters :**
 
 - **progressWindow**
 The handle returned from NEMProgressBegin

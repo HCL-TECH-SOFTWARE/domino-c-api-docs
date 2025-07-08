@@ -7,7 +7,8 @@
 #include <addinmen.h>
 void LNPUBLIC NEMProgressEnd(HWND progressWindow);
 ```
-**Description:**
+**Description :**
+
 Close the progress dialog
 
 **Parameters:**

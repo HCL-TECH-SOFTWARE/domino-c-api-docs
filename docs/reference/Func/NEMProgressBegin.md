@@ -7,21 +7,23 @@
 #include <addinmen.h>
 HWND LNPUBLIC NEMProgressBegin(WORD Flags);
 ```
-**Description:**
+**Description :**
+
 Begin showing a progress dialog.
 
-**Parameters:**
+**Parameters :**
 
 - **Flags**  
     - `0`: Indicates a single line of text  
     - `1`: Indicates two lines of text  
 
-**Returns:**
+**Returns :**
 
+The window handle (`HWND`) for the progress dialog.
 - `0`: An error occurred  
 - Any other value: The window handle to use for future calls  
 
-**Sample Usage:**
+**Sample Usage :**
 ```
 HWND progressWindow = NEMProgressBegin(0);
 if (0 == progressWindow) {

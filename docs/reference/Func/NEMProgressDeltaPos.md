@@ -7,10 +7,11 @@
 #include <addinmen.h>
 STATUS LNPUBLIC NEMProgressDeltaPos(HWND progressWindow, DWORD delta);
 ```
-**Description:**
+**Description :**
+
 Increment the progress
 
-**Parameters:**
+**Parameters :**
 
 - **progressWindow**
 The handle returned from NEMProgressBegin
@@ -18,6 +19,7 @@ The handle returned from NEMProgressBegin
 - **delta**
 The amount to add to the current progress.
 
-**Returns:**
+**Returns :**
+
 - ERR_CANCEL - The user requested to cancel
 - NOERROR - continue
