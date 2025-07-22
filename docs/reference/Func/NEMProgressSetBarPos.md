@@ -20,6 +20,5 @@ The handle returned from NEMProgressBegin
 The current position of the progress. Must be less than the value set for NEMProgressSetBarRange
 
 **Returns :**
-
 - ERR_CANCEL - The user requested to cancel
 - NOERROR - continue

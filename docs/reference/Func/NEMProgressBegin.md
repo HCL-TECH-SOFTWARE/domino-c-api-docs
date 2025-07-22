@@ -18,7 +18,6 @@ Begin showing a progress dialog.
     - `1`: Indicates two lines of text  
 
 **Returns :**
-
 The window handle (`HWND`) for the progress dialog.
 - `0`: An error occurred  
 - Any other value: The window handle to use for future calls  

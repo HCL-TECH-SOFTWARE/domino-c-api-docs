@@ -20,6 +20,5 @@ The handle returned from NEMProgressBegin
 The amount to add to the current progress.
 
 **Returns :**
-
 - ERR_CANCEL - The user requested to cancel
 - NOERROR - continue
