@@ -7,7 +7,7 @@
 
 **Definition :**
 ```
-#if defined(OSF) || (defined(NT) && defined(_ALPHA_))
+#if defined(OSF) || (defined(NT) && defined(_AMD64_)) || defined(LINUX) || defined(SOLARIS) || defined(MAC) || defined(AIX64)
 #include <stdarg.h>
 #define VARARG_PTR   va_list
 #elif defined(OS400)
