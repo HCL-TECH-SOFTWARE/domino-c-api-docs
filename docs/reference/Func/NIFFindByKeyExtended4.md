@@ -4,7 +4,7 @@
 ```
 #include <nif.h>
 STATUS NIFFindByKeyExtended4(
-
+	HCOLLECTION hCollection,
 	void *KeyBuffer,
 	DWORD  FindFlags,
 	DWORD  ReturnFlags,
@@ -31,6 +31,8 @@ the collated index).
 
 **Parameters :**
 Input :
+hCollection  - The handle of the collection you want to search.
+
 KeyBuffer  -  Address of "key" summary buffer.
 
 FindFlags  -  Find flags word (FIND_xxx).
@@ -44,6 +46,8 @@ pass NULL for other cases. (see nifnetods.h, FIND_BY_KEY_READENT_ARGS struct).
 
 NIFFindByKeyCallback  -  a callback function invoked for every full summary buffer 
 and at end.
+
+STATUS (LNCALLBACKPTR NIFFINDBYKEYPROC) (NIFFINDBYKEYCTX *Ctx);
 
 Ctx  -  handle to context structure (see nif.h) for said callback.
 
@@ -96,4 +100,5 @@ ReturnFlags, NULL,
 match (return) */
 ```
 **See Also :**
+[NIFFINDBYKEYCTX](/domino-c-api-docs/reference/Data/NIFFINDBYKEYCTX)
 ---
