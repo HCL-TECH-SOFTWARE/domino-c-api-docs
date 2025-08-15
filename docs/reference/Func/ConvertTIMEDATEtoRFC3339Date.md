@@ -6,8 +6,8 @@
 STATUS ConvertTIMEDATEtoRFC3339Date(
 
 	const TIMEDATE far *ptdTimeDate,
-	WORD  wTextBufSize,
-	char *pachText);
+	char *pachText,
+	WORD  wTextBufSize);
 ```
 **Description :**
 
@@ -15,14 +15,14 @@ This routine converts Notes TIMEDATE structureto RFC3339 Date formatted text
 string, such as the following:
 "YYYY-MM-DDTHH:MM:SS.hhZ (i.e., 1985-04-12T23:20:50.52Z) 
 The routine does argument checking. The input Notes time/date string is 
-MAXSPRINF long and NULL terminated to protect against a non-null terminated 
+MAXSPRINTF long and NULL terminated to protect against a non-null terminated 
 input string and buffer overflow.
 
 **Parameters :**
 Input :
-ptdTimeDate  -  A pointer to a Notes time/date string .
+ptdTimeDate  -  A pointer to a Notes time/date value .
 
-wTextBufSize  -  String Buffer Size. Big enough to inlude the trailing null char.
+wTextBufSize  -  String Buffer Size. Big enough to include the trailing null char.
 
 Output :
 (routine)  -  On invalid syntax, ERR_TDI_CONV error is returned, on successful conversion returns NOERROR. 
