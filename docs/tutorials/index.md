@@ -19,6 +19,8 @@ hide:
  [What's_new_in_this_release_14.0.0](../reference/What's_new_in_this_release_14.0.0.md)
  
  [What's_new_in_this_release_14.5](../reference/What's_new_in_this_release_14.5.md)
+ 
+ [What's_new_in_this_release_14.5.1](../reference/What's_new_in_this_release_14.5.1.md)
 
 
 ## Refer to the[ HowTo ](../howto/)documents

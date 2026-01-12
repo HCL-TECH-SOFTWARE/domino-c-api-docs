@@ -28,6 +28,10 @@ agent execution to read the output buffer.   Since this redirection is
 associated with the runtime context, the desired action can be changed prior to 
 each call to AgentRun().
 
+Please use SetSupressPrintToConsole() API along with this to prevent logging information to 
+the log where the admin/developer does not expect it to be. 
+The log could contain sensitive information and overflow the logs.
+
 
 **Parameters :**
 Input :
@@ -49,4 +53,5 @@ ERR_xxx - STATUS returned from a lower-level function call.
 [AgentRun](/domino-c-api-docs/reference/Func/AgentRun)
 [AGENT_REDIR_xxx](/domino-c-api-docs/reference/Symb/AGENT_REDIR_xxx)
 [HAGENTCTX](/domino-c-api-docs/reference/Data/HAGENTCTX)
+[SetSupressPrintToConsole](/domino-c-api-docs/reference/Func/SetSupressPrintToConsole)
 ---
