@@ -23,19 +23,21 @@
 
 7 [Changes to HCL C API Toolkit for Notes/Domino 14.5](./user_guide/Changes_to_HCL_C_API_Toolkit_for_Notes_Domino_14.5.md)
 
-8 [Software Compatibility](./user_guide/Software_Compatibility.md)
+8 [New Features in HCL C API Toolkit for Notes/Domino 14.5.1](./user_guide/New_Features_in_HCL_C_API_Toolkit_for_Notes_Domino_14.5.1.md)
 
-9 [Migration Issues](./user_guide/Migration_Issues.md)
+9 [Changes to HCL C API Toolkit for Notes/Domino 14.5.1](./user_guide/Changes_to_HCL_C_API_Toolkit_for_Notes_Domino_14.5.1.md)
+
+10 [Software Compatibility](./user_guide/Software_Compatibility.md)
+
+11 [Migration Issues](./user_guide/Migration_Issues.md)
 
 
-### 2  The HCL C API Toolkit for Notes/Domino 14.5 
-1 [Contents of the HCL C API Toolkit for Notes/Domino 12.0.2](./user_guide/Contents_of_the_HCL_C_API_Toolkit_for_Notes_Domino_12.0.2.md)
+### 2  The HCL C API Toolkit for Notes/Domino 
+1 [Contents of the HCL C API Toolkit for Notes/Domino 14.5.1](./user_guide/Contents_of_the_HCL_C_API_Toolkit_for_Notes_Domino_14.5.1.md)
 
-2 [Contents of the HCL C API Toolkit for Notes/Domino 14.5](./user_guide/Contents_of_the_HCL_C_API_Toolkit_for_Notes_Domino_14.5.md)
+2 [Reference](./user_guide/Reference.md)
 
-3 [Reference](./user_guide/Reference.md)
-
-4 [Sample Programs](./user_guide/Sample_Programs.md)
+3 [Sample Programs](./user_guide/Sample_Programs.md)
 
 
 ### 3  Platform Specifics 
@@ -230,16 +232,6 @@
 2 [Platform-Specific Naming Conventions](./user_guide/Platform-Specific_Naming_Conventions.md)
 
 3 [Domino ASP Environment](./user_guide/Domino_ASP_Environment.md)
-
-
-### 16  The HCL C API Toolkit for Notes/Domino 14.5 
-1 [Contents of the HCL C API Toolkit for Notes/Domino 14.0.0](./user_guide/Contents_of_the_HCL_C_API_Toolkit_for_Notes_Domino_14.0.0.md)
-
-2 [Contents of the HCL C API Toolkit for Notes/Domino 14.5](./user_guide/Contents_of_the_HCL_C_API_Toolkit_for_Notes_Domino_14.5.md)
-
-2 [Reference](./user_guide/Reference.md)
-
-3 [Sample Programs](./user_guide/Sample_Programs.md)
 
 
 
